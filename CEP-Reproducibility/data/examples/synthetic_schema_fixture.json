@@ -1,0 +1,38 @@
+{
+  "schema_version": "cep_schema_v1",
+  "run_status": "accepted",
+  "run_metadata": {
+    "run_id": "synthetic-schema-fixture",
+    "model_id": "not-a-model-output",
+    "prompt_version": "prompt_cep_v1_1",
+    "config_version": "schema-demonstration",
+    "adapter_version": "adapters_v0.2"
+  },
+  "te": {
+    "te_id": "demo:airbnb:01",
+    "platform": "Airbnb",
+    "dataset_destination": "Example City (fictional)",
+    "url": null,
+    "itinerary_status": "no_verified_structured_itinerary",
+    "input_status": "complete",
+    "input_fields_used": [
+      "title",
+      "description"
+    ]
+  },
+  "components": [],
+  "assertions": [],
+  "te_level_cep": {
+    "facet_summaries": [],
+    "cultural_abstention": true,
+    "abstention_reason": "no_eligible_component_identified"
+  },
+  "unmapped_cultural_content": [],
+  "validation": {
+    "schema_valid": true,
+    "raw_output_schema_valid": true,
+    "evidence_valid": true,
+    "evidence_location_ambiguity_count": 0,
+    "validation_errors": []
+  }
+}

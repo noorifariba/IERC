@@ -1,0 +1,75 @@
+config_version: cp7_local_gemma3_v1
+
+provider_type: llama_cpp_local
+
+model:
+  family: Gemma 3 12B IT
+  repository: google/gemma-3-12b-it-qat-q4_0-gguf
+  revision: 7929e34ac7c459bbfd1f38d7358e6839f204578b
+  artifact: gemma-3-12b-it-q4_0.gguf
+  local_path: ${CEP_MODEL_PATH}
+  quantization: official_QAT_Q4_0
+  alias: cep-gemma3-12b-it-q4_0
+  text_only: true
+  vision_projector: null
+
+runtime:
+  framework: llama.cpp
+  release: b10516
+  server_path: ${LLAMA_SERVER_PATH}
+  cli_path: ${LLAMA_CLI_PATH}
+  tokenizer_path: ${LLAMA_TOKENIZER_PATH}
+  build:
+    GGML_CUDA: true
+    CMAKE_CUDA_ARCHITECTURES: 86
+    CMAKE_BUILD_TYPE: Release
+
+server:
+  host: 127.0.0.1
+  port: 18080
+  endpoint: http://127.0.0.1:18080/v1/chat/completions
+  cuda_visible_devices: "0"
+  split_mode: none
+  main_gpu: 0
+  fit: false
+  parallel: 1
+  context_size: 32768
+  gpu_layer_flag: "--gpu-layers"
+  gpu_layers: "all"
+  flash_attention: true
+  cache_type_k: f16
+  cache_type_v: f16
+  context_shift: false
+  mmproj: false
+  jinja: true
+  offline: true
+
+generation:
+  temperature: 0.0
+  top_k: 1
+  top_p: 1.0
+  seed: 20260825
+  max_output_tokens: 6000
+  stream: false
+  tools: false
+  external_retrieval: false
+
+structured_output:
+  mode: schema_control_text
+  authoritative_schema_path: schemas/cep_schema_v1.json
+  authoritative_schema_sha256: 331b8ca42979c3b09b7ae2b9e15cbadc86158378798a2641b28784d0f71e12a4
+  authoritative_validation_after_generation: true
+  schema_constrained_decoding: false
+  schema_injected_as_control_text: true
+  markdown_fence_normalization: true
+
+
+
+generation_contract:
+  allowed_cultural_content_fields:
+    - title
+    - description
+  hidden_provenance_allowed: false
+  r1_allowed: false
+  r2_allowed: false
+  reference_labels_allowed: false

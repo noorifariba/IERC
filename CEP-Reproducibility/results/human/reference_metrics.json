@@ -1,0 +1,22 @@
+{
+  "human_n": 105,
+  "primary_weighted_metrics": {
+    "abstention_accuracy": 0.8398133748055988,
+    "te_facet_precision": 0.8505852644579343,
+    "te_facet_recall": 0.5046392536632358,
+    "te_facet_f1": 0.6334577146347347,
+    "component_precision": 0.403938052769314,
+    "component_recall": 0.759087926463479,
+    "component_f1": 0.527287445631478,
+    "component_s1_precision": 0.34138477890698665,
+    "component_s1_recall": 0.303042054052135,
+    "component_s1_f1": 0.3210727403980389,
+    "assertion_state_accuracy": 0.8698235910714818,
+    "assertion_state_macro_f1_observed": 0.40724423090080325,
+    "assertion_state_macro_f1_all5": 0.3257953847206426,
+    "salience_qwk": 0.10476382479978052,
+    "salience_mae": 0.7357321345809174,
+    "coverage_mae": 0.4388021492858845,
+    "grounding_supported_rate": 0.8187469004422034
+  }
+}

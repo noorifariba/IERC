@@ -1,0 +1,89 @@
+{
+  "analysis_version": "cp12_scaleup_analysis_v1",
+  "source_run_id": "CP11_SCALEUP_1441_V1_20260907",
+  "generated_utc": "2026-09-08T10:08:43+00:00",
+  "denominator_rules": {
+    "technical_outcomes": "all 1,441 frozen CP10 scale-up TEs",
+    "failure_stage_and_error_types": "798 technically failed TEs; error types are non-exclusive",
+    "semantic_profile_analysis": "355 technically accepted, non-abstaining CEPs only; technical failures and accepted cultural abstentions are excluded",
+    "facet_prevalence": "TE-level multi-label prevalence among technically accepted, non-abstaining CEPs; facet percentages do not sum to 100%",
+    "salience_and_component_coverage": "supported TE-facet pairs among accepted non-abstaining CEPs; descriptive generated-output distributions, not gold-standard accuracy"
+  },
+  "overall": {
+    "total_te": 1441,
+    "accepted_total": 643,
+    "accepted_total_percent": 44.621790423317144,
+    "technical_failure": 798,
+    "technical_failure_percent": 55.378209576682856,
+    "accepted_cultural_abstention": 288,
+    "accepted_cultural_abstention_percent": 19.98612074947953,
+    "accepted_nonabstaining": 355,
+    "accepted_nonabstaining_percent": 24.63566967383761,
+    "provider_calls": 1676,
+    "repair_attempts": 235,
+    "runtime_seconds": 29220.97234559059,
+    "throughput_te_per_hour": 177.5300266756114
+  },
+  "technical_failures": {
+    "failure_stage_counts": {
+      "postprocess": 717,
+      "raw_output_conformity": 81
+    },
+    "failure_type_unique_te_counts_nonexclusive": {
+      "missing_salience_for_supported_facet": 445,
+      "duplicate_salience_proposal": 1,
+      "evidence_zero_match": 351,
+      "raw_schema": 81,
+      "evidence_ambiguous_duplicate": 56,
+      "salience_without_supported_fixed_s1": 17
+    },
+    "failure_type_occurrence_counts_nonexclusive": {
+      "missing_salience_for_supported_facet": 518,
+      "duplicate_salience_proposal": 1,
+      "evidence_zero_match": 560,
+      "raw_schema": 312,
+      "evidence_ambiguous_duplicate": 76,
+      "salience_without_supported_fixed_s1": 17
+    },
+    "exact_evidence_failure_unique_te_count": 394
+  },
+  "semantic_profiles": {
+    "accepted_nonabstaining_te_count": 355,
+    "supported_te_facet_pair_count": 581,
+    "facet_te_counts": {
+      "Craft / making practices": 8,
+      "Foodways / culinary culture": 131,
+      "Arts / creative expression": 126,
+      "Historical / cultural-past content": 85,
+      "Cultural landscape / human-place relations": 18,
+      "Architecture / built environment": 186,
+      "Social / community practices": 15,
+      "Contemporary / living culture": 2,
+      "Religious / spiritual cultural content": 10
+    },
+    "salience_overall_counts": {
+      "2": 406,
+      "3": 58,
+      "1": 117
+    },
+    "component_coverage_overall": {
+      "n_pairs": 581,
+      "mean": 0.5751503850901442,
+      "median": 0.5,
+      "q1": 0.3333333333333333,
+      "q3": 1.0,
+      "min": 0.09090909090909091,
+      "max": 1.0
+    },
+    "cep_eligible_components_total": 1213,
+    "mean_cep_eligible_components_per_nonabstaining_te": 3.416901408450704,
+    "median_cep_eligible_components_per_nonabstaining_te": 3
+  },
+  "interpretation_guardrails": [
+    "CP12 is descriptive scale-up analysis, not a replacement for CP9 human-reference accuracy evaluation.",
+    "Do not calculate precision, recall, F1, QWK, or coverage error against truth on the 1,441 TEs because no full human gold reference exists for them.",
+    "Do not treat technical failures as negative cultural predictions.",
+    "Do not include accepted cultural abstentions in facet, salience, or component-coverage prevalence denominators.",
+    "Destination/platform differences are descriptive unless a separate inferential analysis is explicitly specified."
+  ]
+}

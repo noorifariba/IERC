@@ -1,0 +1,6 @@
+{
+  "prompt_version": "prompt_cep_v1_1",
+  "schema_version": "cep_schema_v1",
+  "hash_algorithm": "sha256",
+  "prompt_sha256": "fc09575ba4224a7ef18839aed89dcf20f9acab97f26eccebc137dce5e625c4c7"
+}

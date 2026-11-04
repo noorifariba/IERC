@@ -1,0 +1,39 @@
+experiment_id: CEP_V1_REGRESSION_TD_24_R1_V02
+config_version: experiment_regression_td24_r1_v02_prompt_v1_1
+random_seed: 20260825
+input_fields:
+- title
+- description
+forbidden_generation_fields:
+- platform
+- dataset_destination
+- category
+- itinerary
+- placeList
+- reviews
+- images
+- rating
+- review_count
+- price
+- popularity
+- host
+- url
+- metadata
+primary_reference: R1
+secondary_reference: R2
+max_schema_repair_attempts: 2
+one_primary_call_per_te: true
+model:
+  provider: openai
+  model_id_env: CEP_MODEL_ID
+  temperature: 0
+  top_p: 1
+  seed: null
+  max_output_tokens: 6000
+  structured_output: json_schema
+artifacts:
+  schema_version: cep_schema_v1
+  prompt_version: prompt_cep_v1_1
+  adapter_version: adapters_v0.2
+  r1_builder_version: r1_builder_v0.2
+interpretation: regression_conformity_not_final_performance

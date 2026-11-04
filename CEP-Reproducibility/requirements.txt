@@ -1,0 +1,5 @@
+# Dependencies for CEP generation / schema validation and optional tests.
+# The frozen-results evaluation commands themselves use only Python standard libraries.
+PyYAML==6.0.3
+jsonschema==4.26.0
+pytest==8.4.2

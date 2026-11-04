@@ -1,0 +1,48 @@
+version: v0.2
+candidate_facets:
+  - Foodways / culinary culture
+  - Architecture / built environment
+  - Arts / creative expression
+  - Craft / making practices
+  - Religious / spiritual cultural content
+  - Social / community practices
+  - Contemporary / living culture
+  - Historical / cultural-past content
+  - Cultural landscape / human-place relations
+assertion_states: [S1, S2, S4, S5, S6]
+component_types:
+  - activity_practice
+  - place_poi_stop
+  - activity_at_place
+  - c0_te_whole
+component_roles:
+  - fixed
+  - optional
+  - alternative
+  - contextual
+  - meeting_point
+  - cross_promotion
+salience:
+  0: Absent-evaluation-only
+  1: Minor
+  2: Moderate
+  3: Major
+membership_effect:
+  S1: supported_membership
+  S2: none
+  S4: none
+  S5: none
+  S6: none
+external_grounding_required:
+  S1: false
+  S2: false
+  S4: true
+  S5: false
+  S6: false
+cep_eligibility:
+  fixed: true
+  optional: false
+  alternative: false
+  contextual: false
+  meeting_point: false
+  cross_promotion: false

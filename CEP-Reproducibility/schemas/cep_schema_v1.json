@@ -1,0 +1,344 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cep-project.local/schemas/cep_schema_v1.json",
+  "title": "CEP Prototype v1 model output",
+  "description": "Model-produced Cultural Experience Profile information for Prototype v1. Deterministic TE-level aggregation, coverage, abstention, character offsets, provenance IDs, and source provenance are intentionally excluded. Model-local identifiers are response-scoped temporary references only; they are not final CEP, provenance, dataset, or evaluation IDs. Final stable identifiers are assigned or mapped deterministically after generation.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "components",
+    "evidence",
+    "assertions",
+    "salience_proposals",
+    "unmapped_content"
+  ],
+  "properties": {
+    "components": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/component"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidence"
+      }
+    },
+    "assertions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/assertion"
+      }
+    },
+    "salience_proposals": {
+      "type": "array",
+      "description": "Model proposals only. A proposal is permitted only for a facet that has S1 support; that cross-record rule is enforced deterministically after generation.",
+      "items": {
+        "$ref": "#/$defs/salience_proposal"
+      }
+    },
+    "unmapped_content": {
+      "type": "array",
+      "description": "Potential cultural content that is evidence-grounded but does not fit the frozen nine-facet candidate framework. This does not create a new facet.",
+      "items": {
+        "$ref": "#/$defs/unmapped_item"
+      }
+    }
+  },
+  "$defs": {
+    "facet": {
+      "type": "string",
+      "enum": [
+        "Foodways / culinary culture",
+        "Architecture / built environment",
+        "Arts / creative expression",
+        "Craft / making practices",
+        "Religious / spiritual cultural content",
+        "Social / community practices",
+        "Contemporary / living culture",
+        "Historical / cultural-past content",
+        "Cultural landscape / human-place relations"
+      ]
+    },
+    "component": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "component_local_id",
+        "normalized_label",
+        "component_type",
+        "component_role",
+        "evidence_refs"
+      ],
+      "properties": {
+        "component_local_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Identifier local to this model response only. Final provenance/stable IDs are assigned deterministically later."
+        },
+        "normalized_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "component_type": {
+          "type": "string",
+          "enum": [
+            "activity_practice",
+            "place_poi_stop",
+            "activity_at_place",
+            "c0_te_whole"
+          ]
+        },
+        "component_role": {
+          "type": "string",
+          "enum": [
+            "fixed",
+            "optional",
+            "alternative",
+            "contextual",
+            "meeting_point",
+            "cross_promotion"
+          ]
+        },
+        "evidence_refs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "References to model-local evidence_id values in the top-level evidence array."
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "evidence_id",
+        "source_field",
+        "exact_text"
+      ],
+      "properties": {
+        "evidence_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Identifier local to this model response only."
+        },
+        "source_field": {
+          "type": "string",
+          "enum": [
+            "title",
+            "description"
+          ]
+        },
+        "exact_text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Exact quotation copied from the specified canonical input field. The model must not calculate character offsets."
+        }
+      }
+    },
+    "assertion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "assertion_local_id",
+        "component_local_id",
+        "facet",
+        "observable_cue",
+        "evidence_refs",
+        "relation_qualifier",
+        "assertion_state",
+        "external_grounding_required",
+        "ambiguity_note"
+      ],
+      "properties": {
+        "assertion_local_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "component_local_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        
+        "facet": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/facet"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Required field. S5 may use null when no specific candidate facet is asserted. S1, S2, S4, and S6 require one valid frozen facet."
+        },
+        "observable_cue": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_refs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "relation_qualifier": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "assertion_state": {
+          "type": "string",
+          "enum": [
+            "S1",
+            "S2",
+            "S4",
+            "S5",
+            "S6"
+          ]
+        },
+        "external_grounding_required": {
+          "type": "boolean"
+        },
+        "ambiguity_note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "const": "S4"
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "external_grounding_required": {
+                "const": true
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "external_grounding_required": {
+                "const": false
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "enum": [
+                  "S1",
+                  "S2",
+                  "S4",
+                  "S6"
+                ]
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "facet": {
+                "$ref": "#/$defs/facet"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "salience_proposal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "facet",
+        "salience"
+      ],
+      "properties": {
+        "facet": {
+          "$ref": "#/$defs/facet"
+        },
+        "salience": {
+          "type": "integer",
+          "enum": [
+            1,
+            2,
+            3
+          ],
+          "description": "1=Minor, 2=Moderate, 3=Major. Zero/Absent is evaluation-only and is not model-produced."
+        }
+      }
+    },
+    "unmapped_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "unmapped_local_id",
+        "component_local_id",
+        "status",
+        "normalized_label",
+        "observable_cue",
+        "evidence_refs",
+        "note"
+      ],
+      "properties": {
+        "unmapped_local_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "component_local_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "unmapped_cultural_content",
+            "candidate_missing_construct"
+          ],
+          "description": "unmapped_cultural_content = evidence-grounded cultural content that does not fit the current nine facets. candidate_missing_construct = an evidence-grounded case suggesting a potentially missing conceptual construct worth later taxonomy review. Frequency alone must not create a new facet."
+        },
+        "normalized_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "observable_cue": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_refs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Why the evidence-grounded content does not fit the frozen candidate facets."
+        }
+      }
+    }
+  }
+}

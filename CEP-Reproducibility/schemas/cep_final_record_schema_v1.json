@@ -1,0 +1,692 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cep-project.local/schemas/cep_final_record_schema_v1.json",
+  "title": "CEP Prototype v1 final post-processed record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "run_status",
+    "run_metadata",
+    "te",
+    "components",
+    "assertions",
+    "te_level_cep",
+    "unmapped_cultural_content",
+    "validation"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "cep_schema_v1"
+    },
+    "run_status": {
+      "enum": [
+        "accepted",
+        "failed"
+      ]
+    },
+    "run_metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "run_id",
+        "model_id",
+        "prompt_version",
+        "config_version",
+        "adapter_version"
+      ],
+      "properties": {
+        "run_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "model_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "config_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "adapter_version": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "te": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "te_id",
+        "platform",
+        "dataset_destination",
+        "url",
+        "itinerary_status",
+        "input_status",
+        "input_fields_used"
+      ],
+      "properties": {
+        "te_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "platform": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dataset_destination": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "itinerary_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "input_status": {
+          "type": "string",
+          "minLength": 1
+        },
+        "input_fields_used": {
+          "const": [
+            "title",
+            "description"
+          ]
+        }
+      }
+    },
+    "components": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/component"
+      }
+    },
+    "assertions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/assertion"
+      }
+    },
+    "te_level_cep": {
+      "$ref": "#/$defs/te_level_cep"
+    },
+    "unmapped_cultural_content": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/unmapped_item"
+      }
+    },
+    "validation": {
+      "$ref": "#/$defs/validation"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "run_status": {
+            "const": "accepted"
+          }
+        },
+        "required": [
+          "run_status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "validation": {
+            "properties": {
+              "raw_output_schema_valid": {
+                "const": true
+              },
+              "evidence_valid": {
+                "const": true
+              }
+            }
+          },
+          "te_level_cep": {
+            "properties": {
+              "cultural_abstention": {
+                "type": "boolean"
+              }
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "te_level_cep": {
+            "properties": {
+              "facet_summaries": {
+                "maxItems": 0
+              },
+              "cultural_abstention": {
+                "type": "null"
+              },
+              "abstention_reason": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "facet": {
+      "type": "string",
+      "enum": [
+        "Foodways / culinary culture",
+        "Architecture / built environment",
+        "Arts / creative expression",
+        "Craft / making practices",
+        "Religious / spiritual cultural content",
+        "Social / community practices",
+        "Contemporary / living culture",
+        "Historical / cultural-past content",
+        "Cultural landscape / human-place relations"
+      ]
+    },
+    "evidence_span": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "evidence_id",
+        "source_field",
+        "exact_text",
+        "char_start",
+        "char_end",
+        "location_status"
+      ],
+      "properties": {
+        "evidence_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_field": {
+          "enum": [
+            "title",
+            "description"
+          ]
+        },
+        "exact_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "char_start": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "char_end": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "location_status": {
+          "enum": [
+            "resolved",
+            "invalid_zero_match",
+            "ambiguous_duplicate"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "location_status": {
+                "const": "resolved"
+              }
+            },
+            "required": [
+              "location_status"
+            ]
+          },
+          "then": {
+            "properties": {
+              "char_start": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "char_end": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "char_start": {
+                "type": "null"
+              },
+              "char_end": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "component": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "component_id",
+        "normalized_label",
+        "component_type",
+        "component_role",
+        "cep_eligible",
+        "evidence_spans"
+      ],
+      "properties": {
+        "component_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "normalized_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "component_type": {
+          "enum": [
+            "activity_practice",
+            "place_poi_stop",
+            "activity_at_place",
+            "c0_te_whole"
+          ]
+        },
+        "component_role": {
+          "enum": [
+            "fixed",
+            "optional",
+            "alternative",
+            "contextual",
+            "meeting_point",
+            "cross_promotion"
+          ]
+        },
+        "cep_eligible": {
+          "type": "boolean"
+        },
+        "evidence_spans": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/evidence_span"
+          }
+        }
+      }
+    },
+    "assertion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "assertion_id",
+        "component_id",
+        "facet",
+        "observable_cue",
+        "evidence_refs",
+        "relation_qualifier",
+        "assertion_state",
+        "external_grounding_required",
+        "membership_effect",
+        "ambiguity_note"
+      ],
+      "properties": {
+        "assertion_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "component_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "facet": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/facet"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "observable_cue": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_refs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "relation_qualifier": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "assertion_state": {
+          "enum": [
+            "S1",
+            "S2",
+            "S4",
+            "S5",
+            "S6"
+          ]
+        },
+        "external_grounding_required": {
+          "type": "boolean"
+        },
+        "membership_effect": {
+          "enum": [
+            "supported_membership",
+            "none"
+          ]
+        },
+        "ambiguity_note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "const": "S1"
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "membership_effect": {
+                "const": "supported_membership"
+              },
+              "external_grounding_required": {
+                "const": false
+              },
+              "facet": {
+                "$ref": "#/$defs/facet"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "const": "S4"
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "membership_effect": {
+                "const": "none"
+              },
+              "external_grounding_required": {
+                "const": true
+              },
+              "facet": {
+                "$ref": "#/$defs/facet"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "enum": [
+                  "S2",
+                  "S6"
+                ]
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "membership_effect": {
+                "const": "none"
+              },
+              "external_grounding_required": {
+                "const": false
+              },
+              "facet": {
+                "$ref": "#/$defs/facet"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "assertion_state": {
+                "const": "S5"
+              }
+            },
+            "required": [
+              "assertion_state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "membership_effect": {
+                "const": "none"
+              },
+              "external_grounding_required": {
+                "const": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    "facet_summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "facet",
+        "supported_membership",
+        "salience_ordinal",
+        "supporting_s1_component_ids",
+        "coverage_numerator",
+        "coverage_denominator",
+        "component_coverage",
+        "assertion_refs"
+      ],
+      "properties": {
+        "facet": {
+          "$ref": "#/$defs/facet"
+        },
+        "supported_membership": {
+          "const": true
+        },
+        "salience_ordinal": {
+          "type": "integer",
+          "enum": [
+            1,
+            2,
+            3
+          ]
+        },
+        "supporting_s1_component_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "coverage_numerator": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "coverage_denominator": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "component_coverage": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "assertion_refs": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "te_level_cep": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "facet_summaries",
+        "cultural_abstention",
+        "abstention_reason"
+      ],
+      "properties": {
+        "facet_summaries": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/facet_summary"
+          }
+        },
+        "cultural_abstention": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "abstention_reason": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "no_s1_supported_facet",
+            "no_eligible_component_identified",
+            null
+          ]
+        }
+      }
+    },
+    "unmapped_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "component_id",
+        "evidence_refs",
+        "observed_content",
+        "status",
+        "note"
+      ],
+      "properties": {
+        "component_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence_refs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "observed_content": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "enum": [
+            "unmapped_cultural_content",
+            "candidate_missing_construct"
+          ]
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_valid",
+        "raw_output_schema_valid",
+        "evidence_valid",
+        "evidence_location_ambiguity_count",
+        "validation_errors"
+      ],
+      "properties": {
+        "schema_valid": {
+          "const": true
+        },
+        "raw_output_schema_valid": {
+          "type": "boolean"
+        },
+        "evidence_valid": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "evidence_location_ambiguity_count": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "validation_errors": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}
