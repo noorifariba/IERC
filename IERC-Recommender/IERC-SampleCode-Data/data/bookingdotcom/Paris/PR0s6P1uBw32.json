@@ -1,0 +1,378 @@
+{
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Musement",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "whatsIncluded": [
+        "Guide services (private driving tour)",
+        "Private transportation",
+        "Hotel pickup and drop-off",
+        "Driver"
+    ],
+    "postBookingInfo": "The tour can be customised according to your requests and preferences – such as if you'd like to find the best views of Paris for a photoshoot or food stops for appetisers and champagne. Please feel free to ask your driver for recommendations.",
+    "__typename": "AttractionsProduct",
+    "offers": [
+        {
+            "__typename": "Offer",
+            "description": null,
+            "availabilityType": "date_time",
+            "whatsIncluded": null,
+            "locationInstructions": null,
+            "benefits": {
+                "freeDrink": null,
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeAudioGuide": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "priorityLane": null
+            },
+            "notIncluded": null,
+            "additionalInfo": null,
+            "items": [
+                {
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "__typename": "OfferItem",
+                    "label": "1-4 people (price per person)",
+                    "minPerReservation": null,
+                    "duration": null,
+                    "id": "OI2fAScXHNSW",
+                    "type": "custom",
+                    "constraint": null,
+                    "travelerCountRequired": null
+                }
+            ],
+            "typicalFrequency": null,
+            "label": "Private tour",
+            "languageOptions": null,
+            "typicalDuration": {
+                "__typename": "Value",
+                "value": "PT2H",
+                "label": "Duration: 2 hours"
+            },
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null
+            },
+            "id": "OF0Plj5TtKhr"
+        }
+    ],
+    "dietOptions": [],
+    "restrictions": [],
+    "flags": null,
+    "notIncluded": [
+        "Food and drinks"
+    ],
+    "primaryPhoto": {
+        "__typename": "AttractionsPhoto",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o="
+    },
+    "covid": [],
+    "name": "Romantic Paris Private Tour in a Open-Top Car",
+    "shortDescription": "Chance to explore Paris' romantic spots in a stylish Citroën Traction",
+    "taxonomy": {
+        "__typename": "Taxonomy",
+        "tags": [
+            {
+                "slug": "sightseeing",
+                "label": "Sightseeing",
+                "__typename": "Content"
+            },
+            {
+                "__typename": "Content",
+                "slug": "cultural-tour",
+                "label": "Cultural tour"
+            },
+            {
+                "__typename": "Content",
+                "label": "Landmark",
+                "slug": "landmark"
+            },
+            {
+                "__typename": "Content",
+                "slug": "car-tour",
+                "label": "Car tour"
+            },
+            {
+                "slug": "photo-opportunity",
+                "label": "Photo opportunity",
+                "__typename": "Content"
+            }
+        ],
+        "type": {
+            "slug": "tours",
+            "label": "Tours",
+            "__typename": "Content"
+        },
+        "categories": [
+            {
+                "label": "Car tour",
+                "slug": "car-tour",
+                "__typename": "Content"
+            }
+        ]
+    },
+    "accessibility": [],
+    "primaryLabel": null,
+    "addresses": {
+        "guestPickup": [
+            {
+                "instructions": "The tour departs from your preferred location in the Paris Intramuros. This consists of Districts 1 to 10th, including 15th, 16th, 17th and 18th.",
+                "__typename": "AttractionsAddress",
+                "city": "Paris",
+                "publicTransport": null,
+                "address": null,
+                "longitude": "2.33378433791501",
+                "latitude": "48.8639230867908",
+                "googlePlaceId": null,
+                "locationType": "guest_pickup",
+                "id": "LOEcYxvUrPjb",
+                "country": "fr",
+                "zip": null
+            }
+        ],
+        "entrance": null,
+        "__typename": "AttractionsAddresses",
+        "arrival": null,
+        "departure": null,
+        "pickup": null,
+        "attraction": null,
+        "meeting": null
+    },
+    "poweredBy": "Powered by Musement",
+    "representativePrice": {
+        "currency": "GBP",
+        "publicAmount": 54.56,
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 54.56
+    },
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "customer_pickup"
+        }
+    ],
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "type": "free_cancellation",
+            "text": "Free cancellation"
+        }
+    ],
+    "guideSupportedLanguages": null,
+    "onSiteRequirements": {
+        "weight": null,
+        "voucherPrintingRequired": {
+            "value": "false",
+            "label": null,
+            "__typename": "Value"
+        },
+        "writtenConsentForChildren": null,
+        "height": null,
+        "adultSupervisionRequired": null,
+        "onlyOperatesInGoodWeather": null,
+        "noAlcoholDuringRamadan": null,
+        "__typename": "OnSiteRequirements",
+        "comfortableFootwearRecommended": null,
+        "unsuitable": null,
+        "earlyArrival": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "age": null,
+        "drivingLicenseRequired": null,
+        "ticketCollection": null,
+        "proofOfIdentityRequired": null
+    },
+    "isBookable": true,
+    "healthSafety": [],
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false,
+            "details": {
+                "name": "Musement S.p.A",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "via Polesine 13, 20139 Milan, Italy"
+            }
+        }
+    ],
+    "uniqueSellingPoints": [
+        "Chance to ride around Paris in a stylish vintage vehicle",
+        "Tour drives past iconic sights including the Eiffel Tower",
+        "The driver can help with romantic request such as proposals"
+    ],
+    "numericReviewsStats": {
+        "total": 0,
+        "average": 0,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "timeZone": "Europe/Paris",
+    "description": "Paris is known as the ‘City of Love’, and on this love-themed tour, you’ll be able to discover the city’s most romantic places. After a hassle-free hotel pickup, you’ll travel in a stylish Citroën Traction vehicle with an open sunroof to enjoy the breeze.\r\n\r\nThe tour will begin with a ride through Montmartre – where you’ll pass the Wall of Love, the beautiful Sacré-Coeur basilica and Place du Tertre – which is known for being a place where artists set up their easels and paint.\r\n\r\nYou’ll continue the drive along the iconic Champs Elysées until you reach one of the city’s most romantic landmarks – the Eiffel Tower. As it's a private tour, your driver will be happy to help you with any custom requests, and will be able to drop you off at any central location in Paris.",
+    "slug": "pr0s6p1ubw32-romantic-paris-private-tour-in-a-open-top-car",
+    "typicalFrequency": null,
+    "contextUfiDetails": null,
+    "itinerary": null,
+    "additionalInfo": "The total price is for a car that can accommodate four passengers.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "photos": [
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144112411.jpg?k=f0e9c10f72c354c4f4f23c57bce86423a6d0d3e68005a9e5805ed26edc72cf57&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144112437.jpg?k=ed81fcdc2693da6c1d9e9d7cb4533e0f3bc8934f1eab1683a3a9ac2ecc4b0010&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144112437.jpg?k=ed81fcdc2693da6c1d9e9d7cb4533e0f3bc8934f1eab1683a3a9ac2ecc4b0010&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144112437.jpg?k=ed81fcdc2693da6c1d9e9d7cb4533e0f3bc8934f1eab1683a3a9ac2ecc4b0010&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144112437.jpg?k=ed81fcdc2693da6c1d9e9d7cb4533e0f3bc8934f1eab1683a3a9ac2ecc4b0010&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144112460.jpg?k=6013f550dbda5a38d0b034c35be18da1eea30994db2043703f361e0b852b3e79&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144112460.jpg?k=6013f550dbda5a38d0b034c35be18da1eea30994db2043703f361e0b852b3e79&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144112460.jpg?k=6013f550dbda5a38d0b034c35be18da1eea30994db2043703f361e0b852b3e79&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144112460.jpg?k=6013f550dbda5a38d0b034c35be18da1eea30994db2043703f361e0b852b3e79&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144112491.jpg?k=efa53fa8381e1224bb4a918aac88735312ffbac9722c957f50b20729834080c9&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144112491.jpg?k=efa53fa8381e1224bb4a918aac88735312ffbac9722c957f50b20729834080c9&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144112491.jpg?k=efa53fa8381e1224bb4a918aac88735312ffbac9722c957f50b20729834080c9&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144112491.jpg?k=efa53fa8381e1224bb4a918aac88735312ffbac9722c957f50b20729834080c9&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144112519.jpg?k=d7b6533c97a3430d330026137862bf3a10b3dfd929445b9638376a087f61ea6f&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144112519.jpg?k=d7b6533c97a3430d330026137862bf3a10b3dfd929445b9638376a087f61ea6f&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144112519.jpg?k=d7b6533c97a3430d330026137862bf3a10b3dfd929445b9638376a087f61ea6f&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144112519.jpg?k=d7b6533c97a3430d330026137862bf3a10b3dfd929445b9638376a087f61ea6f&o="
+        }
+    ],
+    "operatedBy": "CITY WHEELS PARIS TOURS",
+    "additionalBookingInfo": null,
+    "ufi": -1456928,
+    "audioSupportedLanguages": null,
+    "ufiDetails": {
+        "attractionsCount": 672,
+        "url": {
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions",
+            "city": "paris",
+            "country": "fr"
+        },
+        "banners": [],
+        "latitude": 48.8566821749061,
+        "bCityName": "Paris",
+        "ufi": -1456928,
+        "longitude": 2.35147638246417,
+        "countryName": "France",
+        "image": null,
+        "__typename": "AttractionLocationResponse",
+        "bInCityName": "in Paris"
+    },
+    "typicalDuration": {
+        "label": "Duration: 2 hours",
+        "value": "PT2H",
+        "__typename": "Value"
+    },
+    "id": "PR0s6P1uBw32",
+    "cancellationPolicy": {
+        "comparedTo": "start",
+        "__typename": "AttractionsCancellationPolicy",
+        "until": "2023-06-25T18:00:00+02:00",
+        "hasFreeCancellation": true,
+        "period": "PT24H",
+        "percentage": 100,
+        "isStillRefundable": true
+    },
+    "reviewsStats": {
+        "__typename": "AttractionsProductReviewStats",
+        "providerNumericStats": [
+            {
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "providerName": "musement",
+                "total": 1,
+                "average": 5
+            }
+        ],
+        "allReviewsCount": 2,
+        "percentage": "50%",
+        "isGoodScore": 0
+    },
+    "supportedFeatures": {
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsPartiallySupported": null,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "url": "https://www.booking.com/attractions/en/pr0s6p1ubw32-romantic-paris-private-tour-in-a-open-top-car.html",
+    "ReviewDetails": [
+        {
+            "language": "nl",
+            "id": "masked_bef4bb30-4724-4e71-8355-ad9f2b9cb05d",
+            "content": "Geweldig om door de stad Parijs te rijden in zo’n prachtige oude Citroën. ",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "rating": null,
+            "epochMs": 1680397200000,
+            "providerName": "musement",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_2bcffeef-8a5b-4dcb-8017-3c247758a16f",
+                "cc1": "",
+                "avatar": null
+            },
+            "votes": null,
+            "date": "04/01/2023, 18:00:00"
+        },
+        {
+            "providerName": null,
+            "isApproved": true,
+            "epochMs": 1656931289000,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "be",
+                "name": "masked_4e1877b5-5156-410e-b44b-3509285edf27",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "numericRating": null,
+            "language": "nl",
+            "content": "Attractie werd gecancelled",
+            "id": "masked_7166336b-0dcc-40a4-8d66-e20a897034d9",
+            "rating": false,
+            "date": "07/04/2022, 03:41:29"
+        },
+        {
+            "user": null,
+            "votes": null,
+            "providerName": null,
+            "epochMs": 1654591564000,
+            "isApproved": false,
+            "rating": true,
+            "__typename": "AttractionsReview",
+            "numericRating": null,
+            "language": "de",
+            "id": "masked_33360791-b867-400a-ab68-e8f233b159be",
+            "content": "",
+            "date": "06/07/2022, 01:46:04"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "labels": [],
+    "shortDescription": "A half-day excursion to the neighbourhood famous for its music scene",
+    "numericReviewsStats": {
+        "total": 0,
+        "__typename": "AttractionsProductNumericReviewStats",
+        "average": 0
+    },
+    "additionalInfo": "Please follow the local COVID-19 guidelines and regulations in order to join the tour.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "uniqueSellingPoints": null,
+    "reviewsStats": {
+        "__typename": "AttractionsProductReviewStats",
+        "isGoodScore": 1,
+        "allReviewsCount": 1,
+        "providerNumericStats": [],
+        "percentage": "100%"
+    },
+    "accessibility": [
+        "Wheelchair accessible",
+        "Accessible to pushchairs/prams",
+        "Public transport links nearby"
+    ],
+    "flags": null,
+    "timeZone": "America/New_York",
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "point_pickup"
+        }
+    ],
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas",
+        "Hand sanitiser available for visitors and staff"
+    ],
+    "ufiDetails": {
+        "url": {
+            "prefix": "attractions",
+            "city": "new-york",
+            "country": "us",
+            "__typename": "AttractionLocationUrl"
+        },
+        "attractionsCount": 706,
+        "__typename": "AttractionLocationResponse",
+        "banners": [],
+        "bCityName": "New York",
+        "latitude": 40.7680740356445,
+        "bInCityName": "in New York",
+        "countryName": "United States",
+        "longitude": -73.9818954467773,
+        "image": null,
+        "ufi": 20088325
+    },
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "taxonomy": {
+        "type": {
+            "__typename": "Content",
+            "slug": "tours",
+            "label": "Tours"
+        },
+        "__typename": "Taxonomy",
+        "categories": [
+            {
+                "__typename": "Content",
+                "slug": "walking-tour",
+                "label": "Walking tour"
+            }
+        ],
+        "tags": null
+    },
+    "photos": [
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134451382.jpg?k=62c69d2b21a2a0afd822ccd55f5e645355909932dd0dc5f7924c51b2cc6af8ef&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134451382.jpg?k=62c69d2b21a2a0afd822ccd55f5e645355909932dd0dc5f7924c51b2cc6af8ef&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/134451382.jpg?k=62c69d2b21a2a0afd822ccd55f5e645355909932dd0dc5f7924c51b2cc6af8ef&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134451382.jpg?k=62c69d2b21a2a0afd822ccd55f5e645355909932dd0dc5f7924c51b2cc6af8ef&o="
+        }
+    ],
+    "primaryPhoto": {
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+        "__typename": "AttractionsPhoto",
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134451368.jpg?k=6ce761f94570bbccac5c0e5dcafccd13a8ee75e18e75e277a570197f42cb3ce1&o="
+    },
+    "slug": "pr0mq2f2tne0-harlem-rhythm-and-rhyme-walking-tour",
+    "representativePrice": {
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 49.54,
+        "publicAmount": 49.54
+    },
+    "__typename": "AttractionsProduct",
+    "contextUfiDetails": null,
+    "onSiteRequirements": {
+        "comfortableFootwearRecommended": null,
+        "__typename": "OnSiteRequirements",
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "earlyArrival": null,
+        "onlyOperatesInGoodWeather": null,
+        "noAlcoholDuringRamadan": null,
+        "voucherPrintingRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "unsuitable": null,
+        "noAlcoholDuringDryDays": null,
+        "drivingLicenseRequired": null,
+        "age": null,
+        "writtenConsentForChildren": null,
+        "proofOfIdentityRequired": null,
+        "ticketCollection": null,
+        "height": null
+    },
+    "addresses": {
+        "__typename": "AttractionsAddresses",
+        "attraction": null,
+        "meeting": null,
+        "entrance": null,
+        "departure": [
+            {
+                "id": "LOhTFLVzR8Kq",
+                "address": "Schomburg Center for Research in Black Culture, Malcolm X Blvd 515, Manhattan",
+                "city": "New York, NY",
+                "longitude": "-73.940926",
+                "instructions": "Meet your guide in front of the building at the listed address.",
+                "publicTransport": null,
+                "country": "us",
+                "locationType": "departure",
+                "googlePlaceId": "ChIJ7etix3b2wokRKN_Pd9RLRHQ",
+                "zip": "10037",
+                "latitude": "40.8145872",
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "pickup": null,
+        "guestPickup": null,
+        "arrival": [
+            {
+                "latitude": "40.8109751",
+                "zip": "10027",
+                "googlePlaceId": "EiNXIDEyNXRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMjcsIFVTQSIuKiwKFAoSCbU4E1ls9sKJEcbG5tjxpXvZEhQKEgk7CD_TpU_CiRFi_nfhBo8LyA",
+                "__typename": "AttractionsAddress",
+                "instructions": null,
+                "longitude": "-73.95309",
+                "city": "New York, NY",
+                "address": "West 125th Street, Manhattan",
+                "id": "LOsMCHfohjTu",
+                "locationType": "arrival",
+                "country": "us",
+                "publicTransport": null
+            }
+        ]
+    },
+    "name": "Harlem Rhythm and Rhyme Walking Tour",
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "isBookable": true,
+    "ufi": 20088325,
+    "restrictions": [],
+    "id": "PR0mq2F2tne0",
+    "offers": [
+        {
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": 15,
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1,
+                "adultRequiredForReservation": false
+            },
+            "__typename": "Offer",
+            "availabilityType": "date_time",
+            "benefits": {
+                "freeDrink": null,
+                "freeAudioGuide": null,
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "inStoreDiscount": null,
+                "priorityLane": null
+            },
+            "typicalFrequency": null,
+            "typicalDuration": null,
+            "whatsIncluded": null,
+            "items": [
+                {
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "constraint": {
+                        "numPeople": null,
+                        "maxAge": 99,
+                        "maxGroupSize": null,
+                        "numChildren": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "numAdults": null,
+                        "label": "(age 7-99)",
+                        "minGroupSize": null,
+                        "minAge": 7
+                    },
+                    "label": "Adult",
+                    "id": "OIQqPOnUxMOq",
+                    "maxPerReservation": null,
+                    "travelerCountRequired": null,
+                    "duration": null,
+                    "tieredPricing": false
+                }
+            ],
+            "additionalInfo": null,
+            "languageOptions": [
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "language": "en",
+                    "label": "English - Tour guide"
+                }
+            ],
+            "id": "OFBlUzhq8PUs",
+            "locationInstructions": null,
+            "label": "Half Day Harlem Rhythm And Rhyme Walking Tour",
+            "notIncluded": null,
+            "description": null
+        }
+    ],
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true,
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "postBookingInfo": null,
+    "typicalFrequency": null,
+    "dietOptions": [],
+    "additionalBookingInfo": null,
+    "guideSupportedLanguages": [
+        "English (US)"
+    ],
+    "notIncluded": [
+        "Personal expenses"
+    ],
+    "description": "On this half-day excursion, you’ll explore the neighbourhood of Harlem.\r\n\r\nLed by a long-time Harlem resident, historian and tour guide, you’ll embark on a stroll across the Upper Manhattan neighbourhood famous for its music scene. You’ll learn about the powerful words that were spoken on the district’s streets, shared through music and written in books.\r\n\r\nAs you enjoy the sights, you’ll have an opportunity to listen to your guide’s valuable commentary about Harlem’s rhythm and rhyme, making it one of the most unique areas in New York City.",
+    "operatedBy": "Welcome to Harlem",
+    "primaryLabel": null,
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false,
+            "details": {
+                "address": "145 West 122nd Street Suite 1 New York New York 10027 US",
+                "name": "Welcome to Harlem",
+                "__typename": "AttractionsSupplierInfoDetails"
+            }
+        }
+    ],
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "isStillRefundable": false,
+        "period": null,
+        "percentage": null,
+        "comparedTo": null,
+        "until": null,
+        "hasFreeCancellation": false
+    },
+    "audioSupportedLanguages": null,
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "typicalDuration": null,
+    "whatsIncluded": [
+        "Guide services"
+    ],
+    "poweredBy": "Powered by Viator",
+    "url": "https://www.booking.com/attractions/en/pr0mq2f2tne0-harlem-rhythm-and-rhyme-walking-tour.html",
+    "ReviewDetails": [
+        {
+            "content": "Pour ceux qui aiment les mots et la soul, une valeur sûre. Pour ceux qui veulent découvrir l’âme de Harlem, une belle rencontre avec une guide passionnée. En anglais.",
+            "votes": null,
+            "epochMs": 1660969793000,
+            "providerName": null,
+            "id": "masked_b67d1995-875e-4cae-8d42-c70ca437a494",
+            "isApproved": true,
+            "rating": true,
+            "user": null,
+            "__typename": "AttractionsReview",
+            "language": "fr",
+            "numericRating": null,
+            "date": "08/19/2022, 21:29:53"
+        }
+    ]
+}

@@ -1,0 +1,2195 @@
+{
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "cancellationPolicy": {
+        "comparedTo": "start",
+        "isStillRefundable": true,
+        "percentage": 100,
+        "until": "2023-06-09T16:00:00+01:00",
+        "__typename": "AttractionsCancellationPolicy",
+        "hasFreeCancellation": true,
+        "period": "PT24H"
+    },
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 3,
+        "average": 4.7
+    },
+    "typicalDuration": null,
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Viator"
+        }
+    ],
+    "shortDescription": "A River Thames boat tour to get to know London’s sights and history",
+    "id": "PR0OnzaO43lm",
+    "primaryPhoto": {
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "taxonomy": {
+        "tags": null,
+        "__typename": "Taxonomy",
+        "type": {
+            "__typename": "Content",
+            "label": "Tours",
+            "slug": "tours"
+        },
+        "categories": [
+            {
+                "slug": "boat-tour",
+                "label": "Boat tour",
+                "__typename": "Content"
+            }
+        ]
+    },
+    "isBookable": true,
+    "typicalFrequency": null,
+    "uniqueSellingPoints": null,
+    "postBookingInfo": null,
+    "audioSupportedLanguages": null,
+    "ufi": -2601889,
+    "timeZone": "Europe/London",
+    "contextUfiDetails": null,
+    "onSiteRequirements": {
+        "earlyArrival": null,
+        "ticketCollection": null,
+        "height": null,
+        "onlyOperatesInGoodWeather": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "voucherPrintingRequired": null,
+        "comfortableFootwearRecommended": null,
+        "__typename": "OnSiteRequirements",
+        "age": null,
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "proofOfIdentityRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "writtenConsentForChildren": null,
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "unsuitable": null
+    },
+    "supplierInfo": [
+        {
+            "details": {
+                "name": "City Cruises",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "Cherry Garden Pier, Cherry Garden Street Rotherhithe London SE16 4 TU GB"
+            },
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false
+        }
+    ],
+    "representativePrice": {
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "publicAmount": 23,
+        "chargeAmount": 23
+    },
+    "operatedBy": "City Cruises",
+    "notIncluded": [
+        "Food and drinks",
+        "Hotel pickup and drop-off"
+    ],
+    "description": "With this hop-on, hop-off cruise, you will be able to see London’s popular attractions and iconic landmarks from the River Thames. You can stay on either the boat’s open upper deck or lower saloon and get to enjoy unobstructed views of the Tower of London, the Houses of Parliament and the London Eye, among many others. An audio guide on board will provide you with an interesting narrative about the city and its sights. \r\n\r\nWith a 24-hour pass, you can get on and off at any of the stops as many times as you’d like throughout the day.",
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "liveAvailabilityCheckPartiallySupported": null,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true
+    },
+    "slug": "pr0onzao43lm-hop-on-hop-off-river-cruise",
+    "primaryLabel": null,
+    "restrictions": [],
+    "poweredBy": "Powered by Viator",
+    "ufiDetails": {
+        "__typename": "AttractionLocationResponse",
+        "countryName": "United Kingdom",
+        "ufi": -2601889,
+        "latitude": 51.5073905425711,
+        "attractionsCount": 667,
+        "bInCityName": "in London",
+        "banners": [],
+        "url": {
+            "country": "gb",
+            "prefix": "attractions",
+            "city": "london",
+            "__typename": "AttractionLocationUrl"
+        },
+        "image": null,
+        "bCityName": "London",
+        "longitude": -0.127634324117025
+    },
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "accessibility": [
+        "Wheelchair accessible"
+    ],
+    "offers": [
+        {
+            "benefits": {
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "priorityLane": null,
+                "freeAudioGuide": null
+            },
+            "typicalDuration": null,
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": 6,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 1
+            },
+            "items": [
+                {
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "constraint": {
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minAge": 5,
+                        "label": "(age 5-16)",
+                        "maxAge": 16,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null
+                    },
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "id": "OI3RGIsf1mia"
+                },
+                {
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "id": "OIgKGg5ggSIb",
+                    "duration": null,
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "minAge": 17,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 17-99)",
+                        "numPeople": null,
+                        "maxAge": 99
+                    },
+                    "tieredPricing": false,
+                    "label": "Adult"
+                },
+                {
+                    "__typename": "OfferItem",
+                    "type": "infant",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Infant",
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 4,
+                        "label": "(age 0-4)",
+                        "minAge": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age"
+                    },
+                    "maxPerReservation": null,
+                    "id": "OI6hIHoW8Csk",
+                    "duration": null
+                }
+            ],
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "languageOptions": [
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Portuguese - Audio guide",
+                    "language": "pt"
+                },
+                {
+                    "label": "English - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "en",
+                    "type": "audio"
+                },
+                {
+                    "language": "de",
+                    "__typename": "OfferLanguageOption",
+                    "label": "German - Audio guide",
+                    "type": "audio"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "language": "it",
+                    "label": "Italian - Audio guide",
+                    "type": "audio"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Spanish - Audio guide",
+                    "language": "es"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "language": "fr",
+                    "label": "French - Audio guide"
+                },
+                {
+                    "language": "en",
+                    "__typename": "OfferLanguageOption",
+                    "label": "English - Tour guide",
+                    "type": "guide"
+                }
+            ],
+            "availabilityType": "date_time",
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "whatsIncluded": null,
+            "id": "OFEUYcsxq6P5",
+            "notIncluded": null,
+            "description": null,
+            "label": "Standard ticket"
+        }
+    ],
+    "reviewsStats": {
+        "allReviewsCount": 5,
+        "percentage": "100%",
+        "isGoodScore": 1,
+        "__typename": "AttractionsProductReviewStats",
+        "providerNumericStats": [
+            {
+                "providerName": "viator",
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 88,
+                "average": 4.3
+            }
+        ]
+    },
+    "additionalInfo": "Please exchange your vouchers for tickets at a City Cruises ticket office (located at Westminster and Tower piers) before boarding the boat. \r\n\r\nPlease note that the operational hours of the cruise are 10:00–18:00. Boats are currently not stopping at Greenwich Pier. \r\n\r\nA bar, café and toilets are available onboard.\r\n\r\nThe pass is valid between the first and the last available cruise.\r\n\r\nA multilingual GPS-triggered audio commentary is available to download via the City Cruises app.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "itinerary": null,
+    "additionalBookingInfo": null,
+    "dietOptions": [],
+    "__typename": "AttractionsProduct",
+    "addresses": {
+        "arrival": [
+            {
+                "instructions": null,
+                "address": null,
+                "latitude": "51.5073034",
+                "__typename": "AttractionsAddress",
+                "country": "gb",
+                "city": "London",
+                "longitude": "-0.0787555",
+                "zip": null,
+                "id": "LOXj6uu5DH3r",
+                "publicTransport": null,
+                "googlePlaceId": null,
+                "locationType": "arrival"
+            }
+        ],
+        "guestPickup": null,
+        "__typename": "AttractionsAddresses",
+        "pickup": null,
+        "departure": [
+            {
+                "latitude": "51.5016904",
+                "address": null,
+                "instructions": "The river cruise departs from the following piers at different times throughout the day:\r\n- Westminster Pier \r\n- Waterloo Pier \r\n- Tower Pier",
+                "country": "gb",
+                "__typename": "AttractionsAddress",
+                "id": "LOQ9azbKAlnv",
+                "publicTransport": null,
+                "longitude": "-0.1232218",
+                "city": "London",
+                "zip": null,
+                "googlePlaceId": null,
+                "locationType": "departure"
+            }
+        ],
+        "entrance": null,
+        "attraction": null,
+        "meeting": null
+    },
+    "photos": [
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/115870411.jpg?k=d1c0559d1d83d58918b2a59cd1488604fab93d3f1b3fa0601e179ed371df328f&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/115870421.jpg?k=0db0e5dd30786b6cf6941a10967c32d41662f3d643a955bde6b5ed6a32853516&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/115870421.jpg?k=0db0e5dd30786b6cf6941a10967c32d41662f3d643a955bde6b5ed6a32853516&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/115870421.jpg?k=0db0e5dd30786b6cf6941a10967c32d41662f3d643a955bde6b5ed6a32853516&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/115870421.jpg?k=0db0e5dd30786b6cf6941a10967c32d41662f3d643a955bde6b5ed6a32853516&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/115870434.jpg?k=6c6c65eb6317327aa0dedb71754e306b81b2629d236974d70dc3c1da8aac9b31&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/115870434.jpg?k=6c6c65eb6317327aa0dedb71754e306b81b2629d236974d70dc3c1da8aac9b31&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/115870434.jpg?k=6c6c65eb6317327aa0dedb71754e306b81b2629d236974d70dc3c1da8aac9b31&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/115870434.jpg?k=6c6c65eb6317327aa0dedb71754e306b81b2629d236974d70dc3c1da8aac9b31&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/115870476.jpg?k=c054777a340d315867e5e85be86189c4290d8d31316651dde8af89204dd0bb17&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/115870476.jpg?k=c054777a340d315867e5e85be86189c4290d8d31316651dde8af89204dd0bb17&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/115870476.jpg?k=c054777a340d315867e5e85be86189c4290d8d31316651dde8af89204dd0bb17&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/115870476.jpg?k=c054777a340d315867e5e85be86189c4290d8d31316651dde8af89204dd0bb17&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/146576248.jpg?k=d26996c21d4195c6390f1008d148e8387d7f78b520d102f073d43a213f35263f&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/146576248.jpg?k=d26996c21d4195c6390f1008d148e8387d7f78b520d102f073d43a213f35263f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/146576248.jpg?k=d26996c21d4195c6390f1008d148e8387d7f78b520d102f073d43a213f35263f&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/146576248.jpg?k=d26996c21d4195c6390f1008d148e8387d7f78b520d102f073d43a213f35263f&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/184609767.jpg?k=ab10e4ee36d7d49ef05a2abcb4745bf4cf97f48127848d9c7da39ed6b9e3b2ae&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/184609767.jpg?k=ab10e4ee36d7d49ef05a2abcb4745bf4cf97f48127848d9c7da39ed6b9e3b2ae&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/184609767.jpg?k=ab10e4ee36d7d49ef05a2abcb4745bf4cf97f48127848d9c7da39ed6b9e3b2ae&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/184609767.jpg?k=ab10e4ee36d7d49ef05a2abcb4745bf4cf97f48127848d9c7da39ed6b9e3b2ae&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/184609780.jpg?k=57087dc4a319cce4b6b44e4a9d43f575da0463cdc3a8c275622ab5b2d7fd2d72&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/184609780.jpg?k=57087dc4a319cce4b6b44e4a9d43f575da0463cdc3a8c275622ab5b2d7fd2d72&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/184609780.jpg?k=57087dc4a319cce4b6b44e4a9d43f575da0463cdc3a8c275622ab5b2d7fd2d72&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/184609780.jpg?k=57087dc4a319cce4b6b44e4a9d43f575da0463cdc3a8c275622ab5b2d7fd2d72&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/184609796.jpg?k=ad73a8b3b9f916e4ed3c37bf34df8eb1c164436149597243559afa1641e4dc5f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/184609796.jpg?k=ad73a8b3b9f916e4ed3c37bf34df8eb1c164436149597243559afa1641e4dc5f&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/184609796.jpg?k=ad73a8b3b9f916e4ed3c37bf34df8eb1c164436149597243559afa1641e4dc5f&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/184609796.jpg?k=ad73a8b3b9f916e4ed3c37bf34df8eb1c164436149597243559afa1641e4dc5f&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/184609802.jpg?k=6fabc03fde48a74ea1e2472da3fedb1adfdc7d556d9bc4f31a338776ec134901&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/184609802.jpg?k=6fabc03fde48a74ea1e2472da3fedb1adfdc7d556d9bc4f31a338776ec134901&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/184609802.jpg?k=6fabc03fde48a74ea1e2472da3fedb1adfdc7d556d9bc4f31a338776ec134901&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/184609802.jpg?k=6fabc03fde48a74ea1e2472da3fedb1adfdc7d556d9bc4f31a338776ec134901&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/184609808.jpg?k=0228779181ce0a76458209fd715efc5688ca0f9e7b6cc3df5a595e956ca08a07&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/184609808.jpg?k=0228779181ce0a76458209fd715efc5688ca0f9e7b6cc3df5a595e956ca08a07&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/184609808.jpg?k=0228779181ce0a76458209fd715efc5688ca0f9e7b6cc3df5a595e956ca08a07&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/184609808.jpg?k=0228779181ce0a76458209fd715efc5688ca0f9e7b6cc3df5a595e956ca08a07&o="
+        }
+    ],
+    "name": "Hop-on, Hop-off River Cruise",
+    "flags": null,
+    "covid": [
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Equipment sanitised between uses\t",
+        "Vehicles sanitised between uses",
+        "Staff required to wash hands regularly"
+    ],
+    "guideSupportedLanguages": null,
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation",
+            "type": "free_cancellation"
+        }
+    ],
+    "whatsIncluded": [
+        "One-day pass"
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0onzao43lm-hop-on-hop-off-river-cruise.html",
+    "ReviewDetails": [
+        {
+            "id": "masked_f2368dae-8db9-45c4-bffe-2b35b403a5da",
+            "content": "A very disappointing tour. We were to catch the boat at Tower Hill at 10 o’clock. The person in the ticket box didn’t even show up until 10 o’clock to verify our tickets and allow us on board. We took the boat down to The Eye, and rode that ride, and then returned to the pier to go back up to Tower Hill. At that time we were told that the next cruise boat wouldn’t be for another hour as they were short crew people, and the one we were going to take had been canceled. So ultimately, we only hopped on one time and got off, and never returned to hop back on and took the subways back to Tower Hill to go to the tower of London. Not worth the time or money in my opinion.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_bd2febc3-fb9c-4d2f-99f2-5796ff76abb5",
+                "avatar": null
+            },
+            "numericRating": 1,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1676395175000,
+            "date": "02/14/2023, 09:19:35"
+        },
+        {
+            "numericRating": 5,
+            "content": "Such a fun experience. The tour guide was amazing and hilarious. Such great service. Loved that they provided drinks and snacks. Such a beautiful ride. ",
+            "id": "masked_95773c87-2fc0-4bbf-abbc-bdecfa27d84c",
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_cec620d6-8234-4861-a69b-8e201b96ead2",
+                "avatar": null
+            },
+            "rating": null,
+            "isApproved": true,
+            "votes": null,
+            "epochMs": 1676175012000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "02/11/2023, 20:10:12"
+        },
+        {
+            "content": "The best way to see the sights of London!",
+            "id": "masked_ca4f0e25-45d2-4e8a-842c-596a5e192346",
+            "rating": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "gb",
+                "avatar": null,
+                "name": "masked_a73fe9e2-df5a-48b0-a169-f51d76d4dd15"
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "__typename": "AttractionsReview",
+            "providerName": null,
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1672480711000,
+            "date": "12/31/2022, 01:58:31"
+        },
+        {
+            "epochMs": 1672319911000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 4,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_bbeb993e-09e4-4d55-a6a7-a4bc10c456b4",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "id": "masked_e5117948-7d5b-4d23-a549-7962a4d22679",
+            "content": "It was an excellent ride. Could spot most of the iconic buildings & know their history. Beautiful scenes around & comfortable ride.",
+            "date": "12/29/2022, 05:18:31"
+        },
+        {
+            "numericRating": 1,
+            "id": "masked_6ca7a7ae-36e9-401d-a12a-c6d3491d19d0",
+            "content": "I was told that the boat ride was for a hour , we only got thirty minutes. \nAnd had to walk back we’re we got on , for two miles, ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_5b06f9b8-4d06-4cc6-adb8-dd66e1cba78f",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "votes": null,
+            "epochMs": 1672173686000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "12/27/2022, 12:41:26"
+        },
+        {
+            "content": "Went in the middle of December. No crowd. Trip takes a little over an hour from Westminster to Greenwich and then back to Westminster giving you a wonderful view of both sides of the Thames. If it had been summer, the temps above the 30's (Fahrenheit) then it would have been a great day to get off at Greenwich and take a look around. If we are ever back in London again, we'll definitely do that!",
+            "id": "masked_b59c4d9b-56cd-4df6-96f7-4b581989375b",
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_6e60326d-adeb-487b-a2ba-8daf314196ef",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1671642941000,
+            "date": "12/21/2022, 09:15:41"
+        },
+        {
+            "language": "en-gb",
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1670578101000,
+            "content": "Great experience loads to see and good customer service",
+            "id": "masked_d65a881f-1a2b-4ae1-8424-30a30edf7742",
+            "rating": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "gb",
+                "avatar": null,
+                "name": "masked_f293143c-d10e-4f6f-b6bd-5b6bfc7d68eb"
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "12/09/2022, 01:28:21"
+        },
+        {
+            "id": "masked_e027f75b-4153-4373-9418-931924d552d6",
+            "content": "It was my first time it was lovely inside it's nice and worm with great view and upstairs is even better, the live commentary by the crew member was amazing honestly I would do it again but this time with some friends.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_3eb0b873-178f-433d-870c-48a99b4a7d74",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1669097739000,
+            "date": "11/21/2022, 22:15:39"
+        },
+        {
+            "epochMs": 1668677667000,
+            "votes": null,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_5ca3f2ed-38ff-4f47-b342-5af318a7cb8e",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "content": "So easy to find, amazing tour guide. Great value for money and I have recommended it to all of my pals!",
+            "id": "masked_9c0564d0-ac55-482d-93b7-d8afec320f93",
+            "date": "11/17/2022, 01:34:27"
+        },
+        {
+            "id": "masked_3ca8c35a-09ec-4c6a-9440-6eb4c0993fa9",
+            "content": "Time Tables when I booked showed Saturday cruise between Westminster and Greenwitch. Turned out they only go between Westminster and Tower Bridge. I had tickets for the observatory in Greenwitch, so I was forced to take another boat (Uber Boats) which were much nicer n faster. ",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_8524c56e-9ffb-4c13-8b2c-c481196d4e34",
+                "avatar": null
+            },
+            "rating": null,
+            "numericRating": 1,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1667708603000,
+            "date": "11/05/2022, 21:23:23"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1666330572000,
+            "votes": null,
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_a0392adf-2aac-4ace-b8cc-9c339a3fff19",
+                "avatar": null
+            },
+            "rating": null,
+            "id": "masked_919a119d-912f-496c-bc68-90d4edc12f6c",
+            "content": "Great way to see the city, get off and spend time where you want, then hop back on to the next stop..... Staff was very personable!",
+            "numericRating": 5,
+            "date": "10/20/2022, 22:36:12"
+        },
+        {
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "name": "masked_e2767bff-71ad-4a2b-bd94-faa6e109b724",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "content": "The City Cruise Experience staff were professional and friendly. Loved the personal commentary. Lines were managed with ease flowed nicely in a timely fashion!",
+            "id": "masked_64a70112-bc5e-4398-a6a4-902460e26405",
+            "epochMs": 1665983478000,
+            "votes": null,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "10/16/2022, 22:11:18"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_2647913d-418d-4364-b9d7-01aee8a00c5b",
+            "content": "We had a wonderful couple of days taking cruise boats. The live commentaries were informative and amusing. We learnt a lot. We decided that with limited time, your cruises were the best way to see London! Thank you.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_ba9f9f8e-a138-479e-a78e-bee6f81ff394",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "votes": null,
+            "epochMs": 1665931685000,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "10/16/2022, 07:48:05"
+        },
+        {
+            "content": "We couldn’t find the point of entry to get on the boats. No clear signage or instructions. Ended up just walking to the sites. ",
+            "id": "masked_b39808dd-d4fb-4d3e-bbfc-c993f518e516",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_683382c7-888a-408b-bba0-86b33f50770d"
+            },
+            "isApproved": true,
+            "numericRating": 2,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1664428738000,
+            "date": "09/28/2022, 22:18:58"
+        },
+        {
+            "epochMs": 1663116358000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "numericRating": 5,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_430e4a69-e71c-4c3d-bfa7-c04675df09fe",
+                "avatar": null
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "A great way to see this beautiful city, I would do this again and recommend it to everyone, the boat’s guide entertained us with stories as we cruised up and down the river, he had us in stitches with that famous dry British humour, it was great fun and well worth the price of admission, we used it to visit different areas from 10-6pm",
+            "id": "masked_ed567d69-6caa-4814-a366-700d303f2c51",
+            "date": "09/13/2022, 17:45:58"
+        },
+        {
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_3f169a5f-6e87-4dce-af1f-edee21eba401",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "content": "It was a lovely day, lovely ride, got to see a lot.  Didn't have much time in London so this was perfect.",
+            "id": "masked_6f7a4b3f-4298-45c9-8d49-be25cc72d990",
+            "epochMs": 1662927058000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "09/11/2022, 13:10:58"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_1518a437-fece-456f-8a66-09eb4f242f1a",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "id": "masked_887c101b-848c-4698-a942-2cff3e51941f",
+            "content": "We went on the first day of trip to London, and find this to be a great introduction to the city and its key attractions. Crew was very helpful and amusing. Boats were on time. Would recommend this to anyone traveling to London, especially if with kids. ",
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "epochMs": 1661945227000,
+            "votes": null,
+            "date": "08/31/2022, 04:27:07"
+        },
+        {
+            "votes": null,
+            "epochMs": 1661529398000,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "id": "masked_9045d0a7-2492-4e24-9cca-d3f19c1a9c30",
+            "content": "The commentaries from the crew were informative and entertaining. Alfie was so funny. I found out loads about the buildings and bridges along the way.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_6d2fb102-a091-44b4-94e1-88b0f5d548d7",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "date": "08/26/2022, 08:56:38"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1661176827000,
+            "content": "We were due to go to Oxford during our trip, but due to the train strike we needed a plan B. We decided to do the hop-on/off river cruise as a way to get around. It resulted in us going to Greenwich which was fantastic. The crew was great and we learned a lot of history about the river and the businesses along it. I definitely recommend it!",
+            "id": "masked_269a8c1c-fb2c-4bb4-bf26-d4587009dfa5",
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_8a422ad1-7906-4dc0-8974-00a953a4382a",
+                "avatar": null
+            },
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 4,
+            "date": "08/22/2022, 07:00:27"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1660835996000,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_27023a3b-ec63-4587-bf88-52cec502da18"
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "Don't rate Viator paid for Thames cruise but never received proper tickets by e mail . Very disappointed ",
+            "id": "masked_403e365c-21db-45f7-945c-fbe0263cb8bb",
+            "numericRating": 1,
+            "date": "08/18/2022, 08:19:56"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1660666295000,
+            "votes": null,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_352d9ab7-e192-4808-9f56-c64ef694c33e",
+                "avatar": null
+            },
+            "id": "masked_b756f041-9139-44a3-bd41-a64af7a1a61f",
+            "content": "Only three stops (Westminster, Tower and Greenwich) and gets crowded but was a really cool way to see the sights and all the captains had great commentary. Bar has decent options too. ",
+            "numericRating": 4,
+            "date": "08/16/2022, 09:11:35"
+        },
+        {
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_cf47f757-2bd2-4fb5-8458-7e049a05bea3"
+            },
+            "rating": null,
+            "id": "masked_6c39130a-1bc0-4859-893c-5c3611692ffb",
+            "content": "It was really nice and wonderful as we got to see all the major spots with a bit of more information by cruise about the River Thames and specially the London Bridge which might surprise you too. If you are doing the tour early then suggest you go all the way to Greenwich pier and then start your way backwards by then hop off and on on the return after visiting this beautiful town. ",
+            "numericRating": 5,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1659969201000,
+            "votes": null,
+            "date": "08/08/2022, 07:33:21"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1659853418000,
+            "content": "The live commentary was great!!  Beautiful day on the boat.  Best stop is Westminster pier.  Price is a bargain.",
+            "id": "masked_08f8e9ba-4bf7-4201-9f84-5de39b442321",
+            "user": {
+                "avatar": null,
+                "name": "masked_d618361d-b7d2-4909-af7a-ff785f7bb80f",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "08/06/2022, 23:23:38"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_f60d8b1b-a4d5-43fe-9816-5d3a2ffbfd7a",
+            "content": "It was a nice tour! The crew was telling the story of the buildings that could be seen from the river. \nWhen you buy this ticket you avoid doing the line. For me the info wasn't so clear, I had to do the line and lost the first boat, but there was another one 40 min later so it wasn't a problem.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_b19da229-28f7-4497-9d0e-59c355563e28",
+                "avatar": null
+            },
+            "votes": null,
+            "epochMs": 1659619664000,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "08/04/2022, 06:27:44"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1659591481000,
+            "votes": null,
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "name": "masked_d8e26881-8141-4962-a351-de2b646a0491",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "id": "masked_42531d04-9ff1-4179-8c8e-7d651d0f3b99",
+            "content": "The commentary was excellent and Greenwich and the village were really interesting and provided good shopping opportunities",
+            "numericRating": 5,
+            "date": "08/03/2022, 22:38:01"
+        },
+        {
+            "content": "The cruise was made extra special because of the crew sharing their knowledge of the history up and down the river.\n\n",
+            "id": "masked_e26df17d-eb5a-4e6d-abab-37e02dfbe82a",
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_dbd8f1a9-3ee3-46eb-b327-c0238c2fd473"
+            },
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1659015755000,
+            "date": "07/28/2022, 06:42:35"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1658812470000,
+            "id": "masked_46aaaa33-d50d-441e-8b7f-d68e9e62c9fd",
+            "content": "Wonderful views of the sights from the river. Crew was entertaining and informative. Definitely recommend!!",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_1b2d4cd8-3b78-4d77-96ed-4bcdff8ec06f"
+            },
+            "rating": null,
+            "numericRating": 5,
+            "date": "07/25/2022, 22:14:30"
+        },
+        {
+            "votes": null,
+            "epochMs": 1658777503000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "id": "masked_91538d4e-0775-4e39-ad59-a0fda957c440",
+            "content": "We loved the cruise in the River Thames and all we learned about the buildings and the history of each place. The person that talked about the sightseeing was great and funny. We get off in Greenwich, which was lovely, and returned in the evening. The boat is comfortable and everyone can have a good view to the surroundings.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_5b475bbb-2e86-4dfd-b729-08dc41de82cc",
+                "avatar": null
+            },
+            "date": "07/25/2022, 12:31:43"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1658744644000,
+            "id": "masked_a778ee84-d0f8-44e1-9cd3-746ce138b8e8",
+            "content": "Well worth the money the hop on hop off river Thames cruise. Plenty to see commentary by Jack was excellent and funny, we really enjoyed our trip from Tower pier to Greenwich then we went onto Westminster and back to Tower pier would definitely recommended. ",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_685bcc44-f677-46e6-8f9c-9a7d2b2de37c",
+                "avatar": null
+            },
+            "rating": null,
+            "numericRating": 5,
+            "date": "07/25/2022, 03:24:04"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "epochMs": 1658639649000,
+            "votes": null,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_fbe3b08e-641d-47d8-9e9a-f5c8ae7cd54d"
+            },
+            "id": "masked_fe225cfe-ec17-4b0b-ac1e-04bf32d35ee0",
+            "content": "If you’re visiting London and looking for a scenic boat tour to see lots of sights from The Thames, this is probably not it. This tour only had about 3 stops total. It was not as extensive as I was hoping. Also, it was incredibly busy with too many screaming kids and I couldn’t enjoy myself. I wish there was an “adults only” cruise option. ",
+            "numericRating": 2,
+            "date": "07/23/2022, 22:14:09"
+        },
+        {
+            "epochMs": 1658263979000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "numericRating": 3,
+            "user": {
+                "name": "masked_a09a42a6-49ca-4406-9f79-5745fe644dbe",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "I really enjoyed the crew commentary and the people running the boat were very friendly and pleasant. There are very few stops and they don't advertise what you should see at each stop. The hop on hop off boat tour in Paris does a much better job. Plus, if the crew doesn't want to do the tour, there is a recording to listen to. Not very personable. ",
+            "id": "masked_98dace31-1e40-49d2-98a0-156eeb3ef1f7",
+            "date": "07/19/2022, 13:52:59"
+        },
+        {
+            "votes": null,
+            "epochMs": 1657731163000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 4,
+            "content": "Guys on the trip very knowledgeable about London history and very funny. Only problem stories are repetitive. If you jump on and of boat. But still great fun . Weather extremely hot.",
+            "id": "masked_0c0f34d4-28a9-4b48-a98e-ac9029ddf540",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_a4f59b09-fe9d-45b6-bc6a-f7d25a2fe71e"
+            },
+            "isApproved": true,
+            "date": "07/13/2022, 09:52:43"
+        },
+        {
+            "epochMs": 1657302859000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 2,
+            "user": {
+                "avatar": null,
+                "name": "masked_d6cb0b39-842d-4077-a78b-fb63d05138f6",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "Needed more stops to get on and off.  Walked 30000 steps bc boat couldn't stop at places. Took us literally across the thames but when we wanted a ride back from that side it doesn't do that. ",
+            "id": "masked_ae3eeebd-b1a7-4c8f-9724-0b7d87ce365d",
+            "date": "07/08/2022, 10:54:19"
+        },
+        {
+            "votes": null,
+            "epochMs": 1656942662000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "content": "Trip to Westminster had a great crew member that gave us lots of facts and history.  \nWe got off and went to the prime meridian.  Trip back had a tape playing of the details and history.  Preferred the live commentary.",
+            "id": "masked_ae719df5-7cfd-4b90-a61c-265d82213a87",
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_913691a8-4c0d-476b-8a48-d94ee10efd99",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "date": "07/04/2022, 06:51:02"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1656831044000,
+            "id": "masked_aa3824e1-869b-420f-b2eb-586cd2755231",
+            "content": "Trip I’ve always wanted to do when in London. Weather was perfect. Great trip which I would highly recommend. ",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_2386371d-fb37-43b6-b5c9-b0df338ec8cd",
+                "avatar": null
+            },
+            "rating": null,
+            "numericRating": 5,
+            "date": "07/02/2022, 23:50:44"
+        },
+        {
+            "epochMs": 1656344181000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 4,
+            "user": {
+                "name": "masked_239ad7be-9c7f-4ee2-b832-f08807f3487e",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "Nice intro to London. Very quick trip from Tower Pier to Westminster. It certainly beat waiting in traffic on a double decker bus!  Narrator was informative and funny. ",
+            "id": "masked_16716931-8bbc-4fe0-94fe-dd0af05f2df8",
+            "date": "06/27/2022, 08:36:21"
+        },
+        {
+            "numericRating": 4,
+            "id": "masked_b62bff63-0cd0-4a64-b274-37603e083e00",
+            "content": "We were on the first boat out from tower bridge quay on Sunday June 12th heading to Greenwich. The guy on the mic was brilliant - just the right amount of interesting info with a little bit of comedy thrown in. I wish I had asked his name to give it a mention here but hopefully your rotas will tell you. The trip back was disappointing in comparison - just a voiceover with general info and loads of adverts. It was also out of synch with the journey and rather out of date. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_236b9538-2212-440f-ac28-1ef1227e9b5c"
+            },
+            "votes": null,
+            "epochMs": 1655098878000,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "06/12/2022, 22:41:18"
+        },
+        {
+            "id": "masked_8d6ec7b8-1bb3-4036-84fa-39314477d8ee",
+            "content": "First time in London. Appreciated any updates and info about London. \nLike statistics!. # of population etc.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_a95a6571-15e7-4273-97d9-28538d5cd805",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1654685521000,
+            "date": "06/08/2022, 03:52:01"
+        },
+        {
+            "epochMs": 1654091957000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 5,
+            "user": {
+                "name": "masked_0b2599d7-2d37-4c94-b813-4c4bd7cfd716",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "This tour was wonderful.  Especially the narrator on trip up river who was both funny and knowledgeable.  Would recommend this tour to all!\n",
+            "id": "masked_8a641c30-99b6-4fa5-b79f-6813e01b586b",
+            "date": "06/01/2022, 06:59:17"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1653283196000,
+            "id": "masked_eb15e0d4-4ec7-44bc-92b8-82625d8aea23",
+            "content": "way out on top deck was really lovely, and commentary was great. on way back we made the mistake to sit below deck - far far too hot and the microphone was so loud it was uncomfortable- it trigger a bad migraine by the time we got off one stop later. ",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_0a2a6aaf-dd36-4e5c-ad98-e9a0b62ea596"
+            },
+            "rating": null,
+            "numericRating": 3,
+            "date": "05/22/2022, 22:19:56"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1652591504000,
+            "content": "The commentary on our river cruise was great! HOWEVER! There is a long wait between boats. We waited 30 minutes for the boat from tower bridge to Greenwich and then had to wait another 30 minutes for it to return to tower bridge. ",
+            "id": "masked_16a84fa3-9144-450d-8cc4-96f4af13d253",
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_012e0041-0e14-4fbb-b526-72d6bfa1f787",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "numericRating": 3,
+            "date": "05/14/2022, 22:11:44"
+        },
+        {
+            "votes": null,
+            "epochMs": 1652374915000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "id": "masked_6362965d-6e3d-4025-96b9-76692b2af4fe",
+            "content": "Very easy to use. Great views. Crew is wonderful. Easy way to get to and from Greenwich. Royal Observatory, The Eye, and Parliament, and views of The Tower Bridge. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_aa7caebb-482b-4860-b2d6-d08ff196a8fd",
+                "avatar": null
+            },
+            "date": "05/12/2022, 10:01:55"
+        },
+        {
+            "numericRating": 5,
+            "content": "Great narration by the crew. Funny and informative. Gives you free reign of the Thames with the 24hr pass. Toured Westminster, Big Ben, London eye, Tower of London, tower bridge and green which all aboard the bot",
+            "id": "masked_734b5f47-7269-4452-bc42-8040e5628a55",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_c05d4841-711b-4ef5-8b96-fce505f4bc6a",
+                "avatar": null
+            },
+            "isApproved": true,
+            "votes": null,
+            "epochMs": 1652102379000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "date": "05/09/2022, 06:19:39"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1651900431000,
+            "content": "The crew were wonderful, especially Allie who provided interesting information with a lot of humor! A great way to learn about the history of England!",
+            "id": "masked_e1758288-d4e2-42ce-9bc0-211134e3e6f7",
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_a15bb94f-c956-4bef-940d-f3def5e57651",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "05/06/2022, 22:13:51"
+        },
+        {
+            "id": "masked_cedfc676-b5f3-4b7a-adfd-1762e43ad47b",
+            "content": "Great trip to Greenwich. Fantastic crew. Very fun. Unique views of the city. Observatory was a once in a lifetime experience. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_bcd7d386-706c-4c19-84bc-043647280381",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1651469603000,
+            "date": "05/01/2022, 22:33:23"
+        },
+        {
+            "numericRating": 5,
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_ae4cb268-3357-4eb5-b2b7-a0d64b8fa186"
+            },
+            "rating": null,
+            "id": "masked_379214bb-e07b-4d0a-8375-18332b042eb3",
+            "content": "I had a phobia about getting into the boat. The person commentary on board put me at ease. Very knowledgeable friendly team. Excellent all round. Thank you ",
+            "epochMs": 1650893103000,
+            "votes": null,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "04/25/2022, 06:25:03"
+        },
+        {
+            "numericRating": 3,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_83dacedd-2b50-461f-9bea-759dba13c121"
+            },
+            "id": "masked_a0b4b15a-65f4-45b2-a27d-5e8ae6fea664",
+            "content": "I did not enjoy the hop and hop off tour and Timing of the boats were poor and the seats were terrible ",
+            "epochMs": 1650876395000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "04/25/2022, 01:46:35"
+        },
+        {
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_2cfcab5d-b453-4e1f-a748-a483138891d2",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "content": "Got on our cruise at at 5.30 and it was the perfect time for us got ourselves a tea before the cruise started sat on top deck weather was lovely and then our guide took us down the Thames he was very good and very funny we did some laughing . Loved it 😍",
+            "id": "masked_52c7611e-e4b1-41e8-aee5-ac5ff6ada22a",
+            "epochMs": 1650000070000,
+            "votes": null,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "04/14/2022, 22:21:10"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "epochMs": 1649496111000,
+            "votes": null,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_4733ca99-092e-4431-90d1-588f61209da6",
+                "avatar": null
+            },
+            "id": "masked_37e466f6-4bba-4b14-a001-adc74195f3af",
+            "content": "Viator website was great to book however the confirmation scanned tickets didn't come through and I had to contact customer services.  \n\nThe commentary on the cruse from Westminster to Greenwich with Danny and his crew was excellent!! . The staff at Greenwich Pier were unhelpful when we were trying to return to London Tower. The Cruise was there but we were told we were too late and to  come back in an hour. Tone and timing was not pleasant or correct ",
+            "numericRating": 4,
+            "date": "04/09/2022, 02:21:51"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_a6a6170b-075b-4ccd-979c-e4d53b691616",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "id": "masked_7bfa8c26-8d6d-446d-8939-6146068aa38c",
+            "content": "The crew were absolutely amazing,  we learnt so much and they were so funny. Enjoyed every second. \n\nThank you ",
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1648445245000,
+            "votes": null,
+            "date": "03/27/2022, 22:27:25"
+        },
+        {
+            "votes": null,
+            "epochMs": 1638937158000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "id": "masked_4338a765-b4dd-49e0-af15-68e5c1b576bd",
+            "content": "Great experience Would use again nxt time in london Pleasant staff Drinks reasonable price Dont sit on top if its cold ha ha",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_db754266-3d39-454c-9ca9-da6f6507dbd7"
+            },
+            "rating": null,
+            "date": "12/07/2021, 20:19:18"
+        },
+        {
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_44ad5696-827a-4e3f-8b6a-57239e71aee9"
+            },
+            "isApproved": true,
+            "content": "I have to say ,the crew members was great.  They knew alot of history about the Thames.  I wish I had got his name, but I didn't! I found it very interesting.  He was much better than your running company commentary.  He knew loads . \nIt was a very reasonable price. The only thing I would say, is  that it said on my email  you had to change your e ticket to a proper ticket as we couldn't use as e ticket on boat .\nWhen we got there was told the e ticket  was fine ,which is fair enough, I found it a bit confusing to what I read about it . ",
+            "id": "masked_9ec92118-676e-48a9-b434-c03d4f4f3322",
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1638026443000,
+            "votes": null,
+            "date": "11/27/2021, 07:20:43"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_3bef2028-adf4-4bf3-9ca3-4401ca99fe73",
+            "content": "A really wonderful way to see London and a super boat to do it in. The crew onboard were all very helpful and the facilities were very clean. Alfie offered a very amusing  commentary that kept up entertained! We shall be back, thank you. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_dcf7d284-c2fb-4ccd-bfa2-a4a67415b420",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "votes": null,
+            "epochMs": 1637986031000,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "11/26/2021, 20:07:11"
+        },
+        {
+            "rating": null,
+            "user": {
+                "name": "masked_515b616d-d02c-40af-b60f-92d1c6cde93e",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "content": "The captains mate (not trained as a tour guide) should be a tour guide, brilliantly delivered and very informative with a few jokes added in. Thank you. ",
+            "id": "masked_88b5a272-29e5-4540-a76c-686c1138abf3",
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1637555096000,
+            "votes": null,
+            "date": "11/21/2021, 20:24:56"
+        },
+        {
+            "votes": null,
+            "epochMs": 1637127363000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 2,
+            "id": "masked_d9f4e97e-3ba8-423a-a3ef-0998eaa8532e",
+            "content": "I expected more information on the areas and more directions. It was basically a water Uber with a high price ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_49286689-77ff-454f-a326-c8771ea4faa9",
+                "avatar": null
+            },
+            "date": "11/16/2021, 21:36:03"
+        },
+        {
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1635093403000,
+            "id": "masked_8591cffb-e15b-4bda-adc6-499d93715ae4",
+            "content": "Definitely worth the money and highly recommended.  Very convenient and great commentary. Best way to see the best sites.",
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "name": "masked_4ef79427-bfe4-4e92-9efd-58cf8e10977f",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "numericRating": 5,
+            "date": "10/24/2021, 09:36:43"
+        },
+        {
+            "epochMs": 1634533653000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 5,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_09606b8b-8a2c-4f85-a743-3b59a188a08c",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "id": "masked_6fd576ef-248b-4fce-a1e6-840e89af988e",
+            "content": "Wheelchair accessible and friendly & helpful staff. Fun commentary which was really interesting. So much in London is hard work in a wheelchair, but this was brilliant. Everyone should do this trip at least once! ",
+            "date": "10/17/2021, 22:07:33"
+        },
+        {
+            "numericRating": 4,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_82c40f98-b496-49ad-838a-50ea49c570a9",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "id": "masked_89384a6a-c748-4e6d-8b93-6b8d482da126",
+            "content": "Best day out with family would recommend to others. Will be doing  this for my anniversary. In a few months ",
+            "epochMs": 1632670643000,
+            "votes": null,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "09/26/2021, 08:37:23"
+        },
+        {
+            "content": "It was funny and educational i learned things i didn't know about London so i would really recommend it to anyone ",
+            "id": "masked_412196b0-92fc-4af0-85c0-9e6eb152b4be",
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_a924f04c-19d4-41e2-96a6-acf561e9b3fd",
+                "avatar": null
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1632546571000,
+            "date": "09/24/2021, 22:09:31"
+        },
+        {
+            "epochMs": 1632287593000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "numericRating": 5,
+            "isApproved": true,
+            "user": {
+                "name": "masked_6fb04b0c-4503-4488-bdde-339dc8efad5f",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "id": "masked_09229066-e81d-46d8-a539-45589dbe5cd2",
+            "content": "The trip was really well put together & the commentary was informative, delivered with a dash of humour that made it very entertaining.\nHighly recommended.",
+            "date": "09/21/2021, 22:13:13"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_739557d2-db0f-4bfb-be8f-b0d4a35a4542",
+            "content": "Great way to get around and see the sights. The crew were very friendly and worked hard to make sure it was a memorable trip. Boat was very clean.",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_439582d6-b0b1-4829-bb3a-f353b1270dcc"
+            },
+            "rating": null,
+            "votes": null,
+            "epochMs": 1631424441000,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "09/11/2021, 22:27:21"
+        },
+        {
+            "id": "masked_c2c58b85-471e-4bb1-ba99-10503bbe3ca3",
+            "content": "Very educational trip down the Thames.. ..so much to see and learn about our Capital city...we all loved it.\nTour guides blokes....such a laugh, great day out",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_3766472a-1047-47ea-8bc2-81744666b42a"
+            },
+            "numericRating": 4,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1631037894000,
+            "date": "09/07/2021, 11:04:54"
+        },
+        {
+            "numericRating": 5,
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "name": "masked_36e17c86-c9cb-49a7-8337-38b92c4be2a5",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "id": "masked_a94de083-a091-46a5-8c47-99396d58ab53",
+            "content": "Great live narration lots of good historical info but also some light hearted comedy...small bar with bar snacks just right",
+            "epochMs": 1630927869000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "09/06/2021, 04:31:09"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1630847302000,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_dfeb6a65-3978-43fc-b576-0addbd045c63"
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "Well organised. Easy to locate boarding points. Boat clean and tidy. Resreshments good and live commentary lively, informative and amusing. Well worth it. ",
+            "id": "masked_57ed3bdd-aaa2-4dcb-a59b-a92ce6ec101b",
+            "numericRating": 5,
+            "date": "09/05/2021, 06:08:22"
+        },
+        {
+            "id": "masked_2eaaa2e0-ac26-42cb-8664-20a8356a33b0",
+            "content": "The crew were great and commentary by Jason added to the great experience aboard\nLoved it. Clean boat and facilities all good. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_d41907ec-8c45-478e-bec1-ce976845573a",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1630215251000,
+            "date": "08/28/2021, 22:34:11"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_202240aa-2125-450a-a631-9f9195a45470",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "id": "masked_03499831-d4b5-4214-a78f-72d8745a1ff3",
+            "content": "Entertaining commentary from the crew. It's voluntary so they ask for a small donation.  I didn't have any cash but I suggest you take some ",
+            "numericRating": 5,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "epochMs": 1630147716000,
+            "votes": null,
+            "date": "08/28/2021, 03:48:36"
+        },
+        {
+            "votes": null,
+            "epochMs": 1629387547000,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "id": "masked_8fd53151-9ddb-4f17-ae7d-f2a0a9dab2f9",
+            "content": "The commentary was brilliant.\nThe views were amazing.\nWe spent 3 hours almost just relaxing and enjoying the sights and the ride up and down the river. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_cff9bf58-a87b-45d7-b18a-0216b886a629",
+                "avatar": null
+            },
+            "date": "08/19/2021, 08:39:07"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_97104cf9-8317-4337-89ca-69e56475c23c",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "id": "masked_af8a028f-cbb3-421b-b3ee-d92f7e36f464",
+            "content": "The waterboatmen on our cruise were courteous and great fun in the way that they described London's landmarks and history.",
+            "numericRating": 5,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1629208003000,
+            "votes": null,
+            "date": "08/17/2021, 06:46:43"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1628771684000,
+            "votes": null,
+            "rating": null,
+            "user": {
+                "name": "masked_d308a717-c0d0-49bc-bed0-4699ffa521b1",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "content": "It was an excellent mix of excitement and fun and entertainment for three generations with the guide doing a great job of engaging with our grandson.\n",
+            "id": "masked_3dc9ae97-f9a2-4e38-8d3a-2dcf25c66915",
+            "numericRating": 5,
+            "date": "08/12/2021, 05:34:44"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "epochMs": 1628770141000,
+            "votes": null,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_b2cc9c9b-6a8b-46a7-8e0c-a1d2c12fe088",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "id": "masked_2494be63-d2b6-4633-9082-3c08b396aa1d",
+            "content": "Really enjoyed live commentaries and flexibility of on and off throughout the day to see and saviour all the sights. ",
+            "numericRating": 5,
+            "date": "08/12/2021, 05:09:01"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1628691311000,
+            "id": "masked_d645380c-e439-483c-ad83-0adaa72953d5",
+            "content": "Great fun and informative commentary from our crew member. Though please add info about the under river tunnel for Greenwich tourists.as we almost missed it. ",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_6bdca654-9184-400e-a850-af32ea0aed2c"
+            },
+            "rating": null,
+            "numericRating": 5,
+            "date": "08/11/2021, 07:15:11"
+        },
+        {
+            "isApproved": true,
+            "user": {
+                "name": "masked_5f8deeb6-df24-4a60-84ad-9e38078f188c",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "id": "masked_a8cc5997-119f-4409-9adb-0cddcbf73213",
+            "content": "Crew were polite and the commentary was great!\nLoved the humorous guide which was perfect to keep the kids entertained. Some great facts too. Kids were so happy we got to go back on the same boat as they loved the crew! ",
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "epochMs": 1628662488000,
+            "votes": null,
+            "date": "08/10/2021, 23:14:48"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1628334994000,
+            "content": "We really enjoyed this experience. The sights we visited were fascinating. We had enough time to explore before hopping onto the next boat to continue the tour. All together it took us six and a half hours to view the sights. The little timetable we were given of departure times was a nice touch. The gentleman that was giving us information on the sights was hilarious and made us chuckle. We highly recommend this tour. ",
+            "id": "masked_7d4bfc3a-7876-4204-a007-fa000c7b7a2c",
+            "user": {
+                "avatar": null,
+                "name": "masked_ebbab2e4-23bf-484c-bd69-ee3b1fb84ea8",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "08/07/2021, 04:16:34"
+        },
+        {
+            "votes": null,
+            "epochMs": 1628141747000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "numericRating": 5,
+            "content": "The speaker was hilarious with his sense of humour! The boarding & off were both great. We enjoyed the whole experience…",
+            "id": "masked_a9c9b1a4-30bc-43d1-875e-d25782655e30",
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_96a755d0-f9b5-419c-9ff7-2804cbeb7afa",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "date": "08/04/2021, 22:35:47"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_1e4a8e9d-368d-4799-97f1-8ee023ffe811",
+            "content": "It was easy to access and the staff were very friendly. We book a family ticket and enjoyed sitting on the top deck and the informative as well as humourous commentary. Thoroughly recommended. ",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_fce5344d-6d81-4704-9bae-3acbf9224587"
+            },
+            "rating": null,
+            "votes": null,
+            "epochMs": 1628099951000,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "08/04/2021, 10:59:11"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "epochMs": 1628055586000,
+            "votes": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_122cabad-24b5-41f0-888b-839fc90bf346",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "content": "The cruise itself was ok don't think it stops enough Piers and the first and last boat are quite early considering it's London.\nTrying to get my tickets was an effort to say the least turn up with a QR code to pick up your tickets they then spend 15-minutes filling out a paper form before printing off your tickets making you miss your ferry even though you're there 20 minutes before.\n\nCould be better off just getting the uber because you can go up and down the river for about 20 quid for the whole day and stop so many more Piers",
+            "id": "masked_c4a334c4-9853-4daf-b127-6180e2883919",
+            "numericRating": 3,
+            "date": "08/03/2021, 22:39:46"
+        },
+        {
+            "numericRating": 4,
+            "rating": null,
+            "user": {
+                "name": "masked_d2590016-dc9d-43bf-a4bc-d37f2728dad5",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "content": "The trip was great. The guide’s commentary was very educational.\nThe only issue was with the tickets we were sent from one place to another to get them redeemed and when hopped off at one of the piers had trouble with tickets again to get on. Apart from that all was ok.",
+            "id": "masked_c5bcb32c-5b2b-409a-9522-56d8e9976693",
+            "epochMs": 1627881397000,
+            "votes": null,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "date": "08/01/2021, 22:16:37"
+        },
+        {
+            "votes": null,
+            "epochMs": 1627022679000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "id": "masked_1cfc210d-4510-4bee-9542-39b6992118ab",
+            "content": "We went as a family of 6 - choosing one of the hottest days of the year but on the top of the boat it was divine with a gorgeous breeze ! Loved seeing the sights of London with a great commentary. I want to do it again !! ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_4f0063ea-c3b0-4096-bbeb-026cfb2a5557",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "date": "07/22/2021, 23:44:39"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1626931032000,
+            "content": "Ripped off. Paid £54 for 2 Adults and 1 Child only to find a family ticket priced at £40.50 on the Pier. When I queried it, just got, “We don’t sell that ticket”.\nThen the ticket didn’t scan when we tried to back on the cruise at Greenwich. The helpful lady had to take us to the ticket office to get tickets printed.\nThe cruise itself was great, just don’t book with this company (wonder if this review makes it to the website?)",
+            "id": "masked_356792c9-964d-4abe-9b01-fe2d66ab0880",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_b6b667df-013f-49c4-833e-7c556fdca92c"
+            },
+            "isApproved": true,
+            "numericRating": 3,
+            "date": "07/21/2021, 22:17:12"
+        },
+        {
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_7fabde77-2f9e-456c-96b9-d647cbd5a119"
+            },
+            "rating": null,
+            "id": "masked_c5381ab4-6078-4158-b4da-9a33606e0c8a",
+            "content": "Excellent live commentary from the crew. Very good value and enjoyable experience for the whole family (including hard-to-please teenagers!)",
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "epochMs": 1625516239000,
+            "votes": null,
+            "date": "07/05/2021, 13:17:19"
+        },
+        {
+            "epochMs": 1625292584000,
+            "votes": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "numericRating": 5,
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_efc38553-f4d7-4552-a967-5fe7bca1b699",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "id": "masked_a359f5f3-1461-4358-8e98-5d479dda0b11",
+            "content": "Our guide was quite funny. We had been on a similar boat a few years ago and actually learn some new things.  The weather was great so that added to the amazing views.",
+            "date": "07/02/2021, 23:09:44"
+        },
+        {
+            "numericRating": 2,
+            "id": "masked_fa91f023-ed97-46b2-8de9-07ecff5ad401",
+            "content": "the first 10 minutes  after which we got caught up in major traffic jams due to protests going on.    Stuck on the bus just looking at the thousands of protesters. The tour was then aborted.. The driver and conductor we very pleasant an apologetic. We only managed  Tower Bridge stop to Westminster before getting stuck in traffic. I had my 10 year old grandson who is autistic who got very agaitated.",
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "name": "masked_c3762ece-2a2c-4734-bf33-8a39cce1b013",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "votes": null,
+            "epochMs": 1624803230000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "date": "06/27/2021, 07:13:50"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1624536874000,
+            "id": "masked_9a0f39a1-9db0-4b3c-9131-64294e8f27a8",
+            "content": "Great trip with friendly crew - Takes in most of the main sights from the river. \n\nBe aware of a half an hour wait at Greenwich Pier if doing the trip in one and on a tight schedule. ",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_c16cc13c-53bb-4de3-9dea-cf3550f605d3"
+            },
+            "numericRating": 4,
+            "date": "06/24/2021, 05:14:34"
+        },
+        {
+            "content": "Had a wonderful time. Luckily it wasn't too busy so managed to get onto the boat quite early. Commentary was extremely interesting and really informative. My daughter and I went to Tower Bridge and then had a wander around The Tower of London. After stopping off for a drink and a snack we then rejoined the boat and went to Greenwich to see the Cutty Sark and then walked under the Thames via the Greenwich tunnel. We then joined the DLR and travelled to Stratford where we ended our journey as it was time to catch our train home\nFab day. 👍",
+            "id": "masked_a747083a-7d41-4954-bec1-0c43db556466",
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_949addb6-6a6d-453c-94a1-b3ea13b9ff80",
+                "avatar": null
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1624033632000,
+            "date": "06/18/2021, 09:27:12"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "votes": null,
+            "epochMs": 1622437630000,
+            "id": "masked_d7a49c58-4c1c-4384-acee-b36db93cc1d6",
+            "content": "Great experience. Guides/watermen were very knowledgeable and have lots of information.  Would definitely recommend this to people.",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_5bf7b037-0ac3-4233-882b-1b7f9b587bda",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "date": "05/30/2021, 22:07:10"
+        },
+        {
+            "votes": null,
+            "epochMs": 1602139304000,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "content": "Was such a lovely cruise with so much history I had never even thought about. Really interesting and the guide was great, funny and suitable for little ears! Felt very safe ",
+            "id": "masked_bccf2958-0827-45bf-ae17-81fb06ccd69b",
+            "user": {
+                "name": "masked_7031b71a-f581-4c7a-a9d5-ce35f11fdea3",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "date": "10/07/2020, 23:41:44"
+        },
+        {
+            "content": "The live guide was great! Thanks to Greg and Charlie, we had a great time and some good laughs. The boats look fine, everything was well-organized. Highly recommended! It would have been even better if the end station had been Greenwich, not just Tower Bridge.",
+            "id": "masked_39615688-89b0-4685-bb37-188c0eea6a29",
+            "rating": null,
+            "user": {
+                "name": "masked_463e908d-4177-4ce3-92fd-01c86449039a",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "numericRating": 5,
+            "language": "en-gb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1600700466000,
+            "date": "09/21/2020, 08:01:06"
+        },
+        {
+            "rating": null,
+            "user": {
+                "name": "masked_eadbde8f-fe85-44e7-bbd7-ce6d42e48f87",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "content": "Nice river tour but more commentary on the area we passed would have been better. Not just the odd landmark building. ",
+            "id": "masked_2c8f4262-6eb5-4573-8bb4-dca93b495d9b",
+            "numericRating": 3,
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "epochMs": 1595395654000,
+            "votes": null,
+            "date": "07/21/2020, 22:27:34"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1595051682000,
+            "content": "On the ticket the timings are different and cruise comes at 11:20 not at 10am. I wasted lot of my time 😔.",
+            "id": "masked_02f7945e-2624-41d5-a8c6-2d2d8479ee98",
+            "user": {
+                "avatar": null,
+                "name": "masked_06031873-8a96-437e-84fc-28c19fdb7b02",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 2,
+            "date": "07/17/2020, 22:54:42"
+        },
+        {
+            "rating": true,
+            "user": null,
+            "isApproved": true,
+            "content": "Als je graag op de Theems dobbert...laat je doorvoeren tot Greenwich en terug. Hop on en off hoeft dan niet... Wel super.",
+            "id": "masked_acd560e4-cefd-4da3-b901-5ba2d35599cd",
+            "numericRating": 4,
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "language": "nl",
+            "epochMs": 1671478313000,
+            "votes": null,
+            "date": "12/19/2022, 11:31:53"
+        },
+        {
+            "numericRating": 4,
+            "isApproved": true,
+            "user": {
+                "name": "masked_b96b23de-c7ea-473d-a4ba-47e58272bdfe",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "id": "masked_16b422df-cb3a-430e-b1d6-d139ff3f8b49",
+            "content": "Hermoso paseo, muy agradables los guías. Hubiera sido más lindo un poquito más largo. Recomendable...................",
+            "epochMs": 1665506814000,
+            "votes": null,
+            "language": "es",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "10/11/2022, 09:46:54"
+        },
+        {
+            "language": null,
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1672780900000,
+            "content": null,
+            "id": "masked_0b37f813-f83c-457d-b8a4-b9c2dffd92a3",
+            "user": null,
+            "rating": true,
+            "isApproved": false,
+            "numericRating": null,
+            "date": "01/03/2023, 13:21:40"
+        },
+        {
+            "isApproved": false,
+            "rating": true,
+            "user": null,
+            "id": "masked_4f3712d4-50da-4a26-97a4-2a31e632c9e8",
+            "content": null,
+            "numericRating": null,
+            "__typename": "AttractionsReview",
+            "providerName": null,
+            "language": null,
+            "epochMs": 1669822246000,
+            "votes": null,
+            "date": "11/30/2022, 07:30:46"
+        }
+    ]
+}

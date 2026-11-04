@@ -1,0 +1,1512 @@
+{
+    "operatedBy": "Urban Oyster Tours",
+    "flags": [
+        {
+            "__typename": "AttractionsProductFlags",
+            "value": true,
+            "flag": "highlyRated",
+            "rank": 1
+        }
+    ],
+    "__typename": "AttractionsProduct",
+    "whatsIncluded": [
+        "Food tastings",
+        "Guide services"
+    ],
+    "uniqueSellingPoints": null,
+    "contextUfiDetails": null,
+    "name": "Guided Food Walking Tour in Brooklyn",
+    "id": "PR0h06D4LlHa",
+    "accessibility": [
+        "Transport is wheelchair accessible",
+        "Wheelchair accessible",
+        "Surfaces are wheelchair accessible\t",
+        "Accessible to pushchairs/prams",
+        "Service animals welcome",
+        "Public transport links nearby"
+    ],
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckSupported": true,
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true
+    },
+    "primaryPhoto": {
+        "__typename": "AttractionsPhoto",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o="
+    },
+    "isBookable": true,
+    "representativePrice": {
+        "__typename": "AttractionsPrice",
+        "currency": "GBP",
+        "chargeAmount": 75.5,
+        "publicAmount": 75.5
+    },
+    "typicalDuration": null,
+    "cancellationPolicy": {
+        "isStillRefundable": true,
+        "percentage": 100,
+        "until": "2023-05-08T10:00:00-04:00",
+        "__typename": "AttractionsCancellationPolicy",
+        "hasFreeCancellation": true,
+        "period": "PT24H",
+        "comparedTo": "start"
+    },
+    "onSiteRequirements": {
+        "noAlcoholDuringDryDays": null,
+        "weight": null,
+        "age": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "writtenConsentForChildren": null,
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "adultSupervisionRequired": null,
+        "unsuitable": null,
+        "ticketCollection": null,
+        "earlyArrival": {
+            "__typename": "Minutes",
+            "minutes": 15,
+            "label": "Please arrive at least 15 minutes before the activity starts."
+        },
+        "voucherPrintingRequired": null,
+        "comfortableFootwearRecommended": {
+            "__typename": "Label",
+            "label": "Comfortable footwear is recommended."
+        },
+        "height": null,
+        "__typename": "OnSiteRequirements",
+        "onlyOperatesInGoodWeather": null,
+        "proofOfIdentityRequired": null
+    },
+    "typicalFrequency": null,
+    "healthSafety": [
+        "Not recommended for visitors with back problems",
+        "Suitable for all fitness levels"
+    ],
+    "covid": [],
+    "primaryLabel": null,
+    "addresses": {
+        "guestPickup": null,
+        "__typename": "AttractionsAddresses",
+        "entrance": null,
+        "departure": [
+            {
+                "locationType": "departure",
+                "__typename": "AttractionsAddress",
+                "publicTransport": null,
+                "zip": "11201",
+                "googlePlaceId": null,
+                "longitude": "-73.9918603308017",
+                "instructions": "Please meet your guide at the listed address, in front of the building entrance.",
+                "country": "us",
+                "id": "LO48bzNelQdM",
+                "city": "New York, NY",
+                "address": "Cadman Plaza W 200, Brooklyn, Brooklyn Heights",
+                "latitude": "40.6986358837468"
+            }
+        ],
+        "meeting": null,
+        "arrival": [
+            {
+                "id": "LO0FssFFVKLK",
+                "country": "us",
+                "instructions": null,
+                "city": "New York, NY",
+                "address": "Brooklyn, Dumbo",
+                "latitude": "40.7033424597209",
+                "locationType": "arrival",
+                "__typename": "AttractionsAddress",
+                "publicTransport": null,
+                "zip": "11231",
+                "googlePlaceId": null,
+                "longitude": "-73.987798309501"
+            }
+        ],
+        "attraction": null,
+        "pickup": null
+    },
+    "description": "During this guided walking tour in Brooklyn, you will be able to discover the local eateries in the DUMBO and Brooklyn Heights neighbourhoods.\r\n\r\nAlong the way, you'll visit bakeries, restaurants, food stands, the Time Out Market and the DUMBO Archway – a plaza where festivals and events take place throughout the year. \r\n\r\nYou'll have opportunities to sample pizza and other dishes. You'll also gain insight into the history of local restaurants and restaurant owners, as well as catch glimpses of famous landmarks such as the Brooklyn Bridge.",
+    "restrictions": [
+        "Please arrive at least 15 minutes before the activity starts.",
+        "Comfortable footwear is recommended.",
+        "A maximum of 12 participants is required. In case the number is reached, you will be suggested with a new date or full refund option."
+    ],
+    "supplierInfo": [
+        {
+            "details": {
+                "__typename": "AttractionsSupplierInfoDetails",
+                "name": "Urban Oyster Tours",
+                "address": "148 Lafayette Street  3rd Floor New York City New York 10013 US"
+            },
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false
+        }
+    ],
+    "offers": [
+        {
+            "benefits": {
+                "__typename": "Benefits",
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "freeTransportation": null
+            },
+            "additionalInfo": null,
+            "notIncluded": null,
+            "items": [
+                {
+                    "id": "OIcxSvGtOjHc",
+                    "travelerCountRequired": null,
+                    "duration": null,
+                    "label": "Adult",
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "maxAge": 99,
+                        "numChildren": null,
+                        "minAge": 12,
+                        "label": "(age 12-99)",
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "numAdults": null
+                    },
+                    "minPerReservation": null,
+                    "maxPerReservation": null
+                },
+                {
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "minAge": 6,
+                        "maxAge": 11,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "label": "(age 6-11)"
+                    },
+                    "duration": null,
+                    "label": "Child",
+                    "id": "OIzYZ4n57hcT",
+                    "travelerCountRequired": null
+                }
+            ],
+            "languageOptions": [
+                {
+                    "label": "English - Tour guide",
+                    "language": "en",
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption"
+                }
+            ],
+            "description": null,
+            "whatsIncluded": null,
+            "__typename": "Offer",
+            "label": "Local Flavors of Brooklyn Small-Group Walking Tour",
+            "locationInstructions": null,
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 1,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 9,
+                "adultRequiredForReservation": true
+            },
+            "typicalDuration": null,
+            "id": "OFGZhYxv8Kaw",
+            "typicalFrequency": null,
+            "availabilityType": "date_time"
+        }
+    ],
+    "timeZone": "America/New_York",
+    "taxonomy": {
+        "categories": [
+            {
+                "__typename": "Content",
+                "slug": "walking-tour",
+                "label": "Walking tour"
+            },
+            {
+                "label": "Outdoor tour",
+                "__typename": "Content",
+                "slug": "outdoor-tour"
+            }
+        ],
+        "__typename": "Taxonomy",
+        "type": {
+            "__typename": "Content",
+            "slug": "tours",
+            "label": "Tours"
+        },
+        "tags": [
+            {
+                "label": "Outdoor",
+                "__typename": "Content",
+                "slug": "outdoors"
+            },
+            {
+                "label": "Food & drink",
+                "__typename": "Content",
+                "slug": "food-drinks"
+            },
+            {
+                "__typename": "Content",
+                "slug": "walking-tour",
+                "label": "Walking tour"
+            },
+            {
+                "label": "Guided tour",
+                "slug": "guided-tour",
+                "__typename": "Content"
+            },
+            {
+                "label": "Great for food lovers",
+                "slug": "for-foodies",
+                "__typename": "Content"
+            },
+            {
+                "__typename": "Content",
+                "slug": "instagrammable",
+                "label": "Instagrammable"
+            },
+            {
+                "label": "Sightseeing",
+                "__typename": "Content",
+                "slug": "sightseeing"
+            },
+            {
+                "label": "Food tour",
+                "__typename": "Content",
+                "slug": "food-tour"
+            },
+            {
+                "slug": "food-tasting",
+                "__typename": "Content",
+                "label": "Tasting session"
+            },
+            {
+                "label": "Outdoor tour",
+                "__typename": "Content",
+                "slug": "outdoors-tour"
+            }
+        ]
+    },
+    "shortDescription": "A walking food tour in the DUMBO and Brooklyn Heights neighbourhoods",
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "type": "free_cancellation",
+            "text": "Free cancellation"
+        }
+    ],
+    "guideSupportedLanguages": [
+        "English (US)"
+    ],
+    "dietOptions": [],
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "additionalInfo": "This tour runs in all weather conditions. Please dress accordingly.\r\n\r\nVegetarians and people with other dietary restrictions can be accommodated with advance notice. Please mention any special dietary requirements you may have during checkout.\r\n\r\nIn the event of road or attraction closures, your guide will do their best to work around the obstacles or take you to alternate locations.\r\n\r\nPlease inform the tour provider if you’ll be bringing a child aged 0–5 years on the tour.\r\n\r\nFood options and portion sizes vary. The total amount of food you'll receive during the tour will constitute a full meal.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "postBookingInfo": null,
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 0,
+        "average": 0
+    },
+    "poweredBy": "Powered by Viator",
+    "notIncluded": [
+        "Additional food and drinks",
+        "Tips"
+    ],
+    "slug": "pr0h06d4llha-food-walking-tour-in-brooklyn",
+    "ufiDetails": {
+        "image": null,
+        "bCityName": "Brooklyn",
+        "attractionsCount": 706,
+        "countryName": "United States",
+        "bInCityName": "in Brooklyn",
+        "latitude": 40.6960857950378,
+        "banners": [],
+        "__typename": "AttractionLocationResponse",
+        "ufi": 20085207,
+        "url": {
+            "city": "brooklyn",
+            "country": "us",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions"
+        },
+        "longitude": -73.9845070528099
+    },
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Viator"
+        }
+    ],
+    "reviewsStats": {
+        "percentage": "100%",
+        "providerNumericStats": [
+            {
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 52,
+                "average": 4.9,
+                "providerName": "viator"
+            }
+        ],
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 2,
+        "isGoodScore": 1
+    },
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "photos": [
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143263310.jpg?k=f01496e17121f36e7c169f065e404193cd611b4872333034fcd165262a693906&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143263345.jpg?k=ceb6d9cdb59321c28602ff0d90ed45d8682830f7fe012ec43211ff7ae0e698c5&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143263345.jpg?k=ceb6d9cdb59321c28602ff0d90ed45d8682830f7fe012ec43211ff7ae0e698c5&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143263345.jpg?k=ceb6d9cdb59321c28602ff0d90ed45d8682830f7fe012ec43211ff7ae0e698c5&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/143263345.jpg?k=ceb6d9cdb59321c28602ff0d90ed45d8682830f7fe012ec43211ff7ae0e698c5&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143263380.jpg?k=3ac3fdc4b5e334bd441d9080a2e74ce4d58aff5944ecade1a199f29b478d825e&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143263380.jpg?k=3ac3fdc4b5e334bd441d9080a2e74ce4d58aff5944ecade1a199f29b478d825e&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143263380.jpg?k=3ac3fdc4b5e334bd441d9080a2e74ce4d58aff5944ecade1a199f29b478d825e&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/143263380.jpg?k=3ac3fdc4b5e334bd441d9080a2e74ce4d58aff5944ecade1a199f29b478d825e&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143263417.jpg?k=fefd3c6ed0bd999b00d3ac098e973ce2e2d938ad704c6f16527a8f725cd2905b&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143263417.jpg?k=fefd3c6ed0bd999b00d3ac098e973ce2e2d938ad704c6f16527a8f725cd2905b&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143263417.jpg?k=fefd3c6ed0bd999b00d3ac098e973ce2e2d938ad704c6f16527a8f725cd2905b&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143263417.jpg?k=fefd3c6ed0bd999b00d3ac098e973ce2e2d938ad704c6f16527a8f725cd2905b&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/143263451.jpg?k=98bd337836bf7d04e2cc93b06744dcd42794d00fb1fc01bb784e192073feb68b&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143263451.jpg?k=98bd337836bf7d04e2cc93b06744dcd42794d00fb1fc01bb784e192073feb68b&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/143263451.jpg?k=98bd337836bf7d04e2cc93b06744dcd42794d00fb1fc01bb784e192073feb68b&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143263451.jpg?k=98bd337836bf7d04e2cc93b06744dcd42794d00fb1fc01bb784e192073feb68b&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/148326661.jpg?k=3fe5a3bf463ca3b82c6f91419148a36dcba183dc95628045b23701a060f05fa9&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/148326661.jpg?k=3fe5a3bf463ca3b82c6f91419148a36dcba183dc95628045b23701a060f05fa9&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/148326661.jpg?k=3fe5a3bf463ca3b82c6f91419148a36dcba183dc95628045b23701a060f05fa9&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/148326661.jpg?k=3fe5a3bf463ca3b82c6f91419148a36dcba183dc95628045b23701a060f05fa9&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/196159227.jpg?k=7237a0f5987610a38c931aae5397ba519eac9f504dadf3645de2a9c0a4ecd62c&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/196159227.jpg?k=7237a0f5987610a38c931aae5397ba519eac9f504dadf3645de2a9c0a4ecd62c&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/196159227.jpg?k=7237a0f5987610a38c931aae5397ba519eac9f504dadf3645de2a9c0a4ecd62c&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/196159227.jpg?k=7237a0f5987610a38c931aae5397ba519eac9f504dadf3645de2a9c0a4ecd62c&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/196159237.jpg?k=698742a99198d82b66ca13af37be3dbc7c183e652a676294fe7381632291d2e1&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/196159237.jpg?k=698742a99198d82b66ca13af37be3dbc7c183e652a676294fe7381632291d2e1&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/196159237.jpg?k=698742a99198d82b66ca13af37be3dbc7c183e652a676294fe7381632291d2e1&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/196159237.jpg?k=698742a99198d82b66ca13af37be3dbc7c183e652a676294fe7381632291d2e1&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/196159252.jpg?k=ee07230631b3cbfce5fbbfb8d87adf2e1a9c03fbecd777ce651d7a7649a6779f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/196159252.jpg?k=ee07230631b3cbfce5fbbfb8d87adf2e1a9c03fbecd777ce651d7a7649a6779f&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/196159252.jpg?k=ee07230631b3cbfce5fbbfb8d87adf2e1a9c03fbecd777ce651d7a7649a6779f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/196159252.jpg?k=ee07230631b3cbfce5fbbfb8d87adf2e1a9c03fbecd777ce651d7a7649a6779f&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/196159261.jpg?k=76e8dd4f5480e5a6bc49506448218681229602b51cb83c3739b5169e84c80d32&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/196159261.jpg?k=76e8dd4f5480e5a6bc49506448218681229602b51cb83c3739b5169e84c80d32&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/196159261.jpg?k=76e8dd4f5480e5a6bc49506448218681229602b51cb83c3739b5169e84c80d32&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/196159261.jpg?k=76e8dd4f5480e5a6bc49506448218681229602b51cb83c3739b5169e84c80d32&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/196159273.jpg?k=926e2ac3a80748b039f7fa6e67455eed03dd3759b838ef09f442e2cd9073b1e2&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/196159273.jpg?k=926e2ac3a80748b039f7fa6e67455eed03dd3759b838ef09f442e2cd9073b1e2&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/196159273.jpg?k=926e2ac3a80748b039f7fa6e67455eed03dd3759b838ef09f442e2cd9073b1e2&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/196159273.jpg?k=926e2ac3a80748b039f7fa6e67455eed03dd3759b838ef09f442e2cd9073b1e2&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/196159282.jpg?k=2b2c29ff9679985640aac03a0a5a1c246d83e6779a47e37a27dffddc5765cdde&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/196159282.jpg?k=2b2c29ff9679985640aac03a0a5a1c246d83e6779a47e37a27dffddc5765cdde&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/196159282.jpg?k=2b2c29ff9679985640aac03a0a5a1c246d83e6779a47e37a27dffddc5765cdde&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/196159282.jpg?k=2b2c29ff9679985640aac03a0a5a1c246d83e6779a47e37a27dffddc5765cdde&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/196159288.jpg?k=40f301feb1eb005ec27eebe56aa7a25e2aa14c63fffb5f35682763d40ad5d680&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/196159288.jpg?k=40f301feb1eb005ec27eebe56aa7a25e2aa14c63fffb5f35682763d40ad5d680&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/196159288.jpg?k=40f301feb1eb005ec27eebe56aa7a25e2aa14c63fffb5f35682763d40ad5d680&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/196159288.jpg?k=40f301feb1eb005ec27eebe56aa7a25e2aa14c63fffb5f35682763d40ad5d680&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/196159294.jpg?k=7f5a2bebb5bef47a4ae5d9ac88d7a8a57c4fad6a82d9b684193fde070d755702&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/196159294.jpg?k=7f5a2bebb5bef47a4ae5d9ac88d7a8a57c4fad6a82d9b684193fde070d755702&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/196159294.jpg?k=7f5a2bebb5bef47a4ae5d9ac88d7a8a57c4fad6a82d9b684193fde070d755702&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/196159294.jpg?k=7f5a2bebb5bef47a4ae5d9ac88d7a8a57c4fad6a82d9b684193fde070d755702&o="
+        }
+    ],
+    "ufi": 20085207,
+    "additionalBookingInfo": null,
+    "audioSupportedLanguages": null,
+    "url": "https://www.booking.com/attractions/en/pr0h06d4llha-food-walking-tour-in-brooklyn.html",
+    "ReviewDetails": [
+        {
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_bd1c9266-9c54-42ec-bfc6-c5987909e6c7",
+            "language": "en-gb",
+            "numericRating": 5,
+            "epochMs": 1676371391000,
+            "content": "Wonderfully informative and enjoyable tour with great views and well-timed food breaks. A morning well-spent with tour guide Alex.",
+            "user": {
+                "cc1": "",
+                "name": "masked_7384b69a-c856-4aa7-9e4f-99d091914ca1",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "date": "02/14/2023, 02:43:11"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_2dc00d60-464a-46e3-8438-a231222ba3c6",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "id": "masked_328145a5-aa14-4c2a-a6f9-bba1849ee975",
+            "language": "en-gb",
+            "content": "Angelo, our tour guide, was awesome with energy and communication. We learned a lot about Brooklyn and Dumbo area and were able to try samples from local eateries. He was able to answer questions and give recommendations for other things to do in the area.",
+            "epochMs": 1674045511000,
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "01/18/2023, 04:38:31"
+        },
+        {
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_d2d2db85-203a-4235-805d-22fd436a3dc9",
+                "cc1": ""
+            },
+            "content": "A perfect way to get to know Brooklyn, through it's food. Egg sandwiches  bagels, cookies and empanadas were great. My sister-in-law remarked that we we've explored places they haven't been to - and she lives in NYC.\n\nHighlight was Juliana's pizza. You know why there's a queue everyday, even in the middle of winter.",
+            "epochMs": 1673034347000,
+            "numericRating": 5,
+            "id": "masked_2bc00040-8a1e-4ed7-b771-b9d80a0ae7be",
+            "language": "en-gb",
+            "date": "01/06/2023, 11:45:47"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "user": {
+                "cc1": "",
+                "name": "masked_cd423e63-f6b7-4f07-b635-682fddda5003",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "language": "en-gb",
+            "id": "masked_7194b548-654c-4528-aa1d-2e6f8ea2c807",
+            "numericRating": 5,
+            "epochMs": 1671355804000,
+            "content": "Angelo was a great guide and very knowledgeable. Enjoyed the storytelling. He was very patient and attentive. He made sure everyone was comfortable and enjoyed the tour. ",
+            "date": "12/18/2022, 01:30:04"
+        },
+        {
+            "epochMs": 1671191709000,
+            "content": "Had a wonderful tour with Angelo. His knowledge of the area and the history behind Brooklyn was engaging and enjoyable. Our kids had a great time on this tour.\n\nSaw parts of Brooklyn that we would not of seen on our own. Great photo opportunities.\n\nThe food was great and plentiful. Angelo went out of his way to find gluten free options for my wife.\n\nWould highly recommend this tour.",
+            "id": "masked_f57f638a-7130-46f3-aee0-1393d93e46e8",
+            "language": "en-gb",
+            "numericRating": 5,
+            "providerName": "viator",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_ccbdaa4a-c9f0-4295-a5be-1fa6801e0464"
+            },
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "date": "12/16/2022, 03:55:09"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_4b8766a9-c3a0-4f79-a9b2-722ecb54ad09",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "epochMs": 1670354706000,
+            "content": "Angelo was an amazing guide who not only gave us the history of Brooklyn and DUMBO but also was great at sharing stories of inclusivity. All the food told a story as well if neighbours supporting each other and the resilience of people and communities. I would highly recommend this tour. And don’t forget the views. ",
+            "id": "masked_784e40b3-7f45-4720-93dc-cdadd0216510",
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "12/06/2022, 11:25:06"
+        },
+        {
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "name": "masked_1aca7b35-3f97-42ef-8dbc-cbb167561f0f",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "providerName": "viator",
+            "epochMs": 1668930710000,
+            "content": "Angelo our tour guide was amazing. He was very knowledgeable and told us great stories about the area . Amazing  food : bagels, pizza , dumplings , chocolate and more .. he gave us suggestions as to where to explore Brooklyn after the tour which we did ..we would definitely recommend this tour ",
+            "id": "masked_9f57ea38-88b3-459b-91ed-a41aa8017da9",
+            "language": "en-gb",
+            "numericRating": 5,
+            "date": "11/19/2022, 23:51:50"
+        },
+        {
+            "epochMs": 1667985046000,
+            "content": "Collin, our tour guide was excellent!  He was very knowledgeable about the areas we visited and the food samples were delicious. I highly recommend this tour!  ……and it was a beautiful fall day in Brooklyn!  ",
+            "id": "masked_03a21753-35ac-4301-855c-1755aa703e6d",
+            "language": "en-gb",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_d84c9e1f-7f9a-4133-8dff-2490fb136828"
+            },
+            "providerName": "viator",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "date": "11/09/2022, 01:10:46"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_c6d820ef-d317-4f01-ab7c-a728921bdcb1"
+            },
+            "language": "en-gb",
+            "id": "masked_cf8f553d-a33f-4420-83fb-92a65edada44",
+            "numericRating": 5,
+            "epochMs": 1667596373000,
+            "content": "Angelo was a great tour guy. Very professional and knowledgeable. Most important he cares about the communities shown to us. ",
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "date": "11/04/2022, 14:12:53"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_2d02a2fe-989b-4ed7-9379-e2fb9402a3e0",
+            "language": "en-gb",
+            "content": "The perfect combination of sightseeing and eating great food.   Especially liked the emphasis on local, traditional \"Ma and Pa\" businesses.  Hannah was extremely accommodating to tour participants' preferences - a flexible itinerary so everyone certainly got the most out of the three hours.  So nice to have a local New Yorker as tour guide.   For me, the start time of day (10am) was the best.",
+            "epochMs": 1666913216000,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_c062774e-cd68-4e07-a15d-84253f00eba5"
+            },
+            "providerName": "viator",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": null,
+            "date": "10/27/2022, 16:26:56"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_6dbaee45-55ac-4d9f-bcc0-d5d35e597102"
+            },
+            "providerName": "viator",
+            "content": "Angelo did a great job of providing a good mix of historical information (particularly about the Brooklyn Bridge and Brooklyn Heights) with various sampling snacks (bagels, dumplings, fried pickles, pizza and chocolate BON BONS (said in American accent)). He was always focused on ensuring the group had a good time with quality food and his research showed. \nWe really enjoyed the group getting together at the end at the Timeout Market to share a range of foods and the random insights into the area including celebrity sightings. A couple of suggestions for next time: 1- the meeting spot isn't easy to find for those not familiar with the area (the meeting address provided was, somewhat oddly, an apartment building and the address number was under scaffolding so not immediately clear). Perhaps simply meet in the nearby park next to the soccer field or near a landmark like outside the library down the street? 2 - We also thought the tour could've moved a bit quicker at times. It became quite tiring (yet worth it). \nThanks for an interesting half-day outside of Manhattan. Give this tour a go!\n",
+            "epochMs": 1666732143000,
+            "numericRating": 4,
+            "language": "en-gb",
+            "id": "masked_fb37820f-fca3-451b-bcd7-c0d98c607170",
+            "date": "10/25/2022, 14:09:03"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_4aa2ac45-762e-4bc9-af5d-affa0177e788",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "Our tour guide Angelo was great! We sampled several foods and learned so much about the area and it’s history. Highly recommend!!",
+            "epochMs": 1666537697000,
+            "numericRating": 5,
+            "id": "masked_0637faf2-cc57-42cb-825e-a29584e93d23",
+            "language": "en-gb",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "10/23/2022, 08:08:17"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_9b5f8c2d-897e-4fac-94f2-edcfb079ff10",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "content": "Angelo was a charming host and clearly has a passion for his work.  We learned a lot of history and got to experience with local food.",
+            "epochMs": 1666376608000,
+            "numericRating": 4,
+            "id": "masked_e45dade4-1ced-4357-b96f-f11a6c878298",
+            "language": "en-gb",
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "10/21/2022, 11:23:28"
+        },
+        {
+            "epochMs": 1665648105000,
+            "content": "We enjoyed Angelo, our guide, very much. We also greatly enjoyed the food and the trip to the Brooklyn Bridge.",
+            "language": "en-gb",
+            "id": "masked_bb5b1df3-8a2f-4219-ac5f-8d278d4d9936",
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_2b8b7ae8-51b4-424d-86e4-3b7601b8287e",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "date": "10/13/2022, 01:01:45"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_1ec5841f-7d56-440e-a037-2491dcbcf768",
+                "cc1": ""
+            },
+            "language": "en-gb",
+            "id": "masked_ab5115bc-9f8a-472b-bd2d-908c6231f8f5",
+            "numericRating": 5,
+            "epochMs": 1665344658000,
+            "content": "Angelo, the guide, really researched the area and told fascinating tales of both the good and the history of the area.   He kept us moving and entertained, educated, throughout the entire tour.  We have already recommended the tour to other friends.  \n\nThe bagel with schmear was outstanding, and the egg sandwich from Vineapple were outstanding.  Loved the dumplings and Jacques Torres chocolates too!   ",
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "date": "10/09/2022, 12:44:18"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_ab8b2e70-e41a-46d6-94aa-b09027f5035a"
+            },
+            "providerName": "viator",
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_e9ae0f47-1984-4218-8694-a1989fccc570",
+            "content": "Angelo is awesome!  Provided an incredible cultural, food, and history experience exploring the DUMBO neighborhood.  Personable, enthusiastic, flexible, and knowledgeable we recommend Angelo for a positively memorable New York experience.  ",
+            "epochMs": 1664626632000,
+            "date": "10/01/2022, 05:17:12"
+        },
+        {
+            "epochMs": 1664619353000,
+            "content": "Our tour guide Angelo was the best! So passionate about his trade! Knowledgeable! Learned a lot. Great experience!",
+            "id": "masked_3abee244-b770-4627-936b-dee599b8a819",
+            "language": "en-gb",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_3b1d4770-0ab8-4cbe-b147-132f1155f425"
+            },
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "date": "10/01/2022, 03:15:53"
+        },
+        {
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_a82e0209-9697-4c70-9e38-76706cca1cf7"
+            },
+            "epochMs": 1664020185000,
+            "content": "Hannah was an exceptional tour guide. Every stop was great. We had a  wonderful time and really got to explore Brooklyn in a way we have been able to otherwise. ",
+            "id": "masked_033321d1-0291-44de-b0e5-a71e0bfa9c56",
+            "language": "en-gb",
+            "numericRating": 5,
+            "date": "09/24/2022, 04:49:45"
+        },
+        {
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_7495b7f2-f6c7-4505-94f7-188b4d56c023",
+            "content": "Great tour of historic neighborhood section of Brooklyn, walk across 1/2 the bridge, and to the Time Out Market with a couple of other neighborhood stops. Guide was passionate about sharing important stories, very caring about guests needs, and helpful with photos. Good bit of fast paced walking with some standing rest stops and 2 “sitting” rests which was nice. Food tastings were good. Julianna’s pizza was our favorite. Was fun to take $2.75 ferry back to midtown Manhattan after the tour. Our group was 70, 49, and 28. ",
+            "epochMs": 1662806626000,
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_8bec57e7-f50e-41ba-8763-9d266dd6683b",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "date": "09/10/2022, 03:43:46"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_c16462b2-88cf-4412-a977-d3e16fa5c936",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "epochMs": 1658530636000,
+            "content": "Angelo was our tour guide and did an amazing job of sharing very interesting information about the Brooklyn Bridge and nearby neighborhoods.   The food we had was so delicious and we were stuffed!   We are definitely booking another tour in the near future.  ",
+            "language": "en-gb",
+            "id": "masked_7bcc34bc-c665-43f3-b05e-64a6abbfb16b",
+            "numericRating": 5,
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "07/22/2022, 15:57:16"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_eb831ed0-7b26-4894-83b1-0584a90760e9",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "epochMs": 1657622693000,
+            "content": "Our tour guide was knowledgeable, friendly, and responsive to our group. The history of Brooklyn was fascinating and the food was incredible. I appreciated that in a tour like this you get a glimpse into what locals know and tourists rarely get to experience. ",
+            "id": "masked_624608ae-7cbd-41da-bb11-9c848f855c83",
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "07/12/2022, 03:44:53"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_fd16cc07-e45a-43d8-b0f3-ce7d1c0e3e9d",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "language": "en-gb",
+            "id": "masked_0220c824-5bac-4c12-8d53-83cdd08543e6",
+            "numericRating": 5,
+            "epochMs": 1657554367000,
+            "content": "Great trip, very informative. I recommend skipping breakfast before this trip as you’ll get a lot of food samples on the trip!",
+            "date": "07/11/2022, 08:46:07"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "numericRating": 5,
+            "id": "masked_f474bfe2-af7a-4613-b959-b03c24fc26df",
+            "language": "en-gb",
+            "content": "Angelo was great! Very knowledgeable on the background and history of Brooklyn. The food was amazing. Highly recommended. ",
+            "epochMs": 1657355246000,
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_2b4e75db-9c5d-4575-9d34-d681d2355368",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "07/09/2022, 01:27:26"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_07459e82-28d2-4ecb-aee9-c14374dac1fb",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "id": "masked_9fdc3b44-d770-47c8-9d49-8456ef071d80",
+            "language": "en-gb",
+            "numericRating": 5,
+            "epochMs": 1655979618000,
+            "content": "Angelo was our tour guide. He was so knowledgeable on the area and history. He had several stories to share about people and events that happened in Brooklyn Heights, the Borrklyn and Manhattan Bridges, and DUMBO. He was able to show us locally owned shops and restaurants and we were given ideas of shops to explore after our tour. \n\nWe traveled with two teens, and both were as fascinated about the tour as the adults. \n\nThe food along the tour was also outstanding!",
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "06/23/2022, 03:20:18"
+        },
+        {
+            "user": {
+                "name": "masked_a9d61f04-7855-49db-9060-974cf7dbf250",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "providerName": "viator",
+            "epochMs": 1655139551000,
+            "content": "Our tour guide, Angelo, was great. Really nice guy and had lots of interesting information about places we visited. Seems to be genuinely interested and doing lots of research on Brooklyn.  Food was great and plentiful. Would have liked to see a few of the places where he got the food instead him getting everything by himself, but it was raining so maybe he wanted to keep us from getting wet. Lots of great pictures. Thanks Angelo!!",
+            "language": "en-gb",
+            "id": "masked_5d36d0f2-9dcd-4912-b58d-4cc7f916460b",
+            "numericRating": 5,
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "06/13/2022, 09:59:11"
+        },
+        {
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_341d9a81-fad0-4884-ac00-771fc9640f78",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "language": "en-gb",
+            "id": "masked_3fb55171-a4f2-4fc0-92f2-e4bb48d752c6",
+            "numericRating": 5,
+            "epochMs": 1654943067000,
+            "content": "Lots of really good food! Our tour guide was excellent! He was very knowledgeable of the area. I liked that it was a relatively small group (12 people). ",
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "06/11/2022, 03:24:27"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_d06ac6c5-8213-4812-b0a6-af96162babad"
+            },
+            "providerName": "viator",
+            "language": "en-gb",
+            "id": "masked_717c3f03-12c5-447d-97bc-1ede7af8effe",
+            "numericRating": 5,
+            "epochMs": 1654516316000,
+            "content": "It was a beautiful day and a wonderful tour. We learned a lot about Brooklyn and of some of the history of the areas. On our next trip we will have to do another tour",
+            "date": "06/06/2022, 04:51:56"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_02356144-445d-4133-8f8f-5b2ef65a596a",
+            "content": "Angelo was a terrific guide. He knows so much about the area and is passionate about preserving the area.",
+            "epochMs": 1654285979000,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_a170e50c-2c96-41f8-8bfb-898a144e9ad8"
+            },
+            "providerName": "viator",
+            "date": "06/03/2022, 12:52:59"
+        },
+        {
+            "user": {
+                "name": "masked_97c9d372-8d9e-4bd7-9eb6-9c5b37f8df3c",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "providerName": "viator",
+            "content": "We enjoyed our tour with Tour Guide Jessie, she perfectly give us a sumptous information about the history of Brooklyn and we really love that. Also, experiencing the dumb tour was awesome, it was perfectly good. \n\nGreetings from Philippines",
+            "epochMs": 1654150748000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_5c021325-6b4e-487d-9269-9223514bf6a0",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "06/01/2022, 23:19:08"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_1600437b-4dfc-4fa9-b64f-f8977ea6fd5a"
+            },
+            "providerName": "viator",
+            "id": "masked_b5822f51-5750-4c89-9bed-12ad9a2a216b",
+            "language": "en-gb",
+            "numericRating": 1,
+            "epochMs": 1653931180000,
+            "content": "Terrible service. We were running late and tried to reach out to both the tour operator directly and Viagor and no kne responded amd we missed it when we could have met up with them easily",
+            "date": "05/30/2022, 10:19:40"
+        },
+        {
+            "user": {
+                "name": "masked_894ba5e8-1671-4931-bf95-1da5767766c9",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "providerName": "viator",
+            "epochMs": 1653906074000,
+            "content": "Alex was a great tour guide. We enjoyed all the history and the sampling the diverse foods. I would definitely recommend this tour to those who would like to see some beautiful views of Brooklyn ",
+            "id": "masked_cfbdfcf9-5fcb-49b8-94c6-a7fc263e0994",
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "05/30/2022, 03:21:14"
+        },
+        {
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_fd4a2f9a-9500-437c-8b08-e5325b82f3f8",
+                "cc1": ""
+            },
+            "language": "en-gb",
+            "id": "masked_6e2e78bd-94ea-46da-babc-b8d407053c13",
+            "numericRating": 5,
+            "epochMs": 1653473847000,
+            "content": "Angelo has great passion for the city, great stories, history and food stops.  Enjoyed every minute of it. ",
+            "date": "05/25/2022, 03:17:27"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_dbb9240f-1c56-41b1-9931-2ff832358e45",
+                "cc1": ""
+            },
+            "content": "Perfect introduction to the area. Eric was  such an amazing guide - it felt like being with a friend in his neighbourhood. So passionate and knowledgable, who tells great stories. It’s more of a walking tour with great food, rather than just a food tour. ",
+            "epochMs": 1652786677000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_3087b1f0-9741-4ac7-86c6-18187ac3db72",
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "05/17/2022, 04:24:37"
+        },
+        {
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "content": "Eric was a fabulous guide & host. We tasted items from about 7 different outlets in these fabulous districts, don’t have breakfast before you go!\nDUMBO, Brooklyn Bridge & Brooklyn Heights were brought to life by Eric’s extensive knowledge. He’s a thoughtful & caring host, we enjoyed his company very much, many thanks!",
+            "epochMs": 1652189114000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_2160fa02-9ac6-4878-8df4-fa967f133f41",
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_f84ea26f-7178-4f7c-8be4-dc7e37454f30",
+                "cc1": ""
+            },
+            "date": "05/10/2022, 06:25:14"
+        },
+        {
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_84bb4f5f-624f-4fd3-a122-75e1c14394c6"
+            },
+            "providerName": "viator",
+            "content": "Seeing the bridges up close and learning about history of Brooklyn.\n\nFood tastings were delicious !\n\nThe group size made asking questions easy .",
+            "epochMs": 1652179148000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_cae19132-6df4-4180-b312-e164396b1554",
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "05/10/2022, 03:39:08"
+        },
+        {
+            "content": "We had a great time on our food tour of DUMBO.  Angelo was an excellent guide and shared interesting local history as well as giving us a flavor of the neighborhood.  It’s such a unique area.  We really enjoyed getting to know it.  Would definitely recommended this tour and Angelo!",
+            "epochMs": 1651969654000,
+            "numericRating": 5,
+            "id": "masked_91fa0e8e-16a0-4160-b18f-9e2d7953ac31",
+            "language": "en-gb",
+            "user": {
+                "cc1": "",
+                "name": "masked_3fa9cda2-4ef4-4f85-a03a-ac020ca6ff1f",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "date": "05/07/2022, 17:27:34"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "epochMs": 1651531755000,
+            "content": "It was great to explore this iconic area and learn so much about its past together with delicious tastings from local businesses.",
+            "language": "en-gb",
+            "id": "masked_86b3d813-cc9a-4558-ab26-65cad485885f",
+            "numericRating": 5,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_fbed2382-c39a-4ad5-abcd-840d5d028d85",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "date": "05/02/2022, 15:49:15"
+        },
+        {
+            "user": {
+                "name": "masked_106b5b2d-4537-4ec5-8f4f-58fd0b954b07",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_719325d4-8870-4b84-ac15-d041c16b17ec",
+            "content": "Walking across the Brooklyn Bridge and viewing the Manhattan skyline with the Manhattan and Brooklyn Bridge as the backdrop. Eric was so knowledgeable about the history of the area and so nice too! ",
+            "epochMs": 1651401375000,
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "date": "05/01/2022, 03:36:15"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_f1c751c5-09c4-4f0b-acd5-235f0e0dc5e4",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_76cc8c6d-a3ec-4ca1-8811-ec94c1286488",
+            "content": "This was a great tour. Our guide Angelo was terrific and he was very informative and knowledgeable. The food was tasty and well selected.",
+            "epochMs": 1651143223000,
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "04/28/2022, 03:53:43"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_b0c05e76-3a42-4f01-b389-bb601ba81804",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "The DUMBO  tour was informative and interactive. Erik our tour guide was prompt, polite and very knowledgeable. The food choices were exquisite.\n\nI would recommend this to friends and family!",
+            "epochMs": 1650807057000,
+            "numericRating": 5,
+            "id": "masked_df989202-87e2-4953-9d1f-8a1e94edae00",
+            "language": "en-gb",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "04/24/2022, 06:30:57"
+        },
+        {
+            "user": {
+                "name": "masked_ec087187-f6c2-4421-b74f-6625b7296445",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_8660ce8b-ea6b-4e90-8c7d-c1f95d043752",
+            "content": "My husband and I loved this tour. The tour guide, Angelo, was amazing, knowledgeable and friendly. The food was amazing and there was so much we didn’t need to eat dinner. Definitely recommend this tour.",
+            "epochMs": 1650547259000,
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "04/21/2022, 06:20:59"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_d09a167f-e3cc-4d99-b3e5-ef795f359f41",
+                "cc1": ""
+            },
+            "epochMs": 1650049334000,
+            "content": "Had been to the city before but never Brooklyn.   Was a great tour with great guide and food stops.  Recommend. ",
+            "id": "masked_0c4ebcf1-753c-46f0-bafd-f331fbd7b491",
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "04/15/2022, 12:02:14"
+        },
+        {
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_633d4260-2224-4cab-a1a4-387960339d85",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "epochMs": 1649624145000,
+            "content": "I wouldn’t have found all of the food spots myself so I really appreciated the tour. The guide was knowledgeable and passionate about the tour, food and nyc. ",
+            "id": "masked_1e3e93b7-ce07-40f4-bb71-8c62c5a7e3fe",
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "date": "04/10/2022, 13:55:45"
+        },
+        {
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_3e6e633e-104a-4d1c-9d53-4736a8c67be2",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "content": "Angelo was delightful as a tour guide, the food was great! It was nice to learn about a new area of NYC, especially the history.",
+            "epochMs": 1649382118000,
+            "numericRating": 5,
+            "id": "masked_47ab10e1-5ec0-482e-8e93-8bfe2e037c78",
+            "language": "en-gb",
+            "date": "04/07/2022, 18:41:58"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_abb2e0cd-0aca-40f1-92e6-6dee5f978f82",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_0f9ab0a8-893b-40f4-acc0-cc90932e4d38",
+            "content": "Angelo was a knowledgeable and personable tour guide! \nThe food stops made learning the history of Brooklyn all the most interesting!! ",
+            "epochMs": 1648981891000,
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "date": "04/03/2022, 03:31:31"
+        },
+        {
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_c22d1875-7bd4-4dc5-89b8-51ddd1726362",
+            "content": "Had an amazing time ! Our guide was enthusiastic, friendly, and well-versed in the history of Brooklyn and the various architecture. Also, all the food was exceptional.  ",
+            "epochMs": 1647947291000,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_423451f7-4be7-400a-9e88-70e89de3a894"
+            },
+            "providerName": "viator",
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "date": "03/22/2022, 04:08:11"
+        },
+        {
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "name": "masked_0c7b1d5d-c99b-497b-9005-e364cb85fff0",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "content": "I'm so glad I booked this particular tour.  I'd never been to Brooklyn before and it was the perfect, bite-sized adventure for the day. Brian was a spectacular host and guide, full of interesting stories and history, as well as a major foodie, as am I so we synched well. He entertained all my questions and chose some great neighborhood gems for quick, delicious bites.  No matter your favorite type of cuisine or dessert, DUMBO has it all. \n\nThe DUMBO and Brooklyn Heights areas are vibrant and hip while still keeping their important histories alive. A lot of the old warehouses, shoreline and abandoned residences are coming back to life in a big way. It felt very residential as well as \"startup\" business professional at the same time.  Luckily we had a beautiful, sunny spring day to take it all in. \n\nLastly, it's very easy to reach this tour, either by subway or ferry, which I used at the end to take a delightful, breezy 20 minute trip across the East River back into Manhattan when it was over.  \n\nI absolutely recommend this tour and Brian to get to know the City better! ",
+            "epochMs": 1647898120000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "id": "masked_6f16ad1e-105c-4cc7-8ac3-cc1b8e76d866",
+            "date": "03/21/2022, 14:28:40"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "providerName": "viator",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_f7785e4e-8918-46b2-93d4-2aaa245ff825"
+            },
+            "content": "Great food, great tour and Erik our guide was exceptional!! Take the time to do this tour you will really enjoy it.",
+            "epochMs": 1647784468000,
+            "numericRating": 5,
+            "id": "masked_8ec9c2e0-d89c-4fec-9834-2a62a638bd0f",
+            "language": "en-gb",
+            "date": "03/20/2022, 06:54:28"
+        },
+        {
+            "content": "Eric was great, very entertaining. Great food. Learned a lot about Brooklyn’s history and current cuisine. ",
+            "epochMs": 1647103626000,
+            "numericRating": 5,
+            "id": "masked_3a773b23-1227-40c1-9610-c83d1271591f",
+            "language": "en-gb",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_b85d17c3-ab05-4b3a-9dc9-0b8f57bef04f",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "date": "03/12/2022, 08:47:06"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "epochMs": 1645355806000,
+            "content": "Great experience!!! I tried food that I normally would never try….and loved it! would definitely recommend!! ",
+            "id": "masked_302c62c4-82af-46ed-8c64-e6af15b699f2",
+            "language": "en-gb",
+            "numericRating": 5,
+            "providerName": "viator",
+            "user": {
+                "name": "masked_b72e2afb-e781-404d-acb4-d4144efc946a",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "02/20/2022, 03:16:46"
+        },
+        {
+            "language": "en-us",
+            "id": "masked_7af32882-3318-4c78-a9b8-2791f01409c6",
+            "numericRating": null,
+            "epochMs": 1642477884000,
+            "content": "I had a great time and learned a lot about New York.  My guide was knowledgeable about the Brooklyn, Manhattan and Williamsburg Bridges’ history.  She also knew a lot about Brooklyn and DUMBO.  I had an excellent egg and cheese sandwich and a slice of Sicilian pizza.  Brought home an empanada, Jacques Torres chocolates, and adorable cookies.",
+            "user": {
+                "avatar": "https://lh3.googleusercontent.com/-B_-8KTuSvM0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclimKHRb1izKXx-BVkb2DK3zTUuhw/s96-c/photo.jpg",
+                "__typename": "AttractionsReviewUser",
+                "cc1": "us",
+                "name": "masked_277248de-b9ef-4066-922b-8d6ac1eed9b9"
+            },
+            "providerName": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": true,
+            "date": "01/17/2022, 19:51:24"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_50f1d08d-d50b-41c1-804b-6a9d69a2f7bf",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "language": "en-gb",
+            "id": "masked_98b1a120-7125-40ce-b795-314248f98830",
+            "numericRating": 5,
+            "epochMs": 1637146491000,
+            "content": "The guide was really great the food was really great and he let you travel at your own pace was very knowledgeable so glad I did this ",
+            "rating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "date": "11/17/2021, 02:54:51"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_7e294d20-d3cc-4424-b53a-5811c904b9f7",
+            "language": "en-gb",
+            "content": "My daughter and I had a fabulous tour with Brian! We tasted great food, learned so much about the neighborhoods of Brooklyn, and enjoyed the day as locals would- chatting up folks all throughout!  Highly recommend this! Oh and we walked away totally full and with good recommendations for the rest of the day and evening!  Julie",
+            "epochMs": 1629022968000,
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_890afcf1-813c-4052-887f-c9a375cff3c6",
+                "cc1": ""
+            },
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "date": "08/15/2021, 03:22:48"
+        },
+        {
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": true,
+            "content": "",
+            "epochMs": 1641694759000,
+            "numericRating": null,
+            "id": "masked_abdd8f47-f4f8-4b1a-a739-a4df2ea29ad6",
+            "language": null,
+            "providerName": null,
+            "user": null,
+            "date": "01/08/2022, 18:19:19"
+        }
+    ]
+}

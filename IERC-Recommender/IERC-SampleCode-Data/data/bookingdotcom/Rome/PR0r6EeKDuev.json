@@ -1,0 +1,1126 @@
+{
+    "primaryPhoto": {
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "shortDescription": "Antipasti paired with regional wines enjoyed in a cellar with a sommelier",
+    "id": "PR0r6EeKDuev",
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Musement",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "postBookingInfo": "The tour is wheelchair accessible. Please inform the tour operator at the time of booking if wheelchair assistance is required. \r\n\r\nSome tour destinations may be unavailable due to unforeseen circumstances. In these cases, the tour operator will offer participants an extended tour in order to cover the duration of the initial tour offer. \r\n\r\nPlease arrive at the meeting point at least ten minutes before departure.",
+    "typicalFrequency": null,
+    "uniqueSellingPoints": [
+        "Local food paired with fine regional wines selected by a chef",
+        "A tour of a wine cellar led by a sommelier",
+        "A visit to the charming medieval village of Borgo"
+    ],
+    "taxonomy": {
+        "categories": [
+            {
+                "__typename": "Content",
+                "label": "Tasting session",
+                "slug": "tasting"
+            },
+            {
+                "__typename": "Content",
+                "label": "Food & drink",
+                "slug": "food-drinks"
+            }
+        ],
+        "type": {
+            "label": "Activities",
+            "__typename": "Content",
+            "slug": "activities"
+        },
+        "__typename": "Taxonomy",
+        "tags": [
+            {
+                "slug": "food-drinks",
+                "label": "Food & drink",
+                "__typename": "Content"
+            },
+            {
+                "slug": "food-tour",
+                "label": "Food tour",
+                "__typename": "Content"
+            },
+            {
+                "slug": "drinks-tour",
+                "__typename": "Content",
+                "label": "Drinks tour"
+            },
+            {
+                "__typename": "Content",
+                "label": "Wine tasting",
+                "slug": "wine-tasting"
+            }
+        ]
+    },
+    "isBookable": true,
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "typicalDuration": {
+        "value": "PT4H",
+        "label": "Duration: 4 hours",
+        "__typename": "Value"
+    },
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "average": 0,
+        "total": 0
+    },
+    "cancellationPolicy": {
+        "period": "PT24H",
+        "__typename": "AttractionsCancellationPolicy",
+        "hasFreeCancellation": true,
+        "until": "2023-05-24T11:30:00+02:00",
+        "isStillRefundable": true,
+        "percentage": 100,
+        "comparedTo": "start"
+    },
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "liveAvailabilityCheckPartiallySupported": null,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": null
+    },
+    "operatedBy": "Vinebliss Trip",
+    "notIncluded": null,
+    "description": "This tour departs from Rome in the morning and takes you out to the Roman countryside. The destination is the medieval village of Borgo. Once you reach, you'll be introduced to a sommelier, who will take you to a private cellar where you will learn the secrets of winemaking. \r\n\r\nThe next stop is at a restaurant, where you will be able to enjoy a selection of antipasti. You'll discover the Italian tradition of pre-dinner treats including a range of regional cheese, cured meat and Roman-style dishes. The chef will select a local wine to be paired with each course.",
+    "representativePrice": {
+        "publicAmount": 78,
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 78,
+        "currency": "GBP"
+    },
+    "slug": "pr0r6eekduev-roman-food-and-wine-tasting-in-borgo",
+    "ufi": -126693,
+    "audioSupportedLanguages": null,
+    "onSiteRequirements": {
+        "drivingLicenseRequired": null,
+        "__typename": "OnSiteRequirements",
+        "age": null,
+        "comfortableFootwearRecommended": {
+            "label": "Comfortable footwear is recommended.",
+            "__typename": "Label"
+        },
+        "noAlcoholDuringDryDays": null,
+        "weight": null,
+        "writtenConsentForChildren": null,
+        "noAlcoholDuringRamadan": null,
+        "proofOfIdentityRequired": null,
+        "unsuitable": null,
+        "adultSupervisionRequired": null,
+        "ticketCollection": null,
+        "earlyArrival": {
+            "__typename": "Minutes",
+            "label": "Please arrive at least 10 minutes before the activity starts.",
+            "minutes": 10
+        },
+        "voucherPrintingRequired": null,
+        "height": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "onlyOperatesInGoodWeather": null
+    },
+    "supplierInfo": [
+        {
+            "details": {
+                "name": "Musement S.p.A",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "via Polesine 13, 20139 Milan, Italy"
+            },
+            "isIndividual": false,
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "timeZone": "Europe/Rome",
+    "contextUfiDetails": null,
+    "offers": [
+        {
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "notIncluded": null,
+            "description": null,
+            "label": "3 wines + selection of cheese& cut meat ",
+            "id": "OF9V4p5PnNLU",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": true
+            },
+            "items": [
+                {
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "id": "OIs8xUaCidMj",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "constraint": {
+                        "minAge": 4,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 4-13)",
+                        "numPeople": null,
+                        "maxAge": 13
+                    }
+                },
+                {
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "label": "Adult",
+                    "id": "OI415l1xnz4B",
+                    "duration": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "minPerReservation": null
+                },
+                {
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "type": "infant",
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "id": "OIk3QqqHkg0O",
+                    "maxPerReservation": null,
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 0-3)",
+                        "numPeople": null,
+                        "maxAge": 3,
+                        "minAge": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxGroupSize": null
+                    }
+                }
+            ],
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "benefits": {
+                "inStoreDiscount": null,
+                "freeDrink": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "__typename": "Benefits",
+                "freeTransportation": null,
+                "skipTheLine": null
+            },
+            "typicalDuration": {
+                "__typename": "Value",
+                "label": "Duration: 4 hours",
+                "value": "PT4H"
+            },
+            "availabilityType": "date_time",
+            "languageOptions": null
+        },
+        {
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "typicalDuration": {
+                "__typename": "Value",
+                "label": "Duration: 4 hours",
+                "value": "PT4H"
+            },
+            "benefits": {
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "priorityLane": null,
+                "freeAudioGuide": null
+            },
+            "items": [
+                {
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "maxPerReservation": null,
+                    "id": "OInWyQFc4AOh",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null
+                },
+                {
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "type": "children",
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "constraint": {
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minAge": 4,
+                        "label": "(age 4-13)",
+                        "maxAge": 13,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null
+                    },
+                    "id": "OISOA7WHxqEy",
+                    "duration": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 3,
+                        "label": "(age 0-3)",
+                        "minAge": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age"
+                    },
+                    "label": "Infant",
+                    "duration": null,
+                    "id": "OIrKai7Xj5wz",
+                    "travelerCountRequired": null,
+                    "type": "infant",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null
+                }
+            ],
+            "locationInstructions": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null
+            },
+            "id": "OFM2fVVqKCgs",
+            "label": "3 wines starter + pasta + dessert(English)",
+            "notIncluded": null,
+            "description": null,
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "whatsIncluded": null
+        },
+        {
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "benefits": {
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "freeTransportation": null,
+                "skipTheLine": null
+            },
+            "typicalDuration": {
+                "value": "PT4H",
+                "label": "Duration: 4 hours",
+                "__typename": "Value"
+            },
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false
+            },
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "items": [
+                {
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minAge": 18,
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 18-64)",
+                        "maxAge": 64,
+                        "numPeople": null
+                    },
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "id": "OIgucWRaTKki",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null
+                }
+            ],
+            "id": "OF9iTIKhEDiH",
+            "description": null,
+            "notIncluded": null,
+            "label": "3 wine starter, pasta, dessert(Norwegian)",
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "whatsIncluded": null
+        },
+        {
+            "availabilityType": "date_time",
+            "languageOptions": null,
+            "locationInstructions": null,
+            "__typename": "Offer",
+            "items": [
+                {
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Adult",
+                    "constraint": {
+                        "label": "(age 18-64)",
+                        "maxAge": 64,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minAge": 18
+                    },
+                    "maxPerReservation": null,
+                    "id": "OI8jvEhBPrWX",
+                    "duration": null
+                }
+            ],
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": false,
+                "minOfferItemsPerReservation": 0
+            },
+            "typicalDuration": {
+                "__typename": "Value",
+                "label": "Duration: 4 hours",
+                "value": "PT4H"
+            },
+            "benefits": {
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "__typename": "Benefits",
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "skipTheLine": null,
+                "freeTransportation": null
+            },
+            "label": "3 wine starter, pasta, dessert(Swedish)",
+            "notIncluded": null,
+            "description": null,
+            "id": "OFwKUPg7KRKH",
+            "whatsIncluded": null,
+            "typicalFrequency": null,
+            "additionalInfo": null
+        },
+        {
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "whatsIncluded": null,
+            "id": "OFmjkJAbhi3T",
+            "label": "3 wines + selection of cheese& cut meat (English)",
+            "notIncluded": null,
+            "description": null,
+            "typicalDuration": {
+                "value": "PT4H",
+                "label": "Duration: 4 hours",
+                "__typename": "Value"
+            },
+            "benefits": {
+                "__typename": "Benefits",
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "inStoreDiscount": null,
+                "freeDrink": null,
+                "skipTheLine": null,
+                "freeTransportation": null
+            },
+            "items": [
+                {
+                    "id": "OI5NHgs4R1w2",
+                    "duration": null,
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 13,
+                        "label": "(age 4-13)",
+                        "minAge": 4,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age"
+                    },
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "type": "children",
+                    "travelerCountRequired": null
+                },
+                {
+                    "duration": null,
+                    "id": "OIBk9QH8oFqY",
+                    "maxPerReservation": null,
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "type": "adult",
+                    "__typename": "OfferItem"
+                },
+                {
+                    "travelerCountRequired": null,
+                    "type": "infant",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minAge": null,
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 0-3)",
+                        "maxAge": 3,
+                        "numPeople": null
+                    },
+                    "duration": null,
+                    "id": "OIt2U2FNrMiV"
+                }
+            ],
+            "locationInstructions": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null
+            },
+            "languageOptions": null,
+            "availabilityType": "date_time"
+        },
+        {
+            "typicalDuration": {
+                "label": "Duration: 4 hours",
+                "__typename": "Value",
+                "value": "PT4H"
+            },
+            "benefits": {
+                "__typename": "Benefits",
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "skipTheLine": null,
+                "freeTransportation": null
+            },
+            "items": [
+                {
+                    "duration": null,
+                    "id": "OIvLYhfHdHiT",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minAge": 15,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "numAdults": null,
+                        "numChildren": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 99,
+                        "label": "(age 15-99)"
+                    },
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null
+                },
+                {
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "type": "infant",
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "minAge": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 3,
+                        "label": "(age 0-3)"
+                    },
+                    "tieredPricing": false,
+                    "label": "Infant",
+                    "id": "OI9dOQAcbMwz",
+                    "duration": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": {
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minAge": 15,
+                        "label": "(age 15-99)",
+                        "maxAge": 99,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null
+                    },
+                    "label": "Adult",
+                    "id": "OI1Ev9sUltCW",
+                    "duration": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "minPerReservation": null
+                },
+                {
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "type": "infant",
+                    "travelerCountRequired": null,
+                    "id": "OIbRgE2p5uPm",
+                    "duration": null,
+                    "tieredPricing": false,
+                    "label": "Infant",
+                    "constraint": {
+                        "label": "(age 0-3)",
+                        "numPeople": null,
+                        "maxAge": 3,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minAge": null
+                    },
+                    "maxPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxAge": 14,
+                        "numPeople": null,
+                        "label": "(age 4-14)",
+                        "minAge": 4,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "__typename": "Constraint"
+                    },
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "duration": null,
+                    "id": "OI4ahnKnCeHr",
+                    "travelerCountRequired": null,
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null
+                },
+                {
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "constraint": {
+                        "minAge": 4,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "label": "(age 4-14)",
+                        "numPeople": null,
+                        "maxAge": 14
+                    },
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "id": "OILRlag0KGvc"
+                }
+            ],
+            "locationInstructions": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": true,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null
+            },
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "whatsIncluded": null,
+            "id": "OFhJtyyE15Mg",
+            "label": "3 wine starter, pasta, dessert",
+            "description": null,
+            "notIncluded": null
+        },
+        {
+            "benefits": {
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeDrink": null
+            },
+            "typicalDuration": {
+                "value": "PT4H",
+                "__typename": "Value",
+                "label": "Duration: 4 hours"
+            },
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false
+            },
+            "items": [
+                {
+                    "constraint": {
+                        "numPeople": null,
+                        "maxAge": 64,
+                        "label": "(age 18-64)",
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "minAge": 18
+                    },
+                    "tieredPricing": false,
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "id": "OInbRWpOhO40",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null
+                }
+            ],
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "whatsIncluded": null,
+            "id": "OFn7r4NzQdhN",
+            "notIncluded": null,
+            "description": null,
+            "label": "3 wine starter, pasta, dessert(English)"
+        },
+        {
+            "availabilityType": "date_time",
+            "languageOptions": null,
+            "items": [
+                {
+                    "duration": null,
+                    "id": "OITsxBa42x3t",
+                    "tieredPricing": false,
+                    "label": "Adult",
+                    "constraint": {
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minAge": 18,
+                        "label": "(age 18-64)",
+                        "maxAge": 64,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null
+                    },
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null
+                }
+            ],
+            "locationInstructions": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": false,
+                "minOfferItemsPerReservation": 0
+            },
+            "typicalDuration": {
+                "__typename": "Value",
+                "label": "Duration: 4 hours",
+                "value": "PT4H"
+            },
+            "benefits": {
+                "__typename": "Benefits",
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "inStoreDiscount": null,
+                "freeDrink": null,
+                "skipTheLine": null,
+                "freeTransportation": null
+            },
+            "label": "3 wine starter, pasta, dessert(Finnish)",
+            "notIncluded": null,
+            "description": null,
+            "id": "OFJhFKDN63pN",
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "typicalFrequency": null
+        },
+        {
+            "availabilityType": "date_time",
+            "languageOptions": null,
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 0
+            },
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "items": [
+                {
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "id": "OIoip5NaWSb6",
+                    "maxPerReservation": null,
+                    "constraint": null,
+                    "tieredPricing": false,
+                    "label": "Adult"
+                },
+                {
+                    "tieredPricing": false,
+                    "label": "Infant",
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxAge": 3,
+                        "numPeople": null,
+                        "label": "(age 0-3)",
+                        "minAge": null,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "__typename": "Constraint"
+                    },
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "id": "OIlhSAjBvi2H",
+                    "type": "infant",
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minAge": 4,
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "label": "(age 4-13)",
+                        "maxAge": 13,
+                        "numPeople": null
+                    },
+                    "duration": null,
+                    "id": "OID5u6PXdcZJ",
+                    "travelerCountRequired": null,
+                    "type": "children",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null
+                }
+            ],
+            "benefits": {
+                "__typename": "Benefits",
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "skipTheLine": null,
+                "freeTransportation": null
+            },
+            "typicalDuration": {
+                "label": "Duration: 4 hours",
+                "__typename": "Value",
+                "value": "PT4H"
+            },
+            "notIncluded": null,
+            "description": null,
+            "label": "3 wines starter + pasta + dessert",
+            "id": "OFuoP5smpTKT",
+            "whatsIncluded": null,
+            "typicalFrequency": null,
+            "additionalInfo": null
+        },
+        {
+            "label": "3 wine starter, pasta, dessert(Danish)",
+            "notIncluded": null,
+            "description": null,
+            "id": "OFA9TQxZD2zJ",
+            "whatsIncluded": null,
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "availabilityType": "date_time",
+            "languageOptions": null,
+            "__typename": "Offer",
+            "locationInstructions": null,
+            "items": [
+                {
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minAge": 18,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "numAdults": null,
+                        "numChildren": null,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "maxAge": 64,
+                        "label": "(age 18-64)"
+                    },
+                    "label": "Adult",
+                    "duration": null,
+                    "id": "OIpunnq3p0oa",
+                    "travelerCountRequired": null,
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null
+                }
+            ],
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false
+            },
+            "typicalDuration": {
+                "label": "Duration: 4 hours",
+                "__typename": "Value",
+                "value": "PT4H"
+            },
+            "benefits": {
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "__typename": "Benefits"
+            }
+        }
+    ],
+    "accessibility": [],
+    "healthSafety": [],
+    "additionalInfo": "The tour is wheelchair accessible. Please inform the tour operator at the time of booking if wheelchair assistance is required. \r\n\r\nSome tour destinations may be unavailable due to unforeseen circumstances. In these cases, the tour operator will offer participants an extended tour in order to cover the duration of the initial tour offer. \r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "itinerary": null,
+    "reviewsStats": {
+        "allReviewsCount": 3,
+        "percentage": "100%",
+        "providerNumericStats": [],
+        "isGoodScore": 1,
+        "__typename": "AttractionsProductReviewStats"
+    },
+    "poweredBy": "Powered by Musement",
+    "restrictions": [
+        "Please arrive at least 10 minutes before the activity starts.",
+        "Comfortable footwear is recommended."
+    ],
+    "primaryLabel": null,
+    "ufiDetails": {
+        "countryName": "Italy",
+        "__typename": "AttractionLocationResponse",
+        "bInCityName": "in Rome",
+        "ufi": -126693,
+        "latitude": 41.8958702087402,
+        "attractionsCount": 983,
+        "bCityName": "Rome",
+        "url": {
+            "city": "rome",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions",
+            "country": "it"
+        },
+        "image": null,
+        "banners": [],
+        "longitude": 12.4826173782349
+    },
+    "labels": [
+        {
+            "text": "Free cancellation",
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "covid": [],
+    "guideSupportedLanguages": null,
+    "whatsIncluded": [
+        "Transportation in an air-conditioned vehicle",
+        "Sommelier guide services",
+        "A cellar tour",
+        "Lunch",
+        "Three wine tastings"
+    ],
+    "dietOptions": [],
+    "additionalBookingInfo": null,
+    "photos": [
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144060518.jpg?k=27ae01cf704916ba039725217b9f4f3281317426d669f67e04123d1f85a32a05&o="
+        }
+    ],
+    "flags": null,
+    "name": "Roman Food and Wine Tasting in Borgo",
+    "__typename": "AttractionsProduct",
+    "addresses": {
+        "entrance": null,
+        "attraction": null,
+        "meeting": [
+            {
+                "googlePlaceId": null,
+                "locationType": "meeting",
+                "longitude": "12.4763145446777",
+                "city": "Rome",
+                "zip": "00187",
+                "id": "LOcAfQzICUd4",
+                "publicTransport": null,
+                "__typename": "AttractionsAddress",
+                "country": "it",
+                "address": "Porta del Popolo, Piazzale Flaminio",
+                "instructions": null,
+                "latitude": "41.9109649658203"
+            }
+        ],
+        "guestPickup": null,
+        "arrival": null,
+        "pickup": null,
+        "__typename": "AttractionsAddresses",
+        "departure": null
+    },
+    "url": "https://www.booking.com/attractions/en/pr0r6eekduev-roman-food-and-wine-tasting-in-borgo.html",
+    "ReviewDetails": [
+        {
+            "rating": true,
+            "language": "el",
+            "epochMs": 1665682647000,
+            "content": "Fantastic place!",
+            "user": null,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "isApproved": true,
+            "providerName": null,
+            "numericRating": null,
+            "id": "masked_08c9114e-5fa3-492d-8e68-a07c50ed2db1",
+            "date": "10/13/2022, 10:37:27"
+        },
+        {
+            "id": "masked_88ff5a21-16c7-42ce-80d2-5ecf1ea2339a",
+            "providerName": null,
+            "isApproved": false,
+            "numericRating": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "rating": true,
+            "language": null,
+            "epochMs": 1668683392000,
+            "user": null,
+            "content": null,
+            "date": "11/17/2022, 03:09:52"
+        },
+        {
+            "content": null,
+            "user": null,
+            "rating": true,
+            "language": null,
+            "epochMs": 1658991334000,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "isApproved": false,
+            "providerName": null,
+            "numericRating": null,
+            "id": "masked_a4d1839c-f2c8-4fdc-b3c5-3bed7316c8a6",
+            "date": "07/27/2022, 23:55:34"
+        }
+    ]
+}

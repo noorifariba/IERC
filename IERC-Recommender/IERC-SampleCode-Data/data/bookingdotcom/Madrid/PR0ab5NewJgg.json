@@ -1,0 +1,591 @@
+{
+    "taxonomy": {
+        "type": {
+            "__typename": "Content",
+            "slug": "tours",
+            "label": "Tours"
+        },
+        "tags": null,
+        "categories": [
+            {
+                "__typename": "Content",
+                "label": "Walking tour",
+                "slug": "walking-tour"
+            },
+            {
+                "__typename": "Content",
+                "slug": "cultural-tour",
+                "label": "Cultural tour"
+            },
+            {
+                "__typename": "Content",
+                "slug": "outdoor-tour",
+                "label": "Outdoor tour"
+            }
+        ],
+        "__typename": "Taxonomy"
+    },
+    "additionalInfo": "The minimum age for participating in this tour is 13 years.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "description": "On this three-hour private excursion, you’ll explore Madrid’s attractions on board a bike.\r\n\r\nLed by your guide, you’ll glide through the city’s pretty streets and see popular highlights, including Plaza de Cibeles and Puerta del Sol. You’ll also have a chance to admire the main medieval Plaza de la Villa as well as the Royal Palace of Madrid – the official residence of the Spanish royal family in the city.\r\n\r\nDuring your stops, you’ll have a chance to listen to your guide’s commentary about the sites’ historical and cultural significance. You can also tell your guide if you have any special requests to make the tour customised for your preferences.",
+    "contextUfiDetails": null,
+    "primaryPhoto": {
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "audioSupportedLanguages": null,
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "primaryLabel": null,
+    "name": "Private City Bike Tour",
+    "ufiDetails": {
+        "attractionsCount": 377,
+        "ufi": -390625,
+        "latitude": 40.4166984558105,
+        "url": {
+            "__typename": "AttractionLocationUrl",
+            "country": "es",
+            "prefix": "attractions",
+            "city": "madrid"
+        },
+        "image": null,
+        "countryName": "Spain",
+        "bCityName": "Madrid",
+        "__typename": "AttractionLocationResponse",
+        "banners": [],
+        "longitude": -3.70341992378235,
+        "bInCityName": "in Madrid"
+    },
+    "reviewsStats": {
+        "percentage": "0",
+        "allReviewsCount": 0,
+        "providerNumericStats": [
+            {
+                "average": 5,
+                "providerName": "viator",
+                "total": 1,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ],
+        "isGoodScore": 0,
+        "__typename": "AttractionsProductReviewStats"
+    },
+    "typicalDuration": null,
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas",
+        "Face masks provided",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Equipment sanitised between uses\t",
+        "Vehicles sanitised between uses",
+        "Staff required to wash hands regularly",
+        "Contactless payment for on-site purchases/tips"
+    ],
+    "guideSupportedLanguages": [
+        "English (UK)",
+        "Dutch",
+        "Spanish",
+        "French"
+    ],
+    "id": "PR0ab5NewJgg",
+    "notIncluded": [
+        "Food and drinks",
+        "Tips"
+    ],
+    "additionalBookingInfo": null,
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsPartiallySupported": true,
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false
+    },
+    "accessibility": [
+        "Public transport links nearby",
+        "Infant seats available"
+    ],
+    "poweredBy": "Powered by Viator",
+    "dietOptions": [],
+    "representativePrice": {
+        "chargeAmount": 33.3,
+        "currency": "GBP",
+        "publicAmount": 33.3,
+        "__typename": "AttractionsPrice"
+    },
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 0,
+        "average": 0
+    },
+    "healthSafety": [
+        "Not recommended for pregnant visitors",
+        "Not recommended for visitors with back problems",
+        "Suitable for all fitness levels"
+    ],
+    "timeZone": "Europe/Madrid",
+    "onSiteRequirements": {
+        "earlyArrival": null,
+        "drivingLicenseRequired": null,
+        "ticketCollection": null,
+        "height": null,
+        "comfortableFootwearRecommended": null,
+        "noAlcoholDuringDryDays": null,
+        "voucherPrintingRequired": null,
+        "unsuitable": null,
+        "age": null,
+        "onlyOperatesInGoodWeather": null,
+        "writtenConsentForChildren": null,
+        "noAlcoholDuringRamadan": null,
+        "adultSupervisionRequired": {
+            "__typename": "MaxAge",
+            "maxAge": 18,
+            "label": "Children under 18 years old must be accompanied by an adult."
+        },
+        "weight": null,
+        "proofOfIdentityRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "__typename": "OnSiteRequirements"
+    },
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "__typename": "AttractionsSupplierInfo",
+            "details": {
+                "name": "Rent  Roll",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "Calle Felipe IV, 10 madrid madrid 28014 ES"
+            }
+        }
+    ],
+    "labels": [
+        {
+            "text": "Free cancellation",
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "shortDescription": "A guided excursion to the city's attractions on board a bike",
+    "addresses": {
+        "meeting": null,
+        "entrance": null,
+        "attraction": null,
+        "departure": [
+            {
+                "googlePlaceId": "ChIJgw6HpJ0oQg0R0pumJmQWaOM",
+                "id": "LOc2blYSqEfp",
+                "latitude": "40.4149357",
+                "city": "Madrid",
+                "country": "es",
+                "longitude": "-3.6897806",
+                "instructions": "Please arrive at the listed address next to Cason del Buen Retiro.",
+                "address": "C. de Felipe IV 10",
+                "zip": "28014",
+                "locationType": "departure",
+                "publicTransport": null,
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "guestPickup": null,
+        "arrival": [
+            {
+                "googlePlaceId": "ChIJgw6HpJ0oQg0R0pumJmQWaOM",
+                "id": "LOUT9Pgg33Hd",
+                "latitude": "40.4149357",
+                "city": "Madrid",
+                "address": "C. de Felipe IV 10",
+                "instructions": null,
+                "longitude": "-3.6897806",
+                "country": "es",
+                "zip": "28014",
+                "locationType": "arrival",
+                "publicTransport": null,
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "__typename": "AttractionsAddresses",
+        "pickup": null
+    },
+    "slug": "pr0ab5newjgg-private-city-bike-tour",
+    "__typename": "AttractionsProduct",
+    "typicalFrequency": null,
+    "flags": null,
+    "whatsIncluded": [
+        "Guide services",
+        "Bike rental",
+        "Helment rental"
+    ],
+    "operatedBy": "Rent  Roll",
+    "cancellationPolicy": {
+        "comparedTo": "start",
+        "until": "2023-07-09T19:00:00+02:00",
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "percentage": 100,
+        "isStillRefundable": true,
+        "__typename": "AttractionsCancellationPolicy"
+    },
+    "ufi": -390625,
+    "postBookingInfo": null,
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "point_pickup"
+        }
+    ],
+    "restrictions": [
+        "Children under 18 years old must be accompanied by an adult."
+    ],
+    "offers": [
+        {
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "minOfferItemsPerReservation": 4,
+                "adultRequiredForReservation": true
+            },
+            "notIncluded": null,
+            "id": "OF4yjfhFI7Bq",
+            "description": null,
+            "benefits": {
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "skipTheLine": null
+            },
+            "languageOptions": [
+                {
+                    "language": "nl",
+                    "type": "guide",
+                    "label": "Dutch - Tour guide",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "label": "French - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "fr",
+                    "type": "guide"
+                },
+                {
+                    "language": "en",
+                    "type": "guide",
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "type": "guide",
+                    "language": "es",
+                    "label": "Spanish - Tour guide",
+                    "__typename": "OfferLanguageOption"
+                }
+            ],
+            "availabilityType": "date_time",
+            "__typename": "Offer",
+            "typicalFrequency": null,
+            "items": [
+                {
+                    "__typename": "OfferItem",
+                    "maxPerReservation": 15,
+                    "id": "OILp8QBTRbOo",
+                    "constraint": {
+                        "minGroupSize": null,
+                        "label": "(age 13-15)",
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "maxAge": 15,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "type": "age",
+                        "minAge": 13
+                    },
+                    "minPerReservation": null,
+                    "type": "children",
+                    "duration": null,
+                    "travelerCountRequired": null,
+                    "label": "Child",
+                    "tieredPricing": false
+                },
+                {
+                    "label": "Adult",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "maxPerReservation": 15,
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "numAdults": null,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "type": "age",
+                        "minAge": 16,
+                        "__typename": "Constraint",
+                        "maxAge": 99,
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "label": "(age 16-99)"
+                    },
+                    "id": "OIwl1B8jj4IV",
+                    "minPerReservation": 4,
+                    "type": "adult",
+                    "duration": null
+                }
+            ],
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "label": "Electric bike private tour",
+            "locationInstructions": null,
+            "typicalDuration": null
+        },
+        {
+            "description": null,
+            "id": "OFTUgUm7chvd",
+            "notIncluded": null,
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 4,
+                "maxOfferItemsPerReservation": 15,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true
+            },
+            "benefits": {
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "freeDrink": null,
+                "inStoreDiscount": null
+            },
+            "languageOptions": [
+                {
+                    "label": "French - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "fr",
+                    "type": "guide"
+                },
+                {
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "en",
+                    "type": "guide"
+                },
+                {
+                    "type": "guide",
+                    "language": "nl",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Dutch - Tour guide"
+                },
+                {
+                    "type": "guide",
+                    "language": "es",
+                    "label": "Spanish - Tour guide",
+                    "__typename": "OfferLanguageOption"
+                }
+            ],
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "label": "Child",
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "maxPerReservation": 15,
+                    "id": "OIQSK5Rmnyua",
+                    "constraint": {
+                        "maxAge": 15,
+                        "__typename": "Constraint",
+                        "minAge": 13,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "numPeople": null,
+                        "label": "(age 13-15)",
+                        "minGroupSize": null,
+                        "maxGroupSize": null
+                    },
+                    "type": "children",
+                    "minPerReservation": null,
+                    "duration": null
+                },
+                {
+                    "__typename": "OfferItem",
+                    "maxPerReservation": 15,
+                    "id": "OIITlijhUHw4",
+                    "constraint": {
+                        "maxGroupSize": null,
+                        "label": "(age 16-99)",
+                        "minGroupSize": null,
+                        "minAge": 16,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "type": "age",
+                        "maxAge": 99,
+                        "__typename": "Constraint"
+                    },
+                    "minPerReservation": 4,
+                    "type": "adult",
+                    "duration": null,
+                    "label": "Adult",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false
+                }
+            ],
+            "__typename": "Offer",
+            "typicalFrequency": null,
+            "availabilityType": "date_time",
+            "additionalInfo": null,
+            "whatsIncluded": null,
+            "locationInstructions": null,
+            "label": "Sunset 7:00pm",
+            "typicalDuration": null
+        }
+    ],
+    "uniqueSellingPoints": null,
+    "isBookable": true,
+    "photos": [
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558043.jpg?k=f1f2f3703d45581f271e45a6cb392d8f98ca4989ca836e471db07da03f930628&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558064.jpg?k=5e2b599d887734d4490ec0fd54846a25a183ff4763dc837a0091c989ccb857c1&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134558064.jpg?k=5e2b599d887734d4490ec0fd54846a25a183ff4763dc837a0091c989ccb857c1&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558064.jpg?k=5e2b599d887734d4490ec0fd54846a25a183ff4763dc837a0091c989ccb857c1&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558064.jpg?k=5e2b599d887734d4490ec0fd54846a25a183ff4763dc837a0091c989ccb857c1&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558083.jpg?k=8e0ac9f575660d83f1d708dd60b8131808f82ed03350bd4f9a6fa2f0a86d104e&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558083.jpg?k=8e0ac9f575660d83f1d708dd60b8131808f82ed03350bd4f9a6fa2f0a86d104e&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558083.jpg?k=8e0ac9f575660d83f1d708dd60b8131808f82ed03350bd4f9a6fa2f0a86d104e&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558083.jpg?k=8e0ac9f575660d83f1d708dd60b8131808f82ed03350bd4f9a6fa2f0a86d104e&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134558101.jpg?k=aa21fbd9dc3d680f2c4016ab8681816cf49d4b347e163ee6ad416ff24799991e&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558101.jpg?k=aa21fbd9dc3d680f2c4016ab8681816cf49d4b347e163ee6ad416ff24799991e&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558101.jpg?k=aa21fbd9dc3d680f2c4016ab8681816cf49d4b347e163ee6ad416ff24799991e&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558101.jpg?k=aa21fbd9dc3d680f2c4016ab8681816cf49d4b347e163ee6ad416ff24799991e&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558121.jpg?k=57fb604cddbc3882cd92436f864b5500272ac00a2aa9014c481676d4e9822523&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558121.jpg?k=57fb604cddbc3882cd92436f864b5500272ac00a2aa9014c481676d4e9822523&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558121.jpg?k=57fb604cddbc3882cd92436f864b5500272ac00a2aa9014c481676d4e9822523&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558121.jpg?k=57fb604cddbc3882cd92436f864b5500272ac00a2aa9014c481676d4e9822523&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558142.jpg?k=0918d2f34c132f7f1565ea075e78599654c4909710f9ac1049e1a304cf1a016f&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558142.jpg?k=0918d2f34c132f7f1565ea075e78599654c4909710f9ac1049e1a304cf1a016f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558142.jpg?k=0918d2f34c132f7f1565ea075e78599654c4909710f9ac1049e1a304cf1a016f&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134558142.jpg?k=0918d2f34c132f7f1565ea075e78599654c4909710f9ac1049e1a304cf1a016f&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558167.jpg?k=bd62ea2d58185d2a7e1db2e897358d233ff22290bf2a8b7e23328aaa13425fa4&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/134558167.jpg?k=bd62ea2d58185d2a7e1db2e897358d233ff22290bf2a8b7e23328aaa13425fa4&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558167.jpg?k=bd62ea2d58185d2a7e1db2e897358d233ff22290bf2a8b7e23328aaa13425fa4&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558167.jpg?k=bd62ea2d58185d2a7e1db2e897358d233ff22290bf2a8b7e23328aaa13425fa4&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558189.jpg?k=1a1b73090969ea086a922cb27c87d68a49b9d7471ee95264d660cbe7023550d7&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558189.jpg?k=1a1b73090969ea086a922cb27c87d68a49b9d7471ee95264d660cbe7023550d7&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558189.jpg?k=1a1b73090969ea086a922cb27c87d68a49b9d7471ee95264d660cbe7023550d7&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558189.jpg?k=1a1b73090969ea086a922cb27c87d68a49b9d7471ee95264d660cbe7023550d7&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134558207.jpg?k=30d45245cd1563f5929525b1e70e7f3fa983f1bcb20ba684f73fe783e1e3f0a4&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558207.jpg?k=30d45245cd1563f5929525b1e70e7f3fa983f1bcb20ba684f73fe783e1e3f0a4&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558207.jpg?k=30d45245cd1563f5929525b1e70e7f3fa983f1bcb20ba684f73fe783e1e3f0a4&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558207.jpg?k=30d45245cd1563f5929525b1e70e7f3fa983f1bcb20ba684f73fe783e1e3f0a4&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558228.jpg?k=c2d903721559ae5fd04fc0c8b193e394cf8917eec6a9fb72b181acf3276c96fd&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/134558228.jpg?k=c2d903721559ae5fd04fc0c8b193e394cf8917eec6a9fb72b181acf3276c96fd&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/134558228.jpg?k=c2d903721559ae5fd04fc0c8b193e394cf8917eec6a9fb72b181acf3276c96fd&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558228.jpg?k=c2d903721559ae5fd04fc0c8b193e394cf8917eec6a9fb72b181acf3276c96fd&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558250.jpg?k=88d84fe9dce03381b5708666a9d7f371a2f31cf2888e817b516092e8f57a2538&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558250.jpg?k=88d84fe9dce03381b5708666a9d7f371a2f31cf2888e817b516092e8f57a2538&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558250.jpg?k=88d84fe9dce03381b5708666a9d7f371a2f31cf2888e817b516092e8f57a2538&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558250.jpg?k=88d84fe9dce03381b5708666a9d7f371a2f31cf2888e817b516092e8f57a2538&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558282.jpg?k=99c3750219da466ffe1eb6d84f3a5b9c8fdc0c70bb7c6361d71d434e1a26bb38&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558282.jpg?k=99c3750219da466ffe1eb6d84f3a5b9c8fdc0c70bb7c6361d71d434e1a26bb38&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558282.jpg?k=99c3750219da466ffe1eb6d84f3a5b9c8fdc0c70bb7c6361d71d434e1a26bb38&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558282.jpg?k=99c3750219da466ffe1eb6d84f3a5b9c8fdc0c70bb7c6361d71d434e1a26bb38&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/134558314.jpg?k=c1fe56d8edab386f0c80702cbde5a590d6eddb8072cb43ed5b5a071e1b1b0124&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/134558314.jpg?k=c1fe56d8edab386f0c80702cbde5a590d6eddb8072cb43ed5b5a071e1b1b0124&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558314.jpg?k=c1fe56d8edab386f0c80702cbde5a590d6eddb8072cb43ed5b5a071e1b1b0124&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/134558314.jpg?k=c1fe56d8edab386f0c80702cbde5a590d6eddb8072cb43ed5b5a071e1b1b0124&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558337.jpg?k=8defa7b89d457525909f83c95c12c8312f696111e041b3817c8d82c8c33452d9&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/134558337.jpg?k=8defa7b89d457525909f83c95c12c8312f696111e041b3817c8d82c8c33452d9&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558337.jpg?k=8defa7b89d457525909f83c95c12c8312f696111e041b3817c8d82c8c33452d9&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558337.jpg?k=8defa7b89d457525909f83c95c12c8312f696111e041b3817c8d82c8c33452d9&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/134558361.jpg?k=d1d608ec3c30244e7a8e0b29f4ef63d542ce8d368d11d2358651c15e88aa6910&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/134558361.jpg?k=d1d608ec3c30244e7a8e0b29f4ef63d542ce8d368d11d2358651c15e88aa6910&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/134558361.jpg?k=d1d608ec3c30244e7a8e0b29f4ef63d542ce8d368d11d2358651c15e88aa6910&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/134558361.jpg?k=d1d608ec3c30244e7a8e0b29f4ef63d542ce8d368d11d2358651c15e88aa6910&o=",
+            "__typename": "AttractionsPhoto"
+        }
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0ab5newjgg-private-city-bike-tour.html",
+    "ReviewDetails": [
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "numericRating": 5,
+            "providerName": "viator",
+            "epochMs": 1667068362000,
+            "rating": null,
+            "id": "masked_2c7b99f9-545d-4bf1-9bba-85f486af0f9b",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_3fff6dee-d853-41e9-ae33-4877d274f55a",
+                "cc1": "",
+                "avatar": null
+            },
+            "votes": null,
+            "content": "Yanny was a wonderful guide and super knowledgeable. What great experience. Yanny was very chill and took us to great parts of Madrid. \n\nThe bikes were in perfect shape, which is important. Helmets were available with hairnets for cleanliness. \n\nWould absolutely do this again. ",
+            "isApproved": true,
+            "date": "10/29/2022, 11:32:42"
+        }
+    ]
+}

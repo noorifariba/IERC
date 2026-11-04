@@ -1,0 +1,693 @@
+{
+    "numericReviewsStats": {
+        "average": 0,
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 0
+    },
+    "name": "Two-hour Motorcycle and Sidecar Tour",
+    "ufiDetails": {
+        "bInCityName": "in Paris",
+        "countryName": "France",
+        "attractionsCount": 672,
+        "latitude": 48.8566821749061,
+        "banners": [],
+        "ufi": -1456928,
+        "longitude": 2.35147638246417,
+        "url": {
+            "prefix": "attractions",
+            "country": "fr",
+            "__typename": "AttractionLocationUrl",
+            "city": "paris"
+        },
+        "__typename": "AttractionLocationResponse",
+        "bCityName": "Paris",
+        "image": null
+    },
+    "additionalInfo": "Each vehicle can accommodate two passengers, with one passenger riding in the sidecar and one passenger riding on the motorcycle behind the driver.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "typicalFrequency": null,
+    "additionalBookingInfo": null,
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "__typename": "AttractionsSupplierInfo",
+            "details": {
+                "name": "RETRO TOUR",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "95, rue Victor Hugo Ivry-sur-Seine 94200 FR"
+            }
+        }
+    ],
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsPartiallySupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckSupported": true
+    },
+    "poweredBy": "Powered by Viator",
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "customer_pickup"
+        },
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "flags": null,
+    "accessibility": [
+        "Wheelchair accessible",
+        "Service animals welcome",
+        "Public transport links nearby"
+    ],
+    "isBookable": true,
+    "slug": "pr0wj6l5gbyf-two-hour-motorcycle-and-sidecar-tour",
+    "primaryLabel": null,
+    "operatedBy": "RETRO TOUR",
+    "representativePrice": {
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "publicAmount": 298.38,
+        "chargeAmount": 298.38
+    },
+    "reviewsStats": {
+        "allReviewsCount": 1,
+        "providerNumericStats": [
+            {
+                "total": 16,
+                "providerName": "viator",
+                "average": 4.9,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ],
+        "__typename": "AttractionsProductReviewStats",
+        "isGoodScore": 1,
+        "percentage": "100%"
+    },
+    "cancellationPolicy": {
+        "percentage": 100,
+        "__typename": "AttractionsCancellationPolicy",
+        "comparedTo": "start",
+        "isStillRefundable": true,
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "until": "2023-04-24T17:00:00+02:00"
+    },
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "id": "PR0Wj6l5gbyf",
+    "contextUfiDetails": null,
+    "typicalDuration": null,
+    "notIncluded": null,
+    "primaryPhoto": {
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+        "__typename": "AttractionsPhoto",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o="
+    },
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "whatsIncluded": [
+        "Hotel pickup and drop-off",
+        "Gloves and goggles",
+        "Driver",
+        "Guide services",
+        "Helmet"
+    ],
+    "timeZone": "Europe/Paris",
+    "photos": [
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935616.jpg?k=b2aa5f73d25f19f318cb508b04ace0d391d38c928a98bc1d85c0c156a311e47a&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935627.jpg?k=86234d55ede2bea9c9a1600469d9e2284270c0c52123529b4b33782b787e2937&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935627.jpg?k=86234d55ede2bea9c9a1600469d9e2284270c0c52123529b4b33782b787e2937&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935627.jpg?k=86234d55ede2bea9c9a1600469d9e2284270c0c52123529b4b33782b787e2937&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935627.jpg?k=86234d55ede2bea9c9a1600469d9e2284270c0c52123529b4b33782b787e2937&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/129935636.jpg?k=bd2939769aa8b42f3b5dd044a563a0cb7dcfa56b49a1d66f6e8a97ab6f48b236&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/129935636.jpg?k=bd2939769aa8b42f3b5dd044a563a0cb7dcfa56b49a1d66f6e8a97ab6f48b236&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935636.jpg?k=bd2939769aa8b42f3b5dd044a563a0cb7dcfa56b49a1d66f6e8a97ab6f48b236&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/129935636.jpg?k=bd2939769aa8b42f3b5dd044a563a0cb7dcfa56b49a1d66f6e8a97ab6f48b236&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/129935643.jpg?k=f1bd8d51c7324d6c58df3f4a4a58d2c82b4826388b3355677092abf27dd37f92&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935643.jpg?k=f1bd8d51c7324d6c58df3f4a4a58d2c82b4826388b3355677092abf27dd37f92&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935643.jpg?k=f1bd8d51c7324d6c58df3f4a4a58d2c82b4826388b3355677092abf27dd37f92&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935643.jpg?k=f1bd8d51c7324d6c58df3f4a4a58d2c82b4826388b3355677092abf27dd37f92&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935651.jpg?k=b21402082b772d7898dfa00f8f3b637ebe1d9cc180d58197a4076ac7520b8e95&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/129935651.jpg?k=b21402082b772d7898dfa00f8f3b637ebe1d9cc180d58197a4076ac7520b8e95&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935651.jpg?k=b21402082b772d7898dfa00f8f3b637ebe1d9cc180d58197a4076ac7520b8e95&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935651.jpg?k=b21402082b772d7898dfa00f8f3b637ebe1d9cc180d58197a4076ac7520b8e95&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935660.jpg?k=81d439a87b9f3dc3a8af9f406558f34756780ea7d6a1e6cf5144497021e5abbc&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935660.jpg?k=81d439a87b9f3dc3a8af9f406558f34756780ea7d6a1e6cf5144497021e5abbc&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935660.jpg?k=81d439a87b9f3dc3a8af9f406558f34756780ea7d6a1e6cf5144497021e5abbc&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/129935660.jpg?k=81d439a87b9f3dc3a8af9f406558f34756780ea7d6a1e6cf5144497021e5abbc&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/129935668.jpg?k=51744b25db459e529648a81ab5a21fe441b93e71ec597283dde028b3b549d255&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935668.jpg?k=51744b25db459e529648a81ab5a21fe441b93e71ec597283dde028b3b549d255&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935668.jpg?k=51744b25db459e529648a81ab5a21fe441b93e71ec597283dde028b3b549d255&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935668.jpg?k=51744b25db459e529648a81ab5a21fe441b93e71ec597283dde028b3b549d255&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/129935678.jpg?k=ce787f8239823fe2b2468c41725434abfda23d401e21a449e36255cacb2f6832&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/129935678.jpg?k=ce787f8239823fe2b2468c41725434abfda23d401e21a449e36255cacb2f6832&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/129935678.jpg?k=ce787f8239823fe2b2468c41725434abfda23d401e21a449e36255cacb2f6832&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/129935678.jpg?k=ce787f8239823fe2b2468c41725434abfda23d401e21a449e36255cacb2f6832&o=",
+            "__typename": "AttractionsPhoto"
+        }
+    ],
+    "description": "On this tour, you’ll have the chance to explore some of the highlights of Paris while riding on a sidecar motorcycle. \r\n\r\nAfter meeting your driver, you’ll set off on a two-hour city tour, making stops at various locations. You’ll start at the Rue de la Paix and travel towards the Palais Garnier opera house, where you can make a brief stop for pictures. You’ll then ride towards Rue Lepic before heading to Place du Tertre for a short walk through the streets. \r\n\r\nYou’ll also have the opportunity to explore many of the city’s famous landmarks, including The Basilica, the village of Montmartre, The Arc de Triomphe and Saint-Germain-des-Prés.",
+    "onSiteRequirements": {
+        "__typename": "OnSiteRequirements",
+        "height": null,
+        "noAlcoholDuringDryDays": null,
+        "drivingLicenseRequired": null,
+        "ticketCollection": null,
+        "noAlcoholDuringRamadan": null,
+        "onlyOperatesInGoodWeather": null,
+        "earlyArrival": null,
+        "proofOfIdentityRequired": null,
+        "unsuitable": null,
+        "voucherPrintingRequired": null,
+        "age": null,
+        "writtenConsentForChildren": null,
+        "adultSupervisionRequired": null,
+        "weight": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "comfortableFootwearRecommended": null
+    },
+    "offers": [
+        {
+            "id": "OFJV9oUoHdUs",
+            "availabilityType": "date_time",
+            "benefits": {
+                "freeTransportation": null,
+                "freeDrink": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "skipTheLine": null
+            },
+            "__typename": "Offer",
+            "typicalDuration": null,
+            "notIncluded": null,
+            "label": "Standard ticket",
+            "additionalInfo": null,
+            "items": [
+                {
+                    "id": "OI7V3P5to2BV",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "constraint": {
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "maxAge": 99,
+                        "label": "(age 1-99)",
+                        "numAdults": null,
+                        "type": "age",
+                        "numPeople": null,
+                        "minAge": 1
+                    },
+                    "tieredPricing": true,
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "label": "Adult",
+                    "type": "adult",
+                    "travelerCountRequired": null
+                }
+            ],
+            "whatsIncluded": null,
+            "description": null,
+            "locationInstructions": null,
+            "typicalFrequency": null,
+            "languageOptions": [
+                {
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "label": "English - Tour guide",
+                    "language": "en"
+                },
+                {
+                    "language": "fr",
+                    "label": "French - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                }
+            ],
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1,
+                "adultRequiredForReservation": false,
+                "maxOfferItemsPerReservation": 6
+            }
+        }
+    ],
+    "postBookingInfo": null,
+    "uniqueSellingPoints": [
+        "Two-hour tour of Paris landmarks",
+        "Travel by motorcycle and sidecar",
+        "Visit some of the city's landmarks"
+    ],
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation"
+        }
+    ],
+    "addresses": {
+        "attraction": null,
+        "arrival": [
+            {
+                "address": "Pl. de la Concorde",
+                "publicTransport": null,
+                "city": "Paris",
+                "googlePlaceId": null,
+                "country": "fr",
+                "__typename": "AttractionsAddress",
+                "id": "LOl2hCvXlD9x",
+                "zip": "75008",
+                "locationType": "arrival",
+                "longitude": "2.32062679830962",
+                "latitude": "48.8657734952633",
+                "instructions": null
+            }
+        ],
+        "guestPickup": null,
+        "__typename": "AttractionsAddresses",
+        "entrance": null,
+        "pickup": null,
+        "departure": [
+            {
+                "__typename": "AttractionsAddress",
+                "id": "LOozf2a96nwr",
+                "locationType": "departure",
+                "zip": "75008",
+                "longitude": "2.32056242528993",
+                "latitude": "48.8657523221604",
+                "instructions": "Please note that pickup and drop-off services are available from selected Paris hotels. Please enter your pickup details at checkout. \r\n\r\nPlease note that pickups will commence five minutes before the scheduled tour time.\r\n\r\nIf your hotel is not located in the listed pickup areas, please make your way to the designated meeting point.",
+                "address": "Pl. de la Concorde",
+                "publicTransport": null,
+                "city": "Paris",
+                "country": "fr",
+                "googlePlaceId": null
+            }
+        ],
+        "meeting": null
+    },
+    "shortDescription": "A guided tour exploring the sights of Paris by motorcycle",
+    "dietOptions": [],
+    "taxonomy": {
+        "tags": null,
+        "__typename": "Taxonomy",
+        "type": {
+            "label": "Tours",
+            "slug": "tours",
+            "__typename": "Content"
+        },
+        "categories": [
+            {
+                "slug": "car-tour",
+                "__typename": "Content",
+                "label": "Car tour"
+            }
+        ]
+    },
+    "__typename": "AttractionsProduct",
+    "audioSupportedLanguages": null,
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "guideSupportedLanguages": [
+        "English (UK)",
+        "French",
+        "Spanish"
+    ],
+    "covid": [
+        "Face masks provided",
+        "Hand sanitiser available for visitors and staff",
+        "Equipment sanitised between uses\t",
+        "Vehicles sanitised between uses",
+        "Staff required to wash hands regularly"
+    ],
+    "restrictions": [],
+    "ufi": -1456928,
+    "url": "https://www.booking.com/attractions/en/pr0wj6l5gbyf-two-hour-motorcycle-and-sidecar-tour.html",
+    "ReviewDetails": [
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_44997fa4-6558-4b44-9e57-ab53616a5261",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "id": "masked_3370912a-5c87-4079-8c3a-457fe67fea34",
+            "content": "I would recommend this to any friend or family member. It was SUCH a thrill exploring Paris with Max as our driver. Those we passed by offered us smiles and one even offered to take a photo of us with our phone. My sister and I got great insights into Paris' history and architecture as we toured the city on his motorcycle. He was entertaining, kind, and generous with our final destination. \n\nThis is a MUST for anyone's itinerary!\n",
+            "numericRating": 5,
+            "epochMs": 1675505254000,
+            "providerName": "viator",
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "date": "02/04/2023, 02:07:34"
+        },
+        {
+            "id": "masked_28d6b097-c055-44e8-bc2a-93facabcf2e4",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_0f2446da-1ba9-482b-b5d5-add74af4d4b1",
+                "cc1": ""
+            },
+            "numericRating": 5,
+            "epochMs": 1672856603000,
+            "content": "Alan & Roman were THEE BEST. My friends and I enjoyed each spot. They provided commentary, stories and were expert photographers. We have an amazing pictures and memories to memorialize our time in Paris. THANK YOU",
+            "rating": null,
+            "providerName": "viator",
+            "isApproved": true,
+            "votes": null,
+            "date": "01/04/2023, 10:23:23"
+        },
+        {
+            "epochMs": 1668395523000,
+            "numericRating": 5,
+            "content": "We loved every second of our tour with Michael! From Sacre Cour to the Latin Quarter, we got to explore alleys and neighborhoods where no bus tour could go. Plus the fun of being on a motorcycle with a sidecar 😁!! People waved, smiled, and laughed with us. \n\nMichael obviously loves Paris and is a fun, upbeat guide. We highly recommend. ",
+            "__typename": "AttractionsReview",
+            "id": "masked_2678a79d-9b1c-4f18-a703-37b6afde9114",
+            "language": "en-gb",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_17e057f5-1b28-4390-b4e7-e9df45ed33d7",
+                "cc1": ""
+            },
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "providerName": "viator",
+            "date": "11/13/2022, 19:12:03"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "content": "Max was an absolutely amazing tour guide and completely customized everything for us. He was a delight to talk to and we were able to see all the major sights. ",
+            "numericRating": 5,
+            "epochMs": 1666469846000,
+            "__typename": "AttractionsReview",
+            "id": "masked_c7946f1e-4977-45e3-a3d8-be5f153925a7",
+            "language": "en-gb",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_e3c44f88-13bc-42f2-a129-300b34b40218"
+            },
+            "date": "10/22/2022, 13:17:26"
+        },
+        {
+            "rating": null,
+            "providerName": "viator",
+            "isApproved": true,
+            "votes": null,
+            "id": "masked_301959db-f825-4865-b776-d40a906327c8",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_e5eb83aa-f33d-4287-be4a-d1a201198170",
+                "cc1": ""
+            },
+            "epochMs": 1665462643000,
+            "numericRating": 5,
+            "content": "Having been living in Paris for the last month, I was afraid this tour would be a bit “silly”, but I had first-timers to Paris with me and we had a fabulous, fun ride with delightful guide/drivers.  Everywhere we went, people smiled and waved.  A great time washad by all!",
+            "date": "10/10/2022, 21:30:43"
+        },
+        {
+            "numericRating": 4,
+            "epochMs": 1662179449000,
+            "content": "It was fun traveling on the motorcycle and truly experiencing Paris with our friendly guide! (We wish he could have spoken better English though and that they had a smaller helmet size too for us women) what a FUN time… would definately recommend this to a friend up for an adventure!!",
+            "id": "masked_f02fbbd0-b8b4-4364-866e-2205b4d407ae",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "user": {
+                "cc1": "",
+                "name": "masked_a2bafca6-c602-4ac6-9886-348883cf7fe6",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "providerName": "viator",
+            "date": "09/02/2022, 21:30:49"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "content": "Max our tour guide/driver was super fun and very knowledgeable!! We had a great time! When we bring our daughter back we will do the vintage side car tour again! ",
+            "epochMs": 1660408475000,
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_e3779aae-b7b1-40f4-9902-49debf810773",
+                "cc1": ""
+            },
+            "id": "masked_625ba577-4c12-4998-be96-072244800572",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "08/13/2022, 09:34:35"
+        },
+        {
+            "content": "I am so glad I booked this tour! I booked the tour because it seemed like a super cool way to show my 19-year old son around Paris. (I can speak French and I lived there for a year many years ago.) Well, my son had such bad allergies the day of the tour that he didn't want to go so I went on my own. I requested an English-speaking guide so my son could understand, so my guide, Gregoire, was surprised I could speak French and I wanted to speak in French the whole tour because I never get to speak it in the US. I decided to ask if we could veer off from the traditional tour because I already knew a lot of those places. He was completely flexible and took me to the places I had never seen before like the Ritz Hotel. He also drove right down to the bank of the Seine because I hadn't been down there this trip yet. It sound stupid but it's really kind of magical being right next to the Seine. We did go up to Montmartre - I got some great photos of the Moulin Rouge on the way and some great shots of Paris from Sacre Coeur. He also showed me some of these great hidden gem places with stories behind them (one was a square I can't remember the name of (not Place de Vosges) I was really interested in the story of Haussmann and his transformation of Paris - which some like and some don't - but the story fascinated me.\nWhat made the trip for me was the fact that I had such a friendly and engaging guide with a great sense of humor. He adapted easily to my changes in the route. He was about the age of my son so you'd think we'd really have nothing to talk about but we actually shared stories and had a lot of laughs along the way!\nEven though my son didn't go, this ended up being one of my favorite memories of the trip because I got to connect with a local person for a couple of hours and speak French too!",
+            "epochMs": 1657289586000,
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_59b370cb-dfe7-4033-9529-b2aa27f273d6",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "id": "masked_e74681c7-19a4-4850-91aa-13bcba4166db",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "date": "07/08/2022, 07:13:06"
+        },
+        {
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "providerName": "viator",
+            "epochMs": 1656089874000,
+            "numericRating": 5,
+            "content": "Greg was amazing showing us Paris!  We have been to Paris a few times, however, this time was our absolute favorite having the opportunity to see Paris in more detail.  We would definitely do this again!  Thank you Greg for the best tour ever!  ",
+            "user": {
+                "cc1": "",
+                "name": "masked_58563728-a891-4d6e-b5d5-3593e5170299",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "id": "masked_8daf7e96-a313-4146-8c27-88e7236d79ec",
+            "date": "06/24/2022, 09:57:54"
+        },
+        {
+            "providerName": "viator",
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "id": "masked_4ffdf535-e919-4866-bb75-c20d024b5c85",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "user": {
+                "name": "masked_244581e9-0854-4af7-8db5-2dcbd247e115",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "I’m tracking the path of an 18th century woman and Clement found the streets she where she lived and shopped so I really felt I was walking in her foosteps. It was great that he followed my interests rather than some prescrbed route. I’m only sorry I didn’t have cash for a tip because he certainly deserved one,",
+            "epochMs": 1652295348000,
+            "numericRating": 5,
+            "date": "05/11/2022, 11:55:48"
+        },
+        {
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "providerName": "viator",
+            "epochMs": 1651854755000,
+            "numericRating": 5,
+            "content": "Terry was very knowledgeable about all the sights and areas we saw in Paris. The sidecar ride was an unusual and exciting way to see Paris. Terry knew the streets of Paris very well and we always felt secure on our tour.",
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "id": "masked_349b6977-ce2e-4f82-9250-e137a2ccc84c",
+            "user": {
+                "cc1": "",
+                "name": "masked_0a29db9e-42fe-444a-b837-4c98d7470291",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "05/06/2022, 09:32:35"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "content": "We cruised along where big busses can’t go and it was so much fun! Our driver/guide, Derrick, was knowledgeable on history & architecture: an amazing experience. ",
+            "numericRating": 5,
+            "epochMs": 1650951736000,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_5941116c-6168-4b54-b7c1-cad0746e4aa7"
+            },
+            "__typename": "AttractionsReview",
+            "id": "masked_1803f5f6-ed24-482f-be9c-9df83d9775a3",
+            "language": "en-gb",
+            "date": "04/25/2022, 22:42:16"
+        },
+        {
+            "providerName": "viator",
+            "rating": null,
+            "votes": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "id": "masked_76502e01-ecab-4a28-8386-011167f7bfc8",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_7679b872-492e-4019-a144-7b3be46e84f8"
+            },
+            "content": "Amazing way to see Paris - the big bits and the little bank street lovely parts. Felt very safe and warm. Great hosts and friendly, informative insights as you go. The only think you note is that for our group of four it’s two bikes, so one in sidecar and one on bike behind the rider. Would do again!",
+            "numericRating": 5,
+            "epochMs": 1637378350000,
+            "date": "11/19/2021, 19:19:10"
+        },
+        {
+            "epochMs": 1627965434000,
+            "numericRating": 5,
+            "content": "This was amazing!! Romain was so accommodating, took us everywhere we wanted to go and made some great suggestions. By far, the highlight of our trip!\nAppreciated the hotel pick up too.",
+            "user": {
+                "cc1": "",
+                "name": "masked_470819c2-6ead-445f-a937-ddac6dc7744e",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "id": "masked_268532cf-6f1f-4fba-bbc9-6be2208aa91d",
+            "language": "en-gb",
+            "isApproved": true,
+            "votes": null,
+            "rating": null,
+            "providerName": "viator",
+            "date": "08/02/2021, 21:37:14"
+        },
+        {
+            "rating": true,
+            "providerName": null,
+            "isApproved": true,
+            "votes": null,
+            "id": "masked_563019f7-2735-4dd8-b6be-c97dfcbf48a8",
+            "__typename": "AttractionsReview",
+            "language": "de",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_bb6a569b-027b-41f8-990a-20c716415f56",
+                "cc1": "de"
+            },
+            "numericRating": null,
+            "epochMs": 1666005697000,
+            "content": "Es war ein ganz tolles Erlebnis, wir hatten einen super netten Guide und Fahrer und es hat nur Spaß gebracht!",
+            "date": "10/17/2022, 04:21:37"
+        },
+        {
+            "content": "Excellent après-midi avec Louis dans des quartiers de Paris dont je ne soupçonnais même pas l'existence. On n'avais plus du tout l'impression d'être a Paris. Un merveilleux dépaysement. Merci Louis !",
+            "epochMs": 1631165200000,
+            "numericRating": 5,
+            "user": {
+                "name": "masked_cae76db4-bdfa-4cd1-8ff3-846d301fde99",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "language": "fr",
+            "__typename": "AttractionsReview",
+            "id": "masked_e27cab04-7c96-447f-a3d3-7d6a44dba023",
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "date": "09/08/2021, 22:26:40"
+        },
+        {
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "rating": null,
+            "content": "super guide professionnel et attentionne\n\nVisite magique dans le temps, en 2 h de temps, nous avons pu visiter tous les endroits interessant",
+            "epochMs": 1600609527000,
+            "numericRating": 5,
+            "language": "fr",
+            "__typename": "AttractionsReview",
+            "id": "masked_84e1d755-f1b5-4001-a379-d78f1ba5877f",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_fec50ea8-9d09-4df5-9922-a8ee22439e1a",
+                "cc1": ""
+            },
+            "date": "09/20/2020, 06:45:27"
+        }
+    ]
+}

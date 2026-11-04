@@ -1,0 +1,1281 @@
+{
+    "audioSupportedLanguages": null,
+    "notIncluded": [
+        "Food and drinks",
+        "Tips",
+        "Hotel pickup and drop off"
+    ],
+    "onSiteRequirements": {
+        "unsuitable": null,
+        "comfortableFootwearRecommended": null,
+        "adultSupervisionRequired": null,
+        "age": null,
+        "noAlcoholDuringRamadan": null,
+        "__typename": "OnSiteRequirements",
+        "weight": null,
+        "proofOfIdentityRequired": null,
+        "drivingLicenseRequired": null,
+        "height": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "voucherPrintingRequired": null,
+        "writtenConsentForChildren": null,
+        "ticketCollection": null,
+        "onlyOperatesInGoodWeather": null,
+        "earlyArrival": null,
+        "noAlcoholDuringDryDays": null
+    },
+    "primaryPhoto": {
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+        "__typename": "AttractionsPhoto",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o="
+    },
+    "name": "Berlin Bike Tour",
+    "dietOptions": [],
+    "reviewsStats": {
+        "isGoodScore": 1,
+        "percentage": "100%",
+        "__typename": "AttractionsProductReviewStats",
+        "providerNumericStats": [
+            {
+                "total": 38,
+                "providerName": "viator",
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "average": 4.9
+            }
+        ],
+        "allReviewsCount": 1
+    },
+    "ufi": -1746443,
+    "shortDescription": "A guided tour to explore Berlin's highlights on a bike",
+    "__typename": "AttractionsProduct",
+    "ufiDetails": {
+        "ufi": -1746443,
+        "bInCityName": "in Berlin",
+        "attractionsCount": 302,
+        "countryName": "Germany",
+        "image": null,
+        "latitude": 52.5162142840317,
+        "banners": [],
+        "bCityName": "Berlin",
+        "url": {
+            "city": "berlin",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions",
+            "country": "de"
+        },
+        "__typename": "AttractionLocationResponse",
+        "longitude": 13.3768173214048
+    },
+    "isBookable": true,
+    "poweredBy": "Powered by Viator",
+    "whatsIncluded": [
+        "Bike and helmet rental"
+    ],
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true
+    },
+    "flags": null,
+    "addresses": {
+        "entrance": null,
+        "departure": [
+            {
+                "zip": "10178",
+                "__typename": "AttractionsAddress",
+                "longitude": "13.4092793",
+                "city": "Berlin",
+                "id": "LOgNdtdvizsp",
+                "address": "Panoramastraße 1a, Mitte",
+                "googlePlaceId": "ChIJWWwskR9OqEcRE_L35uSSmms",
+                "locationType": "departure",
+                "instructions": "Meet your guide at the Fat Tire Tours office, located near the base of the Fernsehturm Tower in Alexanderplatz.",
+                "country": "de",
+                "latitude": "52.5207132",
+                "publicTransport": null
+            }
+        ],
+        "attraction": null,
+        "arrival": [
+            {
+                "address": "Panoramastraße 1a, Mitte",
+                "id": "LOXlwnNwNLTq",
+                "googlePlaceId": "ChIJWWwskR9OqEcRE_L35uSSmms",
+                "locationType": "arrival",
+                "zip": "10178",
+                "city": "Berlin",
+                "longitude": "13.4092793",
+                "__typename": "AttractionsAddress",
+                "country": "de",
+                "instructions": null,
+                "publicTransport": null,
+                "latitude": "52.5207132"
+            }
+        ],
+        "__typename": "AttractionsAddresses",
+        "pickup": null,
+        "meeting": null,
+        "guestPickup": null
+    },
+    "typicalFrequency": null,
+    "uniqueSellingPoints": [
+        "Chance to explore Berlin's major attractions",
+        "Photo opportunities to capture scenic sights",
+        "Insights into the city's history and traditions"
+    ],
+    "numericReviewsStats": {
+        "total": 0,
+        "average": 0,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "typicalDuration": null,
+    "accessibility": [
+        "Public transport links nearby",
+        "Infant seats available"
+    ],
+    "cancellationPolicy": {
+        "isStillRefundable": true,
+        "hasFreeCancellation": true,
+        "until": "2023-06-18T12:00:00+02:00",
+        "percentage": 100,
+        "comparedTo": "start",
+        "period": "PT24H",
+        "__typename": "AttractionsCancellationPolicy"
+    },
+    "postBookingInfo": null,
+    "contextUfiDetails": null,
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "details": {
+                "__typename": "AttractionsSupplierInfoDetails",
+                "name": "Fat Tire Tours - Berlin",
+                "address": "Panorama Strausse 1A Berlin 10178 DE"
+            },
+            "isIndividual": false
+        }
+    ],
+    "timeZone": "Europe/Berlin",
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Viator"
+        }
+    ],
+    "additionalInfo": "A light jumper or a rain jacket are recommended. All bikes are equipped with racks to place your jacket on.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "representativePrice": {
+        "publicAmount": 63.25,
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 63.25
+    },
+    "guideSupportedLanguages": [
+        "English (UK)"
+    ],
+    "description": "On this tour, you’ll get the opportunity to take a bike ride around Berlin and explore some of the city’s major attractions with a local guide.\r\n\r\nBefore setting off, you’ll meet your guide in Alexanderplatz and listen to stories related to Berlin’s culture and long history. You’ll then head to Marx-Engels-Platz and the Palace of the Republic, where you’ll be able to learn about the origins of the German Democratic Republic. You’ll ride around the Museum Island, stop at Checkpoint Charlie and Berlin Wall and discover Potsdamer Platz.\r\n\r\nBesides, you’ll have the chance to explore such historic attractions as the Führerbunker, the Brandenburg Gate, the Victory Column and the Gendarmenmarkt. You’ll also be able to explore the scenic area along the Spree and ride through the Tiergarten.",
+    "covid": [
+        "Face masks provided",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Equipment sanitised between uses\t",
+        "Vehicles sanitised between uses",
+        "Staff required to wash hands regularly",
+        "Paid stay-at-home policy for staff with symptoms"
+    ],
+    "restrictions": [],
+    "photos": [
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094508.jpg?k=ca2ad36ea169d0644fa837e5b39ed328fa0d006418fdbf76d577a352de95156b&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094531.jpg?k=3f16418e52dfc91f3fa570dca3098cf003f247cc2516eb869da5709b86724b4d&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094531.jpg?k=3f16418e52dfc91f3fa570dca3098cf003f247cc2516eb869da5709b86724b4d&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094531.jpg?k=3f16418e52dfc91f3fa570dca3098cf003f247cc2516eb869da5709b86724b4d&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094531.jpg?k=3f16418e52dfc91f3fa570dca3098cf003f247cc2516eb869da5709b86724b4d&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094566.jpg?k=86b3554dec2db54a0b108fd697dbddf957e14fdc3453dfc7ff897f3bdbb4acff&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094566.jpg?k=86b3554dec2db54a0b108fd697dbddf957e14fdc3453dfc7ff897f3bdbb4acff&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094566.jpg?k=86b3554dec2db54a0b108fd697dbddf957e14fdc3453dfc7ff897f3bdbb4acff&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094566.jpg?k=86b3554dec2db54a0b108fd697dbddf957e14fdc3453dfc7ff897f3bdbb4acff&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094599.jpg?k=aa1104a588cf2303997fd8962cb60221891a6af35ec22e81231164d934d11ccc&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094599.jpg?k=aa1104a588cf2303997fd8962cb60221891a6af35ec22e81231164d934d11ccc&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094599.jpg?k=aa1104a588cf2303997fd8962cb60221891a6af35ec22e81231164d934d11ccc&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094599.jpg?k=aa1104a588cf2303997fd8962cb60221891a6af35ec22e81231164d934d11ccc&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094629.jpg?k=5a137558192643e4b0e640d3bca827518e468bceec64ef71dbe551666e523c30&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094629.jpg?k=5a137558192643e4b0e640d3bca827518e468bceec64ef71dbe551666e523c30&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094629.jpg?k=5a137558192643e4b0e640d3bca827518e468bceec64ef71dbe551666e523c30&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130094629.jpg?k=5a137558192643e4b0e640d3bca827518e468bceec64ef71dbe551666e523c30&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094652.jpg?k=1b50354b1e512c45c43e109a5b978498c2114061d821b1d47dc69fab00e8a1a5&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094652.jpg?k=1b50354b1e512c45c43e109a5b978498c2114061d821b1d47dc69fab00e8a1a5&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094652.jpg?k=1b50354b1e512c45c43e109a5b978498c2114061d821b1d47dc69fab00e8a1a5&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094652.jpg?k=1b50354b1e512c45c43e109a5b978498c2114061d821b1d47dc69fab00e8a1a5&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094677.jpg?k=83fe542c754b68bd84daf9bc7e388468919373fee0691cc6b0a34bbe7247e76b&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130094677.jpg?k=83fe542c754b68bd84daf9bc7e388468919373fee0691cc6b0a34bbe7247e76b&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094677.jpg?k=83fe542c754b68bd84daf9bc7e388468919373fee0691cc6b0a34bbe7247e76b&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094677.jpg?k=83fe542c754b68bd84daf9bc7e388468919373fee0691cc6b0a34bbe7247e76b&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094703.jpg?k=9896e96396d5f78864441b2b9ba86a7eaea8b6b57746c1a92b2161731dd7a218&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130094703.jpg?k=9896e96396d5f78864441b2b9ba86a7eaea8b6b57746c1a92b2161731dd7a218&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094703.jpg?k=9896e96396d5f78864441b2b9ba86a7eaea8b6b57746c1a92b2161731dd7a218&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094703.jpg?k=9896e96396d5f78864441b2b9ba86a7eaea8b6b57746c1a92b2161731dd7a218&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094743.jpg?k=d1f6d659bb8cc233d422cc31daac744cb4aadfd66f53195ff6ede34a3b682f84&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094743.jpg?k=d1f6d659bb8cc233d422cc31daac744cb4aadfd66f53195ff6ede34a3b682f84&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094743.jpg?k=d1f6d659bb8cc233d422cc31daac744cb4aadfd66f53195ff6ede34a3b682f84&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130094743.jpg?k=d1f6d659bb8cc233d422cc31daac744cb4aadfd66f53195ff6ede34a3b682f84&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130094785.jpg?k=c76b3c383016326362e7e32b4ff6f267c01281af8044971b57d3fb6fb5588efe&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094785.jpg?k=c76b3c383016326362e7e32b4ff6f267c01281af8044971b57d3fb6fb5588efe&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094785.jpg?k=c76b3c383016326362e7e32b4ff6f267c01281af8044971b57d3fb6fb5588efe&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094785.jpg?k=c76b3c383016326362e7e32b4ff6f267c01281af8044971b57d3fb6fb5588efe&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130094828.jpg?k=f0ac3b631d046c316f9b8d07de769dde56c7d72ed251524cb665252a5c75a11d&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094828.jpg?k=f0ac3b631d046c316f9b8d07de769dde56c7d72ed251524cb665252a5c75a11d&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094828.jpg?k=f0ac3b631d046c316f9b8d07de769dde56c7d72ed251524cb665252a5c75a11d&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094828.jpg?k=f0ac3b631d046c316f9b8d07de769dde56c7d72ed251524cb665252a5c75a11d&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094860.jpg?k=babb2c9919530323e980c13220839ecd0b5f6df00d5e2670fd98288ea5699c32&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130094860.jpg?k=babb2c9919530323e980c13220839ecd0b5f6df00d5e2670fd98288ea5699c32&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130094860.jpg?k=babb2c9919530323e980c13220839ecd0b5f6df00d5e2670fd98288ea5699c32&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094860.jpg?k=babb2c9919530323e980c13220839ecd0b5f6df00d5e2670fd98288ea5699c32&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130094904.jpg?k=a1af1febe2c7a1599fa2d56481224048b4bf44eb11f0a4dc4999b3c9e8006e22&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130094904.jpg?k=a1af1febe2c7a1599fa2d56481224048b4bf44eb11f0a4dc4999b3c9e8006e22&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130094904.jpg?k=a1af1febe2c7a1599fa2d56481224048b4bf44eb11f0a4dc4999b3c9e8006e22&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130094904.jpg?k=a1af1febe2c7a1599fa2d56481224048b4bf44eb11f0a4dc4999b3c9e8006e22&o="
+        }
+    ],
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "itinerary": null,
+    "offers": [
+        {
+            "notIncluded": null,
+            "whatsIncluded": null,
+            "label": "Berlin City Bike Tour",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 1,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true
+            },
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "benefits": {
+                "__typename": "Benefits",
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "freeDrink": null,
+                "inStoreDiscount": null,
+                "priorityLane": null,
+                "skipTheLine": null
+            },
+            "__typename": "Offer",
+            "items": [
+                {
+                    "id": "OIUTZ2SsDTjY",
+                    "minPerReservation": null,
+                    "type": "infant",
+                    "travelerCountRequired": null,
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "minGroupSize": null,
+                        "minAge": null,
+                        "__typename": "Constraint",
+                        "label": "(age 0-3)",
+                        "numPeople": null,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "maxAge": 3
+                    },
+                    "duration": null,
+                    "__typename": "OfferItem"
+                },
+                {
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "constraint": {
+                        "label": "(age 4-12)",
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "minAge": 4,
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "maxAge": 12,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "type": "age"
+                    },
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "id": "OI3ULvRjA10s",
+                    "minPerReservation": null,
+                    "type": "children"
+                },
+                {
+                    "travelerCountRequired": null,
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "maxGroupSize": null,
+                        "maxAge": 99,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "label": "(age 13-99)",
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "minAge": 13
+                    },
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "id": "OI6NYfW2EI2H",
+                    "minPerReservation": null,
+                    "type": "adult"
+                }
+            ],
+            "typicalDuration": null,
+            "locationInstructions": null,
+            "description": "Six-hour bike tour of Berlin with a stop at a beer garden for lunch. Departure at 10:00.",
+            "id": "OFEdc2g7JriO",
+            "languageOptions": [
+                {
+                    "label": "English - Tour guide",
+                    "language": "en",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                }
+            ],
+            "availabilityType": "date_time"
+        },
+        {
+            "__typename": "Offer",
+            "items": [
+                {
+                    "id": "OIJEcBwUvv9V",
+                    "type": "infant",
+                    "minPerReservation": null,
+                    "constraint": {
+                        "numChildren": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "maxAge": 3,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "minAge": null,
+                        "numPeople": null,
+                        "label": "(age 0-3)"
+                    },
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "maxPerReservation": 15,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "duration": null
+                },
+                {
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "minAge": 4,
+                        "minGroupSize": null,
+                        "label": "(age 4-12)",
+                        "numPeople": null,
+                        "type": "age",
+                        "numChildren": null,
+                        "numAdults": null,
+                        "maxAge": 12,
+                        "maxGroupSize": null
+                    },
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "travelerCountRequired": null,
+                    "type": "children",
+                    "minPerReservation": 1,
+                    "id": "OIg7nEL12AoC"
+                },
+                {
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": true,
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "constraint": {
+                        "maxAge": 99,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "numAdults": null,
+                        "numChildren": null,
+                        "label": "(age 13-99)",
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "minAge": 13,
+                        "minGroupSize": null
+                    },
+                    "minPerReservation": null,
+                    "type": "adult",
+                    "id": "OITdG9yWRFcg"
+                }
+            ],
+            "typicalDuration": null,
+            "description": "Private tour with one guide for the group.",
+            "locationInstructions": null,
+            "id": "OFWYURFnF1lV",
+            "availabilityType": "date_time",
+            "languageOptions": [
+                {
+                    "language": "en",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "label": "English - Tour guide"
+                }
+            ],
+            "notIncluded": null,
+            "label": "Private Berlin City Bike Tour",
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "reservationRestrictions": {
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 15,
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1
+            },
+            "typicalFrequency": null,
+            "benefits": {
+                "skipTheLine": null,
+                "priorityLane": null,
+                "inStoreDiscount": null,
+                "freeDrink": null,
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "__typename": "Benefits"
+            }
+        }
+    ],
+    "operatedBy": "Fat Tire Tours - Berlin",
+    "id": "PR0P707o7Kcz",
+    "taxonomy": {
+        "tags": null,
+        "categories": [
+            {
+                "__typename": "Content",
+                "slug": "bike-tour",
+                "label": "Bike tour"
+            }
+        ],
+        "type": {
+            "__typename": "Content",
+            "slug": "tours",
+            "label": "Tours"
+        },
+        "__typename": "Taxonomy"
+    },
+    "primaryLabel": null,
+    "slug": "pr0p707o7kcz-berlin-bike-tour",
+    "additionalBookingInfo": null,
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "type": "free_cancellation",
+            "text": "Free cancellation"
+        }
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0p707o7kcz-berlin-bike-tour.html",
+    "ReviewDetails": [
+        {
+            "id": "masked_897096c7-be22-423a-9794-d57ed1479b0f",
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1664598581000,
+            "user": {
+                "avatar": null,
+                "name": "masked_0acb450e-7442-4160-a527-8cd2b2693fb1",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "numericRating": 5,
+            "content": "We had NATE for our guide who was excellent and really new his history. We had a lovely meal at a beer garden and the pace of the cycling was great and saying you were in the middle of a city you felt safe because the city is made for bikes",
+            "language": "en-gb",
+            "date": "09/30/2022, 21:29:41"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_eeb5af96-e774-4051-b585-d057a6d9cdbd",
+            "rating": null,
+            "isApproved": true,
+            "content": "Artie was an extremely knowledgeable and interesting guide who showed us most of the highlights of central Berlin. Artie gave us his take on the history of Berlin which was fascinating and organised an extremely tasty lunch. Great day out.",
+            "language": "en-gb",
+            "numericRating": 5,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_1cbaf101-066d-42da-b1ae-fe13de1d2799"
+            },
+            "epochMs": 1664457867000,
+            "date": "09/29/2022, 06:24:27"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_5fb8b9cc-0de2-4a1a-835b-020af817e3f8",
+            "language": "en-gb",
+            "content": "Dan is very informative, the whole group like him a lot. He gave us breaks for us to explore a little when we need to. ",
+            "numericRating": 5,
+            "votes": null,
+            "epochMs": 1663908996000,
+            "user": {
+                "avatar": null,
+                "name": "masked_265bf5e8-54a5-44fa-b352-2f2cff3888c2",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "date": "09/22/2022, 21:56:36"
+        },
+        {
+            "numericRating": 4,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_1791e0e1-1b5e-4217-bac1-789d4ca1a79d"
+            },
+            "votes": null,
+            "epochMs": 1663474881000,
+            "content": "The guide leader was very good and knowledgeable but we were too many people I would recommend not more than 6 ",
+            "language": "en-gb",
+            "id": "masked_162f79d8-a5e6-4b16-a41e-f62842b99d99",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "09/17/2022, 21:21:21"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_41b7a298-f77f-49e9-9a7d-6200ce82157d",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "user": {
+                "name": "masked_0090f4d3-2f9f-4cc2-806a-bd4c5cb2ce8b",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1662220539000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "content": "Artie is amazing. Everyone should book and request him. Great knowledge of the history including humor, originality and expression into an easy to under format. This was the best of our many tours we booked. ",
+            "date": "09/03/2022, 08:55:39"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_3601c5aa-eef2-4fb5-89ce-cc3fcfd422bd",
+            "rating": null,
+            "isApproved": true,
+            "content": "We got to see most of the famous landmarks of Berlin in this tour. The bikes are of great quality. Peter is an awesome tour guide. Very knowledgable, humourous, and made the tour very enjoyable and fun. Definitely recommend. ",
+            "language": "en-gb",
+            "numericRating": 5,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_ab8e3188-ea59-4ca4-a50c-bf822776c98c"
+            },
+            "epochMs": 1662097554000,
+            "date": "09/01/2022, 22:45:54"
+        },
+        {
+            "numericRating": 5,
+            "epochMs": 1661268792000,
+            "votes": null,
+            "user": {
+                "name": "masked_11c1a96f-fb27-4d53-b73f-41cd1ad7784e",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "Great Experience! \nWe recommend it… it is an easy and very interesting way to discover the city.\nOur guide Peter was amazing and made our journey very special!",
+            "language": "en-gb",
+            "id": "masked_30c959d4-bf46-4b46-984a-47f8e6d10879",
+            "isApproved": true,
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "08/23/2022, 08:33:12"
+        },
+        {
+            "language": "en-gb",
+            "content": "Dan is amazing- I learned a ton about history of Berlin and Berlin Wall.  6 hours just flew by! It’s the best way to explore the city of you have one day 😊",
+            "numericRating": 5,
+            "votes": null,
+            "user": {
+                "name": "masked_007d1c09-763a-40c6-89a1-2b9d570c8047",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1659594498000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_3331b7f1-d126-47b1-ad78-b253e06a917d",
+            "date": "08/03/2022, 23:28:18"
+        },
+        {
+            "language": "en-gb",
+            "content": "It was a fun, very informative Tour and a great way to learn more about the beautiful City of Berlin! Our Tour Guide Was very knowledgable and fun. Can highly recommend this activity:)",
+            "numericRating": 5,
+            "epochMs": 1659584257000,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_af82cdf7-1afd-4fce-918e-e7c0363c9959",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_56fa95cf-5bcc-4ec6-bdd0-f6ad76831484",
+            "date": "08/03/2022, 20:37:37"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_c1e3741b-eeee-407b-b291-1026ffad221c",
+            "language": "en-gb",
+            "content": "The entire day was fabulous. A small group of 7 including our guide Peter. Everyone from different places but a very engaging group. Peter was excellent. Knowledgeable, flexible on time and just overall great to have guide this group. Peter you were awesome.",
+            "numericRating": 5,
+            "epochMs": 1659276011000,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_80f9a100-705b-4d03-a731-5ba1403a235d"
+            },
+            "date": "07/31/2022, 07:00:11"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_2d167a8a-739e-4751-9777-c14812f94acb",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1659203091000,
+            "user": {
+                "avatar": null,
+                "name": "masked_96598fc3-ff6a-459d-b59f-e1d3b9b80023",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "content": "Our tour guide, Artie was phenomenal…a riding history book! A wonderful day with a lunch break at a biergarten. What a great experience! Highly recommended!",
+            "date": "07/30/2022, 10:44:51"
+        },
+        {
+            "id": "masked_f70b75db-654a-492a-a204-b299286867dc",
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_9a622476-3342-43e0-833a-398c4eb7d272",
+                "avatar": null
+            },
+            "votes": null,
+            "epochMs": 1659035746000,
+            "numericRating": 5,
+            "content": "dan was amazing. best guide ever. we got to explore the main sites and learn some incredible history of berlin. would recommend this tour to anybody regardless of age! dan was happy and informative. ",
+            "language": "en-gb",
+            "date": "07/28/2022, 12:15:46"
+        },
+        {
+            "numericRating": 5,
+            "user": {
+                "name": "masked_358e0f2a-fe25-475b-b0dd-044107847aa0",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "votes": null,
+            "epochMs": 1658813045000,
+            "content": "Enjoyed this tour very much. A great overview of Berlin and its history. Good pace. Simon our guide was quite knowledgeable,  and shared many interesting stories with us. ",
+            "language": "en-gb",
+            "id": "masked_aceae99d-9127-46bb-923f-673ab4c8e0a7",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "07/25/2022, 22:24:05"
+        },
+        {
+            "id": "masked_ae0ed99c-41da-4fed-b406-5f8b6da3abde",
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_aefb9964-3c7b-42aa-9c5e-03a39476bf31",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "epochMs": 1658756991000,
+            "numericRating": 4,
+            "content": "Shorter than advertised, wasn’t 6hours, but was good. I was also told that there a stop at a beer garden for refreshments at our own cost, which would have been fine, but we didn’t stop for any breaks. Loved learning about the history, seeing the main highlights, and just getting around with a bike in Berlin- what a wonderful way to see the city. Dan was an amazing guide! ",
+            "language": "en-gb",
+            "date": "07/25/2022, 06:49:51"
+        },
+        {
+            "votes": null,
+            "epochMs": 1658420800000,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_61ddeea2-d069-4052-8a82-0005cb7c110c"
+            },
+            "numericRating": 5,
+            "language": "en-gb",
+            "content": "Absolutely sensational day sight seeing with simon ,we Enjoyed your beautiful eloquent dry sense of humour and honest portrayal of  history .Its a must do tour and comes Highly recommended 10/10 thank you simon.",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_a3937042-72f5-4643-b755-aa3be38c4a82",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "date": "07/21/2022, 09:26:40"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_fe2b5f32-a7bb-4027-ae7a-f980222759ad",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_f6a41b17-c2cb-48b0-a36c-c49f545042f2",
+                "avatar": null
+            },
+            "votes": null,
+            "epochMs": 1658246440000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "content": "The Fat Tire Bike Tour of Berlin was amazing! We loved our guide Peter who took us to many of the usual sights, but several very interesting lesser known sights. Peter brought each sight to life with his excellent knowledge of German history and his outstanding storytelling skills. The bikes were well maintained, comfortable and super fun to ride! What a GREAT time we had! Very highly recommend this tour!!",
+            "date": "07/19/2022, 09:00:40"
+        },
+        {
+            "numericRating": 5,
+            "epochMs": 1657777207000,
+            "votes": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_0d2dd230-bcfd-454c-a226-023e21028468",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "language": "en-gb",
+            "content": "Michelle was an Excellent Tour Leader; she made all the difference by providing a detailed but very accessible historical background to our sightseeing. We especially enjoyed the tour of the former East Berlin and how Michelle explained its history reflected in its architecture.  The 6-hour tour covered a lot of territory, and we highly recommend it as it will provide an excellent overview of the major parts, sights to explore in this most fascinating city!\n\nMichelle loves being a tour guide and it shows!\nThank you again!",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_bde95050-737c-456e-9569-a623ff29e0d6",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "07/13/2022, 22:40:07"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_32dc4b2f-abb5-4b5d-be2e-d73b0a727d0c",
+            "language": "en-gb",
+            "content": "Artie did an awesome job explaining the historical content associated with each stop- fabulous job!!",
+            "votes": null,
+            "user": {
+                "name": "masked_e4861cfc-d4d7-49c0-adca-79220ecf0b44",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1657342574000,
+            "numericRating": 5,
+            "date": "07/08/2022, 21:56:14"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_28ad3c76-7d3f-47dd-a91f-f5089a672e24",
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_99c8e95e-c23a-4bd2-adae-34c2e1df26f5"
+            },
+            "votes": null,
+            "epochMs": 1657340390000,
+            "numericRating": 5,
+            "language": "en-gb",
+            "content": "We had an absolutely brilliant day on our 6 hour bike tour of Berlin. Very well organized from booking, bike pick up, tour and return . We had a really lovely group of friendly people. However the star of the show was without doubt Arty our guide. He brought Berlin to life and his passion for the city and it’s history was infectious. Very knowledgeable guy, able to answer every question and his enthusiasm was just brilliant. He’s great fun too and he really made our day memorable.  We ended our day with so much knowledge of German history and a great feel for the city. Oh and not forgetting our lovely lunch in a great beer garden. \nCannot recommend the 6 hour trip enough. Great value for money for what u get. Bikes and really comfy and easy to use and u don’t need to be super fit as it’s leisurely with so many stops. If u are lucky u get Arty as a guide - he’s just a wonderful guide of his adopted city. Thanks to all at Fat Tire tours for a wonderful day.",
+            "date": "07/08/2022, 21:19:50"
+        },
+        {
+            "numericRating": 5,
+            "user": {
+                "name": "masked_8d6b1cb2-c3ea-4206-a11b-508451ddb3e4",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "votes": null,
+            "epochMs": 1656858395000,
+            "language": "en-gb",
+            "content": "The 6.5 hour Berlin Bike Tour was informative and lots of fun. Reece is a fabulous guide who encouraged questions and kept us entertained and there’s so much of interest. Other road users are very accommodating of cyclists so Berlin is the perfect city for a bike tour and I cannot recommend it highly enough. ",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_796f6b1b-4a69-4c91-809d-8fe06edb3ed1",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "date": "07/03/2022, 07:26:35"
+        },
+        {
+            "content": "Berlín Wall - East Gallery\nRidding in the park \nLittle time to take photos \nThe guide should be more Informative in historical aspects ",
+            "language": "en-gb",
+            "numericRating": 4,
+            "epochMs": 1656563930000,
+            "votes": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_0f4175cf-a03c-4713-8def-1ae090d02e61",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_13b0a147-85bb-4d7a-b38f-598e08c05034",
+            "isApproved": true,
+            "rating": null,
+            "date": "06/29/2022, 21:38:50"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_e2bd12d6-1fcd-41b8-9cd2-0da0cea2e54f",
+            "language": "en-gb",
+            "content": "Great way to explore the city for the first time.\nNate, our tour guide was great.\nBooking and logistics was easy. Great bikes & great group.",
+            "epochMs": 1656249957000,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_fe81577c-f7fd-444c-85b1-fa81c9d55267"
+            },
+            "numericRating": 5,
+            "date": "06/26/2022, 06:25:57"
+        },
+        {
+            "language": "en-gb",
+            "content": "Alicia was a wonderful guide!  Very knowledgeable and a great storyteller. The ride itself was easy and at a leisurely pace. I would highly recommend this all day tour. ",
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_6914f493-fbc7-4c84-a20e-d81ffb6428fd",
+                "avatar": null
+            },
+            "votes": null,
+            "epochMs": 1655102422000,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_853e4345-2cc0-41f1-83d6-a9165c96c365",
+            "date": "06/12/2022, 23:40:22"
+        },
+        {
+            "content": "Excellent day trip on a bike seeing the famous sites. Very knowledgeable tour guide. No complaints at all ",
+            "language": "en-gb",
+            "votes": null,
+            "epochMs": 1653141449000,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_c88a6acf-76af-4718-beb2-a78997d0c475",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "id": "masked_6c0c8da7-f57b-41d7-96c9-c204016d5f82",
+            "rating": null,
+            "isApproved": true,
+            "date": "05/21/2022, 06:57:29"
+        },
+        {
+            "epochMs": 1652188981000,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_cd05b0a1-dc76-4ada-b333-dc15b35169a8",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "content": "We had a great bike tour around Berlin with Fat Tire bike tours.\nAlicia our guide was wonderful and full of great information and history.\nHighly recommend.\n",
+            "language": "en-gb",
+            "id": "masked_e9bcb6af-1bca-4a36-b164-3bead4ea79ac",
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "date": "05/10/2022, 06:23:01"
+        },
+        {
+            "id": "masked_57e3a44f-efbc-48db-a480-529c1dcd4922",
+            "rating": null,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "votes": null,
+            "epochMs": 1652075174000,
+            "user": {
+                "avatar": null,
+                "name": "masked_f44ee36e-6ef1-4d21-b5b0-3b4b0a984c77",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "content": "Great way to see Berlin. Our guide, Nate, was the best - very knowledgeable and flexible so that this all-day biking experience worked for all of us. Highly recommend!",
+            "language": "en-gb",
+            "date": "05/08/2022, 22:46:14"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_e017141c-412e-4058-aea1-44ed1254035e",
+            "isApproved": true,
+            "rating": null,
+            "content": "Nate was an amazing tour guide. His knowledge of the city and it’s history was beyond impressive.  He delivered clear information with a sense of humor. Very nice bike ride and enjoyable lunch spot as well.",
+            "language": "en-gb",
+            "numericRating": 5,
+            "votes": null,
+            "epochMs": 1635999272000,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_be0723d1-e34d-4ac2-85aa-b4ff6315fea3",
+                "avatar": null
+            },
+            "date": "11/03/2021, 21:14:32"
+        },
+        {
+            "content": "Nate expertly guided us on an easy 5-Hour amble around the amazing city of Berlin. We learned a LOT and had a blast in the process. Bikes were super comfy and the stop at the Biergarten was perfect. A tour not to be missed!",
+            "language": "en-gb",
+            "numericRating": 5,
+            "epochMs": 1631540539000,
+            "votes": null,
+            "user": {
+                "name": "masked_bb54a025-86ab-4617-9cba-af163aa76377",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_4a5e932b-80e3-4aac-a4fd-faf91ea3814c",
+            "isApproved": true,
+            "rating": null,
+            "date": "09/13/2021, 06:42:19"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_e12c3f16-597b-4812-b943-c81e27b2a916",
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "epochMs": 1630300102000,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_97482559-3acd-4a8e-85c3-b1a56d35d4ad",
+                "avatar": null
+            },
+            "language": "en-gb",
+            "content": "Came solo on this tour.\nOur guide- Nate, was very knowledgeable and kept everyone moving at the right pace, with great energy and humour, even when some city events made us take a detour. \nThe best way to see Berlin! \nDefinitely recommend. ",
+            "date": "08/29/2021, 22:08:22"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_f953b562-8dc9-4d42-92a4-69337d4b1890",
+            "language": "en-gb",
+            "content": "And I’ve done lots. Felix was knowledgeable, engaging, and professional. It was a memorable and meaningful day.",
+            "epochMs": 1628690204000,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_8f291237-2f6d-4ea2-8736-c8f3f7a5da0a"
+            },
+            "numericRating": 5,
+            "date": "08/11/2021, 06:56:44"
+        },
+        {
+            "content": "Excellent tour. Felix was an excellent guide and so interesting and knowledgeable. We really enjoyed it. ",
+            "language": "en-gb",
+            "user": {
+                "avatar": null,
+                "name": "masked_ac4871de-3adb-4d7d-b166-bf2738f9f3a3",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "votes": null,
+            "epochMs": 1628093613000,
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "id": "masked_bd02811e-abea-4fb2-bd07-8c4082130ab1",
+            "rating": null,
+            "isApproved": true,
+            "date": "08/04/2021, 09:13:33"
+        },
+        {
+            "content": "Bike tours are the best way to see a city. You’re getting some exercise, getting from point to point relatively quickly and more engaged with your guide and peers. I did the 6-hour tour, which I found had a great balance of history, seeing the top sights, some off the beaten path places and a perfect Biergarten experience too.",
+            "language": "en-gb",
+            "numericRating": 5,
+            "epochMs": 1627619973000,
+            "votes": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_ae464736-16b8-4663-87f8-3f477399b685",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_e67b9415-7026-4a83-89a8-4c397365d3a8",
+            "rating": null,
+            "isApproved": true,
+            "date": "07/29/2021, 21:39:33"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "id": "masked_ee0cac4e-791b-4367-86fe-38063a809c31",
+            "rating": null,
+            "isApproved": true,
+            "content": "Nate was our guide, kind, friendly and showed us a great piece of Berlin. Great knowledge of the historie. We will recommend it to the people we know. ",
+            "language": "en-gb",
+            "numericRating": 5,
+            "epochMs": 1624770258000,
+            "votes": null,
+            "user": {
+                "avatar": null,
+                "name": "masked_0c2bd0b4-b0e8-4fc0-9d1c-0a16d07d0c00",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "date": "06/26/2021, 22:04:18"
+        },
+        {
+            "epochMs": 1601888184000,
+            "votes": null,
+            "user": {
+                "name": "masked_725c4e69-e6cd-452a-969e-4519ed0aaee1",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "content": "I did the three hour tour on Saturday. It was a great way to see the city. The bikes are really comfortable. Alisha was av great tour guide!",
+            "language": "en-gb",
+            "id": "masked_bad38393-3116-48f6-a4a4-1e945669b8c3",
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "date": "10/05/2020, 01:56:24"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "isApproved": true,
+            "id": "masked_463f8bb4-33b9-42c9-8a2b-133b6c542a6b",
+            "language": "en-gb",
+            "content": "Really enjoyable few hours.\n\nInformative and interesting.\n\nGreat bikes.\n\nGood way to see a little history in an informal atmosphere.",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_1e2984e2-09ca-488b-a49e-e301f884a948"
+            },
+            "votes": null,
+            "epochMs": 1600784658000,
+            "numericRating": 5,
+            "date": "09/22/2020, 07:24:18"
+        },
+        {
+            "id": "masked_1270f1de-1d7e-4327-b91f-5223e409bf1b",
+            "isApproved": true,
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 5,
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_631d665c-ace8-448c-bb18-c0d958c38a2b"
+            },
+            "epochMs": 1600172662000,
+            "content": "We had such a great tour - Nate was great, with lots of knowledge and history! Would definitely recommend - berlin in 3 hours! ",
+            "language": "en-gb",
+            "date": "09/15/2020, 05:24:22"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "id": "masked_deda0bcd-3c3b-40e6-bb03-92be80e18a47",
+            "rating": null,
+            "isApproved": true,
+            "content": "Brilliant tour and fantastic tour guide! Rhys (from south woodham ferrers) you were great... you new your stuff! \n",
+            "language": "en-gb",
+            "votes": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_0704701b-4133-4be8-80ea-0d42754fffb4"
+            },
+            "epochMs": 1597410683000,
+            "numericRating": 5,
+            "date": "08/14/2020, 06:11:23"
+        },
+        {
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "rating": true,
+            "isApproved": false,
+            "id": "masked_02a9d0f2-6585-4e65-8eaf-1633fd0af4ee",
+            "language": "en-gb",
+            "content": "",
+            "epochMs": 1654426712000,
+            "votes": null,
+            "user": null,
+            "numericRating": null,
+            "date": "06/05/2022, 03:58:32"
+        },
+        {
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "id": "masked_bd7bf019-fd99-42ef-aa2c-bf7a41de2189",
+            "rating": null,
+            "isApproved": true,
+            "content": "Alicia  war großartig! Sie ist  so eine süße  und liebe Person. \nSie hat alles prima  erklärt., Geduld  und Leidenschaft  in ihre  Führung  gebracht! \nEs hat wirklich  Spaß  gemacht!! \nMan wurde  direkt  mit  Vornamen  begrüßt  und man hat sich somit gleich  wohl  und willkommen gefühlt! ♡",
+            "language": "de",
+            "votes": null,
+            "user": {
+                "name": "masked_eb9ac5ed-0ce2-47f9-8b16-fc11b81eea99",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1597403425000,
+            "numericRating": 5,
+            "date": "08/14/2020, 04:10:25"
+        }
+    ]
+}

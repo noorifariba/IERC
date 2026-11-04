@@ -1,0 +1,32 @@
+{
+    "rating": 4.67,
+    "numberOfReviews": 3,
+    "location": "Madrid, Spain",
+    "numofPics": 5,
+    "isVideo": false,
+    "price": "€ 12",
+    "description": "Do you want to discover the hidden secrets of Madrid?\nThe popular chronicle of the Villa tells us about haunted houses, ghosts and legends, many legends ...\n\nBecause Madrid is a city of history that keeps some secrets. Some of its streets, palaces and older houses and buildings enclose behind their walls paranormal events and events marked by the appearance of presences, noises, voices from beyond ...\nLegend or Reality?\nDare and discover the most mysterious and unknown corners of the capital. We will have a Fear;)",
+    "included": [],
+    "hostdescription": "",
+    "locationDescription": "Walking tour, all outdoors, from the Plaza Mayor to the Plaza de Cibeles, passing through the Plaza de Santa Cruz, Puerta del Sol, Calle Montera, Gran Via, Plaza del Rey, etc.\nWe will stop in front of several buildings and haunted houses to tell the legends and ghosts",
+    "reviews": [
+        {
+            "userUrl": "masked_c56f5fa3-fd36-40fd-b007-0e499e862690",
+            "userName": "masked_8c116b52-5898-4099-8970-496ae859d971",
+            "date": "October 2021",
+            "text": "Entertaining experience, with an excellent narrative, curious facts and historical data of Madrid."
+        },
+        {
+            "userUrl": "masked_a2808bbb-7a8a-4a50-964e-a1834aed8c39",
+            "userName": "masked_58848838-4cbe-4336-870b-430b527b592f",
+            "date": "October 2021",
+            "text": "Beatriz is an excellent guide, also for kids"
+        },
+        {
+            "userUrl": "masked_e039cfeb-f2a3-48cc-86f9-d927c5a4139a",
+            "userName": "masked_d70a6d95-ed2d-45a7-8732-6bd2376b0538",
+            "date": "July 2021",
+            "text": "It's a different experience to get to know a bit of the macabre history of this old city, it was quite fun."
+        }
+    ]
+}

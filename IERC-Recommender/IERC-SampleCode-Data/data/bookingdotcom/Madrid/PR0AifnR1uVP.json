@@ -1,0 +1,498 @@
+{
+    "restrictions": [
+        "Please arrive at least 10 minutes before the activity starts."
+    ],
+    "itinerary": null,
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "text": "Free cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "uniqueSellingPoints": [
+        "Chance to see the masterpieces of Velázquez, Goya, Picasso and Dalí",
+        "Opportunity to visit Madrid's most famous art museums with an expert guide",
+        "Insights into 20th-century Spanish artworks and influential art movements"
+    ],
+    "healthSafety": [],
+    "__typename": "AttractionsProduct",
+    "photos": [
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144029805.jpg?k=b9bf3f64c49d3258177103225c8f4cde6b106891315a4379f0c59844cda99fc3&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144029805.jpg?k=b9bf3f64c49d3258177103225c8f4cde6b106891315a4379f0c59844cda99fc3&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144029805.jpg?k=b9bf3f64c49d3258177103225c8f4cde6b106891315a4379f0c59844cda99fc3&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144029805.jpg?k=b9bf3f64c49d3258177103225c8f4cde6b106891315a4379f0c59844cda99fc3&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144029823.jpg?k=f5ceece452c8d515d3bbe5d43ff486c92870126387b55b3c67a44ee84f8d2cbf&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144029823.jpg?k=f5ceece452c8d515d3bbe5d43ff486c92870126387b55b3c67a44ee84f8d2cbf&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144029823.jpg?k=f5ceece452c8d515d3bbe5d43ff486c92870126387b55b3c67a44ee84f8d2cbf&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144029823.jpg?k=f5ceece452c8d515d3bbe5d43ff486c92870126387b55b3c67a44ee84f8d2cbf&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144029843.jpg?k=870c8dafdf3f2b85dcac1c686e5e7c4928e37bb45f5959a2a541d90f6180503c&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144029843.jpg?k=870c8dafdf3f2b85dcac1c686e5e7c4928e37bb45f5959a2a541d90f6180503c&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144029843.jpg?k=870c8dafdf3f2b85dcac1c686e5e7c4928e37bb45f5959a2a541d90f6180503c&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144029843.jpg?k=870c8dafdf3f2b85dcac1c686e5e7c4928e37bb45f5959a2a541d90f6180503c&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144029856.jpg?k=b63e10a58c4dae7749118055965f27834bd2e5e509e02c171e5798efd851d234&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144029856.jpg?k=b63e10a58c4dae7749118055965f27834bd2e5e509e02c171e5798efd851d234&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144029856.jpg?k=b63e10a58c4dae7749118055965f27834bd2e5e509e02c171e5798efd851d234&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144029856.jpg?k=b63e10a58c4dae7749118055965f27834bd2e5e509e02c171e5798efd851d234&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144029869.jpg?k=c4abce8275a6b14ff6266bd62fb169be50b54c30ddf4170dd829480459b41bca&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144029869.jpg?k=c4abce8275a6b14ff6266bd62fb169be50b54c30ddf4170dd829480459b41bca&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144029869.jpg?k=c4abce8275a6b14ff6266bd62fb169be50b54c30ddf4170dd829480459b41bca&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144029869.jpg?k=c4abce8275a6b14ff6266bd62fb169be50b54c30ddf4170dd829480459b41bca&o="
+        }
+    ],
+    "timeZone": "Europe/Madrid",
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Musement"
+        }
+    ],
+    "slug": "pr0aifnr1uvp-guided-visit-to-the-prado-and-reina-sofia-museums",
+    "name": "Reina Sofia and Prado Museums Guided Tour",
+    "numericReviewsStats": {
+        "total": 1,
+        "average": 3,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "operatedBy": "Amigo Tours",
+    "additionalInfo": "Please bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "postBookingInfo": null,
+    "cancellationPolicy": {
+        "percentage": 100,
+        "until": "2023-06-25T09:45:00+02:00",
+        "hasFreeCancellation": true,
+        "period": "PT24H",
+        "isStillRefundable": true,
+        "comparedTo": "start",
+        "__typename": "AttractionsCancellationPolicy"
+    },
+    "ufi": -390625,
+    "typicalDuration": {
+        "__typename": "Value",
+        "value": "PT4H",
+        "label": "Duration: 4 hours"
+    },
+    "contextUfiDetails": null,
+    "typicalFrequency": null,
+    "reviewsStats": {
+        "isGoodScore": 0,
+        "__typename": "AttractionsProductReviewStats",
+        "providerNumericStats": [
+            {
+                "average": 4.7,
+                "providerName": "musement",
+                "total": 6,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ],
+        "percentage": "50%",
+        "allReviewsCount": 2
+    },
+    "id": "PR0AifnR1uVP",
+    "pickupTypes": [],
+    "guideSupportedLanguages": [
+        "Spanish",
+        "English (UK)"
+    ],
+    "primaryPhoto": {
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144029784.jpg?k=bfc5b39bc12785e5dbc1475fc23dc3ead60c1335f41833f274a827ec1c127eca&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "representativePrice": {
+        "chargeAmount": 51.71,
+        "currency": "GBP",
+        "publicAmount": 51.71,
+        "__typename": "AttractionsPrice"
+    },
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "details": {
+                "name": "Musement S.p.A",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "via Polesine 13, 20139 Milan, Italy"
+            },
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "onSiteRequirements": {
+        "noAlcoholDuringRamadan": null,
+        "drivingLicenseRequired": null,
+        "ticketCollection": null,
+        "writtenConsentForChildren": null,
+        "height": null,
+        "noAlcoholDuringDryDays": null,
+        "voucherPrintingRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "unsuitable": null,
+        "age": null,
+        "comfortableFootwearRecommended": null,
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "onlyOperatesInGoodWeather": null,
+        "proofOfIdentityRequired": null,
+        "earlyArrival": {
+            "__typename": "Minutes",
+            "minutes": 10,
+            "label": "Please arrive at least 10 minutes before the activity starts."
+        },
+        "__typename": "OnSiteRequirements"
+    },
+    "audioSupportedLanguages": null,
+    "poweredBy": "Powered by Musement",
+    "dietOptions": [],
+    "whatsIncluded": [
+        "Admission to Prado and Reina Sofia Museums",
+        "Guide services"
+    ],
+    "offers": [
+        {
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 0,
+                "__typename": "ReservationRestrictions"
+            },
+            "whatsIncluded": null,
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "constraint": null,
+                    "type": "infant",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "id": "OIDkkAXXqKvd",
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "maxPerReservation": null
+                },
+                {
+                    "label": "Child",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OIDYAYHXJuet",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "children"
+                },
+                {
+                    "minPerReservation": null,
+                    "id": "OImBg4uTmI72",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "constraint": null,
+                    "travelerCountRequired": null,
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "label": "Adult"
+                }
+            ],
+            "additionalInfo": null,
+            "description": null,
+            "id": "OFl6cP3ilrGp",
+            "availabilityType": "date_time",
+            "notIncluded": null,
+            "locationInstructions": null,
+            "typicalDuration": {
+                "label": "Duration: 4 hours",
+                "value": "PT4H",
+                "__typename": "Value"
+            },
+            "languageOptions": null,
+            "benefits": {
+                "freeAudioGuide": null,
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null
+            },
+            "typicalFrequency": null,
+            "label": "Tour"
+        }
+    ],
+    "accessibility": [],
+    "description": "On this guided tour, you'll have the chance to explore the Reina Sofia Museum and the Prado Museum, two of Madrid's most important art museums. During the tour, your knowledgeable guide will lead you to the most important works of art in both sites. You'll see the masterpiece of famous artists such as Diego Velázquez and Francisco Goya in Prado Museum and paintings by Pablo Picasso and Salvador Dalí in Reina Sofia Museum. \r\n\r\nWhile strolling through the museums, your guide will give invaluable insights into the cultural and historical significance of the paintings. You'll be able to learn about 20th-century Spanish artworks and the most influential art movements, from abstractionism to cubism, surrealism to modernism.",
+    "ufiDetails": {
+        "bCityName": "Madrid",
+        "countryName": "Spain",
+        "ufi": -390625,
+        "latitude": 40.4166984558105,
+        "url": {
+            "city": "madrid",
+            "country": "es",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions"
+        },
+        "__typename": "AttractionLocationResponse",
+        "image": null,
+        "bInCityName": "in Madrid",
+        "longitude": -3.70341992378235,
+        "attractionsCount": 377,
+        "banners": []
+    },
+    "taxonomy": {
+        "categories": [
+            {
+                "label": "Cultural museum",
+                "__typename": "Content",
+                "slug": "cultural-museum"
+            },
+            {
+                "slug": "history-museum",
+                "__typename": "Content",
+                "label": "History museum"
+            }
+        ],
+        "tags": [
+            {
+                "label": "History museum",
+                "__typename": "Content",
+                "slug": "history-museum"
+            },
+            {
+                "__typename": "Content",
+                "slug": "walking-tour",
+                "label": "Walking tour"
+            },
+            {
+                "label": "Cultural tour",
+                "slug": "cultural-tour",
+                "__typename": "Content"
+            },
+            {
+                "slug": "arts-tour",
+                "__typename": "Content",
+                "label": "Art tour"
+            },
+            {
+                "__typename": "Content",
+                "slug": "local-history-museum",
+                "label": "Local history museum"
+            },
+            {
+                "label": "Arts",
+                "slug": "arts",
+                "__typename": "Content"
+            },
+            {
+                "__typename": "Content",
+                "slug": "iconic",
+                "label": "Iconic"
+            },
+            {
+                "label": "History tour",
+                "__typename": "Content",
+                "slug": "historic-tour"
+            },
+            {
+                "__typename": "Content",
+                "slug": "landmark",
+                "label": "Landmark"
+            },
+            {
+                "label": "Guided tour",
+                "__typename": "Content",
+                "slug": "guided-tour"
+            }
+        ],
+        "__typename": "Taxonomy",
+        "type": {
+            "label": "Museums",
+            "slug": "museums",
+            "__typename": "Content"
+        }
+    },
+    "flags": null,
+    "notIncluded": [
+        "Tips (optional)",
+        "Hotel pickup and drop-off"
+    ],
+    "shortDescription": "A guided tour of two of Madrid's most renowned art museums",
+    "covid": [],
+    "primaryLabel": null,
+    "isBookable": true,
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "liveAvailabilityCheckSupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false
+    },
+    "additionalBookingInfo": null,
+    "addresses": {
+        "__typename": "AttractionsAddresses",
+        "entrance": null,
+        "meeting": [
+            {
+                "address": "Paseo del Prado, 11",
+                "id": "LOHqUpo2f1ng",
+                "locationType": "meeting",
+                "country": "es",
+                "__typename": "AttractionsAddress",
+                "instructions": "Please meet your guide at Velazquez Statue.",
+                "longitude": "-3.69266271591187",
+                "latitude": "40.4137115478516",
+                "city": "Madrid",
+                "googlePlaceId": null,
+                "zip": "28014",
+                "publicTransport": null
+            }
+        ],
+        "attraction": null,
+        "pickup": null,
+        "guestPickup": null,
+        "departure": null,
+        "arrival": null
+    },
+    "url": "https://www.booking.com/attractions/en/pr0aifnr1uvp-guided-visit-to-the-prado-and-reina-sofia-museums.html",
+    "ReviewDetails": [
+        {
+            "id": "masked_6f4e473f-306c-4469-90d5-cff7c506ac3b",
+            "epochMs": 1629248400000,
+            "content": "La guía Barbara una gran profesional. Explicó detalles muy concretos de los cuadros.",
+            "rating": null,
+            "votes": null,
+            "providerName": "musement",
+            "language": "en-us",
+            "__typename": "AttractionsReview",
+            "user": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "08/17/2021, 18:00:00"
+        },
+        {
+            "user": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "numericRating": 3,
+            "rating": false,
+            "id": "masked_b3dab8a4-22e2-49a8-9412-ccbeb9909a10",
+            "content": "Το πρόβλημα ήταν με το ξεναγό και με την λίγο ιδιαίτερη προφορά που είχε! Επίσης κατά την επίσκεψη μας από το μουσείο Pedro στο μουσείο της Reina Sofia, κάνανε combine 2 group, ένα στα Αγγλικά και ένα στα Ισπανικά, οπότε η ολη διαδικασία άρχισε να γίνεται βαρετή και χρονοβόρα. Γι αυτό και πολλά άτομα από τα 2 γκρουπ άρχισαν να αποχωρούν πριν τελειώσει η ξενάγηση.",
+            "epochMs": 1679912415000,
+            "providerName": null,
+            "votes": null,
+            "language": "el",
+            "date": "03/27/2023, 03:20:15"
+        },
+        {
+            "id": "masked_e5516ec8-0cc4-43b7-b3a4-ba65679cad39",
+            "epochMs": 1676073600000,
+            "content": null,
+            "rating": null,
+            "votes": null,
+            "providerName": "musement",
+            "language": null,
+            "user": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "numericRating": 5,
+            "date": "02/10/2023, 16:00:00"
+        },
+        {
+            "isApproved": true,
+            "user": null,
+            "__typename": "AttractionsReview",
+            "numericRating": 3,
+            "providerName": "musement",
+            "votes": null,
+            "content": "En su publicidad indican visita de 2 horas y \"sin hacer colas\". En realidad el grupo no hace la cola pero espera a la puerta hasta que el guía recupera las entradas. \nEsto, añadido a la preparación de la visita equivale a acortar la visita de 30 min (25 %)",
+            "id": "masked_65e07c07-7502-4a76-a26a-7dcd1ca966a6",
+            "epochMs": 1660957200000,
+            "rating": null,
+            "language": "es",
+            "date": "08/19/2022, 18:00:00"
+        },
+        {
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "user": null,
+            "numericRating": 5,
+            "providerName": "musement",
+            "votes": null,
+            "id": "masked_874b4b0c-9a73-427a-a34f-0e0d70e6f1da",
+            "epochMs": 1658624400000,
+            "content": null,
+            "rating": null,
+            "language": null,
+            "date": "07/23/2022, 18:00:00"
+        },
+        {
+            "user": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "numericRating": 5,
+            "rating": null,
+            "id": "masked_8ea52b79-fcb1-4df9-8a67-4a00a5143140",
+            "epochMs": 1653613200000,
+            "content": "Mui eccezionale",
+            "providerName": "musement",
+            "votes": null,
+            "language": "it",
+            "date": "05/26/2022, 18:00:00"
+        },
+        {
+            "language": "es",
+            "providerName": "musement",
+            "votes": null,
+            "id": "masked_7f901e7c-76fe-448b-adab-0253bff4d020",
+            "epochMs": 1633568400000,
+            "content": "Las guías fueron estupendas y muy amenas",
+            "rating": null,
+            "numericRating": 5,
+            "isApproved": true,
+            "user": null,
+            "__typename": "AttractionsReview",
+            "date": "10/06/2021, 18:00:00"
+        },
+        {
+            "numericRating": null,
+            "__typename": "AttractionsReview",
+            "user": null,
+            "isApproved": true,
+            "language": null,
+            "content": "",
+            "epochMs": 1624874528000,
+            "id": "masked_a91939e5-ca2a-4847-912d-ce741154b4b9",
+            "rating": true,
+            "providerName": null,
+            "votes": null,
+            "date": "06/28/2021, 03:02:08"
+        }
+    ]
+}

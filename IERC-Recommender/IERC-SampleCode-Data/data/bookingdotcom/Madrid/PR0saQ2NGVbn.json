@@ -1,0 +1,366 @@
+{
+    "whatsIncluded": [
+        "Guide",
+        "Private tour",
+        "Oilskin in rainy days",
+        "Helmet",
+        "Training",
+        "Insurance"
+    ],
+    "audioSupportedLanguages": null,
+    "poweredBy": "Powered by Viator",
+    "dietOptions": [],
+    "primaryPhoto": {
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "representativePrice": {
+        "chargeAmount": 34.18,
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "publicAmount": 34.18
+    },
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "details": {
+                "name": "Madrid-Segway",
+                "address": "Calle de la Escalinata,  10 We have Store (Retiro Park) on Avenida Menendez Pelayo,9( Only For the Tours in Retiro Park) Madrid 28013 ES",
+                "__typename": "AttractionsSupplierInfoDetails"
+            },
+            "isIndividual": false
+        }
+    ],
+    "onSiteRequirements": {
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "height": null,
+        "noAlcoholDuringDryDays": null,
+        "ticketCollection": null,
+        "writtenConsentForChildren": null,
+        "weight": {
+            "label": "Visitors must weigh between 35kg and 125.",
+            "max": 125,
+            "min": 35,
+            "__typename": "MinMax"
+        },
+        "adultSupervisionRequired": {
+            "__typename": "MaxAge",
+            "maxAge": 18,
+            "label": "Children under 18 years old must be accompanied by an adult."
+        },
+        "voucherPrintingRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "unsuitable": null,
+        "age": null,
+        "comfortableFootwearRecommended": {
+            "label": "Comfortable footwear is recommended.",
+            "__typename": "Label"
+        },
+        "proofOfIdentityRequired": null,
+        "earlyArrival": null,
+        "__typename": "OnSiteRequirements",
+        "onlyOperatesInGoodWeather": null
+    },
+    "id": "PR0saQ2NGVbn",
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "guideSupportedLanguages": [
+        "English (UK)",
+        "French",
+        "Japanese",
+        "Spanish",
+        "German"
+    ],
+    "typicalDuration": null,
+    "contextUfiDetails": null,
+    "ufi": -390625,
+    "reviewsStats": {
+        "providerNumericStats": [],
+        "isGoodScore": 1,
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 1,
+        "percentage": "100%"
+    },
+    "typicalFrequency": null,
+    "addresses": {
+        "entrance": null,
+        "__typename": "AttractionsAddresses",
+        "meeting": null,
+        "attraction": null,
+        "guestPickup": null,
+        "pickup": null,
+        "arrival": [
+            {
+                "address": "C. de la Escalinata 10",
+                "locationType": "arrival",
+                "id": "LOXeGpTKPE2q",
+                "country": "es",
+                "__typename": "AttractionsAddress",
+                "instructions": null,
+                "longitude": "-3.7092729",
+                "latitude": "40.417524",
+                "city": "Madrid",
+                "googlePlaceId": null,
+                "zip": "28013",
+                "publicTransport": null
+            }
+        ],
+        "departure": [
+            {
+                "latitude": "40.417524",
+                "city": "Madrid",
+                "googlePlaceId": null,
+                "zip": "28013",
+                "publicTransport": null,
+                "address": "C. de la Escalinata 10",
+                "id": "LO1RYYDBGIRV",
+                "locationType": "departure",
+                "country": "es",
+                "__typename": "AttractionsAddress",
+                "instructions": "Please meet at the listed address above. It is near the metro station, Opera.",
+                "longitude": "-3.7092729"
+            }
+        ]
+    },
+    "additionalBookingInfo": null,
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "liveAvailabilityCheckSupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsPartiallySupported": true,
+        "alternativeTimeSlotsSupported": false
+    },
+    "shortDescription": "A Segway ride through the central Madrid",
+    "covid": [],
+    "primaryLabel": null,
+    "isBookable": true,
+    "description": "On this tour, you will get the chance to explore the central Madrid in an exciting way by riding a Segway. \r\n\r\nAfter meeting the guide, you will have a brief training session at Plaza de Isabel II. Once you are comfortable, you will begin your journey by visiting the city’s main attractions. You will pass by the Royal Palace, the largest in Western Europe, and walk through the oldest and most adventurous Madrid, where thieves, mercenaries and more crossed their swords in every corner of the Plaza de la Villa. \r\n\r\nYou will also get the chance to admire the Plaza de Oriente, a square in the historic centre with views of the Palace and the Royal Theatre.",
+    "ufiDetails": {
+        "banners": [],
+        "longitude": -3.70341992378235,
+        "bInCityName": "in Madrid",
+        "attractionsCount": 377,
+        "image": null,
+        "__typename": "AttractionLocationResponse",
+        "url": {
+            "__typename": "AttractionLocationUrl",
+            "country": "es",
+            "city": "madrid",
+            "prefix": "attractions"
+        },
+        "latitude": 40.4166984558105,
+        "ufi": -390625,
+        "countryName": "Spain",
+        "bCityName": "Madrid"
+    },
+    "flags": null,
+    "notIncluded": [
+        "Gratuities"
+    ],
+    "taxonomy": {
+        "categories": [
+            {
+                "label": "Segway tour",
+                "slug": "segway-tour",
+                "__typename": "Content"
+            }
+        ],
+        "tags": null,
+        "type": {
+            "slug": "tours",
+            "__typename": "Content",
+            "label": "Tours"
+        },
+        "__typename": "Taxonomy"
+    },
+    "offers": [
+        {
+            "additionalInfo": null,
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "minAge": 9,
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "maxAge": 99,
+                        "label": "(age 9-99)",
+                        "maxGroupSize": null,
+                        "numPeople": null,
+                        "numAdults": null
+                    },
+                    "type": "adult",
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "id": "OIryneNmem3w",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "maxPerReservation": null
+                }
+            ],
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": false,
+                "minOfferItemsPerReservation": 1
+            },
+            "whatsIncluded": null,
+            "__typename": "Offer",
+            "notIncluded": null,
+            "availabilityType": "date_time",
+            "description": null,
+            "id": "OFiXCQX51UlG",
+            "label": "Downtown Segway tour",
+            "typicalFrequency": null,
+            "benefits": {
+                "freeAudioGuide": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "freeTransportation": null,
+                "skipTheLine": null
+            },
+            "languageOptions": [
+                {
+                    "language": "de",
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "label": "German - Tour guide"
+                },
+                {
+                    "language": "es",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "label": "Spanish - Tour guide"
+                },
+                {
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "en",
+                    "label": "English - Tour guide"
+                }
+            ],
+            "typicalDuration": null,
+            "locationInstructions": null
+        }
+    ],
+    "accessibility": [
+        "Public transport links nearby",
+        "Infant seats available"
+    ],
+    "__typename": "AttractionsProduct",
+    "photos": [
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144608184.jpg?k=69b6fd4b2f169b0b519a3a05999a3749a56d1ab29d4429b267da9922d6f7dbae&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144608263.jpg?k=4a6a772360c762225773481e0d55cef39f5997d6d06ccdae61b1d5e648fb3efb&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144608263.jpg?k=4a6a772360c762225773481e0d55cef39f5997d6d06ccdae61b1d5e648fb3efb&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144608263.jpg?k=4a6a772360c762225773481e0d55cef39f5997d6d06ccdae61b1d5e648fb3efb&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144608263.jpg?k=4a6a772360c762225773481e0d55cef39f5997d6d06ccdae61b1d5e648fb3efb&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144608336.jpg?k=88700e54439b0be160c26b394501fd46a48a7e77420aaa48ccb3caeb53a1311d&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144608336.jpg?k=88700e54439b0be160c26b394501fd46a48a7e77420aaa48ccb3caeb53a1311d&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144608336.jpg?k=88700e54439b0be160c26b394501fd46a48a7e77420aaa48ccb3caeb53a1311d&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144608336.jpg?k=88700e54439b0be160c26b394501fd46a48a7e77420aaa48ccb3caeb53a1311d&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144608414.jpg?k=2a6e139b403512a47554a9d25813a419ecdea0df7129c91c5a62397a28cbd86f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144608414.jpg?k=2a6e139b403512a47554a9d25813a419ecdea0df7129c91c5a62397a28cbd86f&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144608414.jpg?k=2a6e139b403512a47554a9d25813a419ecdea0df7129c91c5a62397a28cbd86f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144608414.jpg?k=2a6e139b403512a47554a9d25813a419ecdea0df7129c91c5a62397a28cbd86f&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/144608495.jpg?k=df54ee9a66c51f63c5737ceb2cdae71d19ffedf28f226a5cf5da445a720dfd05&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144608495.jpg?k=df54ee9a66c51f63c5737ceb2cdae71d19ffedf28f226a5cf5da445a720dfd05&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144608495.jpg?k=df54ee9a66c51f63c5737ceb2cdae71d19ffedf28f226a5cf5da445a720dfd05&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/144608495.jpg?k=df54ee9a66c51f63c5737ceb2cdae71d19ffedf28f226a5cf5da445a720dfd05&o="
+        }
+    ],
+    "uniqueSellingPoints": null,
+    "healthSafety": [
+        "Not recommended for pregnant visitors",
+        "Suitable for all fitness levels"
+    ],
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation",
+            "type": "free_cancellation"
+        }
+    ],
+    "itinerary": null,
+    "restrictions": [
+        "Visitors must weigh between 35kg and 125.",
+        "Children under 18 years old must be accompanied by an adult.",
+        "Comfortable footwear is recommended."
+    ],
+    "operatedBy": "Madrid-Segway",
+    "cancellationPolicy": {
+        "until": "2023-05-06T18:00:00+02:00",
+        "percentage": 100,
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "__typename": "AttractionsCancellationPolicy",
+        "isStillRefundable": true,
+        "comparedTo": "start"
+    },
+    "additionalInfo": "The minimum age for participating in this tour is nine years.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "postBookingInfo": null,
+    "slug": "pr0saq2ngvbn-old-downtown-segway-tour",
+    "name": "Old Downtown Segway Tour",
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 1,
+        "average": 5
+    },
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "timeZone": "Europe/Madrid",
+    "url": "https://www.booking.com/attractions/en/pr0saq2ngvbn-old-downtown-segway-tour.html",
+    "ReviewDetails": [
+        {
+            "numericRating": 5,
+            "language": "en-us",
+            "id": "masked_89f54eea-4f39-420e-bdfd-f146acb1e991",
+            "epochMs": 1677152893000,
+            "isApproved": true,
+            "rating": true,
+            "user": null,
+            "content": "Wonderful tour, great guide, Miguel. Highly recommend",
+            "providerName": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "date": "02/23/2023, 03:48:13"
+        }
+    ]
+}

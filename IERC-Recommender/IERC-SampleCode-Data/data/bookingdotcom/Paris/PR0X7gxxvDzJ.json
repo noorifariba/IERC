@@ -1,0 +1,382 @@
+{
+    "typicalFrequency": null,
+    "additionalBookingInfo": null,
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": null,
+        "liveAvailabilityCheckSupported": true,
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "details": {
+                "address": "via Polesine 13, 20139 Milan, Italy",
+                "__typename": "AttractionsSupplierInfoDetails",
+                "name": "Musement S.p.A"
+            },
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "name": "Giverny and Auvers-sur-Oise Day Tour",
+    "ufiDetails": {
+        "__typename": "AttractionLocationResponse",
+        "url": {
+            "city": "paris",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions",
+            "country": "fr"
+        },
+        "image": null,
+        "bCityName": "Paris",
+        "countryName": "France",
+        "bInCityName": "in Paris",
+        "ufi": -1456928,
+        "longitude": 2.35147638246417,
+        "attractionsCount": 672,
+        "latitude": 48.8566821749061,
+        "banners": []
+    },
+    "additionalInfo": "Please note that priority admission to Monet's gardens will be 30 minutes before the site's official opening hours.\r\n\r\nThis tour can accommodate a maximum of eight people.\r\n\r\nThe minimum age for participating in this tour is seven years.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "numericReviewsStats": {
+        "average": 0,
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 0
+    },
+    "operatedBy": "Blue Fox Travel",
+    "representativePrice": {
+        "__typename": "AttractionsPrice",
+        "publicAmount": 165.75,
+        "currency": "GBP",
+        "chargeAmount": 165.75
+    },
+    "reviewsStats": {
+        "isGoodScore": 1,
+        "__typename": "AttractionsProductReviewStats",
+        "providerNumericStats": [],
+        "percentage": "100%",
+        "allReviewsCount": 1
+    },
+    "primaryLabel": null,
+    "isBookable": true,
+    "slug": "pr0x7gxxvdzj-giverny-and-auvers-sur-oise-day-tour-from-paris",
+    "poweredBy": "Powered by Musement",
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "point_pickup"
+        }
+    ],
+    "flags": null,
+    "accessibility": [],
+    "uniqueSellingPoints": [
+        "Day tour following in the footsteps of two Impressionist painters",
+        "Chance to explore Monet's family home and gardens in Giverny",
+        "Spectacular spots in Auvers-sur-Oise that inspired van Gogh"
+    ],
+    "postBookingInfo": "Please arrive at least 15 minutes before the scheduled departure time.",
+    "labels": [
+        {
+            "text": "Free cancellation",
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "addresses": {
+        "meeting": [
+            {
+                "address": "Avenue de Wagram 6",
+                "publicTransport": null,
+                "city": "Paris",
+                "country": "fr",
+                "googlePlaceId": null,
+                "id": "LOiCn7KnR4Ff",
+                "__typename": "AttractionsAddress",
+                "instructions": "Please meet your driver-guide outside Café La Flamme in Paris.",
+                "latitude": "48.8752632141113",
+                "longitude": "2.29640507698059",
+                "zip": null,
+                "locationType": "meeting"
+            }
+        ],
+        "departure": null,
+        "pickup": null,
+        "__typename": "AttractionsAddresses",
+        "entrance": null,
+        "guestPickup": null,
+        "attraction": null,
+        "arrival": null
+    },
+    "shortDescription": "A guided tour to explore the worlds of Claude Monet and Vincent van Gogh",
+    "dietOptions": [],
+    "description": "This small-group tour from Paris will take you on a journey that follows in the footsteps of two great artists – Claude Monet and Vincent van Gogh.\r\n\r\nYou'll start from Paris and make your way towards Giverny. Here, you'll explore Monet's pink stucco house and its vast garden lined with willow, cherry and Japanese apricot trees. You'll catch glimpses of several spots that inspired some of the French Impressionist's famous paintings. \r\n\r\nThe tour will also take you to Auvers-sur-Oise, where Vincent van Gogh spent the last three months of his life. You'll be able to spot places that inspired several of his paintings, such as 'The Church at Auvers' and 'Wheatfield with Crows'. You'll get to learn about the life and inspirations of both artists and also visit their tombs.",
+    "onSiteRequirements": {
+        "writtenConsentForChildren": null,
+        "age": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "weight": null,
+        "comfortableFootwearRecommended": null,
+        "adultSupervisionRequired": null,
+        "voucherPrintingRequired": null,
+        "unsuitable": null,
+        "onlyOperatesInGoodWeather": null,
+        "noAlcoholDuringRamadan": null,
+        "proofOfIdentityRequired": null,
+        "earlyArrival": {
+            "__typename": "Minutes",
+            "label": "Please arrive at least 15 minutes before the activity starts.",
+            "minutes": 15
+        },
+        "__typename": "OnSiteRequirements",
+        "height": null,
+        "drivingLicenseRequired": null,
+        "ticketCollection": null,
+        "noAlcoholDuringDryDays": null
+    },
+    "offers": [
+        {
+            "description": null,
+            "locationInstructions": null,
+            "typicalFrequency": null,
+            "languageOptions": null,
+            "reservationRestrictions": {
+                "adultRequiredForReservation": false,
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "__typename": "ReservationRestrictions"
+            },
+            "id": "OFQYZiypwxfe",
+            "availabilityType": "date_time",
+            "__typename": "Offer",
+            "typicalDuration": {
+                "__typename": "Value",
+                "value": "PT10H",
+                "label": "Duration: 10 hours"
+            },
+            "benefits": {
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "freeDrink": null
+            },
+            "notIncluded": null,
+            "label": "Full price(English)",
+            "items": [
+                {
+                    "id": "OISulUhhmmrd",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "tieredPricing": false,
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "numChildren": null,
+                        "minGroupSize": null,
+                        "type": "age",
+                        "numAdults": null,
+                        "numPeople": null,
+                        "minAge": 7,
+                        "label": "(age 7+)",
+                        "maxAge": null
+                    },
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "label": "Adult",
+                    "type": "adult",
+                    "travelerCountRequired": null
+                }
+            ],
+            "additionalInfo": null,
+            "whatsIncluded": null
+        },
+        {
+            "notIncluded": null,
+            "__typename": "Offer",
+            "typicalDuration": {
+                "value": "PT10H",
+                "label": "Duration: 10 hours",
+                "__typename": "Value"
+            },
+            "benefits": {
+                "priorityLane": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "freeAudioGuide": null,
+                "freeTransportation": null,
+                "freeDrink": null
+            },
+            "availabilityType": "date_time",
+            "id": "OFGu4a6AK3AK",
+            "whatsIncluded": null,
+            "items": [
+                {
+                    "constraint": {
+                        "label": "(age 7+)",
+                        "type": "age",
+                        "numPeople": null,
+                        "numAdults": null,
+                        "minAge": 7,
+                        "maxAge": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null,
+                        "numChildren": null
+                    },
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "id": "OI6JNaNSOJe8",
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "label": "Regular",
+                    "type": "regular"
+                }
+            ],
+            "additionalInfo": null,
+            "label": "Small group tour(English)",
+            "typicalFrequency": null,
+            "locationInstructions": null,
+            "description": null,
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": false,
+                "maxOfferItemsPerReservation": null
+            },
+            "languageOptions": null
+        }
+    ],
+    "primaryPhoto": {
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+        "__typename": "AttractionsPhoto",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o="
+    },
+    "whatsIncluded": [
+        "Driver-guide",
+        "Priority admission to Monet's gardens",
+        "Transportation in an air-conditioned vehicle"
+    ],
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "policyProvider": "Musement",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "timeZone": "Europe/Paris",
+    "photos": [
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145932923.jpg?k=ede64d96ab5892d1da45233960b7bb11a82d3a1f6e93cc77806a125be9459622&o="
+        }
+    ],
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "percentage": 100,
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "until": "2023-06-07T08:00:00+02:00",
+        "comparedTo": "start",
+        "isStillRefundable": true
+    },
+    "healthSafety": [],
+    "contextUfiDetails": null,
+    "id": "PR0X7gxxvDzJ",
+    "typicalDuration": {
+        "label": "Duration: 10 hours",
+        "value": "PT10H",
+        "__typename": "Value"
+    },
+    "notIncluded": [
+        "Food and drinks"
+    ],
+    "covid": [],
+    "restrictions": [
+        "Please arrive at least 15 minutes before the activity starts."
+    ],
+    "ufi": -1456928,
+    "itinerary": null,
+    "guideSupportedLanguages": [
+        "English (UK)"
+    ],
+    "audioSupportedLanguages": null,
+    "taxonomy": {
+        "categories": [
+            {
+                "label": "Cultural tour",
+                "__typename": "Content",
+                "slug": "cultural-tour"
+            }
+        ],
+        "__typename": "Taxonomy",
+        "type": {
+            "label": "Tours",
+            "slug": "tours",
+            "__typename": "Content"
+        },
+        "tags": [
+            {
+                "label": "Sightseeing",
+                "slug": "sightseeing",
+                "__typename": "Content"
+            },
+            {
+                "label": "Park",
+                "__typename": "Content",
+                "slug": "park"
+            },
+            {
+                "__typename": "Content",
+                "slug": "garden",
+                "label": "Garden"
+            },
+            {
+                "__typename": "Content",
+                "slug": "nature",
+                "label": "Nature"
+            },
+            {
+                "slug": "landmark",
+                "__typename": "Content",
+                "label": "Landmark"
+            }
+        ]
+    },
+    "__typename": "AttractionsProduct",
+    "url": "https://www.booking.com/attractions/en/pr0x7gxxvdzj-giverny-and-auvers-sur-oise-day-tour-from-paris.html",
+    "ReviewDetails": [
+        {
+            "providerName": null,
+            "numericRating": null,
+            "isApproved": true,
+            "content": "Geweldige gids en leuke tocht. Het half uur “ alleen” in de tuinen was een farce. 30 min is erg kort en bovendien was t file lopen met alle anderen die “ alleen “ met hun groepje. Vooral het middag programma was interessant en bijzonder! En niet zo druk.",
+            "id": "masked_1a989d85-de37-401f-95ae-068664718a10",
+            "rating": true,
+            "language": "nl",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "nl",
+                "name": "masked_cd285356-7ad1-436e-9464-70fb4c696cd5"
+            },
+            "epochMs": 1654586915000,
+            "date": "06/07/2022, 00:28:35"
+        }
+    ]
+}

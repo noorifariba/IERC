@@ -1,0 +1,429 @@
+{
+    "supportedFeatures": {
+        "alternativeTimeSlotsPartiallySupported": null,
+        "liveAvailabilityCheckPartiallySupported": null,
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "__typename": "AttractionsProductSupportedFeatures"
+    },
+    "covid": [],
+    "additionalInfo": "Each tour purchased will be accessible on one device.\r\n\r\nYou'll need to download an app to begin your tour.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "numericReviewsStats": {
+        "average": 0,
+        "total": 0,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Musement"
+        }
+    ],
+    "primaryPhoto": {
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+        "__typename": "AttractionsPhoto",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o="
+    },
+    "id": "PR0cfjFsYblA",
+    "addresses": {
+        "departure": [
+            {
+                "zip": null,
+                "city": "London",
+                "googlePlaceId": null,
+                "__typename": "AttractionsAddress",
+                "country": "gb",
+                "latitude": "51.5069099843996",
+                "publicTransport": null,
+                "instructions": "The tour starts at the Golden Hinde ship.",
+                "id": "LOxIg8a23lOj",
+                "address": "Borough Market, Southwark Street, London, Storbritannien",
+                "locationType": "departure",
+                "longitude": "-0.0904264261579316"
+            }
+        ],
+        "attraction": null,
+        "__typename": "AttractionsAddresses",
+        "meeting": null,
+        "guestPickup": null,
+        "arrival": null,
+        "pickup": null,
+        "entrance": null
+    },
+    "reviewsStats": {
+        "providerNumericStats": [],
+        "allReviewsCount": 5,
+        "percentage": "60%",
+        "__typename": "AttractionsProductReviewStats",
+        "isGoodScore": 0
+    },
+    "ufiDetails": {
+        "ufi": -2601889,
+        "longitude": -0.127634324117025,
+        "countryName": "United Kingdom",
+        "banners": [],
+        "latitude": 51.5073905425711,
+        "url": {
+            "country": "gb",
+            "city": "london",
+            "prefix": "attractions",
+            "__typename": "AttractionLocationUrl"
+        },
+        "attractionsCount": 667,
+        "__typename": "AttractionLocationResponse",
+        "image": null,
+        "bCityName": "London",
+        "bInCityName": "in London"
+    },
+    "name": "Borough Market Self-Guided Tour",
+    "audioSupportedLanguages": [
+        "English (UK)"
+    ],
+    "healthSafety": [],
+    "shortDescription": "An exploration of the artisanal stalls and foodie delights of the iconic Borough Market",
+    "typicalFrequency": null,
+    "description": "On this self-guided tour, you’ll experience the stalls and sights of London’s age-old Borough Market through an immersive podcast. Your audio guides will be Masterchef judge William Sitwell and Pip, a local foodie.\r\n\r\nYou’ll work your way through the extensive site – London’s oldest food market – discovering a diverse array of stalls selling both local produce and internationally inspired foods. As you explore, you’ll learn how different food cultures intertwine in London, the history of the market and how its presence has created a thriving community.",
+    "poweredBy": "Powered by Musement",
+    "postBookingInfo": "Download Vidi Guides from your phone's app store and enter the code you receive after booking to start your tour.\r\n\r\nPlease contact the tour provider on +44 792 753 1552 or alex.jones@vidiguides.com for queries.",
+    "accessibility": [],
+    "contextUfiDetails": null,
+    "pickupTypes": [],
+    "itinerary": null,
+    "primaryLabel": null,
+    "cancellationPolicy": {
+        "comparedTo": "start",
+        "hasFreeCancellation": true,
+        "isStillRefundable": true,
+        "__typename": "AttractionsCancellationPolicy",
+        "period": "PT24H",
+        "percentage": 100,
+        "until": "2023-06-29T00:00:00+01:00"
+    },
+    "onSiteRequirements": {
+        "__typename": "OnSiteRequirements",
+        "comfortableFootwearRecommended": null,
+        "noAlcoholDuringRamadan": null,
+        "voucherPrintingRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "onlyOperatesInGoodWeather": null,
+        "ticketCollection": null,
+        "earlyArrival": null,
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "writtenConsentForChildren": null,
+        "drivingLicenseRequired": null,
+        "proofOfIdentityRequired": null,
+        "height": null,
+        "age": null,
+        "unsuitable": null
+    },
+    "isBookable": true,
+    "whatsIncluded": [
+        "Digital audio guide"
+    ],
+    "taxonomy": {
+        "categories": [
+            {
+                "slug": "food-tour",
+                "__typename": "Content",
+                "label": "Food tour"
+            }
+        ],
+        "__typename": "Taxonomy",
+        "tags": [
+            {
+                "label": "Sightseeing",
+                "__typename": "Content",
+                "slug": "sightseeing"
+            },
+            {
+                "slug": "food-tour",
+                "label": "Food tour",
+                "__typename": "Content"
+            },
+            {
+                "slug": "walking-tour",
+                "__typename": "Content",
+                "label": "Walking tour"
+            },
+            {
+                "slug": "local-culture",
+                "__typename": "Content",
+                "label": "Local culture"
+            }
+        ],
+        "type": {
+            "__typename": "Content",
+            "label": "Tours",
+            "slug": "tours"
+        }
+    },
+    "representativePrice": {
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 4.99,
+        "currency": "GBP",
+        "publicAmount": 4.99
+    },
+    "dietOptions": [],
+    "restrictions": [],
+    "operatedBy": "Vidi Guides",
+    "timeZone": "Europe/London",
+    "ufi": -2601889,
+    "slug": "pr0cfjfsybla-borough-market-self-guided-tour",
+    "flags": [
+        {
+            "value": true,
+            "rank": 2,
+            "flag": "popularFor1Traveler",
+            "__typename": "AttractionsProductFlags"
+        }
+    ],
+    "__typename": "AttractionsProduct",
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false,
+            "details": {
+                "address": "via Polesine 13, 20139 Milan, Italy",
+                "name": "Musement S.p.A",
+                "__typename": "AttractionsSupplierInfoDetails"
+            }
+        }
+    ],
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation"
+        }
+    ],
+    "offers": [
+        {
+            "description": null,
+            "notIncluded": null,
+            "label": "Entrance",
+            "benefits": {
+                "inStoreDiscount": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "__typename": "Benefits"
+            },
+            "locationInstructions": null,
+            "id": "OFZjAG5Fpx1R",
+            "typicalDuration": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "__typename": "ReservationRestrictions"
+            },
+            "items": [
+                {
+                    "id": "OIpvNmIhPEYH",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "type": "custom",
+                    "label": "A - All Ages • Price include one device's access",
+                    "duration": null,
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "__typename": "OfferItem",
+                    "maxPerReservation": null
+                }
+            ],
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "whatsIncluded": null
+        },
+        {
+            "id": "OF8ojrq9V5mw",
+            "typicalDuration": null,
+            "label": "Self-guided tour",
+            "description": null,
+            "notIncluded": null,
+            "benefits": {
+                "skipTheLine": null,
+                "__typename": "Benefits",
+                "freeDrink": null,
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "inStoreDiscount": null
+            },
+            "locationInstructions": null,
+            "additionalInfo": null,
+            "typicalFrequency": null,
+            "items": [
+                {
+                    "maxPerReservation": null,
+                    "label": "Regular",
+                    "duration": null,
+                    "constraint": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "id": "OItdOQnZzMUD",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "type": "regular"
+                }
+            ],
+            "whatsIncluded": null,
+            "languageOptions": null,
+            "availabilityType": "date_time",
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": null,
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "__typename": "ReservationRestrictions"
+            },
+            "__typename": "Offer"
+        }
+    ],
+    "additionalBookingInfo": null,
+    "guideSupportedLanguages": null,
+    "uniqueSellingPoints": [
+        "Immersive tour delivered through a podcast",
+        "London's oldest and best-known food market",
+        "Learn the market's history and local food culture"
+    ],
+    "notIncluded": [
+        "Earphones"
+    ],
+    "typicalDuration": null,
+    "photos": [
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/144068608.jpg?k=4f3d9c39a856508ec24a30e29f513f287d63a84f9b96f6ff8400fa38e394b761&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144068619.jpg?k=e6d31295567e57d88eb4c958e9b68abffabc2fad7178071b7b3c30866396f08e&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144068619.jpg?k=e6d31295567e57d88eb4c958e9b68abffabc2fad7178071b7b3c30866396f08e&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/144068619.jpg?k=e6d31295567e57d88eb4c958e9b68abffabc2fad7178071b7b3c30866396f08e&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144068619.jpg?k=e6d31295567e57d88eb4c958e9b68abffabc2fad7178071b7b3c30866396f08e&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/144068628.jpg?k=5ce127dd3981dfae6ab5df97304a28fcf5f3e6382eb6d296e74c193b6b7f2421&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/144068628.jpg?k=5ce127dd3981dfae6ab5df97304a28fcf5f3e6382eb6d296e74c193b6b7f2421&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/144068628.jpg?k=5ce127dd3981dfae6ab5df97304a28fcf5f3e6382eb6d296e74c193b6b7f2421&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/144068628.jpg?k=5ce127dd3981dfae6ab5df97304a28fcf5f3e6382eb6d296e74c193b6b7f2421&o="
+        }
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0cfjfsybla-borough-market-self-guided-tour.html",
+    "ReviewDetails": [
+        {
+            "providerName": null,
+            "votes": {
+                "userVoted": false,
+                "__typename": "AttractionsReviewVotes",
+                "count": 1
+            },
+            "numericRating": null,
+            "__typename": "AttractionsReview",
+            "content": "Really interesting background on the history of the market and area as well as on some of the key stalwarts there today. I’ve been so many times and never taken that detail in before!",
+            "isApproved": true,
+            "epochMs": 1660032494000,
+            "id": "masked_9c96129a-4102-4bea-8519-f48010ede93d",
+            "rating": true,
+            "user": null,
+            "language": "en-gb",
+            "date": "08/09/2022, 01:08:14"
+        },
+        {
+            "votes": {
+                "__typename": "AttractionsReviewVotes",
+                "count": 1,
+                "userVoted": false
+            },
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "content": "Not very useful - lots of history but few stall food recommendations especially in the main market",
+            "numericRating": null,
+            "id": "masked_de6456b7-f2eb-4a6c-837c-0fae0fbfb157",
+            "isApproved": true,
+            "epochMs": 1643007753000,
+            "language": "en-us",
+            "user": {
+                "cc1": "gb",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_b2b1c922-9a3c-4e74-a505-a890aa6e1485",
+                "avatar": null
+            },
+            "rating": false,
+            "date": "01/23/2022, 23:02:33"
+        },
+        {
+            "numericRating": null,
+            "content": "We really enjoyed this as it was so easy to download and easy to use. The information we received really made us understand the market and about some of the stalls. Very helpful and would highly recommend.",
+            "__typename": "AttractionsReview",
+            "providerName": null,
+            "votes": {
+                "count": 1,
+                "__typename": "AttractionsReviewVotes",
+                "userVoted": false
+            },
+            "rating": true,
+            "user": {
+                "avatar": null,
+                "cc1": "gb",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_28fe7549-c329-41e2-ad56-b8e9bf4fc1b6"
+            },
+            "language": "en-gb",
+            "isApproved": true,
+            "epochMs": 1640104227000,
+            "id": "masked_bb015c0f-0733-4939-bf8e-555dc8b17096",
+            "date": "12/21/2021, 08:30:27"
+        },
+        {
+            "id": "masked_d53c73e8-6ac4-424d-9f80-47a3d7b7b243",
+            "isApproved": true,
+            "epochMs": 1631005909000,
+            "user": null,
+            "language": null,
+            "rating": false,
+            "votes": null,
+            "providerName": null,
+            "numericRating": null,
+            "__typename": "AttractionsReview",
+            "content": "",
+            "date": "09/07/2021, 02:11:49"
+        },
+        {
+            "id": "masked_b13e52f4-d62a-47a4-95b0-cd2e37779e18",
+            "isApproved": false,
+            "epochMs": 1653911812000,
+            "language": "de",
+            "user": {
+                "avatar": null,
+                "cc1": "ch",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_e5749614-946e-4f72-a98a-aed098140dc6"
+            },
+            "rating": true,
+            "votes": null,
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "content": "",
+            "numericRating": null,
+            "date": "05/30/2022, 04:56:52"
+        }
+    ]
+}

@@ -1,0 +1,640 @@
+{
+    "id": "PR0hmPc45JQe",
+    "ufi": 20088325,
+    "guideSupportedLanguages": [
+        "English (US)"
+    ],
+    "flags": null,
+    "__typename": "AttractionsProduct",
+    "numericReviewsStats": {
+        "average": 0,
+        "total": 0,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "operatedBy": "Unlimited Biking",
+    "name": "Lower Manhattan and Brooklyn Bridge Bike Tour",
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "shortDescription": "A guided tour to ride around the southern tip of Manhattan",
+    "whatsIncluded": [
+        "Bike lock",
+        "Helmet",
+        "Illustrated map",
+        "Bike rental",
+        "Basket"
+    ],
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Physical distancing measures enforced at all times",
+        "Equipment sanitised between uses\t",
+        "Staff required to wash hands regularly"
+    ],
+    "photos": [
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130012155.jpg?k=a226bec2acbf216d26871c58b3c307a531d56c3dadee0cc9a38c9762f103449f&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130012155.jpg?k=a226bec2acbf216d26871c58b3c307a531d56c3dadee0cc9a38c9762f103449f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130012155.jpg?k=a226bec2acbf216d26871c58b3c307a531d56c3dadee0cc9a38c9762f103449f&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130012155.jpg?k=a226bec2acbf216d26871c58b3c307a531d56c3dadee0cc9a38c9762f103449f&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130012175.jpg?k=16e2efb183cbf16706a64cf0b281a71c04ca519b943f56e67d9e629e8707e841&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130012175.jpg?k=16e2efb183cbf16706a64cf0b281a71c04ca519b943f56e67d9e629e8707e841&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130012175.jpg?k=16e2efb183cbf16706a64cf0b281a71c04ca519b943f56e67d9e629e8707e841&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130012175.jpg?k=16e2efb183cbf16706a64cf0b281a71c04ca519b943f56e67d9e629e8707e841&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130012193.jpg?k=38c646474d7c2ea00b14f5b4e164b42794625b46403d136eec50e53736d20130&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130012193.jpg?k=38c646474d7c2ea00b14f5b4e164b42794625b46403d136eec50e53736d20130&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130012193.jpg?k=38c646474d7c2ea00b14f5b4e164b42794625b46403d136eec50e53736d20130&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130012193.jpg?k=38c646474d7c2ea00b14f5b4e164b42794625b46403d136eec50e53736d20130&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130012212.jpg?k=1092654371f25ceb62b3829927215ac481994e812f82658fb77668768dc9657f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130012212.jpg?k=1092654371f25ceb62b3829927215ac481994e812f82658fb77668768dc9657f&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130012212.jpg?k=1092654371f25ceb62b3829927215ac481994e812f82658fb77668768dc9657f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130012212.jpg?k=1092654371f25ceb62b3829927215ac481994e812f82658fb77668768dc9657f&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130012236.jpg?k=59cc840588086d08a494520226511473095d20076befc419e38fc25de4414dde&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130012236.jpg?k=59cc840588086d08a494520226511473095d20076befc419e38fc25de4414dde&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/130012236.jpg?k=59cc840588086d08a494520226511473095d20076befc419e38fc25de4414dde&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130012236.jpg?k=59cc840588086d08a494520226511473095d20076befc419e38fc25de4414dde&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/130012258.jpg?k=f747c38ddc19dcae7237f26eb5ebfdf376a7169f59d2337a2cbd4791a1d0af43&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130012258.jpg?k=f747c38ddc19dcae7237f26eb5ebfdf376a7169f59d2337a2cbd4791a1d0af43&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/130012258.jpg?k=f747c38ddc19dcae7237f26eb5ebfdf376a7169f59d2337a2cbd4791a1d0af43&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/130012258.jpg?k=f747c38ddc19dcae7237f26eb5ebfdf376a7169f59d2337a2cbd4791a1d0af43&o="
+        }
+    ],
+    "taxonomy": {
+        "tags": null,
+        "type": {
+            "__typename": "Content",
+            "slug": "tours",
+            "label": "Tours"
+        },
+        "__typename": "Taxonomy",
+        "categories": [
+            {
+                "label": "Bike tour",
+                "slug": "bike-tour",
+                "__typename": "Content"
+            }
+        ]
+    },
+    "offers": [
+        {
+            "typicalDuration": null,
+            "label": "eBike Option (16+)",
+            "typicalFrequency": null,
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "maxAge": 99,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "minAge": 13,
+                        "label": "(age 13-99)",
+                        "__typename": "Constraint"
+                    },
+                    "id": "OIW7eq2Xe24L",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "adult"
+                }
+            ],
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "locationInstructions": null,
+            "benefits": {
+                "freeAudioGuide": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "priorityLane": null
+            },
+            "languageOptions": [
+                {
+                    "language": "en",
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                }
+            ],
+            "id": "OFduj79DBc3i",
+            "availabilityType": "date_time",
+            "notIncluded": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 1,
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 14
+            },
+            "description": "- Electric bike tour.\r\n- This option is suitable for riders aged 16 years and above who would like to boost their ride with a pedal assist eBike."
+        },
+        {
+            "typicalDuration": null,
+            "label": "Standard Bike Tour",
+            "typicalFrequency": null,
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "maxAge": 99,
+                        "numChildren": null,
+                        "label": "(age 13-99)",
+                        "numPeople": null,
+                        "minAge": 13
+                    },
+                    "id": "OIzBidmTZ96N",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "adult"
+                },
+                {
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "type": "children",
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "id": "OIPCWWE4Vdya",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "maxAge": 12,
+                        "numChildren": null,
+                        "minAge": 1,
+                        "numPeople": null,
+                        "label": "(age 1-12)",
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null
+                    },
+                    "travelerCountRequired": null,
+                    "duration": null,
+                    "__typename": "OfferItem"
+                }
+            ],
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "locationInstructions": null,
+            "benefits": {
+                "freeDrink": null,
+                "skipTheLine": null,
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "freeTransportation": null
+            },
+            "languageOptions": [
+                {
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "label": "English - Tour guide",
+                    "language": "en"
+                }
+            ],
+            "id": "OFyPtScYDmK4",
+            "availabilityType": "date_time",
+            "notIncluded": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 14,
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1
+            },
+            "description": null
+        }
+    ],
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsPartiallySupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "poweredBy": "Powered by Viator",
+    "description": "On this two-hour tour, you’ll get the opportunity to take a bike ride around Lower Manhattan and climb uphill to enjoy the panoramic views of New York Harbour.\r\n\r\nAlong the way, your guide will tell you stories about the past of New York and will share facts about the origins of the city’s famous attractions. You’ll be able to discover New York City Hall, Ellis Island and the Statue of Liberty, Staten Island and the Financial District.\r\n\r\nAfter a 15-minute climb, you’ll then reach the Brooklyn Bridge and cross it to see the city from the opposite side. Before the tour ends, you’ll also have the chance to explore the South Street Seaport area.",
+    "isBookable": true,
+    "onSiteRequirements": {
+        "writtenConsentForChildren": null,
+        "onlyOperatesInGoodWeather": null,
+        "voucherPrintingRequired": null,
+        "unsuitable": null,
+        "drivingLicenseRequired": null,
+        "comfortableFootwearRecommended": null,
+        "noAlcoholDuringDryDays": null,
+        "weight": null,
+        "height": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "proofOfIdentityRequired": null,
+        "age": null,
+        "ticketCollection": null,
+        "__typename": "OnSiteRequirements",
+        "adultSupervisionRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "earlyArrival": null
+    },
+    "contextUfiDetails": null,
+    "accessibility": [
+        "Public transport links nearby",
+        "Infant seats available"
+    ],
+    "additionalInfo": "Please bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "reviewsStats": {
+        "providerNumericStats": [
+            {
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "providerName": "viator",
+                "average": 4.9,
+                "total": 11
+            }
+        ],
+        "isGoodScore": 0,
+        "percentage": "0",
+        "allReviewsCount": 0,
+        "__typename": "AttractionsProductReviewStats"
+    },
+    "cancellationPolicy": {
+        "isStillRefundable": true,
+        "until": "2023-06-05T16:00:00-04:00",
+        "percentage": 100,
+        "comparedTo": "start",
+        "period": "PT24H",
+        "__typename": "AttractionsCancellationPolicy",
+        "hasFreeCancellation": true
+    },
+    "timeZone": "America/New_York",
+    "typicalDuration": null,
+    "audioSupportedLanguages": null,
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false,
+            "details": {
+                "name": "Unlimited Biking",
+                "address": "346 West 57th Street  New York City New York 10019 US",
+                "__typename": "AttractionsSupplierInfoDetails"
+            }
+        }
+    ],
+    "primaryPhoto": {
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+        "__typename": "AttractionsPhoto",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/130012132.jpg?k=d48d19469dbde0959abd10896a4a7696a6a60686b11e0ee9834ecad9dd36f9d5&o="
+    },
+    "ufiDetails": {
+        "longitude": -73.9818954467773,
+        "bCityName": "New York",
+        "countryName": "United States",
+        "banners": [],
+        "__typename": "AttractionLocationResponse",
+        "latitude": 40.7680740356445,
+        "bInCityName": "in New York",
+        "attractionsCount": 706,
+        "ufi": 20088325,
+        "url": {
+            "prefix": "attractions",
+            "country": "us",
+            "__typename": "AttractionLocationUrl",
+            "city": "new-york"
+        },
+        "image": null
+    },
+    "postBookingInfo": null,
+    "dietOptions": [],
+    "slug": "pr0hmpc45jqe-lower-manhattan-and-brooklyn-bridge-bike-tour",
+    "pickupTypes": [
+        {
+            "__typename": "ProductPickup",
+            "type": "point_pickup"
+        }
+    ],
+    "restrictions": [],
+    "notIncluded": [
+        "Tips"
+    ],
+    "primaryLabel": null,
+    "uniqueSellingPoints": null,
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "type": "free_cancellation",
+            "text": "Free cancellation"
+        }
+    ],
+    "representativePrice": {
+        "chargeAmount": 39.14,
+        "currency": "GBP",
+        "publicAmount": 39.14,
+        "__typename": "AttractionsPrice"
+    },
+    "typicalFrequency": null,
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "addresses": {
+        "meeting": null,
+        "arrival": [
+            {
+                "country": "us",
+                "__typename": "AttractionsAddress",
+                "zip": "10038",
+                "googlePlaceId": "ChIJRcFmeSJawokRPp6jsM-hD0U",
+                "id": "LOcv7WyLOsbw",
+                "longitude": "-74.0065253",
+                "city": "New York, NY",
+                "instructions": null,
+                "latitude": "40.7116959",
+                "address": "38 Park Row, Manhattan",
+                "publicTransport": null,
+                "locationType": "arrival"
+            }
+        ],
+        "entrance": null,
+        "attraction": null,
+        "__typename": "AttractionsAddresses",
+        "guestPickup": null,
+        "pickup": null,
+        "departure": [
+            {
+                "id": "LOGt4MuHLgOB",
+                "googlePlaceId": "ChIJRcFmeSJawokRPp6jsM-hD0U",
+                "country": "us",
+                "__typename": "AttractionsAddress",
+                "zip": "10038",
+                "city": "New York, NY",
+                "longitude": "-74.0065253",
+                "address": "38 Park Row, Manhattan",
+                "latitude": "40.7116959",
+                "instructions": "Meet your guide at the Brooklyn Bridge Sightseeing office at the listed address. Please check in at the front desk.",
+                "locationType": "departure",
+                "publicTransport": null
+            }
+        ]
+    },
+    "additionalBookingInfo": null,
+    "url": "https://www.booking.com/attractions/en/pr0hmpc45jqe-lower-manhattan-and-brooklyn-bridge-bike-tour.html",
+    "ReviewDetails": [
+        {
+            "votes": null,
+            "numericRating": 4,
+            "providerName": "viator",
+            "user": {
+                "name": "masked_eb6b48b8-41f4-417f-ac4f-67291dd2cf3f",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "rating": null,
+            "isApproved": true,
+            "language": "en-gb",
+            "epochMs": 1669551622000,
+            "content": "This is a tough ride, and Eddie moved fast. It’s more of a bike ride around the city vs a tour. There were a few good anecdotes and Eddie did a great job with that. ",
+            "__typename": "AttractionsReview",
+            "id": "masked_542a46ba-97c1-413d-9104-a7682b214724",
+            "date": "11/27/2022, 04:20:22"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_78c0d294-5a0d-4f50-89f2-9a9a41fd3a56"
+            },
+            "rating": null,
+            "providerName": "viator",
+            "numericRating": 5,
+            "votes": null,
+            "language": "en-gb",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "content": "Our guide Eddie was very professional and funny. He knows what he's talking about! The view of the city from this perspective was awesome. Nice views and very safe. I really recommend if you like to exercise.",
+            "epochMs": 1668017176000,
+            "id": "masked_b3cbe682-ef1b-4d86-af00-39d1b1d7b40a",
+            "date": "11/09/2022, 10:06:16"
+        },
+        {
+            "content": "The history of China Town, Brooklyn Bridge, Neighborhoods and Lower Manhattan. Also getting to know our tour guide Richard as he did a great job of leading our tour.",
+            "epochMs": 1660299906000,
+            "__typename": "AttractionsReview",
+            "id": "masked_a09c1d4e-a9c2-4bbc-a368-bd5d642a1245",
+            "votes": null,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_9e0d34df-8490-41d4-b638-9667e267504d"
+            },
+            "providerName": "viator",
+            "numericRating": 5,
+            "language": "en-gb",
+            "isApproved": true,
+            "date": "08/12/2022, 03:25:06"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_e7e075a5-0dd4-4564-acbc-b7ca527839e6",
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null
+            },
+            "rating": null,
+            "numericRating": 5,
+            "votes": null,
+            "language": "en-gb",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "epochMs": 1657707195000,
+            "content": "Awesome Brooklyn bridge bike ride! Our tour guide,Damian, was the best! He was extremely knowledgeable on everything NYC! History with the interesting backstories made our tour SO much fun! Thanks Damian!!",
+            "id": "masked_29138fd5-8cab-4dc4-b0ea-82095cb3314b",
+            "date": "07/13/2022, 03:13:15"
+        },
+        {
+            "isApproved": true,
+            "language": "en-gb",
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_b1d77f36-0b19-41fa-a7f4-c0134789a089"
+            },
+            "providerName": "viator",
+            "votes": null,
+            "id": "masked_748db520-7d52-4e67-9f4f-c82330211df2",
+            "__typename": "AttractionsReview",
+            "epochMs": 1657026626000,
+            "content": "Alex was an amazing tour guide. He was kind, knowledgeable, and fun. When we struggled on the bridges, he gave us time to finish and cheered us on. He is fantastic!",
+            "date": "07/05/2022, 06:10:26"
+        },
+        {
+            "isApproved": true,
+            "language": "en-gb",
+            "votes": null,
+            "numericRating": 5,
+            "providerName": "viator",
+            "user": {
+                "name": "masked_12ae99be-dcc9-4a08-961d-42dc2877e6b5",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "id": "masked_07911563-4738-448f-ab9c-2c0c7152c3f3",
+            "content": "This was an AMAZING tour. Alex our tour guide was knowledgeable and went above and beyond to provide us history of the area. Highly recommend! ",
+            "epochMs": 1654510285000,
+            "__typename": "AttractionsReview",
+            "date": "06/06/2022, 03:11:25"
+        },
+        {
+            "id": "masked_c5a2dedb-0e1c-47bc-8173-899b2b74982a",
+            "__typename": "AttractionsReview",
+            "content": "Thank to Eric, best views  of New York (lower Manhattan and Brooklyn) and a lot of explainaitions ! A multicultural expérience …",
+            "epochMs": 1652011104000,
+            "language": "en-gb",
+            "isApproved": true,
+            "user": {
+                "name": "masked_fcd6244e-9c16-4919-8219-f2bd08f9e6ad",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "rating": null,
+            "numericRating": 5,
+            "votes": null,
+            "date": "05/08/2022, 04:58:24"
+        },
+        {
+            "id": "masked_2b3f6259-2b3c-498f-8354-788928be6582",
+            "__typename": "AttractionsReview",
+            "content": "We had a very good experience and our tour guide Richard has a lot of knowledge and is also funny . He has made this tour an unforgettable one. ",
+            "epochMs": 1641035618000,
+            "isApproved": true,
+            "language": "en-gb",
+            "numericRating": 5,
+            "providerName": "viator",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_189f3dde-bb2a-4581-8dd6-abb0d5ab63b0"
+            },
+            "rating": null,
+            "votes": null,
+            "date": "01/01/2022, 03:13:38"
+        },
+        {
+            "providerName": "viator",
+            "user": {
+                "name": "masked_19370ebd-435b-46c5-b219-6241744737ad",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "rating": null,
+            "numericRating": 5,
+            "votes": null,
+            "language": "en-gb",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "content": "Chuck was a great personality and a brave man to lead a group of unknown biking talent into the busy streets of NYC. He was informative. Likable. Knowledgeable. We thoroughly enjoyed his tour. It was hands in adventure! Well worth ine’s time!",
+            "epochMs": 1631712551000,
+            "id": "masked_85bfcd60-5ed9-4caa-9bc1-6a6424b16b42",
+            "date": "09/15/2021, 06:29:11"
+        },
+        {
+            "id": "masked_bee62cb6-beb6-4b02-b759-64e73c469ef9",
+            "content": "Outstanding tour!  You must book this and make sure to ask for Chuck!  He was a great tour guide!  I loved hearing about his history with the city!  Would do this tour again in a heartbeat! PS…make sure to get the electric bikes if the temps are high! ",
+            "epochMs": 1625337545000,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "language": "en-gb",
+            "votes": null,
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_b24eb0e2-fb4f-4dad-89f3-c18b7db8625e"
+            },
+            "providerName": "viator",
+            "date": "07/03/2021, 11:39:05"
+        },
+        {
+            "id": "masked_505be3e5-5c77-409b-87c0-24d02e82e845",
+            "__typename": "AttractionsReview",
+            "epochMs": 1658596733000,
+            "content": "Ein sehr sehr netter Guide ( Alex) um alles und jeden bemüht!\nHaben Wunderschöne Ecken gesehen, die wir ohne Fahrrad und Guide nie entdeckt hätten!",
+            "isApproved": true,
+            "language": "de",
+            "numericRating": 5,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_aa3822c4-5d5a-44b4-9033-0e968ebcabb3"
+            },
+            "providerName": "viator",
+            "votes": null,
+            "date": "07/23/2022, 10:18:53"
+        }
+    ]
+}

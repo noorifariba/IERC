@@ -1,0 +1,699 @@
+{
+    "name": "Ticket to Recinte Modernista de Sant Pau",
+    "postBookingInfo": null,
+    "supplierInfo": [
+        {
+            "details": {
+                "__typename": "AttractionsSupplierInfoDetails",
+                "name": "Fundació Privada Hospital de la Santa Creu i Sant Pau",
+                "address": "Sant Antoni Maria Claret, 167 Barcelona 08025 ES"
+            },
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false
+        }
+    ],
+    "primaryPhoto": {
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+        "__typename": "AttractionsPhoto",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o="
+    },
+    "guideSupportedLanguages": null,
+    "shortDescription": "A self-guided look at an Art Nouveau museum",
+    "flags": null,
+    "photos": [
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/107718115.jpg?k=58200ac37c0aa097550b1992ae215872dc4748b9d0695c74f5bc6b76d68e607f&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143258806.jpg?k=5bda4726a04b784575f5698e542c1a9f527ed8aebaa3d2e68978fbb3f4b13b54&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143258806.jpg?k=5bda4726a04b784575f5698e542c1a9f527ed8aebaa3d2e68978fbb3f4b13b54&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143258806.jpg?k=5bda4726a04b784575f5698e542c1a9f527ed8aebaa3d2e68978fbb3f4b13b54&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143258806.jpg?k=5bda4726a04b784575f5698e542c1a9f527ed8aebaa3d2e68978fbb3f4b13b54&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/143258843.jpg?k=408b04c893adfd0dc75bdd1f4beba154bf5fc239274e00c560461778bc59fb01&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143258843.jpg?k=408b04c893adfd0dc75bdd1f4beba154bf5fc239274e00c560461778bc59fb01&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143258843.jpg?k=408b04c893adfd0dc75bdd1f4beba154bf5fc239274e00c560461778bc59fb01&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143258843.jpg?k=408b04c893adfd0dc75bdd1f4beba154bf5fc239274e00c560461778bc59fb01&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/143258878.jpg?k=a42d3c6289de952747f7f3a1e8520d32bc119f6e61006e3854cdd63ba6daa8a9&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143258878.jpg?k=a42d3c6289de952747f7f3a1e8520d32bc119f6e61006e3854cdd63ba6daa8a9&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143258878.jpg?k=a42d3c6289de952747f7f3a1e8520d32bc119f6e61006e3854cdd63ba6daa8a9&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/143258878.jpg?k=a42d3c6289de952747f7f3a1e8520d32bc119f6e61006e3854cdd63ba6daa8a9&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143258913.jpg?k=bda4f835cd7ba9b274aaa2aeb3fb2d8c32ecf0818710fdb153d811607a92ae54&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143258913.jpg?k=bda4f835cd7ba9b274aaa2aeb3fb2d8c32ecf0818710fdb153d811607a92ae54&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/143258913.jpg?k=bda4f835cd7ba9b274aaa2aeb3fb2d8c32ecf0818710fdb153d811607a92ae54&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/143258913.jpg?k=bda4f835cd7ba9b274aaa2aeb3fb2d8c32ecf0818710fdb153d811607a92ae54&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143258946.jpg?k=b1241f6528eedf313c0e847f3720213fe046153a6aad5cc5afffb121f6ce9199&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/143258946.jpg?k=b1241f6528eedf313c0e847f3720213fe046153a6aad5cc5afffb121f6ce9199&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143258946.jpg?k=b1241f6528eedf313c0e847f3720213fe046153a6aad5cc5afffb121f6ce9199&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143258946.jpg?k=b1241f6528eedf313c0e847f3720213fe046153a6aad5cc5afffb121f6ce9199&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/143258978.jpg?k=dd473e0308a9b959c6ca8280f7b3d63d46f6d2dc868c57c40a03870a7299d42c&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143258978.jpg?k=dd473e0308a9b959c6ca8280f7b3d63d46f6d2dc868c57c40a03870a7299d42c&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143258978.jpg?k=dd473e0308a9b959c6ca8280f7b3d63d46f6d2dc868c57c40a03870a7299d42c&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143258978.jpg?k=dd473e0308a9b959c6ca8280f7b3d63d46f6d2dc868c57c40a03870a7299d42c&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/143259018.jpg?k=b25a1b5ef882985cef4a9f8ee80b5bcc029758406657813a8fe05a8953aa4916&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/143259018.jpg?k=b25a1b5ef882985cef4a9f8ee80b5bcc029758406657813a8fe05a8953aa4916&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/143259018.jpg?k=b25a1b5ef882985cef4a9f8ee80b5bcc029758406657813a8fe05a8953aa4916&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/143259018.jpg?k=b25a1b5ef882985cef4a9f8ee80b5bcc029758406657813a8fe05a8953aa4916&o="
+        }
+    ],
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "numericReviewsStats": {
+        "total": 4,
+        "__typename": "AttractionsProductNumericReviewStats",
+        "average": 4.8
+    },
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Viator"
+        }
+    ],
+    "whatsIncluded": [
+        "Admission ticket"
+    ],
+    "contextUfiDetails": null,
+    "uniqueSellingPoints": null,
+    "representativePrice": {
+        "currency": "GBP",
+        "chargeAmount": 14.02,
+        "publicAmount": 14.02,
+        "__typename": "AttractionsPrice"
+    },
+    "taxonomy": {
+        "tags": [
+            {
+                "__typename": "Content",
+                "label": "Landmark",
+                "slug": "landmark"
+            },
+            {
+                "__typename": "Content",
+                "label": "Art museum",
+                "slug": "art-museum"
+            },
+            {
+                "__typename": "Content",
+                "label": "Art tour",
+                "slug": "arts-tour"
+            },
+            {
+                "slug": "indoors",
+                "label": "Indoor",
+                "__typename": "Content"
+            },
+            {
+                "slug": "arts",
+                "__typename": "Content",
+                "label": "Arts"
+            }
+        ],
+        "type": {
+            "slug": "museums",
+            "__typename": "Content",
+            "label": "Museums"
+        },
+        "__typename": "Taxonomy",
+        "categories": [
+            {
+                "label": "Art museum",
+                "__typename": "Content",
+                "slug": "art-museum"
+            }
+        ]
+    },
+    "audioSupportedLanguages": null,
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation"
+        }
+    ],
+    "reviewsStats": {
+        "isGoodScore": 1,
+        "providerNumericStats": [
+            {
+                "average": 4.8,
+                "providerName": "viator",
+                "total": 6,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ],
+        "percentage": "100%",
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 10
+    },
+    "itinerary": {
+        "type": "standard",
+        "__typename": "AttractionsProductItinerary"
+    },
+    "restrictions": [],
+    "dietOptions": [],
+    "timeZone": "Europe/Madrid",
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true,
+        "liveAvailabilityCheckSupported": true,
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "operatedBy": "Fundació Privada Hospital de la Santa Creu i Sant Pau",
+    "notIncluded": [
+        "Food and drinks",
+        "Guide services"
+    ],
+    "primaryLabel": null,
+    "typicalFrequency": null,
+    "accessibility": [
+        "Wheelchair accessible",
+        "Accessible to pushchairs/prams",
+        "Service animals welcome",
+        "Public transport links nearby"
+    ],
+    "offers": [
+        {
+            "id": "OFNtawexLhXh",
+            "locationInstructions": null,
+            "notIncluded": null,
+            "items": [
+                {
+                    "constraint": {
+                        "maxAge": 99,
+                        "maxGroupSize": null,
+                        "label": "(age 65-99)",
+                        "type": "age",
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "minAge": 65,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "__typename": "Constraint"
+                    },
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "duration": null,
+                    "tieredPricing": false,
+                    "id": "OISRZtIpFUTf",
+                    "type": "senior",
+                    "label": "Senior",
+                    "maxPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "type": "children",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OIp3cwooihxs",
+                    "duration": null,
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "label": "(age 12-29)",
+                        "type": "age",
+                        "minGroupSize": null,
+                        "minAge": 12,
+                        "numPeople": null,
+                        "maxAge": 29,
+                        "maxGroupSize": null,
+                        "numAdults": null,
+                        "numChildren": null,
+                        "__typename": "Constraint"
+                    }
+                },
+                {
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "label": "(age 0-11)",
+                        "minGroupSize": null,
+                        "type": "age",
+                        "numPeople": null,
+                        "minAge": null,
+                        "maxAge": 11,
+                        "maxGroupSize": null,
+                        "numChildren": null,
+                        "numAdults": null,
+                        "__typename": "Constraint"
+                    },
+                    "type": "children",
+                    "label": "Child",
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "tieredPricing": false,
+                    "id": "OIkONViIfB3H",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null
+                },
+                {
+                    "type": "adult",
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "duration": null,
+                    "id": "OImCS5OzerdN",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "numChildren": null,
+                        "numAdults": null,
+                        "minAge": 30,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "type": "age",
+                        "label": "(age 30-64)",
+                        "maxGroupSize": null,
+                        "maxAge": 64
+                    }
+                }
+            ],
+            "benefits": {
+                "freeTransportation": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "freeDrink": null,
+                "skipTheLine": null,
+                "freeAudioGuide": null,
+                "priorityLane": null
+            },
+            "languageOptions": [
+                {
+                    "language": "en",
+                    "__typename": "OfferLanguageOption",
+                    "type": "written",
+                    "label": "English - Written guide"
+                },
+                {
+                    "type": "written",
+                    "label": "Spanish - Written guide",
+                    "language": "es",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "language": "fr",
+                    "label": "French - Written guide",
+                    "type": "written"
+                }
+            ],
+            "typicalFrequency": null,
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 1
+            },
+            "description": null,
+            "label": "Standard ticket",
+            "typicalDuration": null,
+            "additionalInfo": null,
+            "whatsIncluded": null,
+            "availabilityType": "date_time",
+            "__typename": "Offer"
+        }
+    ],
+    "additionalInfo": "Please bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "pickupTypes": [],
+    "poweredBy": "Powered by Viator",
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Staff required to wash hands regularly"
+    ],
+    "id": "PR0aYcqP5gNa",
+    "addresses": {
+        "arrival": null,
+        "departure": null,
+        "pickup": null,
+        "__typename": "AttractionsAddresses",
+        "attraction": null,
+        "entrance": [
+            {
+                "country": "es",
+                "latitude": "41.41142",
+                "publicTransport": null,
+                "__typename": "AttractionsAddress",
+                "googlePlaceId": null,
+                "instructions": "The museum is located at Sant Antoni Maria Claret, 167, 08025 Barcelona, ES.",
+                "address": "Recinte Modernista de Sant Pau, Sant Antoni Maria Claret, 167",
+                "zip": "08025",
+                "locationType": "entrance",
+                "id": "LOprhBES7HN1",
+                "longitude": "2.174328",
+                "city": "Barcelona"
+            }
+        ],
+        "guestPickup": null,
+        "meeting": null
+    },
+    "ufiDetails": {
+        "url": {
+            "city": "barcelona",
+            "__typename": "AttractionLocationUrl",
+            "country": "es",
+            "prefix": "attractions"
+        },
+        "bCityName": "Barcelona",
+        "countryName": "Spain",
+        "bInCityName": "in Barcelona",
+        "ufi": -372490,
+        "longitude": 2.17001008987427,
+        "attractionsCount": 606,
+        "image": null,
+        "__typename": "AttractionLocationResponse",
+        "latitude": 41.3871002197266,
+        "banners": []
+    },
+    "description": "With this ticket, you’ll have skip-the-line access to the Recinte Modernista de Sant Pau museum. \r\n\r\nAt this former hospital, you’ll be able to see one of the world’s largest Art Nouveau collections. You’ll be able to learn about the design and history of this building as you explore the art works of the interior. At the museum, you’ll visit the Sant Salvador Pavilion where you’ll learn about the building’s long history as a hospital. You’ll also be able to see a tribute to Lluís Domènech i Montaner – a major Art Nouveau architect in the Catalan region.",
+    "ufi": -372490,
+    "isBookable": true,
+    "typicalDuration": null,
+    "onSiteRequirements": {
+        "onlyOperatesInGoodWeather": null,
+        "__typename": "OnSiteRequirements",
+        "adultSupervisionRequired": null,
+        "unsuitable": null,
+        "proofOfIdentityRequired": null,
+        "age": null,
+        "ticketCollection": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "comfortableFootwearRecommended": null,
+        "voucherPrintingRequired": null,
+        "writtenConsentForChildren": null,
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "earlyArrival": null,
+        "height": null,
+        "weight": null,
+        "noAlcoholDuringDryDays": null
+    },
+    "additionalBookingInfo": null,
+    "slug": "pr0aycqp5gna-ticket-to-recinte-modernista-de-sant-pau",
+    "cancellationPolicy": {
+        "percentage": 100,
+        "isStillRefundable": true,
+        "period": "PT24H",
+        "__typename": "AttractionsCancellationPolicy",
+        "hasFreeCancellation": true,
+        "until": "2023-07-03T17:30:00+02:00",
+        "comparedTo": "start"
+    },
+    "__typename": "AttractionsProduct",
+    "url": "https://www.booking.com/attractions/en/pr0aycqp5gna-ticket-to-recinte-modernista-de-sant-pau.html",
+    "ReviewDetails": [
+        {
+            "votes": null,
+            "id": "masked_c381906f-fb7d-4dfe-9938-d48eb40bf629",
+            "providerName": "viator",
+            "numericRating": 5,
+            "content": "The original hospital with multiple buildings of amazing  architecture. Beautiful mosaics and tiled underground passageways which were used to move patients from one building to another. I’d recommend utilising the audio tour and allowing over an hour.\nHop on hop off bus Green line stop 12 is right outside.",
+            "rating": null,
+            "__typename": "AttractionsReview",
+            "user": {
+                "name": "masked_3ff17ccd-ae62-41d6-a846-4faa446623ea",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1659273087000,
+            "language": "en-gb",
+            "isApproved": true,
+            "date": "07/31/2022, 06:11:27"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "providerName": "viator",
+            "numericRating": 4,
+            "content": "There wasn't much of a line to skip, truth be told, though it was a Monday afternoon.\n\nThe signposting of the visit was a little hit-and-miss, though that does seem to be a general observation about Spanish facilities.\n\nHospital itself was fine, though access to lifts seems a bit grudging (I have bad knees, so stairs are not my friend).",
+            "rating": null,
+            "votes": null,
+            "id": "masked_877f6302-7101-4462-958b-0e22faa346ae",
+            "isApproved": true,
+            "language": "en-gb",
+            "epochMs": 1659073361000,
+            "user": {
+                "avatar": null,
+                "name": "masked_2ee1b668-ead3-4cf6-b329-6a9a51c4a2e9",
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "date": "07/28/2022, 22:42:41"
+        },
+        {
+            "epochMs": 1654408603000,
+            "user": {
+                "name": "masked_11373528-4b50-43ca-a191-f99861e570a6",
+                "avatar": null,
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "language": "en-gb",
+            "providerName": "viator",
+            "numericRating": 5,
+            "content": "Good. Same price as booking directly on Sant Pau Recinte Modernista website. With more flexibility to change or cancel.  \n\nNo audio guide provided. Pay EUR4 at entrance. Worth to pay for audio guide.",
+            "rating": null,
+            "votes": null,
+            "id": "masked_87ed6c1e-e6df-4113-b486-df8a8675a761",
+            "__typename": "AttractionsReview",
+            "date": "06/04/2022, 22:56:43"
+        },
+        {
+            "user": {
+                "name": "masked_5537bf6c-0bae-4b1c-9f4b-2a9d5ebe53c2",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": ""
+            },
+            "epochMs": 1648759058000,
+            "language": "en-gb",
+            "isApproved": true,
+            "id": "masked_4168646a-0853-4b4b-a9f5-c123bd7ad27c",
+            "votes": null,
+            "content": "It was a great visit. Beautiful structures a masterpieces and a great story. Excellent tour! Don’t miss when visit Barcelona.",
+            "rating": null,
+            "providerName": "viator",
+            "numericRating": 5,
+            "__typename": "AttractionsReview",
+            "date": "03/31/2022, 13:37:38"
+        },
+        {
+            "isApproved": true,
+            "language": "en-gb",
+            "epochMs": 1648612724000,
+            "user": {
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_f8c07904-13fc-4f30-9d8c-97777249ba8f",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "rating": null,
+            "content": "Interesting architecture of the former hospital can be highly recommended for a visit if you stay in Barcelona.",
+            "providerName": "viator",
+            "numericRating": 5,
+            "id": "masked_6ff35cb0-8e67-43b7-bd90-923eba273497",
+            "votes": null,
+            "date": "03/29/2022, 20:58:44"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "id": "masked_46158a2e-bfd0-41ef-a3de-f57fb594de9b",
+            "votes": null,
+            "rating": true,
+            "content": "Bilet zarezerwowałam sprawnie .Okazało się że na miejsce dotarłam godzinę wcześniej.Nie było problemu żeby w kasie zmienić godzinę wejścia.Co prawda przed sezonem nie było tłumu,ale sposób rezerwacji wygodny,a do tego bilet tańszy niż w kasie",
+            "providerName": null,
+            "numericRating": 5,
+            "language": "pl",
+            "isApproved": true,
+            "user": null,
+            "epochMs": 1679346703000,
+            "date": "03/20/2023, 14:11:43"
+        },
+        {
+            "epochMs": 1678105254000,
+            "user": {
+                "avatar": null,
+                "name": "masked_03595651-c879-43ce-8f47-a0c4210bb418",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "isApproved": true,
+            "language": "de",
+            "rating": null,
+            "content": "Das St Pau Hospital ist sehr beeindruckend! Der vorgeschlagenen Besichtigungsroute zu folgen hat sich als gut herausgestellt. Das Highlight kommt dann zum Schluss: der Wintergarten und die große Halle- einfach überwältigend schön!",
+            "providerName": "viator",
+            "numericRating": 5,
+            "id": "masked_ad7553b7-a037-4238-9f3f-f95804fbcacc",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "date": "03/06/2023, 04:20:54"
+        },
+        {
+            "votes": null,
+            "id": "masked_c66d43be-5b12-4022-b7b5-4707089e8df8",
+            "providerName": null,
+            "numericRating": null,
+            "content": "Einfach traumhaft! Diese Schönheit! Der Gedanke hinter diesem Konzept des Krankenhausbaus beeindruckt. Ein heller und großer OP Saal, Dampfsterilisation, Röntgengerät, bekanntes Instrumentarium, große, helle Krankensäle. Alles in Allem ein gelungenes Gesundheitskonzept zu Beginn des 20. Jahrhundert.",
+            "rating": true,
+            "__typename": "AttractionsReview",
+            "user": {
+                "avatar": null,
+                "name": "masked_8cb496de-5a2e-455a-8450-aee15ea78938",
+                "cc1": "es",
+                "__typename": "AttractionsReviewUser"
+            },
+            "epochMs": 1651012227000,
+            "language": "de",
+            "isApproved": true,
+            "date": "04/26/2022, 15:30:27"
+        },
+        {
+            "language": null,
+            "isApproved": true,
+            "user": null,
+            "epochMs": 1644135215000,
+            "__typename": "AttractionsReview",
+            "id": "masked_b7e23e4f-da14-4595-a4c3-3a0b43c8fedd",
+            "votes": null,
+            "rating": true,
+            "content": "",
+            "providerName": null,
+            "numericRating": null,
+            "date": "02/06/2022, 00:13:35"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_405b77b6-b260-402a-a2e7-d94e79797483",
+            "providerName": null,
+            "numericRating": null,
+            "content": "",
+            "rating": true,
+            "language": null,
+            "isApproved": true,
+            "user": null,
+            "epochMs": 1639651305000,
+            "date": "12/16/2021, 02:41:45"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "numericRating": 4,
+            "providerName": null,
+            "rating": true,
+            "content": null,
+            "votes": null,
+            "id": "masked_5a0e1933-6e43-48db-97ef-6a0883252ea5",
+            "isApproved": false,
+            "language": null,
+            "epochMs": 1679402606000,
+            "user": null,
+            "date": "03/21/2023, 05:43:26"
+        },
+        {
+            "id": "masked_12c89f32-280d-40dc-8b63-406a582a980e",
+            "votes": null,
+            "rating": true,
+            "content": null,
+            "numericRating": 5,
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "user": null,
+            "epochMs": 1676631556000,
+            "language": null,
+            "isApproved": false,
+            "date": "02/17/2023, 02:59:16"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "id": "masked_21ae04d7-d67a-45a2-b82c-bc39bb934433",
+            "votes": null,
+            "rating": true,
+            "content": null,
+            "providerName": null,
+            "numericRating": 5,
+            "language": null,
+            "isApproved": false,
+            "user": null,
+            "epochMs": 1676455996000,
+            "date": "02/15/2023, 02:13:16"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_8aaba40d-6a23-414f-b5a0-4d1ca7ba7b83",
+            "providerName": null,
+            "numericRating": null,
+            "content": "",
+            "rating": true,
+            "language": "de",
+            "isApproved": false,
+            "user": null,
+            "epochMs": 1652256530000,
+            "date": "05/11/2022, 01:08:50"
+        },
+        {
+            "__typename": "AttractionsReview",
+            "id": "masked_acdb9315-c856-40f5-8723-e1463cf6ecf0",
+            "votes": null,
+            "rating": true,
+            "content": "",
+            "providerName": null,
+            "numericRating": null,
+            "language": "it",
+            "isApproved": false,
+            "user": null,
+            "epochMs": 1650954663000,
+            "date": "04/25/2022, 23:31:03"
+        },
+        {
+            "votes": null,
+            "id": "masked_ec256aec-07d1-4cf1-96f9-edb378b4df1f",
+            "providerName": null,
+            "numericRating": null,
+            "content": "",
+            "rating": true,
+            "__typename": "AttractionsReview",
+            "user": null,
+            "epochMs": 1647768592000,
+            "language": "ro",
+            "isApproved": false,
+            "date": "03/20/2022, 02:29:52"
+        }
+    ]
+}

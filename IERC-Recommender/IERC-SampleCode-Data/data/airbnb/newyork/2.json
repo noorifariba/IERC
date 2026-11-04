@@ -1,0 +1,658 @@
+{
+    "rating": 4.93,
+    "numberOfReviews": 107,
+    "location": "New York, United States",
+    "numofPics": 6,
+    "isVideo": false,
+    "price": "€ 5",
+    "description": "Guests will enjoy the most exclusive comedy show in NYC. No where else in the city can you find the community of diverse comics and connection that we provide every Monday night.\n\nYou'll start by entering the club where I'll greet you at the host stand. Upon check in, grab your free drink at the bar and take in the history around you. From there I'll lead you into the showroom or you can hang in the bar area hoping to see a famous comic before the show begins.\n\nBy the end of our show, the entire audience feels like a unified community with the inside jokes and personalized story telling from our seasoned team of comedians. You can't get this experience anywhere else in NYC!",
+    "included": [
+        "Drinks"
+    ],
+    "hostdescription": "Hi, my name is Kevin Hurley! I am a NYC-based comic of 10+ years and my passion is bringing laughter into the world. I am the co-founder of the comedy collective Comedy Mob, as well as the Director of New Talent at Stand Up NY.",
+    "locationDescription": "This is a historic comedy club dating back to 1986. When you walk into the club, you'll notice the photos of famous comics lining the walls. Every inch of the club seems to tell a story.",
+    "reviews": [
+        {
+            "userUrl": "masked_0d78f36f-e7aa-430d-96cf-96dd382543e1",
+            "userName": "masked_ec071983-b89b-46bc-9de3-e4bbfabbc5ab",
+            "date": "October 2022",
+            "text": "Really fun experience that I wouldn’t have found in town on my own! The $5 covers a drink at the venue. All the comedians we saw were funny and varied in experience and styles. They each did a set of 4 mins so you get a broad array of performances. The venue was cozy, everyone is close to the stage, and it wasn’t too packed when we were there. Highly recommend if you’re looking for something to do on a Monday night."
+        },
+        {
+            "userUrl": "masked_a536c2a2-8baf-43ed-8d2c-5d02fb344bba",
+            "userName": "masked_b533fbfa-3cf7-4816-bf74-14de069ee17c",
+            "date": "October 2022",
+            "text": "It was a mixed bag of comedians, and I'm sure there are better nights than the one I went to. The Mondays are for trying out new material, which sometimes works and sometimes... not so much. The venue is cute and authentic, the staff is nice, and I didn't feel pressured into buying more drinks than the one that came with the ticket, even though the door said $18 minimum order. Even if I didn't get to laugh very hard, it was still a nice way to support local talent."
+        },
+        {
+            "userUrl": "masked_d42673cd-c327-41de-9e69-4f309cde68ab",
+            "userName": "masked_2c38eec2-ce57-4a8e-b8ed-92794f1c63a6",
+            "date": "October 2022",
+            "text": "Very typical place of a stand-up but it was excellent.\nVery dynamic, rhythmed, it's a good value for money and you can't see the time spent!\nI recommend it 100%."
+        },
+        {
+            "userUrl": "masked_7094f509-8bd3-432e-9c7a-1e08a030db0c",
+            "userName": "masked_206834ec-9f0c-4a31-8f60-4416fb5989bd",
+            "date": "October 2022",
+            "text": "Super fun experience! All the comedians had something special to offer and the service was quick and efficient. Enjoyed all the laughs and you can’t beat the price. I would definitely go back the next time I’m in town!"
+        },
+        {
+            "userUrl": "masked_8adaff33-e8b3-44c2-a428-a21aae9833db",
+            "userName": "masked_862ac0de-06f6-4ad6-ac8c-b50cf5078060",
+            "date": "September 2022",
+            "text": "I was skeptical when i booked the experience but the whole venue surpassed my expectations. Great welcoming, great comedians, and great bar. I would definitely do it again if i go back to new york."
+        },
+        {
+            "userUrl": "masked_babbd7c4-aee0-4f17-a349-5d95b6737ba4",
+            "userName": "masked_dd86c1fd-ba89-473b-a227-138b3f422df3",
+            "date": "September 2022",
+            "text": "Me and my girlfriend had an amazing time at this event. We came into the location, Kevin welcomed us with a free drink voucher and showed us our seats (which were great btw) the location it’s just a vibe itself and I would encourage everyone to book this event. The comics were awesome too, I can’t remember a place were I laughed this much. And to everyone who is curios, there is no catch to this event. Kevin is just doing what he loves and wants to show other people the NYC Stand - Up Comedy scene."
+        },
+        {
+            "userUrl": "masked_afcf23be-f514-47a0-83f6-85f8a33a6a97",
+            "userName": "masked_a313d51f-066a-41bd-bb0e-a6f854533251",
+            "date": "September 2022",
+            "text": "Kevin is a great guy, and he made us feel very welcome. It was so much fun. This is the perfect incredibly cheap night out if you want laughs and a drink."
+        },
+        {
+            "userUrl": "masked_14aeadc3-9ba6-41fe-83c1-01c553fd14a5",
+            "userName": "masked_1d321202-655d-4e38-a237-fd4d31b3abe9",
+            "date": "September 2022",
+            "text": "This experience exceeded my expectations. The comics were great, I laughed all the time. I'd be going there every other week if I lived in NY."
+        },
+        {
+            "userUrl": "masked_17e78d7d-9ce5-4a10-a967-60a05fa8edb9",
+            "userName": "masked_259bad81-4b86-4f23-a185-4bb804ac5d0b",
+            "date": "September 2022",
+            "text": "great spot close to the subway, lots of personal touches and toiletries, tampons, pads, shampoo etc. Kevin was super responsive and checked us in early!"
+        },
+        {
+            "userUrl": "masked_3ab7f28f-92bf-4891-b764-fc45a966c107",
+            "userName": "masked_eb196db8-7bc8-4e30-b568-4a2fd3b60061",
+            "date": "August 2022",
+            "text": "My friends and I had a great time, even though we were late Kevin still accommodated us and had no problem with the bar or the drinks. The comedians were very funny. If we’re ever in nyc again we’ll definitely be visiting"
+        },
+        {
+            "userUrl": "masked_5285132f-46a7-4c73-bbb0-4807a811ada5",
+            "userName": "masked_b1f99442-6f7b-4a36-8e5b-4c229e8bd394",
+            "date": "August 2022",
+            "text": "The show was amazing from start to finish! We loved every second! Great night out in New York! This was one of our favourite things to do in NY while visiting. Thanks!"
+        },
+        {
+            "userUrl": "masked_379e70ce-e825-4bf5-a875-a59d1de9dfc7",
+            "userName": "masked_4ebc6b42-7e4a-4fd9-842a-108da4c4978a",
+            "date": "August 2022",
+            "text": "My date and I booked this as a spur of the moment decision. It was a great show and she loved it! I recommend checking it out if you’re in the area"
+        },
+        {
+            "userUrl": "masked_67002fdb-a88e-497d-80b9-eed45a6e3f01",
+            "userName": "masked_4696a5f6-31f8-4c7d-b939-c856d55f2d2b",
+            "date": "July 2022",
+            "text": "This place is a blast, the areas great, the comics are hilarious, and everyones welcoming and cool. 100% would recommend to anyone nearby"
+        },
+        {
+            "userUrl": "masked_814db58a-cff5-43e5-b9d7-a559c117260e",
+            "userName": "masked_a2f75a45-a583-4da2-83c4-caf80994a5ab",
+            "date": "July 2022",
+            "text": "We had such a fun night at the comedy club! Our seats were good, the free drinks were great, the not-free drinks were reasonable, service was excellent and the comedians were much better than we thought they’d be. We’d do it again in a heartbeat!"
+        },
+        {
+            "userUrl": "masked_6cb3a1be-8bd1-42ec-886d-71fb198d8b56",
+            "userName": "masked_4990aacb-af96-4768-83e9-052dc4c922b6",
+            "date": "July 2022",
+            "text": "What a wonderful experience!! The club is in a great location and very clean! Kevin is great! He clearly loves what he’s doing and it shows! The comedians were super talented and funny! I truly can’t say enough good things about our experience!"
+        },
+        {
+            "userUrl": "masked_b6fedc1c-bc62-4a02-8a73-6dc4b4ef1ba6",
+            "userName": "masked_e6ea33dd-c10a-451e-b51c-fe9853345a7b",
+            "date": "July 2022",
+            "text": "The experience was super fun! Kevin was very friendly and we even got a surprise visit from TJ Miller. Super great experience (especially for the price)!"
+        },
+        {
+            "userUrl": "masked_d81e53bc-1fd7-4133-b4db-33e00b874282",
+            "userName": "masked_4e5ae4c3-a995-4aa8-80c3-78c69bafe7bf",
+            "date": "June 2022",
+            "text": "This was so good . Anyone visiting from the UK must go!\nIt’s easy to find , everyone was SO friendly , the comedy was superb and being part of the audience as upcoming future stars hone their craft , was a fabulous treat.\nAdded onto the fact that you get a complimentary drink , you would be mad to miss this.\nKevin was great, expecting us and hosting a truly memorable evening ."
+        },
+        {
+            "userUrl": "masked_c4e7fbea-c94f-42c9-9bd9-cc932ed2fc93",
+            "userName": "masked_a1a4af97-205a-4b10-a246-64a43a84e12b",
+            "date": "June 2022",
+            "text": "Great stand up show, I'm sure in the future we'll hear about some of the comedians who performed that evening.\nKevin and the bar staff were very helpful and friendly and the drinks were great!"
+        },
+        {
+            "userUrl": "masked_3b8c2160-9f9b-46dc-9891-59373f449a65",
+            "userName": "masked_491a7a9c-c68e-4a4b-a2e6-b7dd530afaa6",
+            "date": "June 2022",
+            "text": "It was so fun!! I went with my boyfriend and we enjoyed it so much. A lot of great comedians there. We will come again soon!\nThere is also a free drink included which was nice and the other drinks were cheap too! Kevin, the host, was super nice and welcomed us!"
+        },
+        {
+            "userUrl": "masked_830ae4e8-46a5-444a-8700-8532e2bc4f6c",
+            "userName": "masked_3549471f-b0e1-4555-8743-88ccd2994d21",
+            "date": "May 2022",
+            "text": "This is a brilliant thing to be a part of. You get such a unique experience that I’m pretty sure I may not come across in any other travels that I’ve either done or May do in the future. It’s well worth doing, and it’s a bargain"
+        },
+        {
+            "userUrl": "masked_674c536d-6abb-4fe4-a0c9-584af4195312",
+            "userName": "masked_c49ee7b2-0ca6-4527-8d38-33ac30e27958",
+            "date": "May 2022",
+            "text": "Kevin is an outstanding host! It was a very easy location, he greeted us and made us feel welcome right from the start, and the atmosphere was so welcoming with everyone just meshing together."
+        },
+        {
+            "userUrl": "masked_14d8c0a0-14a6-49f3-83ef-0e1194f88a64",
+            "userName": "masked_4a8ef090-7701-4d8a-b1d4-88a82cd3ecb2",
+            "date": "April 2022",
+            "text": "We had a fun night. Kevin was responsive and very personable. There were way more comedians than expected, mostly amateurs honing their skills, but several were really good.\nTip: There’s no food in the venue, we grabbed something to go from the vendor right outside which was just fine for the evening."
+        },
+        {
+            "userUrl": "masked_f6460598-396d-49b6-9686-3de04affc6a2",
+            "userName": "masked_e037a2ba-14a7-4056-9b85-64da7c3839cc",
+            "date": "February 2022",
+            "text": "Fantastic evening! Didn't expect so many guys on stage 😲 My favourite one was the guy half Pakistan and Kevin of course. A lot of different comedians! Highly recommended!"
+        },
+        {
+            "userUrl": "masked_c619ed5b-6b16-4635-a7a3-8b231ece3071",
+            "userName": "masked_e9187d92-2fd6-464f-b324-38aaa05f85d4",
+            "date": "February 2022",
+            "text": "Kevin was a great host, and greeted us as soon as we arrived, which put us at ease.\n\nThe format was fun - lots and lots of acts doing about 5 minutes each. A lot of newbies and a few trying out new material.\n\nWaitress was very efficient in keeping us topped up drinks wise.\n\nKevin was chatty at the end and even offered us some hints and tips in the city."
+        },
+        {
+            "userUrl": "masked_e88a9c52-89b7-4e1d-8238-956a3a6a5faa",
+            "userName": "masked_6e703e9d-18a9-4938-b9f6-6fa03579f1dd",
+            "date": "February 2022",
+            "text": "Great stand ups and great drinks.\n\nLowkey favorite bari visited during my week here. Plenty of other good drinks as well for non-alcoholics."
+        },
+        {
+            "userUrl": "masked_755dcb63-37fc-4154-a10b-a37751504119",
+            "userName": "masked_9c54efd9-19ce-428a-b8fb-97a3f31f67e7",
+            "date": "January 2022",
+            "text": "Second time I went to the stand up comedy and I really enjoyed the time there. My friends and I understood the half of what they saying because we are not native Americans but we really loved the show. I definitely come back again"
+        },
+        {
+            "userUrl": "masked_14f69717-b5fd-4991-bcb1-6cb162d592ed",
+            "userName": "masked_5ab89330-e6d9-4da7-9c4f-8aa1c82866f2",
+            "date": "December 2021",
+            "text": "It was a blast. Love the set of diverse comedians. Thanks Kevin for doing the due diligence and checking with us first before proceeding. Other experiences just cancel without enough notice these days."
+        },
+        {
+            "userUrl": "masked_b14a0c53-23f6-4c1f-9996-765c5e700b1f",
+            "userName": "masked_0fe92d35-4b78-46f9-914e-2a00eaac5189",
+            "date": "December 2021",
+            "text": "We had such a fun time at this show! We were welcomed with our complimentary drinks and got to watch some great comics. They tested out their material in short sets and I can bet there is a comic there who will match any sense of humor. I also really enjoyed the camaraderie amongst the comics, it kept the mood light and positive. Awesome group- would definitely recommend to friends in NYC on a Monday!"
+        },
+        {
+            "userUrl": "masked_f86430eb-b354-47e9-af08-e3da9c38cd70",
+            "userName": "masked_ac2f4daa-acca-43ab-9bfd-81c08002b8c6",
+            "date": "December 2021",
+            "text": "This an absolute blast!! Kevin was a great host and everyone was very kind and pretty dang funny!! Don’t hesitate to book, it’s a great time and we were treated like family"
+        },
+        {
+            "userUrl": "masked_7c131b49-d6e1-41c9-b683-049d796bd2ed",
+            "userName": "masked_599ff3f6-c450-470e-979d-ee75868e36a0",
+            "date": "November 2021",
+            "text": "A great experience:\nKindness of kevin and all the staff.\nQuality cocktails and beers!\nAnd of course really really good comedians! I laughed and smiled a lot! I totally recommend this experience"
+        },
+        {
+            "userUrl": "masked_b0578502-08ed-458d-8d04-5ab280ef6718",
+            "userName": "masked_07345344-e5d2-45a9-b810-385f2af7ee93",
+            "date": "November 2021",
+            "text": "Such a fun experience! Kevin was super friendly - bartender and wait staff too. Entertaining and fun to watch comedians hone their craft in a small setting. Some were hilarious, some not as much - but it was all highly entertaining. Loved it!"
+        },
+        {
+            "userUrl": "masked_9dd4d30a-b2e9-4023-a561-d7a0ab858634",
+            "userName": "masked_68b09ba1-fd80-4dc5-a589-49a804b05700",
+            "date": "October 2021",
+            "text": "This was such a highlight of our trip to NY! Everyone was so welcoming and friendly and it was such an amazing value. We were greeted by name when we arrived and Kevin even remembered that we were visiting from Colorado. There were so many great performers and we laughed and had a fabulous time! So grateful for the memorable experience!"
+        },
+        {
+            "userUrl": "masked_1d36feae-1a9c-4317-9569-c0e4498c342b",
+            "userName": "masked_ed632220-7578-484b-9919-fae4ac81276d",
+            "date": "October 2021",
+            "text": "This place was amazing. First night in NYC and they made us feel super welcome and put on an awesome show with many different comics. Had us laughing the entire time. Would definitely recommend to anyone looking to have a good time! Can’t beat the price and entertainment."
+        },
+        {
+            "userUrl": "masked_c9264d8e-ab63-40a9-917d-4cd602d48255",
+            "userName": "masked_9a31ebb6-10c9-40f1-9217-ed38f383e11d",
+            "date": "October 2021",
+            "text": "I had a blast listening to these up and coming comedians make me laugh! It was certainly better stand-up comedy than another comedy club I recently went to that had a $39 cover."
+        },
+        {
+            "userUrl": "masked_90dd1a8a-fbe0-4923-ab86-de005a93bc41",
+            "userName": "masked_3dc21dcd-eabe-4d2e-a4b2-c78203db2f58",
+            "date": "October 2021",
+            "text": "What a great night we had watching and cheering on comedians. Seats were great the free drink a bonus. Would absolutely return and highly recommend"
+        },
+        {
+            "userUrl": "masked_67ddf576-b2cb-4af7-a6f3-e31f4f4602e3",
+            "userName": "masked_9a7396da-88bd-416e-8ccb-cb0246c1a09f",
+            "date": "October 2021",
+            "text": "This is a must if you are in NY and have a free night. Honestly I wasnt expecting the comedians to be that funny but most of them were hilarious! and there were so many that we never got bored. I cant believe how cheap it was Kevin couldve charged way more. Thank you!"
+        },
+        {
+            "userUrl": "masked_ccdb451c-4be5-419d-bf8a-83ccc6b8cb69",
+            "userName": "masked_26b0a81f-7c61-489a-9a08-fe2008a64bc7",
+            "date": "October 2021",
+            "text": "This comedy show/ selected open mic comics is very entertaining with packed room, wow. The host Kevin is funny, and friendly. He went out of his way to make you happy and care about your experience at the venue. I will back more to this place and other comedy shows Kevin put on. Love it 👍❤️"
+        },
+        {
+            "userUrl": "masked_2151f275-11d4-4958-8dbd-94869a303824",
+            "userName": "masked_b5a2b8a7-1454-4683-8974-93b907de0587",
+            "date": "September 2021",
+            "text": "Amazing 🤩\nThis was my first live standup comedy show and so happy it was here and with the Kevin as a host, he is the most welcoming and friendly person you’ll meet."
+        },
+        {
+            "userUrl": "masked_90165cdc-965e-457e-888b-660065105d99",
+            "userName": "masked_34286456-c113-4cf1-94be-b8eda482ec40",
+            "date": "September 2021",
+            "text": "Standup NY is a chill place with its own charm! Kevin is a great host and takes efforts to ensure his guests are having a good time. Beats being a couch potato hands down and a great way to kickoff the week!"
+        },
+        {
+            "userUrl": "masked_6fcb5651-ccb5-4474-b385-3da48e639a4d",
+            "userName": "masked_ae619811-baf1-448c-acd2-18f6ea661237",
+            "date": "September 2021",
+            "text": "Just an amazing experience to do in NYC, Kevin, his wife and friends are awesome and very welcoming. The comedians were great, I had so much fun. I will definitely do this again whenever I come back to NYC. Thanks so much for this experience and thanks for being such great people, loved meeting you!! Los quiero mucho (care-pichas) 😂😂🇨🇷🇨🇷"
+        },
+        {
+            "userUrl": "masked_85ba6b60-eab6-4213-9fc7-1638a200148c",
+            "userName": "masked_0d22df9d-6d22-4c10-adf8-90813e35c1cf",
+            "date": "September 2021",
+            "text": "I 100% recommend this experience! Kevin was awesome and made us feel right at home. He gave us seats right up front and all of the comedians were hilarious and friendly!"
+        },
+        {
+            "userUrl": "masked_e1220c67-6421-4bb5-9826-f45b7a9149cd",
+            "userName": "masked_5d4cd0ea-8aee-4cfe-b431-9c1c64d9f794",
+            "date": "September 2021",
+            "text": "Awesome experience! Loved everything about it! The host got us on a VIP list so we sat in the front row, he gave us a free drink ticket and treat us like his friends!\nWe recommend this experience a 100%, so much better an funnier than expected. Just an fyi if your planning to go they don’t sell food but you can enter the place with your own so buy something before going because the show is like 3 hours."
+        },
+        {
+            "userUrl": "masked_9cfd239b-81d0-43cb-8baa-54176ae5701a",
+            "userName": "masked_d86113b5-3742-4d3f-a5c4-ff84014b9a65",
+            "date": "September 2021",
+            "text": "This was an amazing experience and a great value! We saw so many comics and the atmosphere was incredible. So much fun! Kevin was also had great communication with us and checked in with us to see if we were comfortable or needed anything."
+        },
+        {
+            "userUrl": "masked_b5cd6f89-356c-48b0-8921-47be5e05cd9e",
+            "userName": "masked_587fee1e-c303-4dfd-934a-b7b7f4ba8757",
+            "date": "September 2021",
+            "text": "Very fun atmosphere, with good drinks. Some of the comics weren't funny, but most were and that's to be expected of an open mic. Over all a great experience and a lot of fun. Perfect for a date night out, or with friends. Really, you should love it in any situation."
+        },
+        {
+            "userUrl": "masked_331dd3bc-f485-4d72-a467-a92f6b1b6bf2",
+            "userName": "masked_11bd93c4-e4fd-4aa6-9fb3-d8b954663040",
+            "date": "September 2021",
+            "text": "Lots a fun! It was a very chill yet charming atmosphere and the drinks were enjoyable. There are a lot of talented comedians in town and this was a great chance to see the material of a lot of them! I enjoyed!"
+        },
+        {
+            "userUrl": "masked_a05c2006-63c5-44b9-b359-c56d65241ac5",
+            "userName": "masked_a427cd03-b1ee-483f-a4c1-96e405386df8",
+            "date": "September 2021",
+            "text": "WOW! I’m so glad I came to this show.. the comedians were really really good and I was treated like a superstar by Kevin (I’m not from town so he even wrote me a note on how to get back home). Totally recommend it, one of the highlights of my trip to NYC!"
+        },
+        {
+            "userUrl": "masked_ef4964e7-452f-49ec-b603-dceba1f613d1",
+            "userName": "masked_32e16ab2-8cc6-4a33-ab3e-9c9293519d05",
+            "date": "August 2021",
+            "text": "Very good experience for such a great value. Kevin treated me like royalty and that’s all you can ask for. I would definitely recommend this to everyone who is thinking about buying!"
+        },
+        {
+            "userUrl": "masked_e430bcab-5c36-4771-9b0d-8bb83a738039",
+            "userName": "masked_0beb6d34-2be8-4c45-8a45-60f78ef4d8fa",
+            "date": "August 2021",
+            "text": "The show was SO fun! it was the first time going to event like this alone and I felt comfortable the whole time and entertained because there were aoany comedians performing back to back. Very welcoming hosts and barternders as well. had a great time AND on a Monday night."
+        },
+        {
+            "userUrl": "masked_06909463-f0ec-421f-9d85-4c5de03c26fe",
+            "userName": "masked_401fd888-3705-4a3e-a828-2e220a51cb66",
+            "date": "August 2021",
+            "text": "Amazing! The whole stand up set was sooo good!! Bunch of super funny people, and I had such a great time! Kevin was incredibly nice and accommodating, and we had free drinks which came with the tickets. Overall, great great experience, and an absolute steal for this price!"
+        },
+        {
+            "userUrl": "masked_5b365c3d-940e-4598-96ff-d8312153b85d",
+            "userName": "masked_94fb90c1-b66a-4c2a-b230-3904f54b46e4",
+            "date": "August 2021",
+            "text": "The show itself was just about what I expected. However, I definitely appreciated the diversity of the comics who participated and the opportunity to chat with them after the show. Cool and personable host, would definitely come again when I'm visiting in the future"
+        },
+        {
+            "userUrl": "masked_ec7ce863-ca1b-4f35-b462-afdc66a496b1",
+            "userName": "masked_f73859c2-ff12-4a5e-a9e0-ab7eb9614115",
+            "date": "August 2021",
+            "text": "My boyfriend and I usually try to schedule date night every week. We wanted to try something different outside of dining out. I found this experience here and instantly thought it was too good to be true.\nJust as Kevin said, he meets you at the front and gives you a free drink ticket. I kid you not, everything was perfect. The staff was extremely friendly and welcoming. They started and ended on time! Drinks were on point! Kevin gave us the best seat in the house!! Every single comedian was unique and super funny!! The location is near great restaurants and shops as well.\nParking wasn’t bad at all. The train is very close by. We are so happy we went and will definitely be back!!\nI hope I covered everything lol!\nTHANKS KEVIN!!🤩"
+        },
+        {
+            "userUrl": "masked_f424b239-15d6-4481-b7f9-f4a3e2da8c7b",
+            "userName": "masked_899b219a-8ddc-46be-b2e6-3da7ef0de9c1",
+            "date": "June 2021",
+            "text": "a great experience you can only get in NYC but at a cost that you'd expect from some small town you've never heard of... no offense to people from unknown small towns."
+        },
+        {
+            "userUrl": "masked_d54e57c9-b470-4a41-a496-3987645efa9f",
+            "userName": "masked_4f7f9846-b694-4498-bcd1-23b9b9eb63db",
+            "date": "October 2022",
+            "text": "Great show!"
+        },
+        {
+            "userUrl": "masked_f290a954-4bd1-46c1-9207-3c549896ec0d",
+            "userName": "masked_4c0a7cb1-cd87-46d6-b443-84557cd44e62",
+            "date": "October 2022",
+            "text": "A must go experience in uptown"
+        },
+        {
+            "userUrl": "masked_205f8eba-52c4-432d-a13a-d51f91b0d96f",
+            "userName": "masked_7d5c868f-ace9-43d1-ac01-f228aaca436c",
+            "date": "October 2022",
+            "text": "A great value and experience, a lot of funny comedians! Great drinks too"
+        },
+        {
+            "userUrl": "masked_ed4c16bd-58f6-404c-997a-8d70cf6b28bf",
+            "userName": "masked_74308cd9-b6e6-40cb-b24d-23bb954ff2e5",
+            "date": "September 2022",
+            "text": "Great new experience, had a lot of laughs met some great comedians"
+        },
+        {
+            "userUrl": "masked_6bbe3436-4fde-4641-aeb0-689eacf4248c",
+            "userName": "masked_dd8779ba-04ce-47ba-9720-bbf99f095094",
+            "date": "August 2022",
+            "text": "Great experience and value for money. Definitely worth checking out if you are in NY!"
+        },
+        {
+            "userUrl": "masked_de692ba3-aa07-4884-8ac7-b47c59565634",
+            "userName": "masked_cb4319bd-2e23-402d-a9ed-59fa0bbe36ec",
+            "date": "August 2022",
+            "text": "Was a perfect evening! Love the atmosphere!"
+        },
+        {
+            "userUrl": "masked_589c5a24-f2ac-45fb-b87c-b67ea05d89ee",
+            "userName": "masked_457b63f7-d3fb-48d5-9aca-b96c0c709634",
+            "date": "August 2022",
+            "text": "Excellent night out"
+        },
+        {
+            "userUrl": "masked_50c5afaf-b6e0-4e8c-a66a-840c47c3b8ba",
+            "userName": "masked_54460d8f-1812-447a-82d7-e8634e614caa",
+            "date": "August 2022",
+            "text": "A great set of comedians, had a good laugh and very affordable drinks. Would absolutely recommend!!"
+        },
+        {
+            "userUrl": "masked_62bf9e76-c722-4c86-9de2-b916f15ef185",
+            "userName": "masked_057fdcd8-7476-4572-a1d1-60bab23aa34c",
+            "date": "August 2022",
+            "text": "We had a great night here! So many comedians! We loved it!"
+        },
+        {
+            "userUrl": "masked_b8f1c4c6-c133-4484-bf26-1a775283ba90",
+            "userName": "masked_11cc0398-46c3-430e-9b4f-28cee39159d7",
+            "date": "June 2022",
+            "text": "all comedic perfoemers were great!"
+        },
+        {
+            "userUrl": "masked_98b2d541-c97e-43bc-9055-632ac70808d3",
+            "userName": "masked_16206d07-8fe8-4e34-9a54-67637c7b0a13",
+            "date": "June 2022",
+            "text": "The comedy was fabulous; all of the comedians were very strong."
+        },
+        {
+            "userUrl": "masked_d4ad223c-fbf0-44b3-bf0e-de20cbf90afa",
+            "userName": "masked_8c2b56db-8495-45cc-b486-9124b857796f",
+            "date": "May 2022",
+            "text": "Great show and good beer."
+        },
+        {
+            "userUrl": "masked_e1ae7dc1-4076-48da-bfb3-9e105837cfa2",
+            "userName": "masked_3ac16ae2-1170-48e4-a9aa-51903521ec84",
+            "date": "May 2022",
+            "text": "We had such a fun and entertaining evening. Would def recommend everyone."
+        },
+        {
+            "userUrl": "masked_7da1bdfb-34d0-44b1-85ff-52ea725df9f2",
+            "userName": "masked_32f563b9-8fc4-479d-be76-25bf9df92094",
+            "date": "May 2022",
+            "text": "Great value for money! Definitely recommend checking this out if visiting New York"
+        },
+        {
+            "userUrl": "masked_b9ab980d-b4e2-41ea-9f39-69d75e3628e2",
+            "userName": "masked_4c9528a3-079c-4c29-9db1-a79b595b2f1f",
+            "date": "May 2022",
+            "text": "it was okay, some acts better than the others but worth the experience."
+        },
+        {
+            "userUrl": "masked_117823ff-914a-4cba-a448-3011d039d4e9",
+            "userName": "masked_0f8f38c8-ffa1-4b43-8031-e8366def2974",
+            "date": "May 2022",
+            "text": "Makes you laugh, forget all your sorrows"
+        },
+        {
+            "userUrl": "masked_15c75575-9693-4603-b1c3-c568018adad6",
+            "userName": "masked_0afe0979-006b-4f2b-aa23-434b80fa0618",
+            "date": "May 2022",
+            "text": "Great night out in New York! Awesome vibe and atmosphere."
+        },
+        {
+            "userUrl": "masked_f3a564f4-bc8d-4328-a4a2-c6145cf1194a",
+            "userName": "masked_abe6671f-2b07-4254-939a-c32d30f714e2",
+            "date": "April 2022",
+            "text": "Awesome night, event for solo travellers! Good English understanding required, but totally worth it as I laughed for two hours straight!"
+        },
+        {
+            "userUrl": "masked_70abf79a-7c10-44df-a592-0fc5dd5c060f",
+            "userName": "masked_f0e3b650-6737-45bc-8b0b-cce42856e1d5",
+            "date": "April 2022",
+            "text": "amazing experience in a cosy space! a whole raft of excellent stand up comedians. definitely amazing value for money"
+        },
+        {
+            "userUrl": "masked_0feb23b1-940a-44d9-b067-14ad3aca7866",
+            "userName": "masked_4d055773-418d-4c2b-be31-c35853f82b4d",
+            "date": "March 2022",
+            "text": "Great time, 70% of the jokes understandable with a little English."
+        },
+        {
+            "userUrl": "masked_c3ed8848-f0bb-48ba-b93e-ce3a7960f3f2",
+            "userName": "masked_e1dca0bd-b62d-4302-aff0-1527fb71bd1d",
+            "date": "March 2022",
+            "text": "We had SO much fun!! Highly recommend. Such a great value 👏🏼"
+        },
+        {
+            "userUrl": "masked_0d4ae4d5-e1fe-4228-9334-084fdf6cca06",
+            "userName": "masked_e5207956-b9e3-4346-beaf-a585c3459f0d",
+            "date": "March 2022",
+            "text": "Awesome and cheap way to spend a night. Some great comedians and a nice social space. Almost 3 hours of comedy"
+        },
+        {
+            "userUrl": "masked_f0f270ac-c0d0-4d4d-afe0-ac2342179bac",
+            "userName": "masked_20b4063c-2b4e-4760-b643-a20151f7bea1",
+            "date": "March 2022",
+            "text": "Such incredible value for money and even better company at the show, I can’t recommend it enough!"
+        },
+        {
+            "userUrl": "masked_e54657a9-e732-469c-b6fa-0d7ca8db1be5",
+            "userName": "masked_c5b5b3d2-2aba-4e71-bf2a-a41676dff7ae",
+            "date": "March 2022",
+            "text": "As someone who was attending alone, it was not the group experience expected. The show was good anyway."
+        },
+        {
+            "userUrl": "masked_a946e929-9914-4307-b1e2-08af96800881",
+            "userName": "masked_fcc0b656-0b22-484d-aceb-c942227029fb",
+            "date": "March 2022",
+            "text": "Easy to find, amazing value and one of the best nights we had in NYC!"
+        },
+        {
+            "userUrl": "masked_dd1094bb-c967-41e8-9c17-c3676d9c1e3b",
+            "userName": "masked_0b987edd-3b57-4751-b12f-dce02ef24710",
+            "date": "March 2022",
+            "text": "Meh"
+        },
+        {
+            "userUrl": "masked_ab2ca3a9-9a85-4333-ac3d-e4b75f0e0011",
+            "userName": "masked_e04f7a62-a13e-43f6-95bd-bf6e88d759c0",
+            "date": "February 2022",
+            "text": "Kevin is a great host and actually a very funny comic too"
+        },
+        {
+            "userUrl": "masked_893592cb-aa00-4d7f-8d94-c7b352ea2aa7",
+            "userName": "masked_99acbcc0-6e8a-4792-a869-d23ceddf2e0e",
+            "date": "February 2022",
+            "text": "Great show and great deals on the drinks!"
+        },
+        {
+            "userUrl": "masked_25e7e9e5-df5d-46f4-84b2-4ae0bc634521",
+            "userName": "masked_d2c4020e-47f9-4b49-b7c2-a429169c6fe8",
+            "date": "January 2022",
+            "text": "I love that experience! first Time and I'm sure I will came back"
+        },
+        {
+            "userUrl": "masked_6863bb21-c1f0-4174-b321-8d7aba178ebf",
+            "userName": "masked_4c1166f3-18eb-4f09-a444-811080aeedef",
+            "date": "December 2021",
+            "text": "Very good in itself, very nice to discover new talents and some professionals too :)"
+        },
+        {
+            "userUrl": "masked_6a9cec82-d6df-49be-b6ad-a741fcc9ec61",
+            "userName": "masked_270bc07b-a730-43b1-b119-f4670448b210",
+            "date": "December 2021",
+            "text": "Recommend checking out this show! Friendly staff and talented comedians, you won’t be disappointed"
+        },
+        {
+            "userUrl": "masked_5c3beb6f-5057-4b9b-8dca-015c0b0e3d4d",
+            "userName": "masked_b4c0f568-9af9-4584-8d54-b9da44a69959",
+            "date": "December 2021",
+            "text": "Excellent show! Can’t beat it on a Monday night! Definitely recommend. Kevin takes care of you."
+        },
+        {
+            "userUrl": "masked_41f674a6-2e34-4b8c-bd2b-4682476d6e20",
+            "userName": "masked_71723d6f-5846-4a52-b0f9-9dc459310c7e",
+            "date": "December 2021",
+            "text": "These are up and coming acts, definatly worth the trip uptown. Great Value. Me and The wife had a great evening"
+        },
+        {
+            "userUrl": "masked_c0f9647b-dd1a-4c89-910f-b27e0d625264",
+            "userName": "masked_6cdc0976-8285-46a1-ac8d-67767a7e099d",
+            "date": "December 2021",
+            "text": "It was a very fun night Comedians we’re great I would recommend it for sure"
+        },
+        {
+            "userUrl": "masked_5d637777-81e3-4d39-a3dd-abdea767fcdd",
+            "userName": "masked_b871e252-24d5-4c29-9000-12a5503e9878",
+            "date": "November 2021",
+            "text": "Nice experience:)"
+        },
+        {
+            "userUrl": "masked_d86d814c-af58-4ca0-b7e0-73f9867067a6",
+            "userName": "masked_7f8670e8-160f-48bd-9e95-dc0161138b64",
+            "date": "November 2021",
+            "text": "Great variety of talented comedians. We enjoyed lots of good laughs!"
+        },
+        {
+            "userUrl": "masked_8f45d51a-d627-4c5e-a7c4-8e9a66d4c728",
+            "userName": "masked_7765c088-255b-44d0-8ac8-7e44d8492faa",
+            "date": "October 2021",
+            "text": "Watching up and coming comedians test their material was fun!"
+        },
+        {
+            "userUrl": "masked_a9dda0e1-c86f-4aec-979d-7b46ebb9a0f5",
+            "userName": "masked_c40b829a-1ced-472f-a6dc-b7318ea061cd",
+            "date": "October 2021",
+            "text": "Great value show with some funny comedians!"
+        },
+        {
+            "userUrl": "masked_30fccdf7-6d9e-44ef-8777-3c5b1b186971",
+            "userName": "masked_187996de-fa66-4b6b-81e7-c8461fb03fb9",
+            "date": "October 2021",
+            "text": "Best $5 I’ve ever spent - you get a drink ticket and “VIP” seating. Great night."
+        },
+        {
+            "userUrl": "masked_e6493290-31d4-44bc-bab9-299169b89f09",
+            "userName": "masked_3d9e7630-5540-43e0-84a4-2fb599483293",
+            "date": "October 2021",
+            "text": "such a fun NY experience, I highly recommend :))"
+        },
+        {
+            "userUrl": "masked_9240726e-cba7-48a8-8401-c976d498adb9",
+            "userName": "masked_f625e6d3-2d76-4498-9b68-73035a504f5b",
+            "date": "October 2021",
+            "text": "Great place, good location, and the show was very funny!"
+        },
+        {
+            "userUrl": "masked_de3c4584-63aa-4a96-922e-eff76e9d8d25",
+            "userName": "masked_2ada4b94-b73c-4e4f-b0f2-14a81f95aa1c",
+            "date": "October 2021",
+            "text": "Very nice people"
+        },
+        {
+            "userUrl": "masked_661a787f-4ed1-4d91-be02-fec6a0a5085b",
+            "userName": "masked_96161ce5-c3c1-4093-98e9-1b7981277ab6",
+            "date": "September 2021",
+            "text": "Very funny comedians, host looks extra for you and give you a seat with best view. Totally recommend"
+        },
+        {
+            "userUrl": "masked_ad2f2936-1abb-46b0-b2ec-1b5ed12c3b8c",
+            "userName": "masked_c4d2bdf4-abb5-4605-abde-1fb487d0b19a",
+            "date": "September 2021",
+            "text": "We enjoyed our stay. This was the perfect location and size for us and we will definitely stay there again. Thank you!"
+        },
+        {
+            "userUrl": "masked_085056a6-56cf-41d9-b145-582b4c206b2f",
+            "userName": "masked_c97b36fe-b741-455f-bef3-949f7ac490ca",
+            "date": "September 2021",
+            "text": "The comedy club was amazing, a great opportunity to get to know NYC better from a less touristic side"
+        },
+        {
+            "userUrl": "masked_8b46dc43-5d78-45f9-b1b3-31c5f2d69e91",
+            "userName": "masked_2df804ba-c086-462b-b83c-78c6aba7eece",
+            "date": "September 2021",
+            "text": "Great experience! Each comic has its own style. Fully recommend."
+        },
+        {
+            "userUrl": "masked_a26b0b4b-ab47-419b-8ac8-dbf4b90f3966",
+            "userName": "masked_201a33e9-36d3-4d6a-9619-aaa8cee33380",
+            "date": "August 2021",
+            "text": "you haven’t visited new york without taking up this experience. seriously. just do it. don’t be lame."
+        },
+        {
+            "userUrl": "masked_1056ffe1-63fa-46b0-9829-1e535f3e9436",
+            "userName": "masked_ff753a1c-7f07-4226-ba33-16f32373a529",
+            "date": "August 2021",
+            "text": "Kevin is the best! Great night!"
+        },
+        {
+            "userUrl": "masked_de18e68c-ff90-4f0b-898d-acacc2ebe7ee",
+            "userName": "masked_47ef93ab-1f17-406b-8af6-6f4bebe84948",
+            "date": "August 2021",
+            "text": "A fun experience, for a great price!"
+        },
+        {
+            "userUrl": "masked_50ab8af7-6a4d-4bab-8d5f-8365bcdb83b0",
+            "userName": "masked_4b95ec6f-5439-456f-9a1f-e88d2301f4ff",
+            "date": "August 2021",
+            "text": "Great deal for a nice night out and even better laughs from many good comics, overall 5+ stars!"
+        },
+        {
+            "userUrl": "masked_cae38998-7c3e-4a3b-ab84-e5c2af932978",
+            "userName": "masked_6cf44ec0-8fba-4b40-a475-fa66627cad68",
+            "date": "August 2021",
+            "text": "Great inexpensive nighttime activity. Good comedy in a fun venue!"
+        },
+        {
+            "userUrl": "masked_c7365c01-4b38-4fdd-84fc-102ce4fc1c66",
+            "userName": "masked_f12b0244-3e0e-470f-bdc8-6186c6096819",
+            "date": "August 2021",
+            "text": "Great comedians!"
+        },
+        {
+            "userUrl": "masked_776417af-56de-4ff2-8433-b3f5936542e0",
+            "userName": "masked_cec321ef-7d6d-4af1-82cf-a9a754577fa4",
+            "date": "July 2021",
+            "text": "Great!"
+        },
+        {
+            "userUrl": "masked_b69fcfa8-975d-4b9f-999a-9abbdec1831e",
+            "userName": "masked_e51d5e1f-f437-4a04-922a-3806d5799af8",
+            "date": "July 2021",
+            "text": "Good experience and nice cocktail. The ticket is cheap as well and provides one free drinks"
+        },
+        {
+            "userUrl": "masked_b6bf4cd3-bb64-4ef3-83cd-0128d8772eee",
+            "userName": "masked_48e9cf95-912d-40eb-87e3-1dfde6ffc455",
+            "date": "July 2021",
+            "text": "I would 100% recommend. the comedians were hilarious 😂"
+        }
+    ]
+}

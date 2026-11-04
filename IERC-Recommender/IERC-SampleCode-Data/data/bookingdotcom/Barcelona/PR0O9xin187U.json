@@ -1,0 +1,810 @@
+{
+    "operatedBy": "Excursions Barcelona",
+    "audioSupportedLanguages": null,
+    "guideSupportedLanguages": [
+        "English (UK)"
+    ],
+    "notIncluded": [
+        "Tips (optional)",
+        "Water"
+    ],
+    "numericReviewsStats": {
+        "average": 0,
+        "total": 0,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "details": {
+                "name": "Musement S.p.A",
+                "address": "via Polesine 13, 20139 Milan, Italy",
+                "__typename": "AttractionsSupplierInfoDetails"
+            },
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Musement",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "typicalFrequency": null,
+    "covid": [],
+    "description": "On this kayaking and snorkelling combination experience, you’ll get to enjoy the beauty of Costa Brava’s wild coast. \r\n\r\nYou’ll start with a private transfer from the centre of Barcelona to a beach in Costa Brava. Your water sports guides will then take over and start your kayaking adventure. As you follow your guides through the water, you’ll be shown Costa Brava’s best kayaking spots. \r\n\r\nFrom secret coves to areas with abundant sea life, Costa Brava is suitable for kayakers of all experience levels. You’ll also have the option to go snorkelling, swimming or simply relax and enjoy the views.",
+    "pickupTypes": [],
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "text": "Free cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "isBookable": true,
+    "offers": [
+        {
+            "typicalDuration": {
+                "value": "PT8H",
+                "__typename": "Value",
+                "label": "Duration: 8 hours"
+            },
+            "label": "Tour",
+            "additionalInfo": null,
+            "availabilityType": "date_time",
+            "id": "OFyLv6DWLH0g",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": null,
+                "__typename": "ReservationRestrictions"
+            },
+            "items": [
+                {
+                    "type": "adult",
+                    "duration": null,
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OIKWeBxAVmw7",
+                    "constraint": {
+                        "maxAge": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "label": "(age 16+)",
+                        "numPeople": null,
+                        "minAge": 16,
+                        "numChildren": null,
+                        "minGroupSize": null,
+                        "__typename": "Constraint"
+                    }
+                },
+                {
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "type": "children",
+                    "label": "Child",
+                    "minPerReservation": null,
+                    "constraint": {
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "label": "(age 7-11)",
+                        "numAdults": null,
+                        "maxAge": 11,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "numPeople": null,
+                        "minAge": 7,
+                        "numChildren": null
+                    },
+                    "id": "OITGda0176Tm",
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem"
+                },
+                {
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OIeidu6DYuYp",
+                    "constraint": null,
+                    "type": "student",
+                    "duration": null,
+                    "label": "Student",
+                    "maxPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Under 16 (minimum 12 years old)",
+                    "type": "custom",
+                    "duration": null,
+                    "id": "OIjr2uRUSyat",
+                    "constraint": null,
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false
+                },
+                {
+                    "id": "OIjeQwfBuAsm",
+                    "constraint": null,
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "label": "Regular",
+                    "type": "regular",
+                    "duration": null
+                },
+                {
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "id": "OImVUel5Wfrm",
+                    "minPerReservation": null,
+                    "label": "Tiqets Youth / Student",
+                    "duration": null,
+                    "type": "custom",
+                    "maxPerReservation": null
+                },
+                {
+                    "minPerReservation": null,
+                    "constraint": null,
+                    "id": "OIWV1NSzn50m",
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "type": "children",
+                    "label": "Child"
+                },
+                {
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "type": "custom",
+                    "label": "TA / Viator - Youth / Students",
+                    "minPerReservation": null,
+                    "constraint": null,
+                    "id": "OIjJidobhtsn",
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem"
+                },
+                {
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OISwgSM7mMA5",
+                    "constraint": null,
+                    "type": "custom",
+                    "duration": null,
+                    "label": "AirBnB 95",
+                    "maxPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "duration": null,
+                    "type": "children",
+                    "constraint": {
+                        "numChildren": null,
+                        "minAge": 12,
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null,
+                        "maxAge": 15,
+                        "numAdults": null,
+                        "label": "(age 12-15)",
+                        "maxGroupSize": null,
+                        "type": "age"
+                    },
+                    "id": "OIWgo2Jr05a1",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false
+                },
+                {
+                    "id": "OIx3eII73lgo",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "minGroupSize": null,
+                        "numChildren": null,
+                        "minAge": null,
+                        "numPeople": 8,
+                        "label": "8 people",
+                        "maxGroupSize": null,
+                        "type": "group",
+                        "numAdults": null,
+                        "maxAge": null
+                    },
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "label": "Group",
+                    "type": "group",
+                    "duration": null
+                },
+                {
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "constraint": null,
+                    "id": "OILLZCdrDfIC",
+                    "minPerReservation": null,
+                    "label": "Tiqets Adult",
+                    "duration": null,
+                    "type": "custom",
+                    "maxPerReservation": null
+                },
+                {
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "id": "OIViaemMkegd",
+                    "constraint": null,
+                    "minPerReservation": null,
+                    "label": "Adult",
+                    "type": "adult",
+                    "duration": null,
+                    "maxPerReservation": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "type": "custom",
+                    "label": "TA / Viator Adult",
+                    "minPerReservation": null,
+                    "constraint": null,
+                    "id": "OIrwPnQOhT3X",
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem"
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "duration": null,
+                    "type": "children",
+                    "constraint": null,
+                    "id": "OIg6eyNVV3PJ",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false
+                },
+                {
+                    "id": "OIMLQCR8yvHu",
+                    "constraint": {
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "numPeople": null,
+                        "numChildren": null,
+                        "minAge": 7,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "label": "(age 7-11)",
+                        "maxAge": 11,
+                        "numAdults": null
+                    },
+                    "minPerReservation": null,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "type": "children",
+                    "duration": null
+                },
+                {
+                    "maxPerReservation": null,
+                    "type": "student",
+                    "duration": null,
+                    "label": "Student",
+                    "minPerReservation": null,
+                    "id": "OIYiRgughZEa",
+                    "constraint": {
+                        "numAdults": null,
+                        "maxAge": 15,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "label": "(age 12-15)",
+                        "numPeople": null,
+                        "numChildren": null,
+                        "minAge": 12,
+                        "minGroupSize": null,
+                        "__typename": "Constraint"
+                    },
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null
+                }
+            ],
+            "__typename": "Offer",
+            "benefits": {
+                "freeDrink": null,
+                "freeTransportation": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "freeAudioGuide": null,
+                "skipTheLine": null,
+                "priorityLane": null
+            },
+            "description": null,
+            "locationInstructions": null,
+            "whatsIncluded": null,
+            "typicalFrequency": null,
+            "languageOptions": null,
+            "notIncluded": null
+        },
+        {
+            "notIncluded": null,
+            "languageOptions": null,
+            "whatsIncluded": null,
+            "locationInstructions": null,
+            "typicalFrequency": null,
+            "__typename": "Offer",
+            "benefits": {
+                "freeTransportation": null,
+                "freeDrink": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeAudioGuide": null,
+                "skipTheLine": null,
+                "priorityLane": null
+            },
+            "description": null,
+            "id": "OFLdZPiMI6ky",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": false,
+                "minOfferItemsPerReservation": 0,
+                "maxOfferItemsPerReservation": null
+            },
+            "items": [
+                {
+                    "duration": null,
+                    "type": "custom",
+                    "label": "AirBnB 95",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "constraint": null,
+                    "id": "OIwWF1TusdnB"
+                },
+                {
+                    "maxPerReservation": null,
+                    "label": "Child",
+                    "duration": null,
+                    "type": "children",
+                    "constraint": {
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "label": "(age 7-15)",
+                        "numAdults": null,
+                        "maxAge": 15,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "numPeople": null,
+                        "numChildren": null,
+                        "minAge": 7
+                    },
+                    "id": "OIZ5Pbuo2lW6",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false
+                },
+                {
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "minPerReservation": null,
+                    "id": "OImKRcYXD0iE",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "minGroupSize": null,
+                        "minAge": null,
+                        "numChildren": null,
+                        "numPeople": 8,
+                        "label": "8 people",
+                        "maxGroupSize": null,
+                        "type": "group",
+                        "numAdults": null,
+                        "maxAge": null
+                    },
+                    "type": "group",
+                    "duration": null,
+                    "label": "Group",
+                    "maxPerReservation": null
+                },
+                {
+                    "duration": null,
+                    "type": "adult",
+                    "label": "Adult",
+                    "maxPerReservation": null,
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "minPerReservation": null,
+                    "constraint": {
+                        "numAdults": null,
+                        "maxAge": null,
+                        "label": "(age 16+)",
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "minAge": 16,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null
+                    },
+                    "id": "OIXKq2w13DcJ"
+                }
+            ],
+            "label": "Private tour",
+            "additionalInfo": null,
+            "availabilityType": "date_time",
+            "typicalDuration": {
+                "label": "Duration: 8 hours",
+                "__typename": "Value",
+                "value": "PT8H"
+            }
+        },
+        {
+            "label": "Skip-the-line ticket with audio guide",
+            "additionalInfo": null,
+            "availabilityType": "date_time",
+            "typicalDuration": {
+                "__typename": "Value",
+                "label": "Duration: 8 hours",
+                "value": "PT8H"
+            },
+            "benefits": {
+                "freeDrink": null,
+                "freeTransportation": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "priorityLane": null,
+                "freeAudioGuide": null
+            },
+            "description": null,
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 0,
+                "adultRequiredForReservation": false,
+                "maxOfferItemsPerReservation": null
+            },
+            "items": [
+                {
+                    "maxPerReservation": null,
+                    "label": "Adult",
+                    "duration": null,
+                    "type": "adult",
+                    "constraint": null,
+                    "id": "OI3UhozgpZoc",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false
+                }
+            ],
+            "id": "OFySXnGzNKpm",
+            "languageOptions": null,
+            "typicalFrequency": null,
+            "locationInstructions": null,
+            "whatsIncluded": null,
+            "notIncluded": null
+        }
+    ],
+    "primaryPhoto": {
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+        "__typename": "AttractionsPhoto",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o="
+    },
+    "dietOptions": [],
+    "photos": [
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043620.jpg?k=e976becd9654d336bd35fb0125ec4b5deffd831dfd086b1c31a2159fd29a6c6b&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043630.jpg?k=e8ea4198c07079cc7e1c440f0bb2bed33e6541890e2d888345e93308a5f0368a&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043630.jpg?k=e8ea4198c07079cc7e1c440f0bb2bed33e6541890e2d888345e93308a5f0368a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145043630.jpg?k=e8ea4198c07079cc7e1c440f0bb2bed33e6541890e2d888345e93308a5f0368a&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043630.jpg?k=e8ea4198c07079cc7e1c440f0bb2bed33e6541890e2d888345e93308a5f0368a&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043638.jpg?k=762f14567353eba913d3c68ef90fc0ba9a15626d4ad9fff2975614751d783827&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043638.jpg?k=762f14567353eba913d3c68ef90fc0ba9a15626d4ad9fff2975614751d783827&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043638.jpg?k=762f14567353eba913d3c68ef90fc0ba9a15626d4ad9fff2975614751d783827&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145043638.jpg?k=762f14567353eba913d3c68ef90fc0ba9a15626d4ad9fff2975614751d783827&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145043646.jpg?k=270117647668c84bdd375da268e11206856d21519050b1fb067191e6256d9dd9&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/145043646.jpg?k=270117647668c84bdd375da268e11206856d21519050b1fb067191e6256d9dd9&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043646.jpg?k=270117647668c84bdd375da268e11206856d21519050b1fb067191e6256d9dd9&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043646.jpg?k=270117647668c84bdd375da268e11206856d21519050b1fb067191e6256d9dd9&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145043656.jpg?k=a41e5503a04c8b2ae1de71b98a583f50599547a7d52090b73677017e77ccfeea&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043656.jpg?k=a41e5503a04c8b2ae1de71b98a583f50599547a7d52090b73677017e77ccfeea&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043656.jpg?k=a41e5503a04c8b2ae1de71b98a583f50599547a7d52090b73677017e77ccfeea&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145043656.jpg?k=a41e5503a04c8b2ae1de71b98a583f50599547a7d52090b73677017e77ccfeea&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145043664.jpg?k=b81fc23cec190a0b2585d3105fb5ff34a188483789fd04d47211d9f77e2c3617&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043664.jpg?k=b81fc23cec190a0b2585d3105fb5ff34a188483789fd04d47211d9f77e2c3617&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043664.jpg?k=b81fc23cec190a0b2585d3105fb5ff34a188483789fd04d47211d9f77e2c3617&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043664.jpg?k=b81fc23cec190a0b2585d3105fb5ff34a188483789fd04d47211d9f77e2c3617&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145043671.jpg?k=3fe22b1c7db577af5fb5ce8ad43055255eaaea3d3f70522d831eeba7028005b2&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043671.jpg?k=3fe22b1c7db577af5fb5ce8ad43055255eaaea3d3f70522d831eeba7028005b2&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/145043671.jpg?k=3fe22b1c7db577af5fb5ce8ad43055255eaaea3d3f70522d831eeba7028005b2&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145043671.jpg?k=3fe22b1c7db577af5fb5ce8ad43055255eaaea3d3f70522d831eeba7028005b2&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043680.jpg?k=717b8d7cdc9dde18e56a818ecd3a18bf9f97d1f9a94bac2423bd86503a0745b1&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145043680.jpg?k=717b8d7cdc9dde18e56a818ecd3a18bf9f97d1f9a94bac2423bd86503a0745b1&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/145043680.jpg?k=717b8d7cdc9dde18e56a818ecd3a18bf9f97d1f9a94bac2423bd86503a0745b1&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145043680.jpg?k=717b8d7cdc9dde18e56a818ecd3a18bf9f97d1f9a94bac2423bd86503a0745b1&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145043688.jpg?k=8df4f9c64f72ec6e1d29024202342c3c1a96a470fba1b1381b4e792b1d22d145&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145043688.jpg?k=8df4f9c64f72ec6e1d29024202342c3c1a96a470fba1b1381b4e792b1d22d145&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145043688.jpg?k=8df4f9c64f72ec6e1d29024202342c3c1a96a470fba1b1381b4e792b1d22d145&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145043688.jpg?k=8df4f9c64f72ec6e1d29024202342c3c1a96a470fba1b1381b4e792b1d22d145&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145043695.jpg?k=289ba91255354a4c9d25141fc7b5f76ab5e7b17f8381f1131e800324b724b3df&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145043695.jpg?k=289ba91255354a4c9d25141fc7b5f76ab5e7b17f8381f1131e800324b724b3df&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/145043695.jpg?k=289ba91255354a4c9d25141fc7b5f76ab5e7b17f8381f1131e800324b724b3df&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145043695.jpg?k=289ba91255354a4c9d25141fc7b5f76ab5e7b17f8381f1131e800324b724b3df&o="
+        }
+    ],
+    "ufiDetails": {
+        "image": null,
+        "attractionsCount": 606,
+        "latitude": 41.3871002197266,
+        "ufi": -372490,
+        "banners": [],
+        "__typename": "AttractionLocationResponse",
+        "countryName": "Spain",
+        "url": {
+            "country": "es",
+            "prefix": "attractions",
+            "__typename": "AttractionLocationUrl",
+            "city": "barcelona"
+        },
+        "bInCityName": "in Barcelona",
+        "longitude": 2.17001008987427,
+        "bCityName": "Barcelona"
+    },
+    "timeZone": "Europe/Madrid",
+    "poweredBy": "Powered by Musement",
+    "addresses": {
+        "departure": null,
+        "entrance": null,
+        "guestPickup": null,
+        "attraction": null,
+        "meeting": [
+            {
+                "publicTransport": null,
+                "country": "es",
+                "instructions": "Meet your guide on the benches outside of the Casino of Barcelona, opposite the city centre harbour of Port Olympic.",
+                "longitude": "2.1970601",
+                "city": "Barcelona",
+                "locationType": "meeting",
+                "latitude": "41.3866938",
+                "address": "Casino Barcelona, Carrer de la Marina, 19, 21",
+                "googlePlaceId": null,
+                "zip": "08005",
+                "id": "LOPBYzicBw2v",
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "arrival": null,
+        "__typename": "AttractionsAddresses",
+        "pickup": null
+    },
+    "__typename": "AttractionsProduct",
+    "itinerary": null,
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckSupported": true
+    },
+    "taxonomy": {
+        "type": {
+            "slug": "tours",
+            "__typename": "Content",
+            "label": "Tours"
+        },
+        "__typename": "Taxonomy",
+        "tags": [
+            {
+                "slug": "watersports",
+                "__typename": "Content",
+                "label": "Water sport"
+            },
+            {
+                "slug": "for-adrenaline-junkies",
+                "__typename": "Content",
+                "label": "Great for thrill-seekers"
+            },
+            {
+                "slug": "nature",
+                "label": "Nature",
+                "__typename": "Content"
+            },
+            {
+                "slug": "adventure-sports",
+                "__typename": "Content",
+                "label": "Adventure sport"
+            },
+            {
+                "slug": "sports",
+                "__typename": "Content",
+                "label": "Sport"
+            },
+            {
+                "slug": "sightseeing",
+                "label": "Sightseeing",
+                "__typename": "Content"
+            }
+        ],
+        "categories": [
+            {
+                "slug": "day-trip",
+                "label": "Day trip",
+                "__typename": "Content"
+            }
+        ]
+    },
+    "onSiteRequirements": {
+        "writtenConsentForChildren": null,
+        "unsuitable": null,
+        "comfortableFootwearRecommended": null,
+        "ticketCollection": null,
+        "earlyArrival": null,
+        "age": null,
+        "voucherPrintingRequired": null,
+        "adultSupervisionRequired": null,
+        "__typename": "OnSiteRequirements",
+        "weight": null,
+        "height": null,
+        "noAlcoholDuringRamadan": null,
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "proofOfIdentityRequired": null,
+        "onlyOperatesInGoodWeather": null
+    },
+    "additionalInfo": "The private tour option can accommodate a maximum of eight participants.\r\n\r\nThe minimum age for participating in this tour is seven years.\r\n\r\nThe sandwiches are made with a selection of Spanish hams, cheese, salad and sauces.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "reviewsStats": {
+        "allReviewsCount": 1,
+        "__typename": "AttractionsProductReviewStats",
+        "isGoodScore": 1,
+        "providerNumericStats": [
+            {
+                "average": 5,
+                "providerName": "musement",
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 1
+            }
+        ],
+        "percentage": "100%"
+    },
+    "slug": "pr0o9xin187u-costa-brava-kayaking-and-snorkelling-excursion",
+    "uniqueSellingPoints": [
+        "Round-trip transfers from Barcelona to Costa Brava",
+        "Insider tips on Costa Brava's best kayaking spots",
+        "Guided excursion for a safe experience in the water",
+        "Chance to go snorkelling and see local marine life"
+    ],
+    "typicalDuration": {
+        "label": "Duration: 8 hours",
+        "__typename": "Value",
+        "value": "PT8H"
+    },
+    "ufi": -372490,
+    "primaryLabel": null,
+    "contextUfiDetails": null,
+    "accessibility": [],
+    "restrictions": [],
+    "id": "PR0O9xin187U",
+    "name": "Costa Brava Kayaking and Snorkelling Excursion",
+    "flags": null,
+    "additionalBookingInfo": null,
+    "healthSafety": [],
+    "representativePrice": {
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 86.77,
+        "publicAmount": 86.77,
+        "currency": "GBP"
+    },
+    "shortDescription": "A guided visit to the coves, caves and coastal spots of Costa Brava",
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "isStillRefundable": true,
+        "until": "2023-05-18T10:00:00+02:00",
+        "comparedTo": "start",
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "percentage": 100
+    },
+    "whatsIncluded": [
+        "Guide services",
+        "Equipment rental",
+        "Transportation in an air-conditioned vehicle",
+        "Sandwiches"
+    ],
+    "postBookingInfo": "Please contact the tour provider on +34 637149032 in case of an emergency.",
+    "url": "https://www.booking.com/attractions/en/pr0o9xin187u-costa-brava-kayaking-and-snorkelling-excursion.html",
+    "ReviewDetails": [
+        {
+            "language": null,
+            "isApproved": true,
+            "user": null,
+            "rating": null,
+            "providerName": "musement",
+            "epochMs": 1627434000000,
+            "numericRating": 5,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "id": "masked_5d0f2e2c-317d-4ecb-8c82-9328e437bd55",
+            "content": null,
+            "date": "07/27/2021, 18:00:00"
+        },
+        {
+            "votes": null,
+            "id": "masked_2e1ef4d3-d343-4c08-bdb4-40a54ece8df5",
+            "__typename": "AttractionsReview",
+            "content": null,
+            "providerName": null,
+            "epochMs": 1658626096000,
+            "numericRating": null,
+            "rating": true,
+            "language": null,
+            "isApproved": false,
+            "user": null,
+            "date": "07/23/2022, 18:28:16"
+        }
+    ]
+}

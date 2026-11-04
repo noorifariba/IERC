@@ -1,0 +1,1142 @@
+{
+    "audioSupportedLanguages": null,
+    "guideSupportedLanguages": [
+        "English (UK)"
+    ],
+    "operatedBy": "Devour Barcelona Food Tours",
+    "notIncluded": [
+        "Tips",
+        "Hotel pickup and drop-off"
+    ],
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "typicalFrequency": null,
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 0,
+        "average": 0
+    },
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "details": {
+                "name": "Devour Barcelona Food Tours",
+                "address": "Calle San Simon 5 Bajo B Madrid 28012 ES",
+                "__typename": "AttractionsSupplierInfoDetails"
+            },
+            "isIndividual": false
+        }
+    ],
+    "description": "On this 50-minute guided walking tour, you’ll get to explore historical landmarks in Barcelona, try local food and sample five glasses of wine and local drinks. After meeting your guide, you’ll proceed to a 95-year-old bar to try vermouth and 'cava' paired with cured meats and cheeses. \r\n\r\nThereafter, you’ll take a 50-minute historical tour, starting at the Gothic Quarter. As you walk through the Roman ruins, you’ll gain insights into the city’s history from your guide. You’ll then stop at a tapas bar that opened in 1945, which is popular for serving four types of tapas. \r\n\r\nLater, you’ll stop at another tapas bar where you can sample a selection of traditional Catalan dishes, a classic Catalan dessert and local red wine. Additionally, you’ll be provided with a Devour Barcelona guide listing popular places to eat and drink in the city.",
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas"
+    ],
+    "isBookable": true,
+    "primaryPhoto": {
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "offers": [
+        {
+            "notIncluded": null,
+            "languageOptions": [
+                {
+                    "label": "English - Tour guide",
+                    "language": "en",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                }
+            ],
+            "typicalFrequency": null,
+            "whatsIncluded": null,
+            "locationInstructions": null,
+            "description": "Tour for a maximum of 8–10 participants.",
+            "benefits": {
+                "skipTheLine": null,
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeTransportation": null,
+                "freeDrink": null
+            },
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1,
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 10
+            },
+            "items": [
+                {
+                    "maxPerReservation": null,
+                    "type": "adult",
+                    "duration": null,
+                    "label": "Adult",
+                    "minPerReservation": null,
+                    "id": "OIKR0tKE9Ozd",
+                    "constraint": {
+                        "maxAge": 99,
+                        "numAdults": null,
+                        "label": "(age 13-99)",
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "numChildren": null,
+                        "minAge": 13,
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null
+                    },
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null
+                },
+                {
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "id": "OIOpaip9N6QA",
+                    "constraint": {
+                        "maxAge": 17,
+                        "numAdults": null,
+                        "label": "(age 13-17)",
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "minAge": 13,
+                        "numChildren": null,
+                        "numPeople": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null
+                    },
+                    "minPerReservation": 1,
+                    "label": "Child",
+                    "type": "children",
+                    "duration": null,
+                    "maxPerReservation": null
+                }
+            ],
+            "id": "OFd7R8VrzzwH",
+            "availabilityType": "date_time",
+            "additionalInfo": null,
+            "label": "Small Group Tour",
+            "typicalDuration": null
+        }
+    ],
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation",
+            "type": "free_cancellation"
+        }
+    ],
+    "ufiDetails": {
+        "image": null,
+        "attractionsCount": 606,
+        "latitude": 41.3871002197266,
+        "ufi": -372490,
+        "banners": [],
+        "__typename": "AttractionLocationResponse",
+        "countryName": "Spain",
+        "url": {
+            "city": "barcelona",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions",
+            "country": "es"
+        },
+        "bInCityName": "in Barcelona",
+        "longitude": 2.17001008987427,
+        "bCityName": "Barcelona"
+    },
+    "timeZone": "Europe/Madrid",
+    "photos": [
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008431.jpg?k=62be7366bfe0a76d4728b32be99b58b0f1455a687c952a67a6ddf956499dfee0&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008436.jpg?k=cf50931708feb75457eca9d0f703739105ad661b3be445e0df9c50f8084adc49&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008436.jpg?k=cf50931708feb75457eca9d0f703739105ad661b3be445e0df9c50f8084adc49&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008436.jpg?k=cf50931708feb75457eca9d0f703739105ad661b3be445e0df9c50f8084adc49&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008436.jpg?k=cf50931708feb75457eca9d0f703739105ad661b3be445e0df9c50f8084adc49&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008443.jpg?k=c3949133d6df05bfdebed89bd7c09e783b255213c3b7baabd296d612aef3a0d4&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008443.jpg?k=c3949133d6df05bfdebed89bd7c09e783b255213c3b7baabd296d612aef3a0d4&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008443.jpg?k=c3949133d6df05bfdebed89bd7c09e783b255213c3b7baabd296d612aef3a0d4&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008443.jpg?k=c3949133d6df05bfdebed89bd7c09e783b255213c3b7baabd296d612aef3a0d4&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008447.jpg?k=315a4340222c605f404953420222c026283a34c5d9b76a1ffb30e138b3f6f09a&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008447.jpg?k=315a4340222c605f404953420222c026283a34c5d9b76a1ffb30e138b3f6f09a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008447.jpg?k=315a4340222c605f404953420222c026283a34c5d9b76a1ffb30e138b3f6f09a&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008447.jpg?k=315a4340222c605f404953420222c026283a34c5d9b76a1ffb30e138b3f6f09a&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008459.jpg?k=4496b8575d4967ca93e07f175bd9a490bfcfdc71f1897211a6eaa002dbf78eca&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008459.jpg?k=4496b8575d4967ca93e07f175bd9a490bfcfdc71f1897211a6eaa002dbf78eca&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008459.jpg?k=4496b8575d4967ca93e07f175bd9a490bfcfdc71f1897211a6eaa002dbf78eca&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008459.jpg?k=4496b8575d4967ca93e07f175bd9a490bfcfdc71f1897211a6eaa002dbf78eca&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008469.jpg?k=a0c9405b78348ed98d20450dfe273db4909cbc3ea9b8d6a9d2a7be706f4d543e&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008469.jpg?k=a0c9405b78348ed98d20450dfe273db4909cbc3ea9b8d6a9d2a7be706f4d543e&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008469.jpg?k=a0c9405b78348ed98d20450dfe273db4909cbc3ea9b8d6a9d2a7be706f4d543e&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008469.jpg?k=a0c9405b78348ed98d20450dfe273db4909cbc3ea9b8d6a9d2a7be706f4d543e&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008479.jpg?k=8779b96df8ce11003917e73a8fee9047571dd3bb00622283651b33b1b5d29a9b&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008479.jpg?k=8779b96df8ce11003917e73a8fee9047571dd3bb00622283651b33b1b5d29a9b&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008479.jpg?k=8779b96df8ce11003917e73a8fee9047571dd3bb00622283651b33b1b5d29a9b&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008479.jpg?k=8779b96df8ce11003917e73a8fee9047571dd3bb00622283651b33b1b5d29a9b&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008490.jpg?k=3e2142fe1004f75c41a6bf174e64c108522392a3449c5b59075536a35da23c12&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008490.jpg?k=3e2142fe1004f75c41a6bf174e64c108522392a3449c5b59075536a35da23c12&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008490.jpg?k=3e2142fe1004f75c41a6bf174e64c108522392a3449c5b59075536a35da23c12&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008490.jpg?k=3e2142fe1004f75c41a6bf174e64c108522392a3449c5b59075536a35da23c12&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008501.jpg?k=b0f5dd8237731556966e7de258e2bf8fb4c6c2f17a759fe7c6516ecda6b8b64e&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008501.jpg?k=b0f5dd8237731556966e7de258e2bf8fb4c6c2f17a759fe7c6516ecda6b8b64e&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008501.jpg?k=b0f5dd8237731556966e7de258e2bf8fb4c6c2f17a759fe7c6516ecda6b8b64e&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008501.jpg?k=b0f5dd8237731556966e7de258e2bf8fb4c6c2f17a759fe7c6516ecda6b8b64e&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008512.jpg?k=2db81fd2adc85c92cac6085d4d35c481aecec27ba8da2ecafb1bdc22571ce083&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008512.jpg?k=2db81fd2adc85c92cac6085d4d35c481aecec27ba8da2ecafb1bdc22571ce083&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008512.jpg?k=2db81fd2adc85c92cac6085d4d35c481aecec27ba8da2ecafb1bdc22571ce083&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008512.jpg?k=2db81fd2adc85c92cac6085d4d35c481aecec27ba8da2ecafb1bdc22571ce083&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008520.jpg?k=43ad8d7a17f815d937023b029e01e65707b000588e0316224b74338de07c98aa&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008520.jpg?k=43ad8d7a17f815d937023b029e01e65707b000588e0316224b74338de07c98aa&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008520.jpg?k=43ad8d7a17f815d937023b029e01e65707b000588e0316224b74338de07c98aa&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008520.jpg?k=43ad8d7a17f815d937023b029e01e65707b000588e0316224b74338de07c98aa&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008530.jpg?k=5d72ffab775281d466b66778bf7ed5934433a8af7902fa0335dcb66fe18146be&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008530.jpg?k=5d72ffab775281d466b66778bf7ed5934433a8af7902fa0335dcb66fe18146be&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008530.jpg?k=5d72ffab775281d466b66778bf7ed5934433a8af7902fa0335dcb66fe18146be&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008530.jpg?k=5d72ffab775281d466b66778bf7ed5934433a8af7902fa0335dcb66fe18146be&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008539.jpg?k=ac77a00804f771ea5570d7064e727855126d7bc485e699b52f3dad1ef250e8dc&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008539.jpg?k=ac77a00804f771ea5570d7064e727855126d7bc485e699b52f3dad1ef250e8dc&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008539.jpg?k=ac77a00804f771ea5570d7064e727855126d7bc485e699b52f3dad1ef250e8dc&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008539.jpg?k=ac77a00804f771ea5570d7064e727855126d7bc485e699b52f3dad1ef250e8dc&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008547.jpg?k=3f9db79332276ce0b631dff72ab9619765a4306f1974361676cfef1486e6216f&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008547.jpg?k=3f9db79332276ce0b631dff72ab9619765a4306f1974361676cfef1486e6216f&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008547.jpg?k=3f9db79332276ce0b631dff72ab9619765a4306f1974361676cfef1486e6216f&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008547.jpg?k=3f9db79332276ce0b631dff72ab9619765a4306f1974361676cfef1486e6216f&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008561.jpg?k=cc5544e730adc76c8cfe0963bab2d645f17be43774ecdabc3cfae3610c71f11c&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008561.jpg?k=cc5544e730adc76c8cfe0963bab2d645f17be43774ecdabc3cfae3610c71f11c&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008561.jpg?k=cc5544e730adc76c8cfe0963bab2d645f17be43774ecdabc3cfae3610c71f11c&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008561.jpg?k=cc5544e730adc76c8cfe0963bab2d645f17be43774ecdabc3cfae3610c71f11c&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008567.jpg?k=7b8656072beaaf9ce4515d4098b14089f93b8cb6fe168877f81059886bba0986&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008567.jpg?k=7b8656072beaaf9ce4515d4098b14089f93b8cb6fe168877f81059886bba0986&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008567.jpg?k=7b8656072beaaf9ce4515d4098b14089f93b8cb6fe168877f81059886bba0986&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008567.jpg?k=7b8656072beaaf9ce4515d4098b14089f93b8cb6fe168877f81059886bba0986&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008571.jpg?k=f1fb12be3861c93cb8dd74da6cc2ae6021f80f076e9f32e8a29695d57e8bfc08&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008571.jpg?k=f1fb12be3861c93cb8dd74da6cc2ae6021f80f076e9f32e8a29695d57e8bfc08&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008571.jpg?k=f1fb12be3861c93cb8dd74da6cc2ae6021f80f076e9f32e8a29695d57e8bfc08&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008571.jpg?k=f1fb12be3861c93cb8dd74da6cc2ae6021f80f076e9f32e8a29695d57e8bfc08&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008573.jpg?k=86771d9555c8a42910720df4b3e9afa1cd887a97191964b50695f7c6b41e5e75&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008573.jpg?k=86771d9555c8a42910720df4b3e9afa1cd887a97191964b50695f7c6b41e5e75&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008573.jpg?k=86771d9555c8a42910720df4b3e9afa1cd887a97191964b50695f7c6b41e5e75&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008573.jpg?k=86771d9555c8a42910720df4b3e9afa1cd887a97191964b50695f7c6b41e5e75&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008578.jpg?k=82ef32661c0b9a6a6faf621969688d312e17a391ac2c1b56af9cd68cb5581dda&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008578.jpg?k=82ef32661c0b9a6a6faf621969688d312e17a391ac2c1b56af9cd68cb5581dda&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008578.jpg?k=82ef32661c0b9a6a6faf621969688d312e17a391ac2c1b56af9cd68cb5581dda&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008578.jpg?k=82ef32661c0b9a6a6faf621969688d312e17a391ac2c1b56af9cd68cb5581dda&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008585.jpg?k=a87d613c7383b1433c97acbbcf9f061a55f90e866cf7f67731addfe25be2ca4d&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008585.jpg?k=a87d613c7383b1433c97acbbcf9f061a55f90e866cf7f67731addfe25be2ca4d&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008585.jpg?k=a87d613c7383b1433c97acbbcf9f061a55f90e866cf7f67731addfe25be2ca4d&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008585.jpg?k=a87d613c7383b1433c97acbbcf9f061a55f90e866cf7f67731addfe25be2ca4d&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008590.jpg?k=1566e49e5c1d53668c0349880e1c3d62d7a4f8703023e987b0338a45a2894ce1&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008590.jpg?k=1566e49e5c1d53668c0349880e1c3d62d7a4f8703023e987b0338a45a2894ce1&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008590.jpg?k=1566e49e5c1d53668c0349880e1c3d62d7a4f8703023e987b0338a45a2894ce1&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008590.jpg?k=1566e49e5c1d53668c0349880e1c3d62d7a4f8703023e987b0338a45a2894ce1&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008599.jpg?k=452f31a1177642d84701124a772a4277ee4fa8029fe078f5d9b44fbe4f7e5778&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008599.jpg?k=452f31a1177642d84701124a772a4277ee4fa8029fe078f5d9b44fbe4f7e5778&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008599.jpg?k=452f31a1177642d84701124a772a4277ee4fa8029fe078f5d9b44fbe4f7e5778&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008599.jpg?k=452f31a1177642d84701124a772a4277ee4fa8029fe078f5d9b44fbe4f7e5778&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008605.jpg?k=63636e2ad8987201329e235abe3ea43c2cd11dad5eb5dae608ae720d9eaa8c3d&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008605.jpg?k=63636e2ad8987201329e235abe3ea43c2cd11dad5eb5dae608ae720d9eaa8c3d&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008605.jpg?k=63636e2ad8987201329e235abe3ea43c2cd11dad5eb5dae608ae720d9eaa8c3d&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008605.jpg?k=63636e2ad8987201329e235abe3ea43c2cd11dad5eb5dae608ae720d9eaa8c3d&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008613.jpg?k=f134ae5d94d158b8c8f0af71be804614000cc6b0a14f35f920a441ad88f3da8a&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008613.jpg?k=f134ae5d94d158b8c8f0af71be804614000cc6b0a14f35f920a441ad88f3da8a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008613.jpg?k=f134ae5d94d158b8c8f0af71be804614000cc6b0a14f35f920a441ad88f3da8a&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008613.jpg?k=f134ae5d94d158b8c8f0af71be804614000cc6b0a14f35f920a441ad88f3da8a&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008626.jpg?k=6f8be8b78473f80b490acc7ef6dce8ef6256c4dee174150f08865e1801798ccd&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008626.jpg?k=6f8be8b78473f80b490acc7ef6dce8ef6256c4dee174150f08865e1801798ccd&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008626.jpg?k=6f8be8b78473f80b490acc7ef6dce8ef6256c4dee174150f08865e1801798ccd&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008626.jpg?k=6f8be8b78473f80b490acc7ef6dce8ef6256c4dee174150f08865e1801798ccd&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008630.jpg?k=384373ad79b87acc4272cb4bc8dcd12724eb3736489191ca3a292c88dbbc5342&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008630.jpg?k=384373ad79b87acc4272cb4bc8dcd12724eb3736489191ca3a292c88dbbc5342&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008630.jpg?k=384373ad79b87acc4272cb4bc8dcd12724eb3736489191ca3a292c88dbbc5342&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008630.jpg?k=384373ad79b87acc4272cb4bc8dcd12724eb3736489191ca3a292c88dbbc5342&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008635.jpg?k=bed7070aeb5b47b371613e05fcc1128d3b4cf1ba6d0f06c28f171886794d1a50&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008635.jpg?k=bed7070aeb5b47b371613e05fcc1128d3b4cf1ba6d0f06c28f171886794d1a50&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008635.jpg?k=bed7070aeb5b47b371613e05fcc1128d3b4cf1ba6d0f06c28f171886794d1a50&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008635.jpg?k=bed7070aeb5b47b371613e05fcc1128d3b4cf1ba6d0f06c28f171886794d1a50&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008642.jpg?k=e692fedbfb38785dbc082d06ff2a4bbf7061f4acbec40e99cc96a9c76ef37975&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008642.jpg?k=e692fedbfb38785dbc082d06ff2a4bbf7061f4acbec40e99cc96a9c76ef37975&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008642.jpg?k=e692fedbfb38785dbc082d06ff2a4bbf7061f4acbec40e99cc96a9c76ef37975&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008642.jpg?k=e692fedbfb38785dbc082d06ff2a4bbf7061f4acbec40e99cc96a9c76ef37975&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008650.jpg?k=e4b638b55a64e33fa7e9c1a911a4304b0449b77c3370a8a90d08742b5245248b&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008650.jpg?k=e4b638b55a64e33fa7e9c1a911a4304b0449b77c3370a8a90d08742b5245248b&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008650.jpg?k=e4b638b55a64e33fa7e9c1a911a4304b0449b77c3370a8a90d08742b5245248b&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008650.jpg?k=e4b638b55a64e33fa7e9c1a911a4304b0449b77c3370a8a90d08742b5245248b&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008660.jpg?k=b18e69f464da11946bc5a0f2fda1b3690802055ae0bf4c624446953fa3ffb561&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008660.jpg?k=b18e69f464da11946bc5a0f2fda1b3690802055ae0bf4c624446953fa3ffb561&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008660.jpg?k=b18e69f464da11946bc5a0f2fda1b3690802055ae0bf4c624446953fa3ffb561&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008660.jpg?k=b18e69f464da11946bc5a0f2fda1b3690802055ae0bf4c624446953fa3ffb561&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008666.jpg?k=7704fbd7c4cd568b9e9ea0f669e566ae7f496d120ce3813ceefe409b7f7066d4&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008666.jpg?k=7704fbd7c4cd568b9e9ea0f669e566ae7f496d120ce3813ceefe409b7f7066d4&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008666.jpg?k=7704fbd7c4cd568b9e9ea0f669e566ae7f496d120ce3813ceefe409b7f7066d4&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008666.jpg?k=7704fbd7c4cd568b9e9ea0f669e566ae7f496d120ce3813ceefe409b7f7066d4&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008674.jpg?k=803b011ebca0ee56bd67199b14dff5df01cbd351eef38d9c500bd2db3ca007ba&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008674.jpg?k=803b011ebca0ee56bd67199b14dff5df01cbd351eef38d9c500bd2db3ca007ba&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008674.jpg?k=803b011ebca0ee56bd67199b14dff5df01cbd351eef38d9c500bd2db3ca007ba&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008674.jpg?k=803b011ebca0ee56bd67199b14dff5df01cbd351eef38d9c500bd2db3ca007ba&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008678.jpg?k=9a6b2f1b37402ea2c967c8751aa5df387535d1e876726aacf043b35182a13a5f&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008678.jpg?k=9a6b2f1b37402ea2c967c8751aa5df387535d1e876726aacf043b35182a13a5f&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008678.jpg?k=9a6b2f1b37402ea2c967c8751aa5df387535d1e876726aacf043b35182a13a5f&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008678.jpg?k=9a6b2f1b37402ea2c967c8751aa5df387535d1e876726aacf043b35182a13a5f&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008685.jpg?k=84eebebf9e149ebdfdc564706a7f9ae1bf767bafb7af2a18cc2d8cdfd588e7cb&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008685.jpg?k=84eebebf9e149ebdfdc564706a7f9ae1bf767bafb7af2a18cc2d8cdfd588e7cb&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008685.jpg?k=84eebebf9e149ebdfdc564706a7f9ae1bf767bafb7af2a18cc2d8cdfd588e7cb&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008685.jpg?k=84eebebf9e149ebdfdc564706a7f9ae1bf767bafb7af2a18cc2d8cdfd588e7cb&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008690.jpg?k=9e0ee37364ee98da6c957917b19e23919bed81e19d480e6f5751c315bc01f538&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008690.jpg?k=9e0ee37364ee98da6c957917b19e23919bed81e19d480e6f5751c315bc01f538&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008690.jpg?k=9e0ee37364ee98da6c957917b19e23919bed81e19d480e6f5751c315bc01f538&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008690.jpg?k=9e0ee37364ee98da6c957917b19e23919bed81e19d480e6f5751c315bc01f538&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/171008694.jpg?k=8d6c587587b1249f9d36c183a40220529fe0ef4a5fa7b341bf21b6bd89c5e925&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008694.jpg?k=8d6c587587b1249f9d36c183a40220529fe0ef4a5fa7b341bf21b6bd89c5e925&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008694.jpg?k=8d6c587587b1249f9d36c183a40220529fe0ef4a5fa7b341bf21b6bd89c5e925&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008694.jpg?k=8d6c587587b1249f9d36c183a40220529fe0ef4a5fa7b341bf21b6bd89c5e925&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008701.jpg?k=fe222ba46af22963006f01d45ebe7aefe33be3453a595e2279fb1f8ccc60e31c&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/171008701.jpg?k=fe222ba46af22963006f01d45ebe7aefe33be3453a595e2279fb1f8ccc60e31c&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008701.jpg?k=fe222ba46af22963006f01d45ebe7aefe33be3453a595e2279fb1f8ccc60e31c&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008701.jpg?k=fe222ba46af22963006f01d45ebe7aefe33be3453a595e2279fb1f8ccc60e31c&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008708.jpg?k=8a42393f9f39f70ed325fe17927a41f049888a9486f9a966c67ad90673d19b05&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008708.jpg?k=8a42393f9f39f70ed325fe17927a41f049888a9486f9a966c67ad90673d19b05&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/171008708.jpg?k=8a42393f9f39f70ed325fe17927a41f049888a9486f9a966c67ad90673d19b05&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008708.jpg?k=8a42393f9f39f70ed325fe17927a41f049888a9486f9a966c67ad90673d19b05&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008713.jpg?k=0ec40cac7d35312dde74d5a7b2165fccd1eb1fba32080c3fb31ea8bc236a54a6&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008713.jpg?k=0ec40cac7d35312dde74d5a7b2165fccd1eb1fba32080c3fb31ea8bc236a54a6&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008713.jpg?k=0ec40cac7d35312dde74d5a7b2165fccd1eb1fba32080c3fb31ea8bc236a54a6&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/171008713.jpg?k=0ec40cac7d35312dde74d5a7b2165fccd1eb1fba32080c3fb31ea8bc236a54a6&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/171008717.jpg?k=44ae9b1728c692e0f309d1a409c5c08d7483a066a0fb07c61aff13194002df82&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/171008717.jpg?k=44ae9b1728c692e0f309d1a409c5c08d7483a066a0fb07c61aff13194002df82&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/171008717.jpg?k=44ae9b1728c692e0f309d1a409c5c08d7483a066a0fb07c61aff13194002df82&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/171008717.jpg?k=44ae9b1728c692e0f309d1a409c5c08d7483a066a0fb07c61aff13194002df82&o="
+        }
+    ],
+    "dietOptions": [],
+    "poweredBy": "Powered by Viator",
+    "taxonomy": {
+        "categories": [
+            {
+                "__typename": "Content",
+                "label": "Cultural tour",
+                "slug": "cultural-tour"
+            }
+        ],
+        "tags": null,
+        "__typename": "Taxonomy",
+        "type": {
+            "slug": "tours",
+            "__typename": "Content",
+            "label": "Tours"
+        }
+    },
+    "itinerary": {
+        "type": "standard",
+        "__typename": "AttractionsProductItinerary"
+    },
+    "supportedFeatures": {
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsPartiallySupported": true
+    },
+    "onSiteRequirements": {
+        "writtenConsentForChildren": null,
+        "unsuitable": null,
+        "comfortableFootwearRecommended": {
+            "label": "Comfortable footwear is recommended.",
+            "__typename": "Label"
+        },
+        "earlyArrival": {
+            "__typename": "Minutes",
+            "label": "Please arrive at least 10 minutes before the activity starts.",
+            "minutes": 10
+        },
+        "ticketCollection": null,
+        "age": null,
+        "voucherPrintingRequired": null,
+        "adultSupervisionRequired": null,
+        "weight": null,
+        "__typename": "OnSiteRequirements",
+        "height": null,
+        "noAlcoholDuringRamadan": null,
+        "drivingLicenseRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "proofOfIdentityRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "onlyOperatesInGoodWeather": null
+    },
+    "addresses": {
+        "__typename": "AttractionsAddresses",
+        "pickup": null,
+        "meeting": null,
+        "arrival": [
+            {
+                "longitude": "2.1770085",
+                "instructions": null,
+                "locationType": "arrival",
+                "city": "Barcelona",
+                "country": "es",
+                "publicTransport": null,
+                "zip": "08002",
+                "id": "LO6ANnv6W1B6",
+                "__typename": "AttractionsAddress",
+                "address": "Plaça de Sant Jaume",
+                "googlePlaceId": "EilQbC4gZGUgU2FudCBKYXVtZSwgMDgwMDIgQmFyY2Vsb25hLCBTcGFpbiIuKiwKFAoSCY079_j4oqQSEVIUv0nJK5RTEhQKEgnlMI5xFpikEhEKZkdPPfuwRA",
+                "latitude": "41.3829253"
+            }
+        ],
+        "attraction": null,
+        "entrance": null,
+        "departure": [
+            {
+                "publicTransport": null,
+                "country": "es",
+                "instructions": "Meet your guide next to the Ramon Berenguer equestrian statue at the listed address. Your guide will be holding a Devour Barcelona sign.",
+                "longitude": "2.1776262",
+                "city": "Barcelona",
+                "locationType": "departure",
+                "latitude": "41.3843011",
+                "address": "Plaça de Ramon Berenguer el Gran",
+                "googlePlaceId": "EjBQbC4gZGUgUmFtb24gQmVyZW5ndWVyIGVsIEdyYW4sIEJhcmNlbG9uYSwgU3BhaW4iLiosChQKEgmFbNps-aKkEhHJebft-eOIRxIUChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+                "zip": null,
+                "id": "LO1BC08brYkX",
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "guestPickup": null
+    },
+    "__typename": "AttractionsProduct",
+    "primaryLabel": null,
+    "contextUfiDetails": null,
+    "typicalDuration": null,
+    "ufi": -372490,
+    "slug": "pr0kqaw2epzw-50-minute-guided-walking-tour-with-food-tasting",
+    "uniqueSellingPoints": null,
+    "additionalInfo": "The minimum age for consuming alcohol is 18 years.\r\n\r\nPlease inform the tour provider in case you have food allergies or dietary restrictions. Pescetarian and gluten-free options can be arranged upon request. This tour is not recommended for vegans or vegetarians. \r\n\r\nA minimum of two participants is required for the tour to go ahead. \r\n\r\nThis tour can accommodate a maximum of ten participants. \r\n\r\nThis tour is not suitable for wheelchair users.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "reviewsStats": {
+        "isGoodScore": 0,
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 0,
+        "percentage": "0",
+        "providerNumericStats": [
+            {
+                "providerName": "viator",
+                "average": 4.9,
+                "total": 29,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ]
+    },
+    "accessibility": [
+        "Public transport links nearby",
+        "Infants must sit on an adult's lap"
+    ],
+    "restrictions": [
+        "Please arrive at least 10 minutes before the activity starts.",
+        "Comfortable footwear is recommended."
+    ],
+    "name": "50-minute Guided Walking Tour with Food Tasting",
+    "flags": null,
+    "id": "PR0KQAw2ePzw",
+    "healthSafety": [
+        "Requires a moderate level of physical fitness"
+    ],
+    "additionalBookingInfo": null,
+    "representativePrice": {
+        "chargeAmount": 95.53,
+        "publicAmount": 95.53,
+        "__typename": "AttractionsPrice",
+        "currency": "GBP"
+    },
+    "postBookingInfo": null,
+    "whatsIncluded": [
+        "Wine tasting",
+        "Small-group tour",
+        "Guide services",
+        "Devour Barcelona guide",
+        "Food tasting"
+    ],
+    "cancellationPolicy": {
+        "percentage": 100,
+        "period": "PT24H",
+        "hasFreeCancellation": true,
+        "__typename": "AttractionsCancellationPolicy",
+        "isStillRefundable": true,
+        "until": "2023-07-05T18:30:00+02:00",
+        "comparedTo": "start"
+    },
+    "shortDescription": "A small-group tour to explore historical landmarks with tapas and wine tasting",
+    "url": "https://www.booking.com/attractions/en/pr0kqaw2epzw-50-minute-guided-walking-tour-with-food-tasting.html",
+    "ReviewDetails": [
+        {
+            "content": "This was such an awesome tour. Unfortunately because it was our last night we realized just how much of Barcelona we missed. We have to come back to check out more history, shops and incredible food.  Tour guide Vera, was informative, just the right amount of walking and at the right pace.  If you like food, spirits and history this is the tour for you. It wets your pallet for more!",
+            "epochMs": 1678769690000,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "id": "masked_580d0416-22af-43d0-9999-4ed40dc46822",
+            "language": "en-gb",
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_afff5ed5-c839-448d-bd65-076187eddf1c",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "03/13/2023, 21:54:50"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_7318268a-3f0c-4146-9155-5a57b750c607",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "id": "masked_5d7f0584-6025-487c-84ad-22155f370a6d",
+            "language": "en-gb",
+            "epochMs": 1676085788000,
+            "content": "Outstanding!!  Highly recommend!  Small group size is perfect for this experience and our guide was amazing!",
+            "date": "02/10/2023, 19:23:08"
+        },
+        {
+            "id": "masked_b354d594-b18b-43f2-bb70-1e4d076994dd",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1676052431000,
+            "content": " Valentina was very fun, friendly and informative! We had a great tour and wonderful experience! The food and wine was excellent. We would definitely recommend Valentina! A\nmust do in Barcelona!\n",
+            "numericRating": 5,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_ce7d82a4-1899-42dc-9717-5203f7491016"
+            },
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "date": "02/10/2023, 10:07:11"
+        },
+        {
+            "id": "masked_eaaa14f9-8b4d-47b9-a47a-043fd8002f01",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "en-gb",
+            "epochMs": 1674331314000,
+            "content": "Absolutely fantastic experience.  Ariana was knowledgeable, enthusiastic and accommodating.  We went to wonderful, truly authentic restaurants and the food was exceptional.  Big bonus was the history lessons on Barcelona and its food.  Couldn't have spent a better evening.",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_b033468d-90b5-4874-84c8-d757b13ee07b"
+            },
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "date": "01/21/2023, 12:01:54"
+        },
+        {
+            "numericRating": 3,
+            "user": {
+                "name": "masked_58a92bab-cb92-4ba8-98b0-014a2ecde9ff",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "id": "masked_cc8cdca5-4ba9-4513-9a12-789d7d2619db",
+            "votes": null,
+            "language": "en-gb",
+            "content": "If you aren’t familiar with tapas, you probably should be before this tour. They’re basically any small dish. These dishes include things like fried anchovies and bombas made of peas and mint. Also, if you don’t want to drink alcohol, there are no alternative drink options besides water, and the guide will make no effort to provide alternative drink options.",
+            "epochMs": 1673198954000,
+            "date": "01/08/2023, 09:29:14"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_2e52c242-ffa5-4c9a-a44b-6501193ca373",
+                "cc1": ""
+            },
+            "content": "A really knowledgeable guide and great itinerary brought the history, wines and food to life.  Some excellent like-minded fellow travellers for company made the 3 hours really enjoyable ",
+            "epochMs": 1672461395000,
+            "language": "en-gb",
+            "id": "masked_90ab1938-bc13-4d37-bb62-053d75ca417e",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "12/30/2022, 20:36:35"
+        },
+        {
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_fb288d9e-c032-4fb3-9687-6436edd335f8",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "language": "en-gb",
+            "id": "masked_091cb709-b046-42e3-a033-1a44e9173a92",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "epochMs": 1669566082000,
+            "content": "The food and travel guide. She was very informative on the history of the area and food we were eating. ",
+            "date": "11/27/2022, 08:21:22"
+        },
+        {
+            "epochMs": 1668775693000,
+            "content": "Adriana was our amazing guide and her passion for Barcelona and food was thrilling.  She made our very open and friendly group feel comfortable and all the history and knowledge accessible.  Really the best experience to embrace Barcelona and understand it better.  All 3 stops were unique and family owned, food and drinks delicious, outstanding in every way.",
+            "id": "masked_e3a0609c-9ed1-4712-972d-3d6ecb521dbd",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "en-gb",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_bcc701d0-a14d-43cb-a4a2-9924c66fff02",
+                "cc1": ""
+            },
+            "date": "11/18/2022, 04:48:13"
+        },
+        {
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "numericRating": 5,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_723dbf08-2cdc-4891-ac13-e61b3831375c",
+                "cc1": ""
+            },
+            "epochMs": 1668049909000,
+            "content": "The tour was wonderful. I had been in the gothic quarter before, but never at night and not only was it beautiful but the food was great and the tour guide was extremely knowledgeable.   ",
+            "votes": null,
+            "id": "masked_2e132935-19ff-4eb1-a46b-fb5c146a6d4c",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "11/09/2022, 19:11:49"
+        },
+        {
+            "epochMs": 1666871922000,
+            "content": "Our guide Valentina was an absolute gem!! Super fun and energetic. She was knowledgeable about the food, drinks and establishments we went too. Valentina also made the history of the Gothic Quarter come to life. Our group included people from all over and it was a great way to start off our visit to Barcelona!!",
+            "__typename": "AttractionsReview",
+            "id": "masked_071fb680-6b36-452e-a1cb-c79b8e51b292",
+            "votes": null,
+            "language": "en-gb",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_c3fd9558-bb56-4d08-bd6e-499fe62d933f"
+            },
+            "date": "10/27/2022, 04:58:42"
+        },
+        {
+            "content": "Farran our guide was amazing!  Passionate,  knowledgeable and funny. The food though at times simple, was outstanding.  He even went out of his way to get a separate plate for someone with a food allergy.  I would highly recommend this tour. ",
+            "epochMs": 1666287214000,
+            "language": "en-gb",
+            "id": "masked_9f04c670-63a7-4823-af16-c7f8b1074b1f",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_bdc35e0a-b59a-4eec-b632-e368672daf9f",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "date": "10/20/2022, 10:33:34"
+        },
+        {
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_5da2481e-c181-45a8-9b08-47bdc79cfec1",
+                "cc1": ""
+            },
+            "numericRating": 5,
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "id": "masked_0d3b4887-fb21-4f77-9572-fa82d33afa1d",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "epochMs": 1665033904000,
+            "content": "We would highly recommend this tour. Great history and the food was sensational. It was a great way to start our stay in Barcelona.",
+            "date": "10/05/2022, 22:25:04"
+        },
+        {
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_1c52a615-6ed2-4a34-8300-6a451bf95cdf"
+            },
+            "numericRating": 5,
+            "epochMs": 1664981335000,
+            "content": "The guide was lovely. The food was amazing and the drinks were plentiful. Wonderful group and felt like we knew each other the whole time.",
+            "votes": null,
+            "id": "masked_c69cd28e-45c2-46fb-84d1-ae7ec4ab84de",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "10/05/2022, 07:48:55"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_76d912b1-9639-452e-aba5-449ef287bf0b",
+            "content": "This was an absolutely incredible experience! We learned so much history of the Gothic quarter, and at the same time, we enjoyed trying lots of food and drink. The small group made it a really fun experience. We were all friends by the end of the night. Such a special tour. Our tour guide was phenomenal. Perfect to do on your first night in Barcelona to orient yourself, but also great for your final night to celebrate.",
+            "epochMs": 1664340947000,
+            "numericRating": 5,
+            "user": {
+                "name": "masked_1e45caa3-aaa8-489b-a607-29ac3ef0858b",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "date": "09/27/2022, 21:55:47"
+        },
+        {
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_d58242fb-4e5b-4b91-96c5-9c9d496c5940"
+            },
+            "content": "History with Dominic. The food and wine were delicious. Trying new foods and who doesn't like wine. Like learning local traditions.",
+            "epochMs": 1663906529000,
+            "__typename": "AttractionsReview",
+            "id": "masked_f42b1e90-2009-43bf-834c-66f740d52ccf",
+            "votes": null,
+            "language": "en-gb",
+            "date": "09/22/2022, 21:15:29"
+        },
+        {
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_77a2d543-c21c-4686-bea1-a9e06cf96d49",
+                "cc1": ""
+            },
+            "epochMs": 1662616393000,
+            "content": "Terran was both knowledgeable and entertaining!  Many local foods in small local restaurants.  Definitely recommend this tour by Devour Tours. ",
+            "id": "masked_96a8646f-5afd-4d69-8116-3b00b6e856be",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "en-gb",
+            "date": "09/07/2022, 22:53:13"
+        },
+        {
+            "epochMs": 1660464342000,
+            "content": "Ariana was lovely and the tour was well worth it. We especially likes the first place. As well as the church tour. ",
+            "id": "masked_c4a1dd4a-e4ca-4498-9454-e07ee74c540a",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "cc1": "",
+                "name": "masked_0eccc124-da70-4a77-a204-4a77e2878bb1",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "date": "08/14/2022, 01:05:42"
+        },
+        {
+            "epochMs": 1657869842000,
+            "content": "Alex is amazing! I learned so much I didn't know. We went to all amazing places. Fantastic food. I loved the tour,. ",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_b66e69e8-455e-4e01-8a89-64f23f7f5ff5",
+            "language": "en-gb",
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "numericRating": 5,
+            "user": {
+                "cc1": "",
+                "name": "masked_76786e38-619d-4384-9b13-7ab84c83c3ea",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "07/15/2022, 00:24:02"
+        },
+        {
+            "user": {
+                "cc1": "",
+                "name": "masked_3f101fe0-05a2-4bff-b690-b317333e6bd9",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "language": "en-gb",
+            "votes": null,
+            "id": "masked_9d97f4c5-e544-4ab3-9c36-5e0ab877ffb2",
+            "__typename": "AttractionsReview",
+            "content": "The History and Tapas Tour in Barcelona was great fun! The food and drinks were delicious and having more traditional Catalunian tapas and Cava was fantastic.  Eric from Minnesota was a fun guide and you could definitely he enjoys teaching people about the history and gastronomy of Catalunya. ",
+            "epochMs": 1656222056000,
+            "date": "06/25/2022, 22:40:56"
+        },
+        {
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_004f7df2-fe88-4447-b841-a15f1672aabf",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "epochMs": 1655009750000,
+            "content": "Eric was a fantastic guide. Great knowledge, clever wit and very patient. Could not recommend more. Food and drinks were great as were the historic stops. We loved this tour",
+            "votes": null,
+            "id": "masked_57dc16f2-fda1-43e2-9a68-ee00528d260f",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "date": "06/11/2022, 21:55:50"
+        },
+        {
+            "language": "en-gb",
+            "votes": null,
+            "id": "masked_943b9613-d697-473c-8b2f-86630bc0c7f9",
+            "__typename": "AttractionsReview",
+            "epochMs": 1654484729000,
+            "content": "This was exceptional. Vera our tour guide was amazing! We learned history , had great food, wine and met some great friends. Highly recommend! Best tour of this short trip!!! Vera was awesome !! ",
+            "user": {
+                "cc1": "",
+                "name": "masked_87a6d092-02e8-43b0-b36c-1a639758bafa",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "providerName": "viator",
+            "isApproved": true,
+            "rating": null,
+            "date": "06/05/2022, 20:05:29"
+        },
+        {
+            "language": "en-gb",
+            "__typename": "AttractionsReview",
+            "id": "masked_ebdf5b2e-987c-4e2e-b3b0-16b02b43901d",
+            "votes": null,
+            "epochMs": 1652985402000,
+            "content": "This was an awesome experience. Our guide Alex had a great personality and she was very relatable like a family member. This set the tone for the small diverse group and we were transformed from strangers to engaged members of a tasting group. The selection of tapas bars was really cool too, old small and established.  No bright touristy places.  What fun and the perfect way for me, a solo traveler, to get out and explore. ",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_18fd1865-42b3-41f1-b990-b282a6a14b24",
+                "cc1": ""
+            },
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "date": "05/19/2022, 11:36:42"
+        },
+        {
+            "id": "masked_faf79cde-61d8-4d31-a40c-347800da727d",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "en-gb",
+            "epochMs": 1652629745000,
+            "content": "Alex is an AMAZING guide, historian, and person.  She is very personable and animated and she and made the historical stories she told come to life.  The food was excellent at each location as was the stafff.  HIGHLY recommend l!",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_40804397-0645-4460-967c-6d53380f7bcb"
+            },
+            "numericRating": 5,
+            "providerName": "viator",
+            "rating": null,
+            "isApproved": true,
+            "date": "05/15/2022, 08:49:05"
+        },
+        {
+            "content": "Guide was excellent, very knowledgeable and passionate about Catalan culture and all that Barcelona has to offer. all of the tapas was incredible.",
+            "epochMs": 1650948784000,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_d145cb9c-c9ab-4364-8c36-7842cab62704",
+            "language": "en-gb",
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "user": {
+                "cc1": "",
+                "name": "masked_b54955f1-14f2-469f-b125-54256de16abb",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "numericRating": 5,
+            "date": "04/25/2022, 21:53:04"
+        },
+        {
+            "content": "The tour was not very busy - only 3 of us, which was nice as a lone traveller. The tour guide (Alex) was friendly and excellent at providing information. She offered additional information when asked and made you feel like a local. I would highly recommend this tour and pray your guide is Alex! ",
+            "epochMs": 1648732841000,
+            "language": "en-gb",
+            "id": "masked_70b8cd53-eddc-4bd4-b96f-f7fdb7a560c3",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_035c94f4-0aff-4117-8374-54ab7c8a6d8d"
+            },
+            "date": "03/31/2022, 06:20:41"
+        },
+        {
+            "numericRating": 5,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_44c9a61e-35ac-4e90-8e7e-b1a3efa4068c"
+            },
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "id": "masked_6d55c74f-20e1-4de8-88b6-82174be8b2ad",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "content": "Laughing with the girls.  Learning about the Roman influence on Spain.  The Taverns had a lot of history.  The tapas were delicious.",
+            "epochMs": 1645617370000,
+            "date": "02/23/2022, 03:56:10"
+        },
+        {
+            "id": "masked_614b2854-6557-4526-ab6f-2d91880c50e4",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "content": "Excellent tour, excellent food!\n\nMeeting spot was easy to find.\n\nOur guide was fantastic, would do it again!",
+            "epochMs": 1640316888000,
+            "numericRating": 5,
+            "user": {
+                "name": "masked_a62811b3-a3c4-43df-9735-3a74c7802699",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "date": "12/23/2021, 19:34:48"
+        },
+        {
+            "language": "en-gb",
+            "votes": null,
+            "id": "masked_f1106958-3681-443b-8928-2f2dc25c7b4c",
+            "__typename": "AttractionsReview",
+            "content": "My wife and I really enjoy food tours, especially those paired with wine/brew. This one certainly did not disappoint! Owen was a phenomenal guide! He is originally from the UK but has spent many years in Barcelona so has a good understanding of its culture and knows where the good places are.  All three of our stops were excellent picks that we would frankly have never found on our own.  There are just too many places and you would end up spending a lot of time/money trying to find them. Owen also provided us an email of the places we visited, food we ate, and additional recommendations by food type / neighborhoods.  If we had stayed longer in Barcelona we would have scheduled another tour with him (the history and cultural background alone was great!). No issues with him adhering to COVID protection measures!",
+            "epochMs": 1622571930000,
+            "user": {
+                "cc1": "",
+                "name": "masked_91bec4f9-dd29-484d-99eb-7b221f1e75cd",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 5,
+            "isApproved": true,
+            "rating": null,
+            "providerName": "viator",
+            "date": "06/01/2021, 11:25:30"
+        }
+    ]
+}

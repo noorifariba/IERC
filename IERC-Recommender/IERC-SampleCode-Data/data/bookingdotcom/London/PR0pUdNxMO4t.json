@@ -1,0 +1,360 @@
+{
+    "supplierInfo": [],
+    "__typename": "AttractionsProduct",
+    "flags": null,
+    "slug": "pr0pudnxmo4t-kidzania-london",
+    "guideSupportedLanguages": null,
+    "additionalBookingInfo": null,
+    "labels": [
+        {
+            "text": "Free cancellation",
+            "type": "free_cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "offers": [
+        {
+            "availabilityType": "date_time",
+            "languageOptions": null,
+            "whatsIncluded": [
+                "Admission to KidZania London",
+                "All activities"
+            ],
+            "items": [
+                {
+                    "maxPerReservation": 9999,
+                    "duration": null,
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "type": "age",
+                        "maxAge": 3,
+                        "numPeople": null,
+                        "minAge": 1,
+                        "label": "(age 1-3)",
+                        "numChildren": null,
+                        "__typename": "Constraint",
+                        "maxGroupSize": null
+                    },
+                    "__typename": "OfferItem",
+                    "travelerCountRequired": null,
+                    "id": "OIBhgToLlYTs",
+                    "minPerReservation": null,
+                    "type": "infant"
+                },
+                {
+                    "travelerCountRequired": null,
+                    "id": "OIQK9PA5j3YZ",
+                    "minPerReservation": null,
+                    "type": "children",
+                    "duration": null,
+                    "label": "Child",
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "numChildren": null,
+                        "minAge": 4,
+                        "label": "(age 4-14)",
+                        "numPeople": null,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "maxAge": 14
+                    },
+                    "tieredPricing": false,
+                    "maxPerReservation": 9999
+                },
+                {
+                    "minPerReservation": 1,
+                    "travelerCountRequired": null,
+                    "id": "OID5eXZcGtro",
+                    "type": "adult",
+                    "label": "Adult",
+                    "duration": null,
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "constraint": null,
+                    "maxPerReservation": 9998
+                }
+            ],
+            "typicalFrequency": null,
+            "additionalInfo": "The duration of your admission is four hours.  \r\n\r\nThis activity is recommended for children aged 4–14 years.\r\n\r\nPlease note that adults are not permitted to enter without children. \r\n\r\nEach adult can bring a maximum of six children.  \r\n\r\nYour voucher is valid only on the specified date and time. \r\n\r\nPresent your mobile voucher to enter the venue.",
+            "__typename": "Offer",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 9999,
+                "minOfferItemsPerReservation": 1
+            },
+            "typicalDuration": null,
+            "id": "OFCUYjXkgWQH",
+            "locationInstructions": "Please note that the operation hours of the Kidzania London are as follows:\r\n- Saturday and Sunday: 10:00–19:00\r\n\r\nPlease arrive at the listed address at your selected time slot.",
+            "benefits": {
+                "__typename": "Benefits",
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "freeDrink": null,
+                "priorityLane": null,
+                "freeAudioGuide": null,
+                "inStoreDiscount": null
+            },
+            "notIncluded": [
+                "Tips"
+            ],
+            "description": null,
+            "label": "KidZania London admission"
+        }
+    ],
+    "notIncluded": null,
+    "uniqueSellingPoints": null,
+    "photos": [
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/186010852.jpg?k=5312e2ae7f145f374dcd7661f8c2e58b816d88a39785a70b4a83315e0fe3cfc1&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/186010852.jpg?k=5312e2ae7f145f374dcd7661f8c2e58b816d88a39785a70b4a83315e0fe3cfc1&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/186010852.jpg?k=5312e2ae7f145f374dcd7661f8c2e58b816d88a39785a70b4a83315e0fe3cfc1&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/186010852.jpg?k=5312e2ae7f145f374dcd7661f8c2e58b816d88a39785a70b4a83315e0fe3cfc1&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/186010873.jpg?k=aee618a6af59aa88067921d780d086405f238f645a9caafe3ec6e90e2474922c&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/186010873.jpg?k=aee618a6af59aa88067921d780d086405f238f645a9caafe3ec6e90e2474922c&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/186010873.jpg?k=aee618a6af59aa88067921d780d086405f238f645a9caafe3ec6e90e2474922c&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/186010873.jpg?k=aee618a6af59aa88067921d780d086405f238f645a9caafe3ec6e90e2474922c&o="
+        },
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/186010886.jpg?k=61b1b1392f45d8c9aa6dcb641190aa73804e7ecb3dd155f6c41c36db9a4bad71&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/186010886.jpg?k=61b1b1392f45d8c9aa6dcb641190aa73804e7ecb3dd155f6c41c36db9a4bad71&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/186010886.jpg?k=61b1b1392f45d8c9aa6dcb641190aa73804e7ecb3dd155f6c41c36db9a4bad71&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/186010886.jpg?k=61b1b1392f45d8c9aa6dcb641190aa73804e7ecb3dd155f6c41c36db9a4bad71&o="
+        }
+    ],
+    "typicalDuration": null,
+    "pickupTypes": [],
+    "accessibility": [
+        "Wheelchair accessible"
+    ],
+    "contextUfiDetails": null,
+    "postBookingInfo": null,
+    "taxonomy": {
+        "categories": [
+            {
+                "__typename": "Content",
+                "label": "Theme park",
+                "slug": "theme-park"
+            }
+        ],
+        "tags": null,
+        "type": {
+            "slug": "attractions",
+            "label": "Attractions",
+            "__typename": "Content"
+        },
+        "__typename": "Taxonomy"
+    },
+    "isBookable": true,
+    "whatsIncluded": null,
+    "primaryLabel": null,
+    "itinerary": null,
+    "onSiteRequirements": {
+        "ticketCollection": null,
+        "earlyArrival": null,
+        "voucherPrintingRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "onlyOperatesInGoodWeather": null,
+        "__typename": "OnSiteRequirements",
+        "comfortableFootwearRecommended": null,
+        "noAlcoholDuringRamadan": null,
+        "writtenConsentForChildren": null,
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "height": null,
+        "drivingLicenseRequired": null,
+        "proofOfIdentityRequired": null,
+        "unsuitable": null,
+        "age": null
+    },
+    "cancellationPolicy": {
+        "hasFreeCancellation": true,
+        "comparedTo": "start",
+        "isStillRefundable": true,
+        "until": "2023-06-02T14:30:00+01:00",
+        "percentage": 100,
+        "period": "PT24H",
+        "__typename": "AttractionsCancellationPolicy"
+    },
+    "restrictions": [],
+    "operatedBy": "Klook",
+    "dietOptions": [],
+    "representativePrice": {
+        "publicAmount": 17.97,
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 17.97,
+        "currency": "GBP"
+    },
+    "timeZone": "Europe/London",
+    "ufi": -2601889,
+    "ufiDetails": {
+        "longitude": -0.127634324117025,
+        "countryName": "United Kingdom",
+        "banners": [],
+        "ufi": -2601889,
+        "latitude": 51.5073905425711,
+        "__typename": "AttractionLocationResponse",
+        "image": null,
+        "bInCityName": "in London",
+        "bCityName": "London",
+        "attractionsCount": 667,
+        "url": {
+            "country": "gb",
+            "city": "london",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions"
+        }
+    },
+    "name": "KidZania London",
+    "reviewsStats": {
+        "providerNumericStats": [
+            {
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 2,
+                "average": 4.5,
+                "providerName": "klook"
+            }
+        ],
+        "allReviewsCount": 1,
+        "percentage": "100%",
+        "__typename": "AttractionsProductReviewStats",
+        "isGoodScore": 1
+    },
+    "typicalFrequency": null,
+    "audioSupportedLanguages": null,
+    "healthSafety": [],
+    "shortDescription": "Admission to a play paradise exploring over 30 professions in a replica city",
+    "description": "At KidZania London, your little adventurers can experience life in a child-sized replica of a real city. Inside this educational entertainment centre, you'll find buildings, shops, theatres, vehicles, and pedestrians walking along the streets. \r\n\r\nYour children can immerse themselves in role play with over 30 professions to try out, including firefighters and pilots. Along the way, they'll learn real-life skills and get an idea for the inner workings of a bustling metropolis.",
+    "poweredBy": "Powered by Klook",
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsPartiallySupported": null,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckSupported": false
+    },
+    "additionalInfo": "Please bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "covid": [],
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Klook"
+        }
+    ],
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "average": 5,
+        "total": 1
+    },
+    "primaryPhoto": {
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+        "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o=",
+        "__typename": "AttractionsPhoto",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/186010814.jpg?k=03839835e9ea8fe5ad8fdc5db118147a8a41ebe45d65761e1ff3c2f513363c5a&o="
+    },
+    "id": "PR0pUdNxMO4t",
+    "addresses": {
+        "entrance": null,
+        "pickup": null,
+        "__typename": "AttractionsAddresses",
+        "meeting": null,
+        "guestPickup": null,
+        "arrival": null,
+        "departure": null,
+        "attraction": [
+            {
+                "country": "gb",
+                "latitude": "51.508158",
+                "address": "KidZania: Westfield London Shopping Centre Ariel Way",
+                "longitude": "-0.219764",
+                "locationType": "attraction",
+                "instructions": null,
+                "publicTransport": null,
+                "id": "LOdhPnfSUgtH",
+                "city": "London",
+                "zip": "W12 7GA",
+                "__typename": "AttractionsAddress",
+                "googlePlaceId": null
+            }
+        ]
+    },
+    "url": "https://www.booking.com/attractions/en/pr0pudnxmo4t-kidzania-london.html",
+    "ReviewDetails": [
+        {
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_09cbac89-e9ea-44a4-a63b-f242891b689e",
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "Lots of people. Very long queue. Can only work 7 jobs in 4 hours.",
+            "votes": null,
+            "isApproved": true,
+            "id": "masked_7843c3f1-c034-41ee-a56b-6d185f445372",
+            "providerName": "klook",
+            "__typename": "AttractionsReview",
+            "epochMs": 1672553261000,
+            "language": "en-gb",
+            "numericRating": 4,
+            "date": "12/31/2022, 22:07:41"
+        },
+        {
+            "numericRating": 5,
+            "epochMs": 1617361958000,
+            "language": "en-gb",
+            "id": "masked_dc5e2d8c-4e1c-4615-bf6a-088b36b36429",
+            "__typename": "AttractionsReview",
+            "providerName": "klook",
+            "isApproved": true,
+            "rating": null,
+            "user": {
+                "name": "masked_7f748bb0-adc2-4b96-8efb-1f2e8a15514a",
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null
+            },
+            "content": "Great fun for the whole family... will definitely come back again!!",
+            "votes": null,
+            "date": "04/02/2021, 04:12:38"
+        },
+        {
+            "id": "masked_14de978f-a351-4626-833b-9ae39f14f4f7",
+            "__typename": "AttractionsReview",
+            "providerName": null,
+            "epochMs": 1680949758000,
+            "language": null,
+            "numericRating": 5,
+            "rating": true,
+            "user": null,
+            "votes": null,
+            "content": null,
+            "isApproved": false,
+            "date": "04/08/2023, 03:29:18"
+        }
+    ]
+}

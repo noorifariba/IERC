@@ -1,0 +1,658 @@
+{
+    "additionalBookingInfo": null,
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "alternativeTimeSlotsPartiallySupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "postBookingInfo": null,
+    "guideSupportedLanguages": null,
+    "accessibility": [
+        "Wheelchair accessible",
+        "Public transport links nearby"
+    ],
+    "whatsIncluded": [
+        "Priority access",
+        "Use of cloakroom",
+        "Assortment of five canapes per person",
+        "Upgraded Champagne (one bottle per couple)"
+    ],
+    "name": "Crazy Horse Paris Premium Experience",
+    "shortDescription": "A 1.5-hour avant-garde cabaret show with Champagne upgrade and canapes",
+    "representativePrice": {
+        "chargeAmount": 162.14,
+        "currency": "GBP",
+        "__typename": "AttractionsPrice",
+        "publicAmount": 162.14
+    },
+    "typicalDuration": null,
+    "reviewsStats": {
+        "percentage": "100%",
+        "providerNumericStats": [
+            {
+                "providerName": "viator",
+                "average": 4.2,
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 12
+            }
+        ],
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 4,
+        "isGoodScore": 1
+    },
+    "poweredBy": "Powered by Viator",
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "total": 1,
+        "average": 5
+    },
+    "primaryLabel": null,
+    "primaryPhoto": {
+        "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+        "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+        "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+        "__typename": "AttractionsPhoto"
+    },
+    "onSiteRequirements": {
+        "height": null,
+        "__typename": "OnSiteRequirements",
+        "voucherPrintingRequired": null,
+        "noAlcoholDuringDryDays": null,
+        "age": null,
+        "ticketCollection": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "earlyArrival": null,
+        "drivingLicenseRequired": null,
+        "weight": null,
+        "adultSupervisionRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "comfortableFootwearRecommended": null,
+        "onlyOperatesInGoodWeather": null,
+        "unsuitable": null,
+        "writtenConsentForChildren": null,
+        "proofOfIdentityRequired": null
+    },
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times"
+    ],
+    "ufi": -1456928,
+    "additionalInfo": "The minimum age for participating in this activity is 16 years.\r\n\r\nPlease note that elegant attire is required for this activity. Tie and jacket are not necessary but shorts, sports shoes or sportswear are not allowed.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "notIncluded": [
+        "Tips",
+        "Hotel pickup and drop-off"
+    ],
+    "flags": null,
+    "photos": [
+        {
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127250.jpg?k=2a5af99d5ee6e4ee373ebb21b6ae6f00fd28bdeac0c170af9b39bf6544efe3c4&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/136127278.jpg?k=d28a064dedddfa2131d41835c052f2ae9b995348830d5060d99ca0c4a3802cf9&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/136127278.jpg?k=d28a064dedddfa2131d41835c052f2ae9b995348830d5060d99ca0c4a3802cf9&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127278.jpg?k=d28a064dedddfa2131d41835c052f2ae9b995348830d5060d99ca0c4a3802cf9&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127278.jpg?k=d28a064dedddfa2131d41835c052f2ae9b995348830d5060d99ca0c4a3802cf9&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127299.jpg?k=12fb29e82478d972290f470070120c223c32ebc3d910dda4b2d4f020491a2ab9&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127299.jpg?k=12fb29e82478d972290f470070120c223c32ebc3d910dda4b2d4f020491a2ab9&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/136127299.jpg?k=12fb29e82478d972290f470070120c223c32ebc3d910dda4b2d4f020491a2ab9&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/136127299.jpg?k=12fb29e82478d972290f470070120c223c32ebc3d910dda4b2d4f020491a2ab9&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127324.jpg?k=a32e072011972834e491cc9b653d2422885170e35ccd6574ca6d1e7eeba348b1&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127324.jpg?k=a32e072011972834e491cc9b653d2422885170e35ccd6574ca6d1e7eeba348b1&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/136127324.jpg?k=a32e072011972834e491cc9b653d2422885170e35ccd6574ca6d1e7eeba348b1&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/136127324.jpg?k=a32e072011972834e491cc9b653d2422885170e35ccd6574ca6d1e7eeba348b1&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127350.jpg?k=1ad8889e948577d17b6aa6f57d38ac114601e2d33b2d02733db12ff41b8f9f98&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/136127350.jpg?k=1ad8889e948577d17b6aa6f57d38ac114601e2d33b2d02733db12ff41b8f9f98&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/136127350.jpg?k=1ad8889e948577d17b6aa6f57d38ac114601e2d33b2d02733db12ff41b8f9f98&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/136127350.jpg?k=1ad8889e948577d17b6aa6f57d38ac114601e2d33b2d02733db12ff41b8f9f98&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/136127369.jpg?k=a43694adace9568e728dfa8b68db991bf925f7e7ccaf7a37b60bd7f327c60e1d&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/136127369.jpg?k=a43694adace9568e728dfa8b68db991bf925f7e7ccaf7a37b60bd7f327c60e1d&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/136127369.jpg?k=a43694adace9568e728dfa8b68db991bf925f7e7ccaf7a37b60bd7f327c60e1d&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127369.jpg?k=a43694adace9568e728dfa8b68db991bf925f7e7ccaf7a37b60bd7f327c60e1d&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/136127390.jpg?k=00a12a23daf7f3315d84176ae47035a58124737d6c381b08d0a26741d7cc85f9&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/136127390.jpg?k=00a12a23daf7f3315d84176ae47035a58124737d6c381b08d0a26741d7cc85f9&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/136127390.jpg?k=00a12a23daf7f3315d84176ae47035a58124737d6c381b08d0a26741d7cc85f9&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/136127390.jpg?k=00a12a23daf7f3315d84176ae47035a58124737d6c381b08d0a26741d7cc85f9&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/145937367.jpg?k=343e64330dcb38bc52987f29a6fbb21f09cf940d9cccc536cce19e6845032c65&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145937367.jpg?k=343e64330dcb38bc52987f29a6fbb21f09cf940d9cccc536cce19e6845032c65&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145937367.jpg?k=343e64330dcb38bc52987f29a6fbb21f09cf940d9cccc536cce19e6845032c65&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145937367.jpg?k=343e64330dcb38bc52987f29a6fbb21f09cf940d9cccc536cce19e6845032c65&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145937379.jpg?k=febe9206deb1b4d163a530872504d2bb274e108b8b9192d7d1560554ead8e82a&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145937379.jpg?k=febe9206deb1b4d163a530872504d2bb274e108b8b9192d7d1560554ead8e82a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145937379.jpg?k=febe9206deb1b4d163a530872504d2bb274e108b8b9192d7d1560554ead8e82a&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145937379.jpg?k=febe9206deb1b4d163a530872504d2bb274e108b8b9192d7d1560554ead8e82a&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145937383.jpg?k=05c2d5deb08c901d28ee26cd65e21a4ddbee543472ec3ccc3aaf161b8676ee8a&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/145937383.jpg?k=05c2d5deb08c901d28ee26cd65e21a4ddbee543472ec3ccc3aaf161b8676ee8a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/145937383.jpg?k=05c2d5deb08c901d28ee26cd65e21a4ddbee543472ec3ccc3aaf161b8676ee8a&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/145937383.jpg?k=05c2d5deb08c901d28ee26cd65e21a4ddbee543472ec3ccc3aaf161b8676ee8a&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/145937390.jpg?k=9cc4e54c514665085ea15b7b4c9374b75dca0f30165018e70d737d519797b6e3&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/145937390.jpg?k=9cc4e54c514665085ea15b7b4c9374b75dca0f30165018e70d737d519797b6e3&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/145937390.jpg?k=9cc4e54c514665085ea15b7b4c9374b75dca0f30165018e70d737d519797b6e3&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/145937390.jpg?k=9cc4e54c514665085ea15b7b4c9374b75dca0f30165018e70d737d519797b6e3&o="
+        }
+    ],
+    "restrictions": [],
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "period": "PT24H",
+        "isStillRefundable": true,
+        "until": "2023-05-26T23:30:00+02:00",
+        "percentage": 100,
+        "comparedTo": "start",
+        "hasFreeCancellation": true
+    },
+    "pickupTypes": [],
+    "uniqueSellingPoints": null,
+    "offers": [
+        {
+            "id": "OF85X26tAxyH",
+            "label": "Paris Crazy Horse Show Premium",
+            "description": "Duration: 1.5 hours.",
+            "availabilityType": "date_time",
+            "whatsIncluded": null,
+            "__typename": "Offer",
+            "benefits": {
+                "priorityLane": null,
+                "freeDrink": null,
+                "skipTheLine": null,
+                "inStoreDiscount": null,
+                "freeTransportation": null,
+                "freeAudioGuide": null,
+                "__typename": "Benefits"
+            },
+            "languageOptions": null,
+            "typicalFrequency": null,
+            "typicalDuration": null,
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 1,
+                "maxOfferItemsPerReservation": 9
+            },
+            "items": [
+                {
+                    "minPerReservation": null,
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "__typename": "OfferItem",
+                    "constraint": {
+                        "label": "(age 16-99)",
+                        "numChildren": null,
+                        "minAge": 16,
+                        "numPeople": null,
+                        "minGroupSize": null,
+                        "maxAge": 99,
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "numAdults": null,
+                        "type": "age"
+                    },
+                    "id": "OIxSZW8qa3WE",
+                    "maxPerReservation": null,
+                    "duration": null,
+                    "label": "Adult",
+                    "tieredPricing": false
+                }
+            ],
+            "notIncluded": null,
+            "additionalInfo": null,
+            "locationInstructions": null
+        }
+    ],
+    "description": "This ticket will allow you to enjoy an avant-garde cabaret show with premium upgrades.\r\n\r\nYou’ll be ushered into a private booth in the VIP section, where you’ll witness the 1.5-hour Crazy Horse Paris show. You’ll be treated to spectacular numbers, including silhouette dancing, theatrical striptease and burlesque-style presentations.\r\n\r\nTo complete your night of luxury, you can indulge in Champagne and canapes as you watch the dazzling performances.",
+    "supplierInfo": [
+        {
+            "details": {
+                "name": "Crazy Entertainement",
+                "address": "12 avenue George V Paris 75008 FR",
+                "__typename": "AttractionsSupplierInfoDetails"
+            },
+            "isIndividual": false,
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "taxonomy": {
+        "__typename": "Taxonomy",
+        "tags": null,
+        "categories": [
+            {
+                "__typename": "Content",
+                "label": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "__typename": "Content",
+                "slug": "nightlife",
+                "label": "Nightlife"
+            }
+        ],
+        "type": {
+            "__typename": "Content",
+            "slug": "activities",
+            "label": "Activities"
+        }
+    },
+    "timeZone": "Europe/Paris",
+    "ufiDetails": {
+        "url": {
+            "prefix": "attractions",
+            "country": "fr",
+            "__typename": "AttractionLocationUrl",
+            "city": "paris"
+        },
+        "__typename": "AttractionLocationResponse",
+        "bCityName": "Paris",
+        "image": null,
+        "countryName": "France",
+        "bInCityName": "in Paris",
+        "banners": [],
+        "latitude": 48.8566821749061,
+        "ufi": -1456928,
+        "attractionsCount": 672,
+        "longitude": 2.35147638246417
+    },
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "text": "Free cancellation",
+            "type": "free_cancellation"
+        }
+    ],
+    "__typename": "AttractionsProduct",
+    "slug": "pr0enhekicyz-crazy-horse-paris-premium-experience",
+    "contextUfiDetails": null,
+    "addresses": {
+        "entrance": null,
+        "arrival": [
+            {
+                "__typename": "AttractionsAddress",
+                "googlePlaceId": "ChIJ7YdGPt1v5kcRxJaGPaNXxlM",
+                "city": "Paris",
+                "id": "LO2vT9Ep4LLZ",
+                "zip": "75008",
+                "locationType": "arrival",
+                "country": "fr",
+                "latitude": "48.8660058",
+                "longitude": "2.301876",
+                "publicTransport": null,
+                "instructions": null,
+                "address": "12 Av. George V"
+            }
+        ],
+        "meeting": null,
+        "__typename": "AttractionsAddresses",
+        "departure": [
+            {
+                "locationType": "departure",
+                "latitude": "48.8660058",
+                "country": "fr",
+                "publicTransport": "The nearest Metro station is Alma-Marceau, served by Line 9.",
+                "longitude": "2.301876",
+                "address": "12 Av. George V",
+                "instructions": null,
+                "__typename": "AttractionsAddress",
+                "city": "Paris",
+                "googlePlaceId": "ChIJ7YdGPt1v5kcRxJaGPaNXxlM",
+                "zip": "75008",
+                "id": "LOavOtVb14TI"
+            }
+        ],
+        "guestPickup": null,
+        "attraction": null,
+        "pickup": null
+    },
+    "operatedBy": "Crazy Entertainement",
+    "isBookable": true,
+    "id": "PR0eNheKIcYz",
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "dietOptions": [],
+    "typicalFrequency": null,
+    "audioSupportedLanguages": null,
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Viator"
+        }
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0enhekicyz-crazy-horse-paris-premium-experience.html",
+    "ReviewDetails": [
+        {
+            "rating": null,
+            "language": "en-gb",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_9293dfdf-2185-4dae-99cb-95dc26dd57e1",
+                "cc1": ""
+            },
+            "content": "Went many years ago and the show had more oomph!So the repeat visit was disappointing though it was hard to say just why!",
+            "id": "masked_87e5f6d9-40a0-44c9-83fc-6500e5e137b6",
+            "isApproved": true,
+            "epochMs": 1671023890000,
+            "providerName": "viator",
+            "numericRating": 3,
+            "date": "12/14/2022, 05:18:10"
+        },
+        {
+            "votes": null,
+            "language": "en-gb",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_ce23a018-730b-4a8b-bc73-9a31edb08df9"
+            },
+            "content": "Not worth the money. We paid $344 for a bottle of champagne a hour and half show. Not worth it. Just get regular tickets and have champagne after. ",
+            "__typename": "AttractionsReview",
+            "epochMs": 1666930881000,
+            "isApproved": true,
+            "providerName": "viator",
+            "id": "masked_17c33728-a362-4eea-b9ce-bb651e98f5c2",
+            "numericRating": 2,
+            "date": "10/27/2022, 21:21:21"
+        },
+        {
+            "id": "masked_b6160bbc-6a56-421b-a187-3c2a6bcede8d",
+            "isApproved": true,
+            "epochMs": 1664458256000,
+            "providerName": "viator",
+            "numericRating": 5,
+            "rating": null,
+            "language": "en-gb",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "user": {
+                "avatar": null,
+                "name": "masked_b1dfd8ac-e85d-4b6b-8a5f-e6fdfaa931b5",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "The performers were in phenomenal shape and clearly great athletes! We enjoyed the atmosphere and service provided w/ the champagne! Will definitely make this one of the stops when friends and family come to visit! The women were beautiful and clearly are skilled at their craft and make the experience worthwile!",
+            "date": "09/29/2022, 06:30:56"
+        },
+        {
+            "user": {
+                "name": "masked_0c80f245-e80c-4ef8-af62-50fb78baa8dd",
+                "cc1": "",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "We had a wonderful time brought the whole family enjoyed all the entertainers just had a wonderful time thank you for putting on such a great show ",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "rating": null,
+            "numericRating": 5,
+            "epochMs": 1663660206000,
+            "isApproved": true,
+            "providerName": "viator",
+            "id": "masked_ceaf7564-f58e-4487-b5c4-20c2cf11e376",
+            "date": "09/20/2022, 00:50:06"
+        },
+        {
+            "numericRating": 5,
+            "epochMs": 1657794232000,
+            "isApproved": true,
+            "providerName": "viator",
+            "id": "masked_766dfa15-83df-4eee-9b07-c8ba557b8f01",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_8a8c89fa-c5f8-43cf-9508-5a48aea96261",
+                "cc1": "",
+                "avatar": null
+            },
+            "content": "SOOO Fun...  recommended from a gentleman sitting next to us at a cafe a few days earlier, it was AMAZING.. FUN, snazzy, sexy.",
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": null,
+            "rating": null,
+            "date": "07/14/2022, 03:23:52"
+        },
+        {
+            "numericRating": 5,
+            "id": "masked_cb302929-16d4-433d-a0c9-11495ac6ab8e",
+            "providerName": "viator",
+            "epochMs": 1657773527000,
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "content": "Absolutely best show!\nBook VIP seating to have most memorable visual ecstasy. \nFriendly stuff, gorgeous girls , great directions and choreography ",
+            "user": {
+                "cc1": "",
+                "name": "masked_8f582774-eb2c-4d4e-8634-c084bb08d400",
+                "avatar": null,
+                "__typename": "AttractionsReviewUser"
+            },
+            "rating": null,
+            "language": "en-gb",
+            "votes": null,
+            "date": "07/13/2022, 21:38:47"
+        },
+        {
+            "providerName": "viator",
+            "epochMs": 1656815787000,
+            "isApproved": true,
+            "id": "masked_c9cc4999-f063-4173-b4a2-67b2d68ad094",
+            "numericRating": 5,
+            "votes": null,
+            "language": "en-gb",
+            "rating": null,
+            "content": "Great cabaret show! I would equate the show as more of a burlesque experience than dancing girls doing the can-can. The emcee was kinda cheeky but fun. There are no bad seats in the venue, a very intimate space. The champagne and canapés were just enough for a late evening snack. I didn’t find anything wrong with the sound system as mentioned in some posts from a few years ago. The male dancer who performed was very good at replicating many of the dance moves made famous by Michael Jackson and Channing Tatum. And the ladies of the show were superb(ah, to be that young and beautiful again!). Fun, cute, sultry, sexy would describe any of the numbers. I didn’t find their performances to be trashy or distasteful. They are artists and as such obviously work very hard at their craft of dance. They do lip sync to the music but it didn’t take away from the show. I found myself not focusing on the nudity at all but rather the creative lighting, choreography and talent. Check any puritanical inhibitions at the door and enjoy this celebration of beauty!",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_20fd41ff-09f8-4f2b-a76d-5cbf68d9ddc3",
+                "cc1": "",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "date": "07/02/2022, 19:36:27"
+        },
+        {
+            "epochMs": 1653404991000,
+            "isApproved": true,
+            "providerName": "viator",
+            "id": "masked_95073a77-e20a-4770-9910-23a7612315ed",
+            "numericRating": 5,
+            "votes": null,
+            "language": "en-gb",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_7f40cea8-3c17-48a3-8bb9-e57264e68e8c"
+            },
+            "content": "Very welcoming reception.\nWe had a very nice evening with Moet Champagne and Canaper.\nThe show was absolutely fantastic! What talented artists.\nOur table neighbors a French couple Karischa and Mikael were very nice so they also gilded our evening. The salon is intimate and cozy and you sit nera to the artists.",
+            "__typename": "AttractionsReview",
+            "date": "05/24/2022, 08:09:51"
+        },
+        {
+            "content": "We were told by some friends that your show was pretty awesome so we got the tickets off Vittar and we’re very pleased the show the music the dancers and the champagne were great",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_82553545-575c-43ac-b849-e247dbf61928"
+            },
+            "__typename": "AttractionsReview",
+            "language": "en-gb",
+            "votes": {
+                "__typename": "AttractionsReviewVotes",
+                "userVoted": false,
+                "count": 1
+            },
+            "rating": null,
+            "numericRating": 5,
+            "providerName": "viator",
+            "isApproved": true,
+            "epochMs": 1645499713000,
+            "id": "masked_cf581842-6437-4aeb-8293-59bbb9e6a6de",
+            "date": "02/21/2022, 19:15:13"
+        },
+        {
+            "content": "Crazy Horse put on a FANTASTIC SHOW!  UNFORTUNATELY,  Viator's Ticketing and Customer Service TOTALLY SUCKS!  We will never use them again.",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "name": "masked_255dcda3-544f-4f1d-a506-2a82d1ae317d",
+                "cc1": "",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "en-gb",
+            "rating": null,
+            "numericRating": 1,
+            "providerName": "viator",
+            "isApproved": true,
+            "epochMs": 1645067714000,
+            "id": "masked_f4be9774-3511-4a5d-b936-034ba2cbccea",
+            "date": "02/16/2022, 19:15:14"
+        },
+        {
+            "votes": null,
+            "language": "fr",
+            "rating": null,
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_367d4ba5-3fb4-46c5-93f0-f1957c967421"
+            },
+            "content": "Organisation viator au top! magnifiques effets de lumière..l étoile en moins est pour les quelques temps morts entre les scènes ",
+            "__typename": "AttractionsReview",
+            "epochMs": 1675607018000,
+            "isApproved": true,
+            "providerName": "viator",
+            "id": "masked_3ab5f9f2-1570-4a65-b8ac-8d24b3b3928b",
+            "numericRating": 4,
+            "date": "02/05/2023, 06:23:38"
+        },
+        {
+            "numericRating": 5,
+            "providerName": "viator",
+            "epochMs": 1664765864000,
+            "isApproved": true,
+            "id": "masked_9b7c5066-3015-4cef-87da-6f6b94073645",
+            "content": "filles superbe , spectacle très bien organisé et chanteur intermède excellent plus le numéro de claquettes très bon!!",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "avatar": null,
+                "name": "masked_bcdc90a7-93fa-45dd-a9d5-b56ac3761eb2",
+                "cc1": ""
+            },
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": "fr",
+            "rating": null,
+            "date": "10/02/2022, 19:57:44"
+        },
+        {
+            "numericRating": null,
+            "providerName": null,
+            "epochMs": 1660580705000,
+            "isApproved": true,
+            "id": "masked_06ee4ba3-ed98-46c8-be1c-aae6ee47cd4d",
+            "content": "Prima, alleen was het mij niet duidelijk dat je gewoon naar binnen moest gaan. Het leek erop dat je buiten moest wachten en dat er dan een soort gids je naar binnen zou leiden.",
+            "user": null,
+            "__typename": "AttractionsReview",
+            "language": "nl",
+            "votes": null,
+            "rating": true,
+            "date": "08/15/2022, 09:25:05"
+        },
+        {
+            "providerName": null,
+            "isApproved": true,
+            "epochMs": 1659249976000,
+            "id": "masked_6bcb6952-1cbb-448d-8738-169bebdc635f",
+            "numericRating": null,
+            "votes": null,
+            "language": "nl",
+            "rating": true,
+            "content": "Fantastico ❤️",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "be",
+                "name": "masked_0679f0dd-aa54-4af7-af3c-d1ef09ccab7c",
+                "avatar": null
+            },
+            "__typename": "AttractionsReview",
+            "date": "07/30/2022, 23:46:16"
+        },
+        {
+            "content": null,
+            "user": null,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "language": null,
+            "rating": true,
+            "numericRating": 5,
+            "providerName": null,
+            "epochMs": 1677917060000,
+            "isApproved": false,
+            "id": "masked_fcabe8bc-b152-4008-8845-c18da74651d6",
+            "date": "03/04/2023, 00:04:20"
+        },
+        {
+            "isApproved": false,
+            "epochMs": 1665404481000,
+            "providerName": null,
+            "id": "masked_8ae2db86-b835-4134-97eb-6fd79a1b58e5",
+            "numericRating": null,
+            "votes": null,
+            "language": null,
+            "rating": true,
+            "user": null,
+            "content": null,
+            "__typename": "AttractionsReview",
+            "date": "10/10/2022, 05:21:21"
+        }
+    ]
+}

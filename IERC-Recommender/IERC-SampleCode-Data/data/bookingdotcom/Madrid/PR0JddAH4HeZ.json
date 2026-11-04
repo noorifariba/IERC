@@ -1,0 +1,625 @@
+{
+    "additionalBookingInfo": null,
+    "addresses": {
+        "guestPickup": null,
+        "pickup": null,
+        "arrival": [
+            {
+                "zip": "28013",
+                "publicTransport": null,
+                "latitude": "40.4198105",
+                "city": "Madrid",
+                "googlePlaceId": "ChIJzfxqvX0oQg0RVEIi8PES5bs",
+                "instructions": null,
+                "longitude": "-3.7042326",
+                "address": "Tablao Flamenco Torres Bermejas, C. de Mesonero Romanos 11",
+                "locationType": "arrival",
+                "id": "LO8tAtLdHTqc",
+                "country": "es",
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "departure": [
+            {
+                "__typename": "AttractionsAddress",
+                "country": "es",
+                "locationType": "departure",
+                "id": "LOjAjE8uP0sm",
+                "address": "Tablao Flamenco Torres Bermejas, C. de Mesonero Romanos 11",
+                "longitude": "-3.7042326",
+                "instructions": null,
+                "googlePlaceId": "ChIJzfxqvX0oQg0RVEIi8PES5bs",
+                "city": "Madrid",
+                "latitude": "40.4198105",
+                "publicTransport": null,
+                "zip": "28013"
+            }
+        ],
+        "__typename": "AttractionsAddresses",
+        "entrance": null,
+        "meeting": null,
+        "attraction": null
+    },
+    "supportedFeatures": {
+        "liveAvailabilityCheckSupported": true,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "alternativeTimeSlotsPartiallySupported": true,
+        "alternativeTimeSlotsSupported": false,
+        "liveAvailabilityCheckPartiallySupported": null
+    },
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Equipment sanitised between uses\t",
+        "Regular temperature checks required for staff",
+        "Staff required to wash hands regularly",
+        "Contactless payment for on-site purchases/tips"
+    ],
+    "shortDescription": "A mix of cuisine and culture on a Flamenco Show in Madrid",
+    "isBookable": true,
+    "primaryLabel": null,
+    "ufiDetails": {
+        "attractionsCount": 377,
+        "longitude": -3.70341992378235,
+        "bInCityName": "in Madrid",
+        "__typename": "AttractionLocationResponse",
+        "image": null,
+        "banners": [],
+        "countryName": "Spain",
+        "bCityName": "Madrid",
+        "url": {
+            "prefix": "attractions",
+            "__typename": "AttractionLocationUrl",
+            "city": "madrid",
+            "country": "es"
+        },
+        "latitude": 40.4166984558105,
+        "ufi": -390625
+    },
+    "description": "On this cultural experience, you’ll have the opportunity to enjoy an authentic flamenco show, in a venue located in downtown Madrid.\r\n\r\nDuring your visit, you'll be able to watch the performances of talented singers, dancers and musicians of the flamenco scene in Spain.\r\n\r\nYou’ll also have the chance to indulge in Spanish cuisine. You'll get the option to savour a tapas tasting session, a dinner or a drink with the sh",
+    "notIncluded": [
+        "Tips",
+        "Food and drinks (unless specified)",
+        "Hotel pickup and drop-off"
+    ],
+    "flags": null,
+    "taxonomy": {
+        "type": {
+            "slug": "activities",
+            "__typename": "Content",
+            "label": "Activities"
+        },
+        "__typename": "Taxonomy",
+        "tags": null,
+        "categories": [
+            {
+                "label": "Entertainment",
+                "slug": "entertainment",
+                "__typename": "Content"
+            }
+        ]
+    },
+    "offers": [
+        {
+            "items": [
+                {
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "label": "Adult",
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "type": "adult",
+                    "id": "OI8D9NR6P8mT",
+                    "minPerReservation": null,
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "numChildren": null,
+                        "type": "age",
+                        "__typename": "Constraint",
+                        "minAge": 16,
+                        "minGroupSize": null,
+                        "numPeople": null,
+                        "numAdults": null,
+                        "maxAge": 64,
+                        "label": "(age 16-64)",
+                        "maxGroupSize": null
+                    }
+                }
+            ],
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 1
+            },
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "__typename": "Offer",
+            "notIncluded": null,
+            "availabilityType": "date_time",
+            "id": "OFd87A4aMoMM",
+            "description": "Show and one drink.",
+            "benefits": {
+                "freeAudioGuide": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeDrink": null,
+                "priorityLane": null,
+                "freeTransportation": null,
+                "skipTheLine": null
+            },
+            "typicalFrequency": null,
+            "label": "Flamenco show with a drink",
+            "languageOptions": [
+                {
+                    "label": "English - Tour guide",
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "en"
+                },
+                {
+                    "label": "Spanish - Tour guide",
+                    "language": "es",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                }
+            ],
+            "locationInstructions": null,
+            "typicalDuration": null
+        },
+        {
+            "typicalFrequency": null,
+            "benefits": {
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "priorityLane": null,
+                "freeDrink": null,
+                "freeAudioGuide": null
+            },
+            "label": "Flamenco show with tapas",
+            "languageOptions": [
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "language": "en",
+                    "label": "English - Tour guide"
+                },
+                {
+                    "language": "es",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "label": "Spanish - Tour guide"
+                }
+            ],
+            "locationInstructions": null,
+            "typicalDuration": null,
+            "notIncluded": null,
+            "availabilityType": "date_time",
+            "description": "Show and tapas.",
+            "id": "OFCdl64atfD0",
+            "items": [
+                {
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "numAdults": null,
+                        "numPeople": null,
+                        "maxGroupSize": null,
+                        "label": "(age 16-64)",
+                        "maxAge": 64,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "numChildren": null,
+                        "minAge": 16,
+                        "minGroupSize": null
+                    },
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "type": "adult",
+                    "id": "OIWOtPbYhPDN",
+                    "minPerReservation": null,
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "maxPerReservation": null
+                }
+            ],
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true,
+                "minOfferItemsPerReservation": 1
+            },
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "__typename": "Offer"
+        },
+        {
+            "__typename": "Offer",
+            "items": [
+                {
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "maxPerReservation": null,
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "numPeople": null,
+                        "numAdults": null,
+                        "label": "(age 16-64)",
+                        "maxGroupSize": null,
+                        "maxAge": 64,
+                        "numChildren": null,
+                        "__typename": "Constraint",
+                        "type": "age",
+                        "minGroupSize": null,
+                        "minAge": 16
+                    },
+                    "type": "adult",
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "id": "OIwWb78a3BB1",
+                    "minPerReservation": null
+                }
+            ],
+            "whatsIncluded": null,
+            "reservationRestrictions": {
+                "adultRequiredForReservation": true,
+                "maxOfferItemsPerReservation": 15,
+                "minOfferItemsPerReservation": 1,
+                "__typename": "ReservationRestrictions"
+            },
+            "additionalInfo": null,
+            "languageOptions": [
+                {
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide",
+                    "language": "en"
+                },
+                {
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption",
+                    "language": "es",
+                    "label": "Spanish - Tour guide"
+                }
+            ],
+            "typicalDuration": null,
+            "locationInstructions": null,
+            "typicalFrequency": null,
+            "benefits": {
+                "freeAudioGuide": null,
+                "skipTheLine": null,
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "priorityLane": null,
+                "freeDrink": null
+            },
+            "label": "Flamenco show with dinner",
+            "id": "OFpNg9AREQwn",
+            "description": "Show and dinner.",
+            "notIncluded": null,
+            "availabilityType": "date_time"
+        }
+    ],
+    "accessibility": [
+        "Public transport links nearby"
+    ],
+    "whatsIncluded": [
+        "Tapas tasting (optional)",
+        "Live entertainment",
+        "Dinner (optional)"
+    ],
+    "dietOptions": [],
+    "poweredBy": "Powered by Viator",
+    "audioSupportedLanguages": null,
+    "supplierInfo": [
+        {
+            "isIndividual": false,
+            "details": {
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "Calle Ferraz, 3 Madrid 28008 ES",
+                "name": "VPT Tours"
+            },
+            "__typename": "AttractionsSupplierInfo"
+        }
+    ],
+    "representativePrice": {
+        "publicAmount": 30.68,
+        "__typename": "AttractionsPrice",
+        "chargeAmount": 30.68,
+        "currency": "GBP"
+    },
+    "primaryPhoto": {
+        "__typename": "AttractionsPhoto",
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o="
+    },
+    "onSiteRequirements": {
+        "unsuitable": null,
+        "age": null,
+        "comfortableFootwearRecommended": null,
+        "voucherPrintingRequired": null,
+        "clothingCoveringShouldersKneesRequired": null,
+        "weight": null,
+        "adultSupervisionRequired": {
+            "__typename": "MaxAge",
+            "label": "Children under 18 years old must be accompanied by an adult.",
+            "maxAge": 18
+        },
+        "onlyOperatesInGoodWeather": null,
+        "earlyArrival": null,
+        "__typename": "OnSiteRequirements",
+        "proofOfIdentityRequired": null,
+        "noAlcoholDuringRamadan": null,
+        "drivingLicenseRequired": null,
+        "writtenConsentForChildren": null,
+        "ticketCollection": null,
+        "noAlcoholDuringDryDays": null,
+        "height": null
+    },
+    "id": "PR0JddAH4HeZ",
+    "pickupTypes": [],
+    "guideSupportedLanguages": null,
+    "contextUfiDetails": null,
+    "typicalDuration": null,
+    "ufi": -390625,
+    "typicalFrequency": null,
+    "reviewsStats": {
+        "providerNumericStats": [
+            {
+                "__typename": "AttractionsProviderNumericReviewStats",
+                "total": 4,
+                "average": 3.8,
+                "providerName": "viator"
+            }
+        ],
+        "isGoodScore": 0,
+        "__typename": "AttractionsProductReviewStats",
+        "allReviewsCount": 4,
+        "percentage": "25%"
+    },
+    "operatedBy": "VPT Tours",
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "isStillRefundable": true,
+        "comparedTo": "start",
+        "until": "2023-07-03T21:00:00+02:00",
+        "percentage": 100,
+        "period": "PT24H",
+        "hasFreeCancellation": true
+    },
+    "postBookingInfo": null,
+    "additionalInfo": "You can book one of the following options alongside the show: Tapas tasting, one drink or dinner.\r\n\r\nChildren must be accompanied by an adult.\r\n\r\nPlease dress in smart casual clothing.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "slug": "pr0jddah4hez-flamenco-show-experience",
+    "numericReviewsStats": {
+        "average": 2,
+        "total": 1,
+        "__typename": "AttractionsProductNumericReviewStats"
+    },
+    "name": "Flamenco Show Experience",
+    "applicableTerms": [
+        {
+            "policyProvider": "Booking.com",
+            "__typename": "TermsConditions"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "timeZone": "Europe/Madrid",
+    "__typename": "AttractionsProduct",
+    "photos": [
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736234.jpg?k=ad2c20505554dbdb1876e8f6471ec6298516726aa1d7ef8fda1847cdbd96d454&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736274.jpg?k=35a0e8d2a351aa2b51219f788c62691aea3978f73f9b9a7504db63cb771e7b9a&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736274.jpg?k=35a0e8d2a351aa2b51219f788c62691aea3978f73f9b9a7504db63cb771e7b9a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736274.jpg?k=35a0e8d2a351aa2b51219f788c62691aea3978f73f9b9a7504db63cb771e7b9a&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736274.jpg?k=35a0e8d2a351aa2b51219f788c62691aea3978f73f9b9a7504db63cb771e7b9a&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736309.jpg?k=a3edc8d7acad73befcbe632432f7d175c975f30846bb9d31af76b6d3fdd7f5f5&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736309.jpg?k=a3edc8d7acad73befcbe632432f7d175c975f30846bb9d31af76b6d3fdd7f5f5&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736309.jpg?k=a3edc8d7acad73befcbe632432f7d175c975f30846bb9d31af76b6d3fdd7f5f5&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736309.jpg?k=a3edc8d7acad73befcbe632432f7d175c975f30846bb9d31af76b6d3fdd7f5f5&o="
+        },
+        {
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736340.jpg?k=4bc6e54b184a1d71d09682e244de2feade5ab6cb3c0f55aa430d303029435c05&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736340.jpg?k=4bc6e54b184a1d71d09682e244de2feade5ab6cb3c0f55aa430d303029435c05&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736340.jpg?k=4bc6e54b184a1d71d09682e244de2feade5ab6cb3c0f55aa430d303029435c05&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736340.jpg?k=4bc6e54b184a1d71d09682e244de2feade5ab6cb3c0f55aa430d303029435c05&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736379.jpg?k=0477a5f31d9c14c81140af30ecb8811b815d09a5f8495d7de0988fe3c457e3f4&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736379.jpg?k=0477a5f31d9c14c81140af30ecb8811b815d09a5f8495d7de0988fe3c457e3f4&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736379.jpg?k=0477a5f31d9c14c81140af30ecb8811b815d09a5f8495d7de0988fe3c457e3f4&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736379.jpg?k=0477a5f31d9c14c81140af30ecb8811b815d09a5f8495d7de0988fe3c457e3f4&o=",
+            "__typename": "AttractionsPhoto"
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736424.jpg?k=4dbe8c0385ecf0fe49b12d4f9f94caae437821f0a50a0d8ccf1650459d98ecf9&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736424.jpg?k=4dbe8c0385ecf0fe49b12d4f9f94caae437821f0a50a0d8ccf1650459d98ecf9&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736424.jpg?k=4dbe8c0385ecf0fe49b12d4f9f94caae437821f0a50a0d8ccf1650459d98ecf9&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736424.jpg?k=4dbe8c0385ecf0fe49b12d4f9f94caae437821f0a50a0d8ccf1650459d98ecf9&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736473.jpg?k=600d342dbdac7c20a6b358c82c98d3c7f54840d6054416a99f6d8c8e0e6f762d&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736473.jpg?k=600d342dbdac7c20a6b358c82c98d3c7f54840d6054416a99f6d8c8e0e6f762d&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736473.jpg?k=600d342dbdac7c20a6b358c82c98d3c7f54840d6054416a99f6d8c8e0e6f762d&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736473.jpg?k=600d342dbdac7c20a6b358c82c98d3c7f54840d6054416a99f6d8c8e0e6f762d&o="
+        }
+    ],
+    "uniqueSellingPoints": null,
+    "healthSafety": [
+        "Not recommended for pregnant visitors",
+        "Not recommended for visitors with back problems",
+        "Not recommended for visitors with heart problems or serious medical conditions",
+        "Suitable for all fitness levels"
+    ],
+    "labels": [
+        {
+            "type": "free_cancellation",
+            "text": "Free cancellation",
+            "__typename": "AttractionsLabel"
+        }
+    ],
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "restrictions": [
+        "Children under 18 years old must be accompanied by an adult."
+    ],
+    "url": "https://www.booking.com/attractions/en/pr0jddah4hez-flamenco-show-experience.html",
+    "ReviewDetails": [
+        {
+            "language": "en-gb",
+            "isApproved": true,
+            "rating": null,
+            "epochMs": 1676823442000,
+            "user": {
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_50be4d67-47bb-4918-be2f-eacac9f2d7c6",
+                "__typename": "AttractionsReviewUser"
+            },
+            "numericRating": 4,
+            "content": "Venue is a bit crowded, but nice. It last for around one hour and very interesting. Always have your ticket with you since the waiter asked us to pay and presented the bill, but gave up when I showed him the ticket. ",
+            "id": "masked_23bde395-348d-4d19-8e36-58bc8c8f2466",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "providerName": "viator",
+            "date": "02/19/2023, 08:17:22"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "language": "en-gb",
+            "epochMs": 1664490680000,
+            "user": {
+                "avatar": null,
+                "cc1": "",
+                "name": "masked_609f7731-f8c9-4f1e-85b9-110df63bd9e2",
+                "__typename": "AttractionsReviewUser"
+            },
+            "content": "Flamenco show was quite fun with a decent view of the stage.  However, this offer did not provide an English-speaking host upon arrival as we expected, which caused confusion.  In hindsight, we could have booked direct on the venues website or at a ticket office in central Madrid upon our arrival.",
+            "numericRating": 3,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_19900d72-a3a9-4b79-a45d-aa0c16d7e4cb",
+            "date": "09/29/2022, 15:31:20"
+        },
+        {
+            "numericRating": null,
+            "content": "firstly, the dancers, singer and flamenco guitar player were all incredible and deserve a 5/5. There are several levels of payment for example 1. The show and consumption $35 per person 2. The show and tapas $50 person 3. The show and full dinner $70 per person. Look at the pricing online. We paid $70 per person and have the ticket voucher with payment as proof. We received tapas and not the dinner for which we paid for. In the description on line you get wine or a soda AND water. We had two sodas and two waters. In the end we were charged for a soda. Unbelievable. A large group was given all the good seats and everyone else was giving the scraps. This large group also disrupted the artists performing more than once. On a positive, our seats were in the corner and we could not see the full stage. However there were others with worse seats. Rather than trying to pack an abundant amount of people inside for profits they should spend more time making sure the food is hot and that patrons receive the services they pay for. Truly disappointed.",
+            "id": "masked_827eaa38-04af-4502-bd9a-2d5443cdf9c3",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "providerName": null,
+            "language": "en-us",
+            "isApproved": true,
+            "rating": false,
+            "epochMs": 1664031159000,
+            "user": null,
+            "date": "09/24/2022, 07:52:39"
+        },
+        {
+            "language": "es",
+            "isApproved": true,
+            "rating": false,
+            "user": null,
+            "epochMs": 1679308132000,
+            "numericRating": 2,
+            "content": "Nos decepcionó casi todo. Nuestra expectativas de este lugar tan emblemático tal vez fueron muy altas. No tuvimos en cuenta que ya es exclusivamente para turistas extranjeros.. Muy incomodo pues las mesas estaban excesivamente juntas. Las tapas regular y la paella para cenar¡¡...no podía estar peor¡¡¡ Y el espectáculo muy muy mediocre.",
+            "id": "masked_5977067c-ec44-4dda-9bfc-059c1168ee0c",
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "providerName": null,
+            "date": "03/20/2023, 03:28:52"
+        },
+        {
+            "rating": null,
+            "isApproved": true,
+            "language": "es",
+            "user": {
+                "cc1": "",
+                "name": "masked_4b1a6776-6988-4034-ab4f-b6a2849b94cd",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "epochMs": 1672153484000,
+            "content": "Un espectáculo increíble. Lleno de pasión en un verdadero tablado.  Íntimo acogedor y un servicio de tapas excelente  Para volver sin duda. ",
+            "numericRating": 5,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_0f70964f-5eb9-4967-a8bd-d1f14c3d1d29",
+            "date": "12/27/2022, 07:04:44"
+        },
+        {
+            "content": "Spectacle bien ,Cadre sympa, Nourriture à revoir c’est dommage… Ce n’était pas bon et c’était peu copieux…",
+            "numericRating": 3,
+            "providerName": "viator",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_a08a3c3c-2795-401e-97f1-a1b97a34508a",
+            "rating": null,
+            "isApproved": true,
+            "language": "fr",
+            "epochMs": 1669561080000,
+            "user": {
+                "name": "masked_b16accee-9589-4b65-89d7-e633eac6ce9a",
+                "cc1": "",
+                "__typename": "AttractionsReviewUser",
+                "avatar": null
+            },
+            "date": "11/27/2022, 06:58:00"
+        },
+        {
+            "numericRating": null,
+            "content": null,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "id": "masked_c6f7500e-3b78-4677-aeff-642b85741059",
+            "providerName": null,
+            "language": null,
+            "rating": false,
+            "isApproved": false,
+            "epochMs": 1675851129000,
+            "user": null,
+            "date": "02/08/2023, 02:12:09"
+        },
+        {
+            "content": null,
+            "numericRating": null,
+            "providerName": null,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "id": "masked_5f223cbd-8600-4dfc-8ca2-ec653ec95bee",
+            "rating": true,
+            "isApproved": false,
+            "language": null,
+            "epochMs": 1661068977000,
+            "user": null,
+            "date": "08/21/2022, 01:02:57"
+        }
+    ]
+}

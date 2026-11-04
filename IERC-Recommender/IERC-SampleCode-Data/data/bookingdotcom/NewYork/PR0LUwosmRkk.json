@@ -1,0 +1,1017 @@
+{
+    "timeZone": "America/New_York",
+    "cancellationPolicy": {
+        "__typename": "AttractionsCancellationPolicy",
+        "period": "PT24H",
+        "percentage": 100,
+        "comparedTo": "start",
+        "hasFreeCancellation": true,
+        "isStillRefundable": true,
+        "until": "2023-07-10T13:45:00-04:00"
+    },
+    "typicalDuration": null,
+    "audioSupportedLanguages": null,
+    "postBookingInfo": null,
+    "ufiDetails": {
+        "banners": [],
+        "bCityName": "New York",
+        "countryName": "United States",
+        "longitude": -73.9818954467773,
+        "ufi": 20088325,
+        "image": null,
+        "url": {
+            "city": "new-york",
+            "country": "us",
+            "__typename": "AttractionLocationUrl",
+            "prefix": "attractions"
+        },
+        "attractionsCount": 706,
+        "__typename": "AttractionLocationResponse",
+        "latitude": 40.7680740356445,
+        "bInCityName": "in New York"
+    },
+    "supplierInfo": [
+        {
+            "__typename": "AttractionsSupplierInfo",
+            "isIndividual": false,
+            "details": {
+                "__typename": "AttractionsSupplierInfoDetails",
+                "address": "1180 ave of the americas, 8th floor New York City New York 10036 US",
+                "name": "Attractions4us LLC"
+            }
+        }
+    ],
+    "primaryPhoto": {
+        "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+        "__typename": "AttractionsPhoto",
+        "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+        "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+        "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o="
+    },
+    "dietOptions": [],
+    "slug": "pr0luwosmrkk-battery-park-statue-of-liberty-and-ellis-island",
+    "restrictions": [
+        "Please arrive at least 15 minutes before the activity starts."
+    ],
+    "pickupTypes": [
+        {
+            "type": "point_pickup",
+            "__typename": "ProductPickup"
+        }
+    ],
+    "notIncluded": null,
+    "primaryLabel": null,
+    "labels": [
+        {
+            "__typename": "AttractionsLabel",
+            "type": "free_cancellation",
+            "text": "Free cancellation"
+        }
+    ],
+    "uniqueSellingPoints": null,
+    "representativePrice": {
+        "publicAmount": 39.94,
+        "__typename": "AttractionsPrice",
+        "currency": "GBP",
+        "chargeAmount": 39.94
+    },
+    "typicalFrequency": null,
+    "addresses": {
+        "entrance": null,
+        "attraction": null,
+        "meeting": null,
+        "arrival": [
+            {
+                "longitude": "-74.0139189",
+                "city": "New York",
+                "__typename": "AttractionsAddress",
+                "country": "us",
+                "zip": "10004",
+                "id": "LOAie2WPkTbo",
+                "googlePlaceId": "ChIJ62BfChNawokRTq3cpTFLs3k",
+                "publicTransport": null,
+                "locationType": "arrival",
+                "address": "24 State St, Manhattan",
+                "instructions": null,
+                "latitude": "40.7033811"
+            }
+        ],
+        "pickup": null,
+        "departure": [
+            {
+                "locationType": "departure",
+                "publicTransport": null,
+                "instructions": "Meet your guide in front of Starbucks at 24 State Street across the street from Battery Park.",
+                "latitude": "40.7033811",
+                "address": "24 State St, Manhattan",
+                "city": "New York",
+                "longitude": "-74.0139189",
+                "googlePlaceId": "ChIJ62BfChNawokRTq3cpTFLs3k",
+                "id": "LOBT6JDCV2G4",
+                "zip": "10004",
+                "country": "us",
+                "__typename": "AttractionsAddress"
+            }
+        ],
+        "__typename": "AttractionsAddresses",
+        "guestPickup": null
+    },
+    "additionalBookingInfo": null,
+    "applicableTerms": [
+        {
+            "__typename": "TermsConditions",
+            "policyProvider": "Booking.com"
+        },
+        {
+            "policyProvider": "Viator",
+            "__typename": "TermsConditions"
+        }
+    ],
+    "id": "PR0LUwosmRkk",
+    "ufi": 20088325,
+    "guideSupportedLanguages": [
+        "English (US)"
+    ],
+    "__typename": "AttractionsProduct",
+    "flags": null,
+    "operatedBy": "Attractions4us LLC",
+    "numericReviewsStats": {
+        "__typename": "AttractionsProductNumericReviewStats",
+        "average": 1,
+        "total": 1
+    },
+    "name": "Battery Park, Statue of Liberty and Ellis Island",
+    "healthSafety": [
+        "Suitable for all fitness levels"
+    ],
+    "shortDescription": "The perfect mix of land and water at NYC's iconic sites with ferry ride",
+    "whatsIncluded": [
+        "Guide services",
+        "Reserve line ferry access"
+    ],
+    "photos": [
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736049.jpg?k=4701683c354271c86cf22b571716b4749fa3a9526188d1ffba4baa9a9c2b1bdb&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736094.jpg?k=f8de1a8a355d84fcae1e40b7595e2f359cac74c5dffe7fb68429c227e2871321&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736094.jpg?k=f8de1a8a355d84fcae1e40b7595e2f359cac74c5dffe7fb68429c227e2871321&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736094.jpg?k=f8de1a8a355d84fcae1e40b7595e2f359cac74c5dffe7fb68429c227e2871321&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736094.jpg?k=f8de1a8a355d84fcae1e40b7595e2f359cac74c5dffe7fb68429c227e2871321&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736139.jpg?k=9c607744d6d29063b54e61736f4a522b5c4e33686b388effa43de33badebab3e&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736139.jpg?k=9c607744d6d29063b54e61736f4a522b5c4e33686b388effa43de33badebab3e&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736139.jpg?k=9c607744d6d29063b54e61736f4a522b5c4e33686b388effa43de33badebab3e&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736139.jpg?k=9c607744d6d29063b54e61736f4a522b5c4e33686b388effa43de33badebab3e&o="
+        },
+        {
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736187.jpg?k=f4f274216b3a896c24606d4854c99e67e0b84a88c16797564466fc236ab83bff&o=",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736187.jpg?k=f4f274216b3a896c24606d4854c99e67e0b84a88c16797564466fc236ab83bff&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736187.jpg?k=f4f274216b3a896c24606d4854c99e67e0b84a88c16797564466fc236ab83bff&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736187.jpg?k=f4f274216b3a896c24606d4854c99e67e0b84a88c16797564466fc236ab83bff&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736224.jpg?k=d96708d13365255daa3e2ed0c2e93dcccebd27f9ada0e9dcb79cb74501a84a94&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736224.jpg?k=d96708d13365255daa3e2ed0c2e93dcccebd27f9ada0e9dcb79cb74501a84a94&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736224.jpg?k=d96708d13365255daa3e2ed0c2e93dcccebd27f9ada0e9dcb79cb74501a84a94&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736224.jpg?k=d96708d13365255daa3e2ed0c2e93dcccebd27f9ada0e9dcb79cb74501a84a94&o="
+        },
+        {
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736261.jpg?k=7afaf8daa0d084b897a43768c35d17de17899f4d042cc317f4bbb43f1a144a9a&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736261.jpg?k=7afaf8daa0d084b897a43768c35d17de17899f4d042cc317f4bbb43f1a144a9a&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736261.jpg?k=7afaf8daa0d084b897a43768c35d17de17899f4d042cc317f4bbb43f1a144a9a&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736261.jpg?k=7afaf8daa0d084b897a43768c35d17de17899f4d042cc317f4bbb43f1a144a9a&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736298.jpg?k=b88838ef10a4f115558bd9aefba239f78a43fdf102d3b4e05204afcb0513bb67&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736298.jpg?k=b88838ef10a4f115558bd9aefba239f78a43fdf102d3b4e05204afcb0513bb67&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736298.jpg?k=b88838ef10a4f115558bd9aefba239f78a43fdf102d3b4e05204afcb0513bb67&o=",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736298.jpg?k=b88838ef10a4f115558bd9aefba239f78a43fdf102d3b4e05204afcb0513bb67&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736324.jpg?k=7af7f073e1b0f00519c296ea219814ce08fd24e24d189d34ff8a8f66aefc1ae7&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736324.jpg?k=7af7f073e1b0f00519c296ea219814ce08fd24e24d189d34ff8a8f66aefc1ae7&o=",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736324.jpg?k=7af7f073e1b0f00519c296ea219814ce08fd24e24d189d34ff8a8f66aefc1ae7&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736324.jpg?k=7af7f073e1b0f00519c296ea219814ce08fd24e24d189d34ff8a8f66aefc1ae7&o="
+        },
+        {
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736363.jpg?k=b624a50481e1085a77f4d1a5d5ee98678575f756c34de6f7557a06e55c03e2ae&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736363.jpg?k=b624a50481e1085a77f4d1a5d5ee98678575f756c34de6f7557a06e55c03e2ae&o=",
+            "__typename": "AttractionsPhoto",
+            "small": "https://r-xx.bstatic.com/xdata/images/xphoto/300x320/157736363.jpg?k=b624a50481e1085a77f4d1a5d5ee98678575f756c34de6f7557a06e55c03e2ae&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736363.jpg?k=b624a50481e1085a77f4d1a5d5ee98678575f756c34de6f7557a06e55c03e2ae&o="
+        },
+        {
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736401.jpg?k=3f25bc8d9f102bbcd5f7599b2a5a7e6466284ca08ce088831ba2879f2e414aee&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736401.jpg?k=3f25bc8d9f102bbcd5f7599b2a5a7e6466284ca08ce088831ba2879f2e414aee&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736401.jpg?k=3f25bc8d9f102bbcd5f7599b2a5a7e6466284ca08ce088831ba2879f2e414aee&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736401.jpg?k=3f25bc8d9f102bbcd5f7599b2a5a7e6466284ca08ce088831ba2879f2e414aee&o="
+        },
+        {
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736451.jpg?k=a66beed717dacbfa87ea820ea183e8849c0f8615ee0edcba559f16946356aaa0&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736451.jpg?k=a66beed717dacbfa87ea820ea183e8849c0f8615ee0edcba559f16946356aaa0&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736451.jpg?k=a66beed717dacbfa87ea820ea183e8849c0f8615ee0edcba559f16946356aaa0&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://r-xx.bstatic.com/xdata/images/xphoto/max1200/157736451.jpg?k=a66beed717dacbfa87ea820ea183e8849c0f8615ee0edcba559f16946356aaa0&o="
+        },
+        {
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736498.jpg?k=783c6d26c4d3c2742c21c15402b94ee9cbba779d1474e8aeef0da952320f1d80&o=",
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736498.jpg?k=783c6d26c4d3c2742c21c15402b94ee9cbba779d1474e8aeef0da952320f1d80&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736498.jpg?k=783c6d26c4d3c2742c21c15402b94ee9cbba779d1474e8aeef0da952320f1d80&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736498.jpg?k=783c6d26c4d3c2742c21c15402b94ee9cbba779d1474e8aeef0da952320f1d80&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736549.jpg?k=09af3a493b19ed2123763a8983d2a59208324140859f7a8761ea7273b6792927&o=",
+            "hereProductPageDesktop": "https://q-xx.bstatic.com/xdata/images/xphoto/1200x400/157736549.jpg?k=09af3a493b19ed2123763a8983d2a59208324140859f7a8761ea7273b6792927&o=",
+            "hereProductPageMobile": "https://q-xx.bstatic.com/xdata/images/xphoto/800x800/157736549.jpg?k=09af3a493b19ed2123763a8983d2a59208324140859f7a8761ea7273b6792927&o=",
+            "__typename": "AttractionsPhoto",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736549.jpg?k=09af3a493b19ed2123763a8983d2a59208324140859f7a8761ea7273b6792927&o="
+        },
+        {
+            "small": "https://q-xx.bstatic.com/xdata/images/xphoto/300x320/157736592.jpg?k=ce1931095863b62945809307684f91bbad0928557518394151fb42f2ee0e0633&o=",
+            "hereProductPageDesktop": "https://r-xx.bstatic.com/xdata/images/xphoto/1200x400/157736592.jpg?k=ce1931095863b62945809307684f91bbad0928557518394151fb42f2ee0e0633&o=",
+            "gallery": "https://q-xx.bstatic.com/xdata/images/xphoto/max1200/157736592.jpg?k=ce1931095863b62945809307684f91bbad0928557518394151fb42f2ee0e0633&o=",
+            "__typename": "AttractionsPhoto",
+            "hereProductPageMobile": "https://r-xx.bstatic.com/xdata/images/xphoto/800x800/157736592.jpg?k=ce1931095863b62945809307684f91bbad0928557518394151fb42f2ee0e0633&o="
+        }
+    ],
+    "taxonomy": {
+        "type": {
+            "label": "Tours",
+            "__typename": "Content",
+            "slug": "tours"
+        },
+        "tags": null,
+        "__typename": "Taxonomy",
+        "categories": [
+            {
+                "label": "Cultural tour",
+                "__typename": "Content",
+                "slug": "cultural-tour"
+            }
+        ]
+    },
+    "covid": [
+        "Visitors must wear face masks in public areas",
+        "Staff must wear face masks in public areas",
+        "Hand sanitiser available for visitors and staff",
+        "Physical distancing measures enforced at all times",
+        "High traffic areas sanitised regularly",
+        "Equipment sanitised between uses\t",
+        "Vehicles sanitised between uses",
+        "Regular temperature checks required for staff",
+        "Staff required to wash hands regularly"
+    ],
+    "offers": [
+        {
+            "typicalDuration": null,
+            "label": "Standard Tour",
+            "items": [
+                {
+                    "id": "OIsWILGEFBIK",
+                    "label": "Child",
+                    "tieredPricing": false,
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "label": "(age 3-11)",
+                        "numPeople": null,
+                        "minAge": 3,
+                        "numChildren": null,
+                        "maxAge": 11,
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null
+                    },
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "type": "children"
+                },
+                {
+                    "id": "OIXIaVFe8px7",
+                    "tieredPricing": false,
+                    "label": "Adult",
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "numChildren": null,
+                        "maxAge": 65,
+                        "label": "(age 12-65)",
+                        "numPeople": null,
+                        "minAge": 12,
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "type": "age"
+                    },
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "type": "adult"
+                },
+                {
+                    "type": "senior",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "id": "OIGDnwNPQehv",
+                    "label": "Senior",
+                    "tieredPricing": false,
+                    "constraint": {
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "numChildren": null,
+                        "maxAge": 99,
+                        "label": "(age 66-99)",
+                        "minAge": 66,
+                        "numPeople": null
+                    },
+                    "travelerCountRequired": null
+                },
+                {
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "infant",
+                    "constraint": {
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "minAge": null,
+                        "numPeople": null,
+                        "label": "(age 0-2)",
+                        "numChildren": null,
+                        "maxAge": 2
+                    },
+                    "travelerCountRequired": null,
+                    "id": "OIXgr81BuLfp",
+                    "label": "Infant",
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "duration": null
+                }
+            ],
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "whatsIncluded": null,
+            "benefits": {
+                "freeAudioGuide": null,
+                "inStoreDiscount": null,
+                "__typename": "Benefits",
+                "freeTransportation": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "priorityLane": null
+            },
+            "languageOptions": [
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Mandarin - Audio guide",
+                    "language": "cmn"
+                },
+                {
+                    "label": "Italian - Audio guide",
+                    "language": "it",
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "ru",
+                    "label": "Russian - Audio guide"
+                },
+                {
+                    "language": "hi",
+                    "label": "Hindi - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "de",
+                    "label": "German - Audio guide"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "French - Audio guide",
+                    "language": "fr"
+                },
+                {
+                    "label": "Japanese - Audio guide",
+                    "language": "ja",
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "language": "pt",
+                    "label": "Portuguese - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "es",
+                    "label": "Spanish - Audio guide"
+                },
+                {
+                    "label": "English - Tour guide",
+                    "language": "en",
+                    "type": "guide",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "label": "Korean - Audio guide",
+                    "language": "ko",
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption"
+                }
+            ],
+            "locationInstructions": null,
+            "availabilityType": "date_time",
+            "id": "OF6e3wz7oYTX",
+            "__typename": "Offer",
+            "notIncluded": null,
+            "description": "30-minute tour of Battery Park.",
+            "reservationRestrictions": {
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1,
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true
+            }
+        },
+        {
+            "label": "Fully Escorted plus 911 ground",
+            "typicalDuration": null,
+            "items": [
+                {
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "label": "(age 12-65)",
+                        "numPeople": null,
+                        "minAge": 12,
+                        "maxAge": 65,
+                        "numChildren": null,
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null
+                    },
+                    "id": "OIXiw2j5MrFl",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "type": "adult",
+                    "minPerReservation": null,
+                    "maxPerReservation": null
+                },
+                {
+                    "type": "senior",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "label": "Senior",
+                    "tieredPricing": false,
+                    "id": "OI1fvS4v4bUA",
+                    "constraint": {
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "label": "(age 66-99)",
+                        "minAge": 66,
+                        "numPeople": null,
+                        "maxAge": 99,
+                        "numChildren": null
+                    },
+                    "travelerCountRequired": null
+                },
+                {
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "children",
+                    "constraint": {
+                        "__typename": "Constraint",
+                        "minAge": 3,
+                        "numPeople": null,
+                        "label": "(age 3-11)",
+                        "numChildren": null,
+                        "maxAge": 11,
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null
+                    },
+                    "travelerCountRequired": null,
+                    "tieredPricing": false,
+                    "label": "Child",
+                    "id": "OIEE2YpESq7j",
+                    "__typename": "OfferItem",
+                    "duration": null
+                },
+                {
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "infant",
+                    "constraint": {
+                        "numPeople": null,
+                        "minAge": null,
+                        "label": "(age 0-2)",
+                        "maxAge": 2,
+                        "numChildren": null,
+                        "__typename": "Constraint",
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "numAdults": null
+                    },
+                    "travelerCountRequired": null,
+                    "id": "OIORGLseaBVP",
+                    "tieredPricing": false,
+                    "label": "Infant",
+                    "__typename": "OfferItem",
+                    "duration": null
+                }
+            ],
+            "typicalFrequency": null,
+            "additionalInfo": null,
+            "whatsIncluded": null,
+            "benefits": {
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeAudioGuide": null,
+                "priorityLane": null,
+                "skipTheLine": null,
+                "freeDrink": null
+            },
+            "languageOptions": [
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "German - Audio guide",
+                    "language": "de"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Spanish - Audio guide",
+                    "language": "es"
+                },
+                {
+                    "label": "Korean - Audio guide",
+                    "language": "ko",
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "language": "pt",
+                    "label": "Portuguese - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "language": "en",
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Hindi - Audio guide",
+                    "language": "hi"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Russian - Audio guide",
+                    "language": "ru"
+                },
+                {
+                    "language": "it",
+                    "label": "Italian - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "language": "ja",
+                    "label": "Japanese - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "language": "fr",
+                    "label": "French - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Mandarin - Audio guide",
+                    "language": "cmn"
+                }
+            ],
+            "locationInstructions": null,
+            "availabilityType": "date_time",
+            "id": "OFUhaNxPL7A8",
+            "__typename": "Offer",
+            "notIncluded": null,
+            "description": "Guided tour. Pedestal access and 9/11 Ground Zero included.",
+            "reservationRestrictions": {
+                "minOfferItemsPerReservation": 1,
+                "__typename": "ReservationRestrictions",
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true
+            }
+        },
+        {
+            "availabilityType": "date_time",
+            "id": "OFC8mWFXe2p6",
+            "notIncluded": null,
+            "__typename": "Offer",
+            "description": "4.5-hour fully-guided tour.",
+            "reservationRestrictions": {
+                "maxOfferItemsPerReservation": 15,
+                "adultRequiredForReservation": true,
+                "__typename": "ReservationRestrictions",
+                "minOfferItemsPerReservation": 1
+            },
+            "label": "Fully Guided Tour",
+            "typicalDuration": null,
+            "items": [
+                {
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "constraint": {
+                        "numAdults": null,
+                        "type": "age",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "__typename": "Constraint",
+                        "numChildren": null,
+                        "maxAge": 11,
+                        "numPeople": null,
+                        "minAge": 3,
+                        "label": "(age 3-11)"
+                    },
+                    "travelerCountRequired": null,
+                    "id": "OIwr1jIf3Ln7",
+                    "label": "Child",
+                    "tieredPricing": false,
+                    "type": "children",
+                    "minPerReservation": null,
+                    "maxPerReservation": null
+                },
+                {
+                    "type": "senior",
+                    "maxPerReservation": null,
+                    "minPerReservation": null,
+                    "duration": null,
+                    "__typename": "OfferItem",
+                    "tieredPricing": false,
+                    "label": "Senior",
+                    "id": "OIm1R4kMJJuH",
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "maxAge": 99,
+                        "numChildren": null,
+                        "minAge": 66,
+                        "numPeople": null,
+                        "label": "(age 66-99)",
+                        "__typename": "Constraint",
+                        "maxGroupSize": null,
+                        "minGroupSize": null,
+                        "numAdults": null,
+                        "type": "age"
+                    }
+                },
+                {
+                    "type": "infant",
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "__typename": "OfferItem",
+                    "duration": null,
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "type": "age",
+                        "numAdults": null,
+                        "minAge": null,
+                        "numPeople": null,
+                        "label": "(age 0-2)",
+                        "maxAge": 2,
+                        "numChildren": null,
+                        "__typename": "Constraint"
+                    },
+                    "id": "OIsSeksqi1vF",
+                    "tieredPricing": false,
+                    "label": "Infant"
+                },
+                {
+                    "minPerReservation": null,
+                    "maxPerReservation": null,
+                    "type": "adult",
+                    "travelerCountRequired": null,
+                    "constraint": {
+                        "type": "age",
+                        "numAdults": null,
+                        "minGroupSize": null,
+                        "maxGroupSize": null,
+                        "__typename": "Constraint",
+                        "label": "(age 12-65)",
+                        "minAge": 12,
+                        "numPeople": null,
+                        "maxAge": 65,
+                        "numChildren": null
+                    },
+                    "id": "OIA8dw1cnwYW",
+                    "label": "Adult",
+                    "tieredPricing": false,
+                    "__typename": "OfferItem",
+                    "duration": null
+                }
+            ],
+            "typicalFrequency": null,
+            "whatsIncluded": null,
+            "additionalInfo": null,
+            "languageOptions": [
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Italian - Audio guide",
+                    "language": "it"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Japanese - Audio guide",
+                    "language": "ja"
+                },
+                {
+                    "language": "de",
+                    "label": "German - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "ko",
+                    "label": "Korean - Audio guide"
+                },
+                {
+                    "language": "fr",
+                    "label": "French - Audio guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio"
+                },
+                {
+                    "label": "Mandarin - Audio guide",
+                    "language": "cmn",
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption"
+                },
+                {
+                    "language": "en",
+                    "label": "English - Tour guide",
+                    "__typename": "OfferLanguageOption",
+                    "type": "guide"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "es",
+                    "label": "Spanish - Audio guide"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Hindi - Audio guide",
+                    "language": "hi"
+                },
+                {
+                    "type": "audio",
+                    "__typename": "OfferLanguageOption",
+                    "label": "Portuguese - Audio guide",
+                    "language": "pt"
+                },
+                {
+                    "__typename": "OfferLanguageOption",
+                    "type": "audio",
+                    "language": "ru",
+                    "label": "Russian - Audio guide"
+                }
+            ],
+            "benefits": {
+                "priorityLane": null,
+                "skipTheLine": null,
+                "freeDrink": null,
+                "freeTransportation": null,
+                "__typename": "Benefits",
+                "inStoreDiscount": null,
+                "freeAudioGuide": null
+            },
+            "locationInstructions": null
+        }
+    ],
+    "supportedFeatures": {
+        "liveAvailabilityCheckPartiallySupported": null,
+        "alternativeTimeSlotsSupported": false,
+        "__typename": "AttractionsProductSupportedFeatures",
+        "liveAvailabilityCheckSupported": true,
+        "alternativeTimeSlotsPartiallySupported": true
+    },
+    "itinerary": {
+        "__typename": "AttractionsProductItinerary",
+        "type": "standard"
+    },
+    "poweredBy": "Powered by Viator",
+    "description": "This tour offers the perfect mix of land and water at New York City’s iconic attractions.\r\n\r\nOn the first part of the excursion, you’ll embark on a 30-minute guided walking tour of Battery Park – a public park named after the 17th-century artillery batteries built to protect the settlement behind. Afterwards, you’ll hop on board the Statue of Liberty and Ellis Island ferry via reserve line access.\r\n\r\nThe ferry ride will take you to Liberty Island, where you can explore the Statue of Liberty. You’ll also have a chance to visit Ellis Island and see plenty of attractions along the way, including the SeaGlass Carousel, the Bosque Fountain and more.",
+    "isBookable": true,
+    "onSiteRequirements": {
+        "clothingCoveringShouldersKneesRequired": null,
+        "height": null,
+        "proofOfIdentityRequired": null,
+        "ticketCollection": null,
+        "age": null,
+        "adultSupervisionRequired": null,
+        "__typename": "OnSiteRequirements",
+        "noAlcoholDuringRamadan": null,
+        "earlyArrival": {
+            "label": "Please arrive at least 15 minutes before the activity starts.",
+            "__typename": "Minutes",
+            "minutes": 15
+        },
+        "onlyOperatesInGoodWeather": null,
+        "writtenConsentForChildren": null,
+        "voucherPrintingRequired": null,
+        "unsuitable": null,
+        "drivingLicenseRequired": null,
+        "comfortableFootwearRecommended": null,
+        "noAlcoholDuringDryDays": null,
+        "weight": null
+    },
+    "contextUfiDetails": null,
+    "accessibility": [
+        "Accessible to pushchairs/prams",
+        "Service animals welcome",
+        "Public transport links nearby",
+        "Infants must sit on an adult's lap"
+    ],
+    "additionalInfo": "Please note that collapsible wheelchairs with removable wheels can be accommodated, provided that the wheelchair user is accompanied by someone who can assist.\r\n\r\nPlease wear weather-appropriate clothing.\r\n\r\nPlease bring your ticket with you to the attraction.\r\n\r\nBe aware that operators may cancel for unforeseen reasons.\r\n\r\nYou need to be 18 years or older to book or be accompanied by an adult. ",
+    "reviewsStats": {
+        "allReviewsCount": 2,
+        "__typename": "AttractionsProductReviewStats",
+        "percentage": "50%",
+        "isGoodScore": 0,
+        "providerNumericStats": [
+            {
+                "average": 3.3,
+                "providerName": "viator",
+                "total": 4,
+                "__typename": "AttractionsProviderNumericReviewStats"
+            }
+        ]
+    },
+    "url": "https://www.booking.com/attractions/en/pr0luwosmrkk-battery-park-statue-of-liberty-and-ellis-island.html",
+    "ReviewDetails": [
+        {
+            "language": "en-us",
+            "rating": false,
+            "numericRating": 1,
+            "user": null,
+            "providerName": null,
+            "epochMs": 1672407065000,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "isApproved": true,
+            "id": "masked_363eb3cb-4589-469d-9e15-587bb200a82a",
+            "content": "I paid 40 dollars extra for a guided tour and the tour guide left immediately after getting to the Statue of Liberty, he said he was running late to another tour which means he was never going to give a 4 and a half hour tour, because we started the tour at 11:30 and he had another at 1:45, the tickets say that the tour is 4:30 hours. I could have just bought general admission ferries which is exactly what I got for 24 dollars instead of 64.",
+            "date": "12/30/2022, 05:31:05"
+        },
+        {
+            "content": "Our guide Lee Ann was magnificent. She made the tour come alive. Highly recommended way to learn the history. ",
+            "id": "masked_f99b0e1d-93e8-4b52-91e2-f88ed630955f",
+            "isApproved": true,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "epochMs": 1672218770000,
+            "providerName": "viator",
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_99afbc82-d37d-476e-a1ac-a55c3a7e1286"
+            },
+            "numericRating": 5,
+            "rating": null,
+            "language": "en-gb",
+            "date": "12/28/2022, 01:12:50"
+        },
+        {
+            "epochMs": 1663642210000,
+            "providerName": null,
+            "user": null,
+            "numericRating": null,
+            "rating": true,
+            "language": "en-us",
+            "content": "Very, very, very informative guide. She had shortcuts and moved us through very well. I sure wish I could remember her name right now. She made us think we understood the experience the ones coming to Ellis Island shared. She made us appreciate the Statue more and all it took to get it here.",
+            "id": "masked_d7423ad5-aa9b-4039-b609-e4d6938eb1eb",
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "date": "09/19/2022, 19:50:10"
+        },
+        {
+            "id": "masked_9711db1d-c398-4da9-8cdb-e89bf1ac0d89",
+            "content": "All it was a lie, they told me that is small boat 🚢 with maximum 50 people inside so it will be nice for our birthday celebration. It was just the simple ferry ride that everyone can go and buy the tickets in Manhattan to boarding place and is cheaper.",
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "isApproved": true,
+            "providerName": "viator",
+            "epochMs": 1635615867000,
+            "language": "en-gb",
+            "numericRating": 1,
+            "rating": null,
+            "user": {
+                "avatar": null,
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "name": "masked_9078e039-8929-4797-b5c5-f7351dde7d76"
+            },
+            "date": "10/30/2021, 10:44:27"
+        },
+        {
+            "isApproved": true,
+            "votes": null,
+            "__typename": "AttractionsReview",
+            "id": "masked_0a608ade-3883-4188-a085-23b66d97e421",
+            "content": "Disappointed !!\nThe guide didn't arrive to the meeting place\nWe didn't have a battery park tour we were rushed into the ferry and on the liberty park we had only half an hour so we couldn't visit the Museum and in Ellis island the guide just made an introduction without tour of the place at all.",
+            "user": {
+                "name": "masked_5d0133ef-08d4-4d95-9c42-40573f838c68",
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null
+            },
+            "language": "en-gb",
+            "numericRating": 3,
+            "rating": null,
+            "providerName": "viator",
+            "epochMs": 1626792871000,
+            "date": "07/20/2021, 07:54:31"
+        },
+        {
+            "isApproved": true,
+            "__typename": "AttractionsReview",
+            "votes": null,
+            "content": "superbe journée avec notre guide trés sympathique et bienveillante  et adorable ;\nelle parlait lentement pour que je comprenne l'histoire de la statue de liberté et de elis island ;\nvraiment une belle rencontre ainsi qu'une belle visite en petit groupe .",
+            "id": "masked_6a8d6336-0f60-4fff-9081-583bbbe9ce72",
+            "user": {
+                "__typename": "AttractionsReviewUser",
+                "cc1": "",
+                "avatar": null,
+                "name": "masked_f53f06fb-e4c0-4e4f-9919-b169fc5ba012"
+            },
+            "numericRating": 4,
+            "rating": null,
+            "language": "fr",
+            "epochMs": 1652864098000,
+            "providerName": "viator",
+            "date": "05/18/2022, 01:54:58"
+        }
+    ]
+}

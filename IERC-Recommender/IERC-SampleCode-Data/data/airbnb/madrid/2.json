@@ -1,0 +1,52 @@
+{
+    "rating": 5.0,
+    "numberOfReviews": 6,
+    "location": "Madrid, Spain",
+    "numofPics": 7,
+    "isVideo": false,
+    "price": "€ 40",
+    "description": "Madrid is a wonderful city. In addition to the famous attractions you want to visit, I can show you some hidden corners in the city. I think the best way to show a city's style is the streets where ordinary people live. From the hidden small corners, you can experience the fetters of life that touch people's hearts. Of course, the choice is yours, and we can fully communicate the photo itinerary before the experience begins. I will definitely make your best memories in this beautiful city.\nOther things to note\nWe can discuss the specific meeting place before starting. If you have any questions, please contact me. I will reply in a second.",
+    "included": [
+        "Equipment"
+    ],
+    "hostdescription": "Soy fotógrafa y estoy haciendo una carrera de estudios internacionales en Madrid y he estado haciendo sección de fotografía desde hace seis años. Hablo chino, español e inglés. Soy profesional en varios estilos de fotografía, celebridades de internet, nicho, parejas ... Me encanta la fotografía, y también he aprendido mucho sobre fotografía, participé en concursos de fotografía, etc.",
+    "locationDescription": "Puerta del Sol, Civic Square, Royal Palace of Madrid, Temple of Debod, Retiro Park, Crystal Palace, major museums ..... Poetry Block, Malasaña Block, Flea Market ...These places are served as important view for travelers. If you would like to have a plan for other photo session more professional we can discuss the place.",
+    "reviews": [
+        {
+            "userUrl": "masked_74a4148e-8e1f-4547-9418-e407d9a13474",
+            "userName": "masked_178f8d49-8d24-424f-bcd7-2fc9e1c91890",
+            "date": "March 2021",
+            "text": "Leticia Very nice, professional, cheerful, makes you feel very close. Highly recommended! She is someone who will make you feel special😊."
+        },
+        {
+            "userUrl": "masked_4a52b84c-f972-4671-a255-cf84d0647bfd",
+            "userName": "masked_fa77f92d-f316-4969-8eee-b6e108517d3f",
+            "date": "August 2020",
+            "text": "The best photographer I ever have. Young, creative and passionate about what she is doing. She is awesome in taking pics. I sincerely recommend her to all of you. Trust me, in her photos you will find a new self, beautiful and confident."
+        },
+        {
+            "userUrl": "masked_3923e5b2-fc28-48ef-ab6b-d428c193e7dd",
+            "userName": "masked_3c8de229-3a77-4f29-9d67-bd1121d675d2",
+            "date": "July 2020",
+            "text": "I had an amazing experience with Leticia, she is a really lovely girl. She has great patience, nice photographing skills and she can be your tour guide as well. I’ll highly recommend you to walk around Madrid and take photos with her."
+        },
+        {
+            "userUrl": "masked_7d088f5b-967f-468a-bb45-05cb8e2fec99",
+            "userName": "masked_6c90f901-7364-434f-9baf-d198985a1b6d",
+            "date": "March 2020",
+            "text": "The result of the spectacular photos is a beautiful experience. We went to the most iconic places and it was a nice afternoon. I highly recommend it to take home a nice memory of Madrid."
+        },
+        {
+            "userUrl": "masked_9bdf81a5-3fa3-4e29-8212-46c44364cd71",
+            "userName": "masked_bb7dfbb9-b3dc-492b-b081-43aa33356c6f",
+            "date": "March 2020",
+            "text": "Leticia beats you from the moment you arrive. It's a light and very sweet person. As we walked, he was telling the story of the neighborhood where we went. Its education and integrity, its main attributes. I only wish this girl the best. Thank you Leticia. GADL"
+        },
+        {
+            "userUrl": "masked_2cca0c78-4ffd-48c4-9d2b-49672625250a",
+            "userName": "masked_9c2df929-6b94-4f11-bb7f-48bb205b19ba",
+            "date": "March 2021",
+            "text": "Leticia's experience was more than great! Highly recommended!"
+        }
+    ]
+}
