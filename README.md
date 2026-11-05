@@ -72,7 +72,7 @@ Open the relevant `.ipynb` file in Jupyter. Some notebooks reference additional 
 
 ## Inputs and available results
 
-The source data were collected from Airbnb, TripAdvisor and Booking.com for seven destinations. The complete scraped datasets are not redistributed. The supplied recommender sample demonstrates portions of the original data structure; see [`IERCReadMe.txt`](IERC-Recommender/IERCReadMe.txt) for collection and preprocessing details.
+The source data were collected from Airbnb, TripAdvisor and Booking.com for seven destinations. The complete scraped datasets are not redistributed. The supplied recommender sample demonstrates portions of the original data structure; see [`IERCReadMe.txt`](IERC-Recommender/README.md) for collection and preprocessing details.
 
 CEP generation uses **experience title and description** as cultural-inference inputs. `CEP-Reproducibility/data/examples/sample_inputs.jsonl` contains 15 **synthetic** examples (five per platform) for demonstrating the input interface; these are not the empirical items used to report study results. The CEP evaluation files contain de-identified numerical judgments and derived technical outcomes, not the full source descriptions.
 
