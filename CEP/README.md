@@ -1,6 +1,6 @@
 # Cultural Experience Profile (CEP)
 
-This folder contains the **item-side CEP cultural enrichment** implementation and reproducibility material for the submitted ACM TORS manuscript *Less Data, More Context: A Multimodal Recommender Framework for Sparse Touristic Experiences with LLM-Assisted Cultural Enrichment*. It is separate from the original IERC/IERN recommender. No recommender training or evaluation code has been modified for this CEP release.
+This folder contains the **item-side CEP cultural enrichment** implementation and reproducibility material for the submitted ACM TORS manuscript *Less Data, More Context: A Multimodal Recommender Framework for Sparse Touristic Experiences with LLM-Assisted Cultural Enrichment*. The CEP pipeline enriches touristic-experience records with structured cultural information and supporting textual evidence. It operates on item descriptions without changing the recommender's existing training or evaluation procedures.
 
 ## Contents
 
