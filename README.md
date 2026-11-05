@@ -10,7 +10,7 @@ This repository contains the code, sample inputs and evaluation artifacts for to
 .
 ├── README.md
 ├── IERC-Recommender/
-│   ├── IERCReadMe.txt
+│   ├── README.md
 │   └── IERC-SampleCode-Data/
 │       ├── AirBnbCode/
 │       ├── BookingDotCom/
