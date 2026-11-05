@@ -4,6 +4,16 @@
 
 This repository contains the code, sample inputs and evaluation artifacts for touristic-experience recommendation and Cultural Experience Profile (CEP) enrichment. The instructions below cover how to inspect the supplied data, run the available examples and reproduce the released evaluation calculations.
 
+## Citation
+
+**Submitted manuscript**
+
+Kamal, M., Noorighomesheh, F., and Chatzigiannakis, I. (2026). *Less Data, More Context: A Multimodal Recommender Framework for Sparse Touristic Experiences with LLM-Assisted Cultural Enrichment*. Manuscript submitted to *ACM Transactions on Recommender Systems (ACM TORS)*, submission ID TORS-2026-0158.
+
+**Related published work (IERN)**
+
+Kamal, M., and Chatzigiannakis, I. (2025). *A deep-neural associative touristic experience recommendation approach with real-time context injection*. *Discover Computing*, 28(1). https://doi.org/10.1007/s10791-025-09792-y
+
 ## Repository layout
 
 ```text
