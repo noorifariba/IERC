@@ -17,7 +17,7 @@ This repository contains the code, sample inputs and evaluation artifacts for to
 │       ├── TripAdvisor/
 │       ├── utilities/
 │       └── data/
-└── CEP-Reproducibility/
+└── CEP/
     ├── README.md
     ├── requirements.txt
     ├── src/
@@ -32,10 +32,10 @@ This repository contains the code, sample inputs and evaluation artifacts for to
 
 ## Quick start: reproduce the CEP evaluation results
 
-These commands require **Python 3.10 or later** and use only the Python standard library. Run them from the `CEP-Reproducibility` directory:
+These commands require **Python 3.10 or later** and use only the Python standard library. Run them from the `CEP` directory:
 
 ```bash
-cd CEP-Reproducibility
+cd CEP
 python scripts/reproduce_scaleup_summary.py
 python scripts/reproduce_semantic_evaluation.py
 ```
@@ -51,7 +51,7 @@ python scripts/verify_sample_records.py
 python -m pytest -q -p no:cacheprovider tests
 ```
 
-For model-backed CEP generation on sample inputs, follow [`CEP-Reproducibility/README.md`](CEP-Reproducibility/README.md). This requires a compatible local Gemma 3 / llama.cpp setup and is optional for reproducing the aggregate evaluation calculations.
+For model-backed CEP generation on sample inputs, follow [`CEP/README.md`](CEP/README.md). This requires a compatible local Gemma 3 / llama.cpp setup and is optional for reproducing the aggregate evaluation calculations.
 
 ## Running the recommendation notebooks
 
@@ -74,10 +74,10 @@ Open the relevant `.ipynb` file in Jupyter. Some notebooks reference additional 
 
 The source data were collected from Airbnb, TripAdvisor and Booking.com for seven destinations. The complete scraped datasets are not redistributed. The supplied recommender sample demonstrates portions of the original data structure; see [`README.md`](IERC-Recommender/README.md) for collection and preprocessing details.
 
-CEP generation uses **experience title and description** as cultural-inference inputs. `CEP-Reproducibility/data/examples/sample_inputs.jsonl` contains 15 **synthetic** examples (five per platform) for demonstrating the input interface; these are not the empirical items used to report study results. The CEP evaluation files contain de-identified numerical judgments and derived technical outcomes, not the full source descriptions.
+CEP generation uses **experience title and description** as cultural-inference inputs. `CEP/data/examples/sample_inputs.jsonl` contains 15 **synthetic** examples (five per platform) for demonstrating the input interface; these are not the empirical items used to report study results. The CEP evaluation files contain de-identified numerical judgments and derived technical outcomes, not the full source descriptions.
 
 The published CEP summary statistics can be recomputed from these derived artifacts. Replaying every original model generation or independently rechecking the evidence against original listings requires restricted data and the original model runtime; the supplied evaluation files do not replace that source-level audit.
 
 ## Further instructions
 
-See [`CEP-Reproducibility/README.md`](CEP-Reproducibility/README.md) for the CEP runtime configuration, input format, example generation command and evaluation data descriptions. See [`IERC-Recommender/README.md`](IERC-Recommender/README.md) for the touristic-experience data preparation notes.
+See [`CEP/README.md`](CEP/README.md) for the CEP runtime configuration, input format, example generation command and evaluation data descriptions. See [`IERC-Recommender/README.md`](IERC-Recommender/README.md) for the touristic-experience data preparation notes.
