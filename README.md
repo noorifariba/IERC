@@ -1,6 +1,6 @@
 # Less Data, More Context
 
-**Reproducibility materials for:** *Less Data, More Context: A Multimodal Recommender Framework for Sparse Touristic Experiences with LLM-Assisted Cultural Enrichment* (ACM TORS, TORS-2026-0158).
+**Reproducibility materials for:** *Less Data, More Context: A Multimodal Recommender Framework for Sparse Touristic Experiences with LLM-Assisted Cultural Enrichment*.
 
 This repository contains the code, sample inputs and evaluation artifacts for touristic-experience recommendation and Cultural Experience Profile (CEP) enrichment. The instructions below cover how to inspect the supplied data, run the available examples and reproduce the released evaluation calculations.
 
@@ -72,7 +72,7 @@ Open the relevant `.ipynb` file in Jupyter. Some notebooks reference additional 
 
 ## Inputs and available results
 
-The source data were collected from Airbnb, TripAdvisor and Booking.com for seven destinations. The complete scraped datasets are not redistributed. The supplied recommender sample demonstrates portions of the original data structure; see [`IERCReadMe.txt`](IERC-Recommender/README.md) for collection and preprocessing details.
+The source data were collected from Airbnb, TripAdvisor and Booking.com for seven destinations. The complete scraped datasets are not redistributed. The supplied recommender sample demonstrates portions of the original data structure; see [`README.md`](IERC-Recommender/README.md) for collection and preprocessing details.
 
 CEP generation uses **experience title and description** as cultural-inference inputs. `CEP-Reproducibility/data/examples/sample_inputs.jsonl` contains 15 **synthetic** examples (five per platform) for demonstrating the input interface; these are not the empirical items used to report study results. The CEP evaluation files contain de-identified numerical judgments and derived technical outcomes, not the full source descriptions.
 
@@ -80,4 +80,4 @@ The published CEP summary statistics can be recomputed from these derived artifa
 
 ## Further instructions
 
-See [`CEP-Reproducibility/README.md`](CEP-Reproducibility/README.md) for the CEP runtime configuration, input format, example generation command and evaluation data descriptions. See [`IERC-Recommender/IERCReadMe.txt`](IERC-Recommender/IERCReadMe.txt) for the touristic-experience data preparation notes.
+See [`CEP-Reproducibility/README.md`](CEP-Reproducibility/README.md) for the CEP runtime configuration, input format, example generation command and evaluation data descriptions. See [`IERC-Recommender/README.md`](IERC-Recommender/README.md) for the touristic-experience data preparation notes.
